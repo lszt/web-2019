@@ -1,0 +1,7 @@
+{{ define "main" }}
+
+{{ partial "intro" (dict "title" .Title "description" .Description) }}
+
+{{ partial "categoryblock" (dict "heading" "Für Piloten" "entries" .Pages ) }}
+
+{{ end }}
