@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "/"
 languageCode = "de-ch"
 title = "Motorfluggruppe Thurgau"
 assetDir = "assets"
