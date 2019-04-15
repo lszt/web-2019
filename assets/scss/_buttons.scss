@@ -1,0 +1,24 @@
+.btn {
+  display: inline-block;
+  text-transform: uppercase;
+  color: #30424d;
+  line-height: 30px;
+  height: 30px;
+  padding: 0 10px;
+  text-decoration: none;
+  font-weight: 400;
+}
+
+.btn.outline {
+  background: #fff;
+  border: 1px solid #30424d;
+  line-height: 28px;
+  height: 28px;
+}
+
+.btn.cta {
+  background: #3faeee;
+  color: #fff;
+  line-height: 30px;
+  height: 30px;
+}

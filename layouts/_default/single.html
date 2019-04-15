@@ -1,0 +1,7 @@
+{{ define "main" }}
+
+{{ partial "intro" (dict "title" .Title "description" .Description) }}
+
+{{ partial "main" .Params.main }}
+
+{{ end }}

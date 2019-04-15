@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "de-ch"
+title = "Motorfluggruppe Thurgau"
+assetDir = "assets"

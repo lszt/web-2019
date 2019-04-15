@@ -1,0 +1,9 @@
+{{ define "main" }}
+
+{{ partial "intro" (dict "title" .Title "description" .Description) }}
+
+{{ partial "airport-info" }}
+
+{{ partial "news" . }}
+
+{{ end }}

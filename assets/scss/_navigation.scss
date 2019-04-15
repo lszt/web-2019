@@ -1,0 +1,41 @@
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  height: 65px;
+  background: rgba(52,66,72, 0.85);
+  padding: 0 2rem;
+}
+
+.navigation ul {
+  display: flex;
+}
+
+.navigation ul li {
+  margin: 0 12px;
+}
+
+.navigation ul li:before {
+  content: "|";
+  color: #abb7bd;
+  margin-left: -12px;
+  margin-right: 12px;
+}
+
+.navigation ul li:first-child {
+  margin-left:0;
+}
+
+.navigation ul li:first-child:before {
+  content: none;
+}
+
+.navigation a {
+  color: #abb7bd;
+  line-height: 65px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.navigation a:hover {
+  color: #fff;
+}
