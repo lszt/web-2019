@@ -1,0 +1,36 @@
+{{ range . }}
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-12">
+        <h2>{{ .Title }}</h2>
+      </div>
+    </div>
+    <div class="row">
+      {{ range .Pages }}
+        <div class="col-xs-12 col-sm-6 content-block">
+          <div class="content-block__image">
+            <img src="/img/news/test.jpg" />
+          </div>
+          <div class="content-block__title">
+            <h3>{{ .Title }}</h3>
+          </div>
+          <div class="content-block__text">
+            <p>{{ .Description }}</p>
+          </div>
+          <div class="content-block__links">
+            {{ if isset . "details" }}
+              <a class="btn outline" href="{{ .details }}">
+                Details
+              </a>
+            {{ end }}
+            {{ if isset . "subscription" }}
+              <a class="btn cta" href="{{ .subscription }}">
+                Anmelden
+              </a>
+            {{ end }}
+          </div>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+{{ end }}
