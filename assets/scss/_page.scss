@@ -8,6 +8,12 @@ body {
   background-size: cover;
 }
 
+.logo {
+  position: absolute;
+  top: 50px;
+  right: 50px;
+}
+
 .page-wrapper {
   width: 100%;
   max-width: 1150px;
@@ -45,6 +51,7 @@ body {
 }
 
 .content-block {
+  margin-bottom: 35px;
   &__image {
     img {
       width: 100%;
@@ -57,29 +64,4 @@ body {
   &__links {
     margin-top: 15px;
   }
-}
-
-.footer {
-  width: 100%;
-  max-width: 1150px;
-  margin: 30px auto;
-}
-
-.footer address {
-  text-transform: uppercase;
-  text-align: center;
-  color: #abb7bd;
-}
-
-.footer address a {
-  color: #abb7bd;
-  text-decoration: none;
-}
-
-.footer address a:hover {
-  color: #fff;
-}
-
-.footer .pipe {
-  margin: 0 12px;
 }

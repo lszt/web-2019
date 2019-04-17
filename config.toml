@@ -2,3 +2,40 @@ baseURL = "/"
 languageCode = "de-ch"
 title = "Motorfluggruppe Thurgau"
 assetDir = "assets"
+
+[menu]
+    [[menu.main]]
+    identifier = "flugplatz"
+    name       = "Flugplatz"
+    url        = "/flugplatz/"
+    weight     = 1
+
+    [[menu.main]]
+    identifier = "flugschule"
+    name       = "Flugschule"
+    url        = "/flugschule/"
+    weight     = 2
+
+    [[menu.main]]
+    identifier = "club"
+    name       = "Club"
+    url        = "/club/"
+    weight     = 3
+
+    [[menu.main]]
+    identifier = "rundflug"
+    name       = "Rundflug"
+    url        = "/rundflug/"
+    weight     = 4
+
+    [[menu.main]]
+    identifier = "maintenance"
+    name       = "Maintenance"
+    url        = "/maintenance/"
+    weight     = 5
+
+    [[menu.main]]
+    identifier = "kontakt"
+    name       = "Kontakt"
+    url        = "/kontakt/"
+    weight     = 6

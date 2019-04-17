@@ -1,0 +1,15 @@
+.news-entry {
+  margin-bottom: 35px;
+  &__image {
+    img {
+      width: 100%;
+      height: auto;
+    }
+  }
+  &__title {
+    margin: 15px 0;
+  }
+  &__teaser {
+    margin-bottom: 15px;
+  }
+}

@@ -9,7 +9,7 @@
       {{ range .Pages }}
         <div class="col-xs-12 col-sm-6 content-block">
           <div class="content-block__image">
-            <img src="/img/news/test.jpg" />
+            <img src="{{ .Params.image }}" />
           </div>
           <div class="content-block__title">
             <h3>{{ .Title }}</h3>
@@ -19,12 +19,12 @@
           </div>
           <div class="content-block__links">
             {{ if isset . "details" }}
-              <a class="btn outline" href="{{ .details }}">
+              <a class="btn outline" href="{{ .Permalink }}">
                 Details
               </a>
             {{ end }}
-            {{ if isset . "subscription" }}
-              <a class="btn cta" href="{{ .subscription }}">
+            {{ if .Params.subscriptionUrl }}
+              <a class="btn cta" href="{{ .Params.subscriptionUrl }}">
                 Anmelden
               </a>
             {{ end }}

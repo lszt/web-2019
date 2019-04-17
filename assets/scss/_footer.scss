@@ -1,0 +1,20 @@
+.footer {
+  width: 100%;
+  max-width: 1150px;
+  margin: 30px auto;
+  address {
+    text-transform: uppercase;
+    text-align: center;
+    color: #abb7bd;
+    a {
+      color: #abb7bd;
+      text-decoration: none;
+      &:hover {
+        color: #fff;
+      }
+    }
+  }
+  .pipe {
+    margin: 0 12px;
+  }
+}

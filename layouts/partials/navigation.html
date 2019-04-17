@@ -1,11 +1,13 @@
 <nav class="navigation">
-
   <ul>
-    <li><a href="/flugplatz">Flugplatz</a></li>
-    <li><a href="/flugschule">Flugschule</a></li>
-    <li><a href="/club">Club</a></li>
-    <li><a href="/rundflug">Rundflug</a></li>
-    <li><a href="/contact">Kontakt</a></li>
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.main }}
+      <li>
+        <a href="{{ .URL }}" class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+          {{ .Name }}
+        </a>
+      </li>
+    {{ end }}
   </ul>
 
   <ul>
