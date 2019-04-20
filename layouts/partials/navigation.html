@@ -1,4 +1,11 @@
-<nav class="navigation">
+<div class="mobile-navigation">
+  <label for="show-menu" class="mobile-navigation__label">Mobile</label>
+</div>
+<input type="checkbox" id="show-menu" class="mobile-navigation__checkbox" role="button">
+<nav class="navigation" id="navigation">
+  <div class="navigation__close">
+      <label for="show-menu" class="mobile-navigation__close">X</label>
+  </div>
   <ul>
     {{ $currentPage := . }}
     {{ range .Site.Menus.main }}
@@ -14,5 +21,4 @@
     <li><a href="/mitgliederbereich">Mitgliederbereich</a></li>
     <li><a href="https://www.facebook.com/">F</a></li>
   </ul>
-
 </nav>

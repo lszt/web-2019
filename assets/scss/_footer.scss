@@ -2,19 +2,27 @@
   width: 100%;
   max-width: 1150px;
   margin: 30px auto;
-  address {
+  &__address {
     text-transform: uppercase;
     text-align: center;
     color: #abb7bd;
-    a {
-      color: #abb7bd;
-      text-decoration: none;
-      &:hover {
-        color: #fff;
-      }
+  }
+  &__text {
+    @media (max-width: 1000px) {
+      display: block;
     }
   }
-  .pipe {
+  &__pipe {
     margin: 0 12px;
+    @media (max-width: 1000px) {
+      display: none;
+    }
+  }
+  a {
+    color: #abb7bd;
+    text-decoration: none;
+    &:hover {
+      color: #fff;
+    }
   }
 }
