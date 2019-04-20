@@ -5,6 +5,15 @@ backend:
 media_folder: "static/img/uploads" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/img/uploads" # The src attribute for uploaded media will begin with /images/uploads
 collections:
+  - name: "index"
+    label: "Home"
+    folder: "content"
+    create: false
+    slug: "{{slug}}"
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Bild", name: "coverImageUrl", widget: "image", required: true}
   - name: "news" # Used in routes, e.g., /admin/collections/blog
     label: "News" # Used in the UI
     folder: "content/news" # The path to the folder where the documents are stored
@@ -14,7 +23,6 @@ collections:
       - {label: "Titel", name: "title", widget: "string"}
       - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
       - {label: "Entwurf", name: "draft", widget: "boolean", default: true, require: false }
-      - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
       - {label: "Body", name: "body", widget: "markdown"}

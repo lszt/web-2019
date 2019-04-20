@@ -2,7 +2,6 @@
 title: "Medical"
 date: 2019-04-14T12:51:24+02:00
 draft: false
-url: /flugschule/ausbildung/medical
 weight: 2
 image: /img/news/test.jpg
 description: >

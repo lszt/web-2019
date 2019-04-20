@@ -2,6 +2,7 @@ baseURL = "/"
 languageCode = "de-ch"
 title = "Motorfluggruppe Thurgau"
 assetDir = "assets"
+relativeURLs = true
 
 [menu]
     [[menu.main]]
