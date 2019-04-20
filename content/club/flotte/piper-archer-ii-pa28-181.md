@@ -1,10 +1,10 @@
 ---
-title: Voice Refresher
+title: Piper Archer II PA28-181
 date: 2017-01-04T15:04:10.000Z
 description: >-
-  Lorem ipsum
+  4-plätziges Reiseflugzeug - HB-PGM
 image: /img/news/test.jpg
-url: /club/kurse-veranstaltungen/voice-refresher
+weight: 2
 ---
 
 ## Titel 2

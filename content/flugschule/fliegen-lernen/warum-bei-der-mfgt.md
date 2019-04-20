@@ -3,7 +3,14 @@ title: "Warum bei der MFGT"
 date: 2019-04-14T12:51:24+02:00
 draft: false
 url: /flugschule/fliegen-lernen/warum-bei-der-mfgt
+weight: 1
 image: /img/news/test.jpg
 description: >
-  In den Theorieräumen der MFGT erwerben Sie das nötige Wissen in Fächern wie z.B Navigation, Flugzeugkenntnisse und Meteorologie. Der modulare Kursaufbau ermöglich jederzeit den Einstieg bei Beginn eines neuen Kurses.
+  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+  nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
+  erat, sed diam voluptua. At vero eos et accusam et justo duo dolores
+  et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est
+  Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur
+  sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
+  et dolore magna aliquyam erat, sed diam voluptua.
 ---

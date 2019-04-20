@@ -5,5 +5,6 @@ draft: false
 url: /flugschule/sphair/vergangene-kurse
 image: /img/news/test.jpg
 description: >
-  In den Theorieräumen der MFGT erwerben Sie das nötige Wissen in Fächern wie z.B Navigation, Flugzeugkenntnisse und Meteorologie. Der modulare Kursaufbau ermöglich jederzeit den Einstieg bei Beginn eines neuen Kurses.
+  Hier finden Sie Fotos und Berichte vergangener SPHAIR-Kurse
 ---
+Inhalt

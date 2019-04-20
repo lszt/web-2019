@@ -5,6 +5,7 @@ imageUrl: "/img/news/test.jpg"
 testVar: Testvar
 description: >-
   Lorem ipsum
+image: /img/news/test.jpg
 ---
 
 ## Titel 2

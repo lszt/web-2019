@@ -1,0 +1,19 @@
+{{ if .Content }}
+  <a class="btn outline" href="{{ .Permalink }}">
+    Mehr
+  </a>
+{{ end }}
+
+{{ range .Params.buttons }}
+  <a class="btn {{ if .cta }}cta{{ else }}outline{{ end }}" href="{{ .url }}">
+    {{ if .title }}
+      {{ .title }}
+    {{ else }}
+      {{ if .cta }}
+        Anmelden
+      {{ else }}
+        Mehr
+      {{ end }}
+    {{ end }}
+  </a>
+{{ end }}

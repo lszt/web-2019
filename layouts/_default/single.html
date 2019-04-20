@@ -2,8 +2,10 @@
 
 {{ partial "intro" (dict "title" .Title "description" .Description) }}
 
-{{ .Content }}
-
-{{ partial "main" .Params.main }}
+<div class="container-fluid">
+  <div class="col-xs-12">
+    {{ .Content | markdownify }}
+  </div>
+</div>
 
 {{ end }}

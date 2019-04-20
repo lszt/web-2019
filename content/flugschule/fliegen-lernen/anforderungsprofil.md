@@ -3,8 +3,18 @@ title: "Anforderungsprofil"
 date: 2019-04-14T12:51:24+02:00
 draft: false
 url: /flugschule/fliegen-lernen/anforderungsprofil
+weight: 2
 image: /img/news/test.jpg
-subscriptionUrL: https://www.google.ch/
 description: >
-  In den Theorieräumen der MFGT erwerben Sie das nötige Wissen in Fächern wie z.B Navigation, Flugzeugkenntnisse und Meteorologie. Der modulare Kursaufbau ermöglich jederzeit den Einstieg bei Beginn eines neuen Kurses.
+  |                     |                   |
+  | ------------------- | ----------------- |
+  | Mindestalter        | 15 Jahre          |
+  | Mindestflugstunden  | 45h               |
+  | Kosten              | ab 23'000 Franken |
+  | Ausbildungsdauer    | ca. 1,5 Jahre     |
+  | Gesundheit          | Medical Class 2   |
+buttons:
+  - title: Anmelden
+    url: https://www.google.ch/
+    cta: true
 ---

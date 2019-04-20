@@ -5,4 +5,5 @@ draft: false
 url: /rundflug
 layout: "default"
 weight: 1
+coverImageUrl: /img/cover/flugschule.jpg
 ---
