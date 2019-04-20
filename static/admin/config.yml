@@ -14,7 +14,7 @@ collections:
       - {label: "Titel", name: "title", widget: "string"}
       - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
       - {label: "Entwurf", name: "draft", widget: "boolean", default: true, require: false }
-      - {label: "Gewichtung", name: "weight", widget: "string", required: false}
+      - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
       - {label: "Body", name: "body", widget: "markdown"}
@@ -27,7 +27,12 @@ collections:
       - {label: "Titel", name: "title", widget: "string"}
       - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
       - {label: "Entwurf", name: "draft", widget: "boolean", default: true, require: false }
-      - {label: "Gewichtung", name: "weight", widget: "string", required: false}
+      - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Buttons", name: "buttons", widget: "list", fields: {
+          - {label: "Titel", name: "title", widget: "string", required: false}
+          - {label: "URL", name: "url", widget: "string"}
+          - {label: "CTA", name: "cta", widget: "boolean", required: false}
+        }}

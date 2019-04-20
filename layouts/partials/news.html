@@ -6,7 +6,7 @@
   </div>
   <div class="row news__entries">
     {{ range first 4 (where .Data.Pages "Type" "news") }}
-      {{ .Render "news-entry" }}
+      {{ partial "content-block" . }}
     {{ end }}
   </div>
   </div>
