@@ -14,8 +14,8 @@ collections:
       - {label: "Titel", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Bild", name: "coverImageUrl", widget: "image", required: true}
-  - name: "news"
-    label: "News"
+  - name: "index-news"
+    label: "Home - News"
     folder: "content/news"
     create: true
     slug: "{{slug}}"
@@ -36,6 +36,46 @@ collections:
   - name: "flugplatz"
     label: "Flugplatz"
     folder: "content/flugplatz/"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, require: false }
+      - {label: "Gewichtung", name: "weight", widget: "number", required: false}
+      - {label: "Bild", name: "image", widget: "image", required: false}
+      - {label: "Teaser", name: "description", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Buttons"
+        name: "buttons"
+        widget: "list"
+        fields:
+          - {label: "Titel", name: "title", widget: "string", required: false}
+          - {label: "URL", name: "url", widget: "string"}
+          - {label: "CTA", name: "cta", widget: "boolean", required: false}
+  - name: "flugplatz-infos-piloten"
+    label: "Flugplatz - Infos für Piloten"
+    folder: "content/flugplatz/infos-piloten"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, require: false }
+      - {label: "Gewichtung", name: "weight", widget: "number", required: false}
+      - {label: "Bild", name: "image", widget: "image", required: false}
+      - {label: "Teaser", name: "description", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Buttons"
+        name: "buttons"
+        widget: "list"
+        fields:
+          - {label: "Titel", name: "title", widget: "string", required: false}
+          - {label: "URL", name: "url", widget: "string"}
+          - {label: "CTA", name: "cta", widget: "boolean", required: false}
+  - name: "flugplatz-gastronomie"
+    label: "Flugplatz - Gastronomie"
+    folder: "content/flugplatz/gastronomie"
     create: true
     slug: "{{slug}}"
     fields:
