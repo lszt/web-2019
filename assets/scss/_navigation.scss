@@ -115,12 +115,6 @@
       );
     }
   }
-  &__checkbox {
-    display: none;
-    &:checked ~ .navigation {
-      display: flex !important;
-    }
-  }
   &__close {
     position: absolute;
     top: 0;
@@ -130,5 +124,15 @@
     text-align: center;
     font-weight: 700;
     color: #abb7bd;
+  }
+}
+
+body {
+  &.show-mobile-navigation {
+    height: 100vh;
+    overflow: hidden;
+    .navigation {
+      display: flex !important;
+    }
   }
 }
