@@ -13,7 +13,12 @@ collections:
     fields:
       - {label: "Titel", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Bild", name: "coverImageUrl", widget: "image", required: true}
+      - label: "Headerbild/Headerbilder"
+        name: "coverImages"
+        widget: "list"
+        required: true
+        fields:
+          - {label: "Bild", name: "image", widget: "image", required: true}
   - name: "index-news"
     label: "Home - News"
     folder: "content/news"
@@ -23,9 +28,9 @@ collections:
       - {label: "Titel", name: "title", widget: "string"}
       - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
       - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
-      - {label: "Bild", name: "image", widget: "image", required: false}
+      - {label: "Bild", name: "image", widget: "image", required: true}
       - {label: "Teaser", name: "description", widget: "markdown"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Buttons"
         name: "buttons"
         widget: "list"
@@ -37,7 +42,7 @@ collections:
   - name: "flugplatz"
     label: "Flugplatz"
     folder: "content/flugplatz/"
-    create: true
+    create: false
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}

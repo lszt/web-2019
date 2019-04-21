@@ -1,1 +1,7 @@
-<div class="header-image" style="background-image: url('{{ .Params.coverImageUrl }}')"></div>
+<div class="header-images-wrapper">
+  <div class="header-images header-images--slider">
+    {{ range .Params.coverImages }}
+      <div class="header-images__item" style="background-image: url('{{ .image }}')"></div>
+    {{ end }}
+  </div>
+</div>

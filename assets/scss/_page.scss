@@ -2,13 +2,6 @@ body {
   background: #344248;
 }
 
-.header-image {
-  width: 100%;
-  height: 100vh;
-  background-size: cover;
-  background-position: center;
-}
-
 .logo {
   position: absolute;
   top: 50px;
@@ -50,8 +43,8 @@ body {
   background: #fff;
   padding: 35px 0;
   .container-fluid:not(.intro) {
-    padding-bottom: 20px;
-    margin-bottom: 20px;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
     &:nth-child(2) .container__title {
       display: none;
     }
@@ -60,7 +53,7 @@ body {
       content: "";
       width: calc(100% - 4rem);
       border-bottom: 1px dotted #344248;
-      margin-top: 20px;
+      margin-top: 0px;
     }
     &:last-child:after {
       content: none;

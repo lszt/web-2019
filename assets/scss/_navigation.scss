@@ -91,12 +91,29 @@
   }
   &__label {
     display: block;
-    padding: 0 2rem;
+    padding: 0 calc(3rem + 35px);
     line-height: 65px;
     font-weight: 700;
     color: #abb7bd;
     text-decoration: none;
     text-transform: uppercase;
+    position: relative;
+    &:before {
+      content: "";
+      position: absolute;
+      left: 2rem;
+      top: 18px;
+      height: 30px;
+      width: 36px;
+      background: linear-gradient(
+        to bottom,
+        #abb7bd, #abb7bd 16%,
+        transparent 16%, transparent 41%,
+        #abb7bd 41%, #abb7bd 57%,
+        transparent 57%, transparent 85%,
+        #abb7bd 85%, #abb7bd 100%
+      );
+    }
   }
   &__checkbox {
     display: none;
