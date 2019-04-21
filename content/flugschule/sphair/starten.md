@@ -2,7 +2,7 @@
 title: "Starten Sie Ihre Berufspiloten-Karriere!"
 date: 2019-04-14T12:51:24+02:00
 draft: false
-image: /img/news/test.jpg
+image: /img/uploads/test.jpg
 description: >
   SPHAIR findet junge Schweizer Nachwuchspiloten und Fallschirmaufklärer. Experten aus der zivilen und militärischen Luftfahrt prüfen die Kandidaten in einem mehrstufigen Verfahren und bereiten sie auf die Praxis vor. Das SPHAIR Zertifikat ist Qualitätssiegel für das Talent und das Engagement der Kandidaten.
 buttons:
