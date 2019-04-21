@@ -22,13 +22,14 @@ collections:
     fields:
       - {label: "Titel", name: "title", widget: "string"}
       - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, require: false }
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
       - {label: "Body", name: "body", widget: "markdown"}
       - label: "Buttons"
         name: "buttons"
         widget: "list"
+        required: false
         fields:
           - {label: "Titel", name: "title", widget: "string", required: false}
           - {label: "URL", name: "url", widget: "string"}
@@ -41,7 +42,7 @@ collections:
     fields:
       - {label: "Titel", name: "title", widget: "string"}
       - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, require: false }
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
@@ -49,6 +50,7 @@ collections:
       - label: "Buttons"
         name: "buttons"
         widget: "list"
+        required: false
         fields:
           - {label: "Titel", name: "title", widget: "string", required: false}
           - {label: "URL", name: "url", widget: "string"}
@@ -61,7 +63,7 @@ collections:
     fields:
       - {label: "Titel", name: "title", widget: "string"}
       - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, require: false }
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
@@ -69,6 +71,7 @@ collections:
       - label: "Buttons"
         name: "buttons"
         widget: "list"
+        required: false
         fields:
           - {label: "Titel", name: "title", widget: "string", required: false}
           - {label: "URL", name: "url", widget: "string"}
@@ -81,7 +84,7 @@ collections:
     fields:
       - {label: "Titel", name: "title", widget: "string"}
       - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, require: false }
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
@@ -89,6 +92,7 @@ collections:
       - label: "Buttons"
         name: "buttons"
         widget: "list"
+        required: false
         fields:
           - {label: "Titel", name: "title", widget: "string", required: false}
           - {label: "URL", name: "url", widget: "string"}
