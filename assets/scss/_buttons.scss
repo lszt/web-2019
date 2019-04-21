@@ -14,6 +14,8 @@
   border: 1px solid #30424d;
   line-height: 28px;
   height: 28px;
+  -webkit-transition: all 0.35s;
+  transition: all 0.35s;
   &:hover {
     color: #3faeee;
     border-color: #3faeee;

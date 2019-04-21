@@ -3,6 +3,7 @@ languageCode = "de-ch"
 title = "Motorfluggruppe Thurgau"
 assetDir = "assets"
 relativeURLs = true
+googleAnalytics = "UA-25486694-1"
 
 [menu]
     [[menu.main]]

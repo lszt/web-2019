@@ -5,13 +5,7 @@ draft: false
 weight: 2
 image: /img/news/test.jpg
 description: >
-  |                     |                   |
-  | ------------------- | ----------------- |
-  | Mindestalter        | 15 Jahre          |
-  | Mindestflugstunden  | 45h               |
-  | Kosten              | ab 23'000 Franken |
-  | Ausbildungsdauer    | ca. 1,5 Jahre     |
-  | Gesundheit          | Medical Class 2   |
+  Test
 buttons:
   - title: Anmelden
     url: https://www.google.ch/

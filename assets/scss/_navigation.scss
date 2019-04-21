@@ -4,7 +4,7 @@
   height: 65px;
   background: rgba(52,66,72, 0.85);
   padding: 0 2rem;
-  @media (max-width: 1000px) {
+  @media (max-width: 1100px) {
     display: none;
     position: fixed;
     flex-direction: column;
@@ -18,12 +18,12 @@
   }
   ul {
     display: flex;
-    @media (max-width: 1000px) {
+    @media (max-width: 1100px) {
       flex-direction: column;
     }
     li {
       margin: 0 12px;
-      @media (max-width: 1000px) {
+      @media (max-width: 1100px) {
         margin: 0;
         text-align: center;
       }
@@ -32,7 +32,7 @@
         color: #abb7bd;
         margin-left: -12px;
         margin-right: 12px;
-        @media (max-width: 1000px) {
+        @media (max-width: 1100px) {
           display: none;
         }
       }
@@ -43,19 +43,41 @@
         }
       }
       a {
+        display: inline-block;
         font-weight: 700;
         color: #abb7bd;
         line-height: 65px;
         text-decoration: none;
         text-transform: uppercase;
-        @media (max-width: 1000px) {
+        -webkit-transition: color 0.35s;
+        transition: color 0.35s;
+        @media (max-width: 1100px) {
           line-height: 36px;
+        }
+        &.icon {
+          height: 65px;
+          line-height: 65px;
+          width: 36px;
+        }
+        svg {
+          fill: #abb7bd;
+          -webkit-transition: all 0.35s;
+          transition: all 0.35s;
         }
         &:hover,
         &.active {
-          color: #fff;
+          color: #ffffff;
+          svg {
+            fill: #ffffff;
+          }
         }
       }
+    }
+  }
+  &__close {
+    display: none;
+    @media (max-width: 1100px) {
+      display: block;
     }
   }
 }
@@ -64,7 +86,7 @@
   display: none;
   height: 65px;
   background: rgba(52,66,72, 0.85);
-  @media (max-width: 1000px) {
+  @media (max-width: 1100px) {
     display: block;
   }
   &__label {
