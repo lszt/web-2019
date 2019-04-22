@@ -1,7 +1,17 @@
+{{ $currentSectionCoverImages := $.CurrentSection.Params.coverImages }}
+
+{{ $sectionPage := .Site.GetPage .Section }}
+{{ $sectionCoverImages := $sectionPage.Params.coverimages }}
+
 <div class="header-images-wrapper">
   <div class="header-images header-images--slider">
-    {{ range .Params.coverImages }}
+    {{ if isset .Params "coverImages" }}
+      {{ range .Params.coverImages }}
       <div class="header-images__item" style="background-image: url('{{ .image }}')"></div>
+      {{ end }}
+    {{ else }}
+      <div class="header-images__item" style="background-image: url('{{ .Site.Params.coverImage }}')"></div>
     {{ end }}
   </div>
 </div>
+

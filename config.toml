@@ -4,6 +4,11 @@ title = "Motorfluggruppe Thurgau"
 assetDir = "assets"
 relativeURLs = true
 googleAnalytics = "UA-25486694-1"
+[taxonomies]
+    category = "categories"
+
+[params]
+    coverImage = "/img/cover/flugschule.jpg"
 
 [menu]
     [[menu.main]]
