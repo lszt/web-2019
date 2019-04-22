@@ -3,7 +3,7 @@
 {{ $sectionPage := .Site.GetPage .Section }}
 {{ $sectionCoverImages := $sectionPage.Params.coverimages }}
 
-<div class="header-images-wrapper">
+<div class="header-images-wrapper {{ if ne .Kind "page" }}header-images-wrapper--fullpage{{ end}}">
   <div class="header-images header-images--slider">
     {{ if isset .Params "coverImages" }}
       {{ range .Params.coverImages }}
