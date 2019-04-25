@@ -1,9 +1,36 @@
 ---
-title: "Kontakt"
-date: 2019-04-14T17:03:53+02:00
+title: Kontakt
+date: 2019-04-14T15:03:53.000Z
 draft: false
-layout: "default"
 coverImages:
   - image: /img/cover/flugschule.jpg
 ---
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+## Flugplatz Lommis + Motorfluggruppe Thurgau
+
+Flugplatz
+
+9506 Lommis
+
+Tel: [+41 52 366 33 33](tel:+41523663333)
+
+Email: <mailto:info@mfgt.ch>
+
+## MFGT Maintenance
+
+Flugplatz
+
+9506 Lommis
+
+Tel: [+41 52 366 33 41](tel:+41523663341)
+
+Email: [maintenance@mfgt.ch](<mailto: maintenance@mfgt.ch>)
+
+## Verantwortlich fuer den Inhalt
+
+MFGT Online Team
+
+Flugplatz
+
+9506 Lommis
+
+Email: <mailto:webmaster@mfgt.ch>
