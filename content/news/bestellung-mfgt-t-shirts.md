@@ -1,9 +1,10 @@
 ---
 title: Bestellung MFGT T-Shirts
 date: 2017-01-04T15:04:10.000Z
-description: >-
-  Hier könnt Ihr das MFGT T-Shirt, die Softshell Jacke und die MFGT Caps bestellen. Bei den T-Shirts stehen die Grössen S/M/L/XL/XXL (nur Herren) zur Auswahl.
 image: /img/news/test.jpg
+description: >-
+  Hier könnt Ihr das MFGT T-Shirt, die Softshell Jacke und die MFGT Caps
+  bestellen.
 ---
 
 ## Bestellung MFGT T-Shirts / Softshell Jacke / Caps
