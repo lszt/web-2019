@@ -19,4 +19,3 @@ buttons:
     title: Anmelden
     url: 'https://www.google.ch/'
 ---
-no body
