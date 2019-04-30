@@ -1,5 +1,5 @@
 ---
-title: Starten Sie Ihre Berufspiloten-Karriere!
+title: Starten Sie bei uns Ihre Berufspiloten-Karriere!
 date: 2019-04-14T10:51:24.000Z
 draft: false
 image: /img/uploads/ausbildung_sphair.jpg
@@ -19,6 +19,8 @@ SPHAIR ist die offizielle Ausbildungsplattform der Schweizer Aviatik. Ein SPHAIR
 Melden Sie sich noch heute unter [www.sphair.ch](http://www.sphair.ch) für die Eignungsprüfung im fliegerärztlichen Institut in Dübendorf an, um die grundlegende Begabung für den Pilotenberuf zu testen. Bei positivem Resultat dürfen Sie an einem zweiwöchigen Kurs teilnehmen, bei welchem Sie die Möglichkeit haben, Ihre Fähigkeiten als Pilot oder Pilotin unter Beweis zu stellen. 
 
 Die Motorfluggruppe Thurgau führt im Auftrag der Schweizer Luftwaffe als eine von neun offiziellen Flugschulen in der Schweiz SPHAIR-Kurse auf dem Flugplatz Lommis durch.
+
+## 
 
 ## SPHAIR-Kurs in Lommis:
 
