@@ -3,11 +3,11 @@ title: Warum bei der MFGT
 date: 2019-04-14T10:51:24.000Z
 draft: false
 weight: 1
-image: /img/uploads/flugschule-warum-mfgt.jpg
+image: /img/uploads/ausbildung_flugschule_robin.jpg
 description: >-
   Als Mitglied der Swiss Pilot School Association SwissPSA
-  [www.swisspsa.ch](http://www.swisspsa.ch) erfüllt die MFGT
-  die strengen Anforderungen der Europäischen Flugsicherheitsbehörde EASA.
+  [www.swisspsa.ch](http://www.swisspsa.ch) erfüllt die MFGT die strengen
+  Anforderungen der Europäischen Flugsicherheitsbehörde EASA.
 ---
 Die MFGT operiert ab dem Flugplatz Lommis TG. Der Flugplatz besticht durch seine ländliche Lage, fernab der verkehrsreichen Kontrollzonen und bietet gerade für Flugschüler ein ideales und stressfreies Umfeld. 
 
