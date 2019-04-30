@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "de-ch"
-title = "Motorfluggruppe Thurgau"
+title = "Motorfluggruppe Thurgau MFGT"
 assetDir = "assets"
 relativeURLs = true
 googleAnalytics = "UA-25486694-1"
@@ -51,3 +51,6 @@ googleAnalytics = "UA-25486694-1"
   changefreq  = "monthly"
   filename    = "sitemap.xml"
   priority    = 0.5
+
+[blackfriday]
+  hrefTargetBlank = true
