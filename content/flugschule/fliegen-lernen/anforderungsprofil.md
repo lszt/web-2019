@@ -3,7 +3,7 @@ title: Anforderungsprofil
 date: 2019-04-14T10:51:24.000Z
 draft: false
 weight: 2
-image: ''
+image: /img/uploads/ausbildung_aquila.jpg
 description: |-
   Mindestalter   |   15 Jahre
 
