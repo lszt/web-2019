@@ -10,6 +10,6 @@ description: >-
   Besuch des Kurses sind Basiskenntnisse in englischer Sprache.
 buttons:
   - cta: true
-    title: Daten Kurse
+    title: Kursdaten
 ---
 Zusätzlich zu den Theorie-Fächern müssen Sie sich in Radiotelephonie (Voice) ausweisen. Auch dafür bieten wir über den Winter Kurse an. Voraussetzung zum Besuch des Kurses sind Basiskenntnisse in englischer Sprache.
