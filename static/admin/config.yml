@@ -12,7 +12,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Headerbild/Headerbilder"
         name: "coverImages"
         widget: "list"
@@ -55,7 +55,7 @@ collections:
       - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
       - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Headerbild/Headerbilder"
         name: "coverImages"
         widget: "list"
@@ -74,7 +74,7 @@ collections:
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Buttons"
         name: "buttons"
         widget: "list"
@@ -101,7 +101,7 @@ collections:
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Buttons"
         name: "buttons"
         widget: "list"
@@ -126,7 +126,7 @@ collections:
       - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
       - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Headerbild/Headerbilder"
         name: "coverImages"
         widget: "list"
@@ -145,7 +145,7 @@ collections:
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Buttons"
         name: "buttons"
         widget: "list"
@@ -172,7 +172,7 @@ collections:
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Buttons"
         name: "buttons"
         widget: "list"
@@ -199,7 +199,7 @@ collections:
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Buttons"
         name: "buttons"
         widget: "list"
@@ -226,7 +226,7 @@ collections:
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Buttons"
         name: "buttons"
         widget: "list"
@@ -253,7 +253,7 @@ collections:
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Buttons"
         name: "buttons"
         widget: "list"
@@ -280,7 +280,7 @@ collections:
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Buttons"
         name: "buttons"
         widget: "list"
@@ -305,7 +305,7 @@ collections:
       - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
       - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Headerbild/Headerbilder"
         name: "coverImages"
         widget: "list"
@@ -324,7 +324,7 @@ collections:
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Buttons"
         name: "buttons"
         widget: "list"
@@ -351,7 +351,7 @@ collections:
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Buttons"
         name: "buttons"
         widget: "list"
@@ -378,7 +378,7 @@ collections:
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Buttons"
         name: "buttons"
         widget: "list"
@@ -405,7 +405,7 @@ collections:
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Buttons"
         name: "buttons"
         widget: "list"
@@ -432,7 +432,7 @@ collections:
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Buttons"
         name: "buttons"
         widget: "list"
@@ -459,7 +459,7 @@ collections:
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Buttons"
         name: "buttons"
         widget: "list"
@@ -486,7 +486,7 @@ collections:
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Buttons"
         name: "buttons"
         widget: "list"
@@ -511,7 +511,7 @@ collections:
       - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
       - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Headerbild/Headerbilder"
         name: "coverImages"
         widget: "list"
@@ -530,7 +530,7 @@ collections:
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Buttons"
         name: "buttons"
         widget: "list"
@@ -557,7 +557,7 @@ collections:
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Buttons"
         name: "buttons"
         widget: "list"
@@ -584,7 +584,7 @@ collections:
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Buttons"
         name: "buttons"
         widget: "list"
@@ -609,7 +609,7 @@ collections:
       - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
       - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Headerbild/Headerbilder"
         name: "coverImages"
         widget: "list"
@@ -626,7 +626,7 @@ collections:
       - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
       - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Headerbild/Headerbilder"
         name: "coverImages"
         widget: "list"
@@ -643,7 +643,7 @@ collections:
       - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
       - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Headerbild/Headerbilder"
         name: "coverImages"
         widget: "list"
