@@ -8,4 +8,3 @@ description: >-
   ausgebildeten Fluglehrerinnen und Fluglehrer gehen zu hundert Prozent Ihre
   Wünsche ein.
 ---
-no body

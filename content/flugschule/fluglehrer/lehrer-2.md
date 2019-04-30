@@ -6,4 +6,3 @@ weight: '8'
 image: /img/uploads/fluglehrer_blanco.jpg
 description: Cheffluglehrer (CFI)
 ---
-no body

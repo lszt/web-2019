@@ -6,4 +6,3 @@ weight: '6'
 image: /img/uploads/fluglehrer_blanco.jpg
 description: Fluglehrer (CRI)
 ---
-no body

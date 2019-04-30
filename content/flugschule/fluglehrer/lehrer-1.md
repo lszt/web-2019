@@ -6,4 +6,3 @@ weight: '1'
 image: /img/uploads/fluglehrer_blanco.jpg
 description: 'Fluglehrer (FI), Chef Flugschule MFGT'
 ---
-no body

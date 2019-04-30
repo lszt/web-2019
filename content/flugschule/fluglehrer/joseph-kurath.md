@@ -6,4 +6,3 @@ weight: '5'
 image: /img/uploads/fluglehrer_blanco.jpg
 description: Fluglehrer (FI)
 ---
-no body

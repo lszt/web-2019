@@ -6,4 +6,3 @@ weight: '9'
 image: /img/uploads/fluglehrer_blanco.jpg
 description: 'Fluglehrer, Examiner (FI/FE)'
 ---
-no body

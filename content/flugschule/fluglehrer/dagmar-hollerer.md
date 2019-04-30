@@ -6,4 +6,3 @@ weight: '3'
 image: /img/uploads/fluglehrer_blanco.jpg
 description: Fluglehrerin (FI/LPC)
 ---
-no body
