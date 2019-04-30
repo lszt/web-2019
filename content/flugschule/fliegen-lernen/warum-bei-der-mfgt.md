@@ -1,7 +1,7 @@
 ---
 title: Warum bei der MFGT
 date: 2019-04-14T10:51:24.000Z
-draft: true
+draft: false
 weight: 1
 image: /img/uploads/flugschule-warum-mfgt.jpg
 description: >-
