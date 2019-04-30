@@ -24,4 +24,3 @@ buttons:
     title: Anmelden
     url: 'https://www.google.ch/'
 ---
-xxx
