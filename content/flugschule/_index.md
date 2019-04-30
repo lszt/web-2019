@@ -1,8 +1,7 @@
 ---
-title: "Lerne Fliegen - Jetzt!"
-date: 2019-04-14T17:03:39+02:00
+title: Lerne Fliegen – Jetzt!
+date: 2019-04-14T15:03:39.000Z
 draft: false
-layout: "default"
 coverImages:
   - image: /img/cover/flugschule.jpg
 ---
