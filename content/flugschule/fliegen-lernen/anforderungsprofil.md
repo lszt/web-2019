@@ -1,21 +1,27 @@
 ---
-title: "Anforderungsprofil"
-date: 2019-04-14T12:51:24+02:00
+title: Anforderungsprofil
+date: 2019-04-14T10:51:24.000Z
 draft: false
 weight: 2
 image: /img/uploads/flugschule-anforderungsprofil.jpg
 description: |-
-  Mindestalter: 15 Jahre
+  Mindestalter: \
+  **15 Jahre**
 
-  Mindestflugstunden: 45h
+  Mindestflugstunden: \
+  **45 Stunden**
 
-  Kosten: ab 23‘000 Franken
+  Kosten: \
+  **CHF 18'000.– bis 22'000.–**
 
-  Ausbildungsdauer: ca. 1,5 Jahre
+  Ausbildungsdauer: \
+  **ca. 1.5 Jahre**
 
-  Gesundheit: Medical Class 2
+  Gesundheit: \
+  **Medical Class 2**
 buttons:
-  - title: Anmelden
-    url: https://www.google.ch/
-    cta: true
+  - cta: true
+    title: Anmelden
+    url: 'https://www.google.ch/'
 ---
+xxx
