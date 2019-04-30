@@ -10,7 +10,7 @@ description: >-
   Alle Fächer werden mit einer BAZL-Prüfung abgeschlossen.
 buttons:
   - cta: true
-    title: Daten Theoriekurse
+    title: Kursdaten
 ---
 Die Ausbildung besteht aus 9 Theoriefächern und der Radiotelefonie Praxis:
 
