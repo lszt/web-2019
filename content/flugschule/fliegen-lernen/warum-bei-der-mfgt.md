@@ -1,15 +1,15 @@
 ---
-title: "Warum bei der MFGT"
-date: 2019-04-14T12:51:24+02:00
+title: Warum bei der MFGT
+date: 2019-04-14T10:51:24.000Z
 draft: false
 weight: 1
 image: /img/uploads/flugschule-warum-mfgt.jpg
-description: >
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-  nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
-  erat, sed diam voluptua. At vero eos et accusam et justo duo dolores
-  et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est
-  Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur
-  sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
-  et dolore magna aliquyam erat, sed diam voluptua.
+description: >-
+  Die MFGT operiert ab dem Flugplatz Lommis TG. Der Flugplatz besticht durch
+  seine ländliche Lage, fernab der verkehrsreichen Kontrollzonen und bietet
+  gerade für Flugschüler ein ideales und stressfreies Umfeld.
 ---
+Die Verfügbarkeit der clubeigenen Schulungsfllugzeuge und der Fluglehrer sind hoch und kurze Zeit nach Instruktionsbeginn sind Sie auch schon in der Luft. \
+Von Lommis aus sind Sie innert kurzer Zeit in den Alpen – die ideale Voraussetzung für Alpeneinweisungsflüge und alle nötigen Schulungs-Flugmanöver. Dies garantiert zügiges Vorwärtskommen in der Ausbildung mit entsprechenden Erfolgsergebnissen – einfach und unkompliziert. 
+
+Als Mitglied der Swiss Pilot School Association SwissPSA [www.swisspsa.ch](http://www.swisspsa.ch) erfüllt die MFGT die strengen Anforderungen der Europäischen Flugsicherheitsbehörde EASA.
