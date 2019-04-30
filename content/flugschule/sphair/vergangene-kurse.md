@@ -1,9 +1,9 @@
 ---
-title: "Vergangene Sphair-Kurse"
-date: 2019-04-14T12:51:24+02:00
+title: Vergangene SPHAIR-Kurse
+date: 2019-04-14T10:51:24.000Z
 draft: false
-image: /img/uploads/flugschule-sphair-vergangne-kurse.jpg
-description: >
+image: /img/uploads/shpair_ehemalige.jpg
+description: |
   Hier finden Sie Fotos und Berichte vergangener SPHAIR-Kurse
 ---
-Inhalt
+Inhalt folgt
