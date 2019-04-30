@@ -3,11 +3,13 @@ title: Voice
 date: 2019-04-14T10:51:24.000Z
 draft: false
 weight: '3'
-image: /img/uploads/flugschule-ausbildung-voice.jpg
-description: >
-  In der Radiotelefonie trainieren Sie die korrekte Verwendung der
-  Fliegersprache beim Funken im Hinblick auf Ihre Flüge im Schweizer Luftraum.
-  Dazu gehört auch das Erlernen des Fliegeralphabetes. Zudem werden Sie auf die
-  Prüfung Ihrer englischen «Language Proficiency » vorbereitet.
+image: /img/uploads/ausbildung_voice.jpg
+description: >-
+  Zusätzlich zu den Theorie-Fächern müssen Sie sich in Radiotelephonie (Voice)
+  ausweisen. Auch dafür bieten wir über den Winter Kurse an. Voraussetzung zum
+  Besuch des Kurses sind Basiskenntnisse in englischer Sprache.
+buttons:
+  - cta: true
+    title: Daten Kurse
 ---
-In der Radiotelefonie trainieren Sie die korrekte Verwendung der Fliegersprache beim Funken im Hinblick auf Ihre Flüge im Schweizer Luftraum. Dazu gehört auch das Erlernen des Fliegeralphabetes. Zudem werden Sie auf die Prüfung Ihrer englischen «Language Proficiency » vorbereitet.
+Zusätzlich zu den Theorie-Fächern müssen Sie sich in Radiotelephonie (Voice) ausweisen. Auch dafür bieten wir über den Winter Kurse an. Voraussetzung zum Besuch des Kurses sind Basiskenntnisse in englischer Sprache.
