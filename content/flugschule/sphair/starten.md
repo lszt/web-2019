@@ -20,8 +20,6 @@ Melden Sie sich noch heute unter [www.sphair.ch](http://www.sphair.ch) für die 
 
 Die Motorfluggruppe Thurgau führt im Auftrag der Schweizer Luftwaffe als eine von neun offiziellen Flugschulen in der Schweiz SPHAIR-Kurse auf dem Flugplatz Lommis durch.
 
-## 
-
 ## SPHAIR-Kurs in Lommis:
 
 **Persönliche Vorbereitung**
