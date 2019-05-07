@@ -2,7 +2,7 @@
 title: CPL
 date: 2019-04-14T10:51:24.000Z
 draft: false
-image: /img/uploads/flugschule-naechsteschritte-infoabend.jpg
+image: /img/uploads/ausbildung_praktische_ausbildung.jpg
 description: >-
   Das CPL (Commercial Pilot License) berechtigt Sie, für ein Unternehmen
   kommerziell zu fliegen. Bis zur Prüfung müssen im Minimum 200 Flugstunden
