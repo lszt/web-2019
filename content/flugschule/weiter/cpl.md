@@ -1,8 +1,16 @@
 ---
-title: "CPL"
-date: 2019-04-14T12:51:24+02:00
+title: CPL
+date: 2019-04-14T10:51:24.000Z
 draft: false
 image: /img/uploads/flugschule-naechsteschritte-infoabend.jpg
-description: >
-  In den Theorieräumen der MFGT erwerben Sie das nötige Wissen in Fächern wie z.B Navigation, Flugzeugkenntnisse und Meteorologie. Der modulare Kursaufbau ermöglich jederzeit den Einstieg bei Beginn eines neuen Kurses.
+description: >-
+  Das CPL (Commercial Pilot License) berechtigt Sie, für ein Unternehmen
+  kommerziell zu fliegen. Bis zur Prüfung müssen im Minimum 200 Flugstunden
+  absolviert werden.
+
+
+  Es geht in erster Linie darum, die Kenntnisse aus dem PPL zu vertiefen und
+  sich im fliegerischen Handwerk weiterzubilden. Dies ist eine sinnvolle
+  Ergänzung, um ein Flugzeug sicher und professionell zu betreiben.
 ---
+
