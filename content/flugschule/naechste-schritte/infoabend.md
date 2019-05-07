@@ -9,7 +9,8 @@ description: >-
   Flugschule genau das Richtige für Sie! Sie erfahren alles über die
   Anforderungen und Inhalte der Ausbildung zum Privatpiloten.
 buttons:
-  - title: Daten & Anmeldung
+  - cta: true
+    title: Daten & Anmeldung
 ---
 Wir zeigen Ihnen, wie die theoretische und die praktische Ausbildung aufgebaut ist, welche Voraussetzungen Sie mitbringen sollten und mit welchen Kosten Sie rechnen können. Das wichtigste aber: Wir wollen Sie fürs Fliegen begeistern und mit dem Virus aviaticus anstecken!
 
