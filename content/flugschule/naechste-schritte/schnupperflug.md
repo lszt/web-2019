@@ -1,8 +1,17 @@
 ---
-title: "Schnupperflug"
-date: 2019-04-14T12:51:24+02:00
+title: Schnupperflug
+date: 2019-04-14T10:51:24.000Z
 draft: false
-image: /img/uploads/flugschule-naechseschritte-schnupperflug.jpg
-description: >
-  In den Theorieräumen der MFGT erwerben Sie das nötige Wissen in Fächern wie z.B Navigation, Flugzeugkenntnisse und Meteorologie. Der modulare Kursaufbau ermöglich jederzeit den Einstieg bei Beginn eines neuen Kurses.
+image: /img/uploads/bild_schnupperflug.jpg
+description: >-
+  Interessiert, die Ausbildung zum Privatpiloten zu beginnen? Dann ist es Zeit
+  für einen Schnupperflug! \
+
+  Sie sitzen als Pilot auf der linken Seite und steuern das Flugzeug unter
+  Anleitung des Fluglehrers. Die Kosten für den Schnupperflug betragen CHF 300.–
+  für einen rund 40- minütigen Flug mit der Aquila.
+buttons:
+  - cta: true
+    title: schnupperflug buchen
 ---
+
