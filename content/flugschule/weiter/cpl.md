@@ -3,7 +3,7 @@ title: CPL
 date: 2019-04-14T10:51:24.000Z
 draft: false
 weight: '4'
-image: /img/uploads/ausbildung_praktische_ausbildung.jpg
+image: /img/uploads/bild_cpl.jpg
 description: >-
   Die Commercial Pilot License (CPL) berechtigt Sie, für ein Unternehmen
   kommerziell zu fliegen. \
