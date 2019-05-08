@@ -7,9 +7,9 @@ description: >-
   Das CPL (Commercial Pilot License) berechtigt Sie, für ein Unternehmen
   kommerziell zu fliegen. \
 
-  Es geht in erster Linie darum, die Kenntnisse aus dem PPL zu vertiefen und
-  sich im fliegerischen Handwerk weiterzubilden. Dies ist eine sinnvolle
-  Ergänzung, um ein Flugzeug sicher und professionell zu betreiben.
+  Es geht auch darum, die Kenntnisse aus dem PPL zu vertiefen und sich im
+  fliegerischen Handwerk weiterzubilden. Dies ist eine sinnvolle Ergänzung, um
+  ein Flugzeug sicher und professionell zu betreiben.
 ---
 **Voraussetzungen**
 
