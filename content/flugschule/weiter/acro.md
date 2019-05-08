@@ -1,8 +1,11 @@
 ---
-title: "Acro"
-date: 2019-04-14T12:51:24+02:00
+title: AKRO sicherheitstraining
+date: 2019-04-14T10:51:24.000Z
 draft: false
-image: /img/uploads/flugschule-naechsteschritte-infoabend.jpg
-description: >
-  In den Theorieräumen der MFGT erwerben Sie das nötige Wissen in Fächern wie z.B Navigation, Flugzeugkenntnisse und Meteorologie. Der modulare Kursaufbau ermöglich jederzeit den Einstieg bei Beginn eines neuen Kurses.
+image: /img/uploads/ausbildung_praktische_ausbildung.jpg
+description: >-
+  Die Flugschule der Motorfluggruppe Thurgau organisiert einmal im Jahr ein
+  Sicherheitstraining mit einem Kunstfluglehrer. Zur Verwendung kommt eine voll
+  kunstflugtaugliche FFA AS202 BRAVO.
 ---
+
