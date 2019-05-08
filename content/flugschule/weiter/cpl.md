@@ -5,7 +5,7 @@ draft: false
 weight: '4'
 image: /img/uploads/ausbildung_praktische_ausbildung.jpg
 description: >-
-  Das CPL (Commercial Pilot License) berechtigt Sie, für ein Unternehmen
+  Die Commercial Pilot License (CPL) berechtigt Sie, für ein Unternehmen
   kommerziell zu fliegen. \
 
   Es geht auch darum, die Kenntnisse aus dem PPL zu vertiefen und sich im
@@ -14,6 +14,7 @@ description: >-
 ---
 **Voraussetzungen**
 
+* Medical Class 1
 * NIT Rating
 * Gesamtflugerfahrung 150 h
 * Gesamtflugerfahrung für die Prüfungszulassung 200 h\
@@ -32,7 +33,7 @@ Die theoretische Ausbildung erfolgt bei einem externen Anbieter wie [Safety Wing
 * davon rund 10 h erfolgen nach Instrumenten\
   davon maximal 5 h im Simulator 
 
-Inhabern einer gültigen IR(A)-Lizenz werden die 10 h nach Instrumenten angerechnet. 
+Inhabern einer gültigen IR(A)-Lizenz werden die 10 h nach Instrumenten angerechnet.  
 
 **Kostenübersicht**
 
