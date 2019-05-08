@@ -14,7 +14,7 @@ buttons:
 ---
 **Voraussetzungen**
 
-* PPL
+* PPL (A)
 
 \
 **Theoretische Ausbildung**
