@@ -3,7 +3,7 @@ title: Warum bei der MFGT
 date: 2019-04-14T10:51:24.000Z
 draft: false
 weight: 1
-image: /img/uploads/ausbildung_flugschule_robin.jpg
+image: /img/uploads/bild_flugpruefung.jpg
 description: >-
   Als Mitglied der Swiss Pilot School Association SwissPSA
   [www.swisspsa.ch](http://www.swisspsa.ch) erfüllt die MFGT die strengen
