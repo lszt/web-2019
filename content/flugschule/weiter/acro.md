@@ -36,6 +36,7 @@ Interessierte können ausserdem folgende Grundfiguren miterleben:
 * Immelmann und Retournement
 * Renversement und Rückenflug 
 
+ \
 **Kosten**
 
 CHF 350.–\
