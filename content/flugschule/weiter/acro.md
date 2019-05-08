@@ -3,7 +3,7 @@ title: AKRO sicherheitstraining
 date: 2019-04-14T10:51:24.000Z
 draft: false
 weight: '1'
-image: /img/uploads/ausbildung_praktische_ausbildung.jpg
+image: /img/uploads/bild_akro.jpg
 description: >-
   Die Flugschule der Motorfluggruppe Thurgau organisiert einmal im Jahr ein
   Sicherheitstraining mit einem Kunstfluglehrer. Zur Verwendung kommt eine voll
