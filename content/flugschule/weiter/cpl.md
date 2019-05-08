@@ -5,9 +5,7 @@ draft: false
 image: /img/uploads/ausbildung_praktische_ausbildung.jpg
 description: >-
   Das CPL (Commercial Pilot License) berechtigt Sie, für ein Unternehmen
-  kommerziell zu fliegen. Bis zur Prüfung müssen im Minimum 200 Flugstunden
-  absolviert werden.
-
+  kommerziell zu fliegen. \
 
   Es geht in erster Linie darum, die Kenntnisse aus dem PPL zu vertiefen und
   sich im fliegerischen Handwerk weiterzubilden. Dies ist eine sinnvolle
