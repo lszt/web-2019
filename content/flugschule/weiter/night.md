@@ -2,7 +2,7 @@
 title: NIT
 date: 2019-04-14T10:51:24.000Z
 draft: false
-weight: '1'
+weight: '2'
 image: /img/uploads/ausbildung_praktische_ausbildung.jpg
 description: >-
   Die Nachtflug-Ausblidung NIT ist auf der Stufe Privatpilot eine Erweiterung
