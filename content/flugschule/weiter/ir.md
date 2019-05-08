@@ -23,9 +23,10 @@ Die theoretische Ausbildung erfolgt bei einem externen Anbieter wie [Safety Wing
 \
 **Praktische Ausbildung**
 
-* **50 h **
-* **davon 40 h auf dem FNPT II Simulator  **
+* 50 h 
+* davon 40 h auf dem Simulator  
 
+ \
 **Kostenübersicht**
 
 [Download (PDF)](pdf)
