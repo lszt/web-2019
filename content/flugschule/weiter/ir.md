@@ -10,4 +10,22 @@ description: >-
   der Instrumente verändert oder gehalten. Ein natürlicher Horizont ist nicht
   erforderlich.
 ---
-https://www.horizon-sfa.ch/de
+**Voraussetzungen**
+
+* NIT Rating
+* 50 h Cross Country als PIC (Pilot in Command)
+
+\
+**Theoretische Ausbildung**
+
+Die theoretische Ausbildung erfolgt bei einem externen Anbieter wie [Safety Wings](https://www.safetywings.ch/) oder [Horizon SFA](https://www.horizon-sfa.ch/de) im Fernstrudieum oder als Klassenlehrgang.
+
+\
+**Praktische Ausbildung**
+
+* **50 h **
+* **davon 40 h auf dem FNPT II Simulator  **
+
+**Kostenübersicht**
+
+[Download (PDF)](pdf)
