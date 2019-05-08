@@ -32,6 +32,7 @@ Gestartet wird in Lommis vor der Dunkelheit. Gelandet auf Schweizer Plätzen mit
 Die Rückkehr erfolgt dann am nächsten Morgen. Für die Nachtflugausbildung ist vor allem die Winterzeit wegen der frühen Dunkelheit geeignet.\
 Nach abgeschlossener Ausbildung erfolgt nach Einreichung der Formulare der entsprechende Eintrag im Ausweis.
 
+\
 **Kostenübersicht**
 
 [Download (PDF)](pdf)
