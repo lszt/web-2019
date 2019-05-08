@@ -8,6 +8,8 @@ description: >-
   Die Flugschule der Motorfluggruppe Thurgau organisiert einmal im Jahr ein
   Sicherheitstraining mit einem Kunstfluglehrer. Zur Verwendung kommt eine voll
   kunstflugtaugliche FFA AS202 BRAVO.
+buttons:
+  - title: anmelden
 ---
 **Voraussetzungen**
 
