@@ -12,4 +12,4 @@ buttons:
   - cta: true
     title: bestellen
 ---
-no body
+
