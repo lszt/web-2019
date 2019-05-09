@@ -8,6 +8,8 @@ description: >-
 
   Die MFGT (Motorfluggruppe Thurgau) und der AeCS (Aeroclub der Schweiz)
   ermöglichen dir einen packenden Einstieg in den Motorflug.
+buttons:
+  - title: zur agenda
 ---
 **Voraussetzung**
 
