@@ -1,8 +1,10 @@
 ---
-title: "Club"
-date: 2019-04-14T17:03:45+02:00
+title: Club
+date: 2019-04-14T15:03:45.000Z
 draft: false
 coverImages:
   - image: /img/cover/flugschule.jpg
 ---
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Die Motorfluggruppe Thurgau ist ein Verein mit ca. 300 Mitgliedern und betreibt in Lommis (Thurgau) eine Flugzeug-Flotte von zur Zeit 6 einmotorigen Flugzeugen mit 2 bis 4 Plätzen, welche für Schulung, Reise- und Rundflüge eingesetzt werden.
+
+Neben dem primären Ziel, den Mitgliedern das Fliegen zu günstigen Konditionen zu ermöglichen, werden auch regelmässige Clubanlässe organisiert.
