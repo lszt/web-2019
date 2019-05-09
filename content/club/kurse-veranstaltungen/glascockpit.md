@@ -1,7 +1,7 @@
 ---
 title: Kurs 'Glascockpit'
 date: 2017-01-04T15:04:10.000Z
-weight: '2'
+weight: '3'
 image: /img/uploads/club_glascockpit.jpg
 description: >-
   Für das Differenztraining Aquila und Robin DR 401 wird der Besuch des
