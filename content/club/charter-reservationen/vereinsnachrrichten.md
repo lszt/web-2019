@@ -1,5 +1,5 @@
 ---
-title: vereinsnachrrichten
+title: Clubnachrichten
 date: '2019-05-09T12:34:38+02:00'
 draft: true
 weight: '4'
@@ -11,4 +11,4 @@ buttons:
   - title: ältere ausgaben
   - title: download kontakt 2019
 ---
-
+no body
