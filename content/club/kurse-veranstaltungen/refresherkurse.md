@@ -6,9 +6,9 @@ weight: '7'
 image: /img/uploads/club_refresher.jpg
 description: >-
   Nutze die Gelegenheit und besuche unsere Refresherkurse zu diversen Themen wie
-  Safety, Zollformalitöten usw.\
+  Safety, Zollformalitäten, Rechtliches usw.\
 
-  Die Auschreibung erfolgt über den Newsletter und die Agenda.
+  Infos jeweils per Newsletter oder in der Agenda.
 buttons:
   - title: zur agenda
 ---
