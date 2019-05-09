@@ -1,7 +1,7 @@
 ---
 title: Club-Nachrichten
 date: '2019-05-09T12:34:38+02:00'
-draft: true
+draft: false
 weight: '4'
 image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: |-
