@@ -1,9 +1,13 @@
 ---
-title: Rservationen
+title: Mitgliedschaft
 date: 2017-01-04T15:04:10.000Z
+image: /img/uploads/bild_hangar.jpg
 description: >-
-  Lorem ipsum
-image: /img/news/test.jpg
+  Nehmen Sie mit uns Kontakt auf, wenn Sie bei uns als Mitglied fliegen oder es
+  erlernen wollen.
+buttons:
+  - title: statuten
+  - cta: true
+    title: mitglied werden
 ---
-
-## Titel 2
+##
