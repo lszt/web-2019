@@ -1,5 +1,5 @@
 ---
-title: Führungen für mitglieder
+title: Betriebsführungen & Ausflüge
 date: '2019-05-09T16:42:40+02:00'
 draft: false
 weight: '6'
