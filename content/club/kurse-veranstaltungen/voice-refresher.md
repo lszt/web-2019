@@ -8,6 +8,7 @@ description: >-
   ist dieser Refresher genaus das Richtige für Dich. Melde Dich hier an. Ein
   Fluglehrer wird sich mir Dir in Verbindung setzen.
 buttons:
-  - title: anmelden
+  - cta: true
+    title: anmelden
 ---
 
