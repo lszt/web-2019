@@ -2,7 +2,7 @@
 title: Mitgliedschaft
 date: 2017-01-04T15:04:10.000Z
 weight: '2'
-image: /img/uploads/bild_luftaufnahme_2.jpg
+image: /img/uploads/bild_kla_schweden.jpg
 description: >-
   Nimm mit uns Kontakt auf, wenn Du bei uns als Mitglied fliegen oder es
   erlernen willst.
