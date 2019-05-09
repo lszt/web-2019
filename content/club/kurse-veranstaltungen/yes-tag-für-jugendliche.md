@@ -1,5 +1,5 @@
 ---
-title: YES! Tag für Jugendliche
+title: YES-Tag für Jugendliche
 date: '2019-05-09T16:46:49+02:00'
 draft: false
 weight: '8'
@@ -44,7 +44,7 @@ Sonnenbrille, Sonnenschutz, Jacke, Turnschuhe
 
 **Wichtig**
 
-Damit du im YES! fliegen darfst, brauchen wir eine Bestätigung mit der Unterschrift deiner Eltern.
+Damit du im YES fliegen darfst, brauchen wir eine Bestätigung mit der Unterschrift deiner Eltern.
 
 **Ansprechpartner**
 
