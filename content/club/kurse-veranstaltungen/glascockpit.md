@@ -12,4 +12,3 @@ buttons:
     title: anmelden
 ---
 
-## Titel 2
