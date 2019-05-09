@@ -9,6 +9,7 @@ description: |-
   Die Ausgabe 2019 gibts hier zum Downloaden.
 buttons:
   - title: ältere ausgaben
-  - title: download kontakt 2019
+  - cta: true
+    title: download kontakt 2019
 ---
-no body
+
