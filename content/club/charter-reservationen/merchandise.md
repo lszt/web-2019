@@ -1,7 +1,7 @@
 ---
 title: Merchandise
 date: '2019-05-09T12:31:53+02:00'
-draft: true
+draft: false
 weight: '3'
 image: /img/uploads/bild_hangar.jpg
 description: >-
@@ -12,4 +12,4 @@ buttons:
   - cta: true
     title: bestellen
 ---
-
+no body
