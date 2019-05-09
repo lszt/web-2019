@@ -1,5 +1,5 @@
 ---
-title: Merchandise
+title: Club-Merchandise
 date: '2019-05-09T12:31:53+02:00'
 draft: false
 weight: '3'
