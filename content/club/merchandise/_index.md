@@ -1,7 +1,8 @@
 ---
-title: "Merchandise"
-date: 2019-04-14T17:03:45+02:00
+title: Funktionäre
+date: 2019-04-14T15:03:45.000Z
 draft: false
-weight: 5
+weight: '8'
+description: no teaser
 ---
 
