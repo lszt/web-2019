@@ -5,6 +5,11 @@ draft: false
 weight: '1'
 image: /img/uploads/flotte_dummy.jpg
 description: '**Aquila A211 GX**'
+buttons:
+  - title: Preise
+  - title: M&B
+  - cta: true
+    title: Reservation
 ---
 Schul- und Reiseflugzeug
 
