@@ -10,6 +10,7 @@ buttons:
   - title: M&B
   - cta: true
     title: Reservation
+    url: 'http://www.flightnet.aero'
 ---
 Schul- und Reiseflugzeug
 
