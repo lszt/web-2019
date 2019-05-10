@@ -1,7 +1,8 @@
 ---
 title: Robin DR401 – 155CDI
 date: 2017-01-04T15:04:10.000Z
-image: /img/news/test.jpg
+weight: '5'
+image: /img/uploads/flotte_dummy.jpg
 description: '**HB-KLA**'
 buttons:
   - title: 'preise '
