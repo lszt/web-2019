@@ -1,9 +1,10 @@
 ---
-title: Oliver Baer
+title: Flugschule
 date: 2017-01-04T15:04:10.000Z
+weight: '3'
 image: /img/uploads/fluglehrer_blanco.jpg
 description: |-
-  Flugschule
+  **Oliver Baer**
 
   T 079 416 40 27\
   <mailto:oliver.baer@mfgt.ch>
