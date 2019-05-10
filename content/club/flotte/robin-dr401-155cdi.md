@@ -15,8 +15,8 @@ Reiseflugzeug
 
 * 4 Sitzplätze
 * Engine: TAE  CDI 155
-* 155 PS
-* VFR
+* Leistung: 155 PS
+* Zulassung: VFR
 * 2-Achsen-Autopilot
 * Garmin GPS 500
 * PowerFLARM
