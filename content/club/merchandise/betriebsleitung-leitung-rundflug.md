@@ -1,0 +1,9 @@
+---
+title: 'Betriebsleitung, Leitung Rundflug'
+date: '2019-05-10T15:48:56+02:00'
+draft: false
+weight: '1'
+image: /img/uploads/fluglehrer_blanco.jpg
+description: "**Daniel Lutz \t**\n\nT 052 366 33 33\\\nT 079 427 74 03\\\n<mailto:betriebsleiter@mfgt.ch>"
+---
+
