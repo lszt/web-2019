@@ -1,9 +1,12 @@
 ---
-title: Funktionäre
+title: Peter Schafferer
 date: 2017-01-04T15:04:10.000Z
-description: >-
-  Lorem ipsum
-image: /img/news/test.jpg
+image: /img/uploads/fluglehrer_blanco.jpg
+description: |-
+  Peter Schafferer\
+  Präsident
+
+  T 079 404 06 14\
+  <mailto:praesident@mfgt.ch>
 ---
 
-## Titel 2
