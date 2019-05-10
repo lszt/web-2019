@@ -1,9 +1,11 @@
 ---
-title: Vorstand
+title: Oliver Baer
 date: 2017-01-04T15:04:10.000Z
-description: >-
-  Lorem ipsum
-image: /img/news/test.jpg
+image: /img/uploads/fluglehrer_blanco.jpg
+description: |-
+  Flugschule
+
+  T 079 416 40 27\
+  <mailto:oliver.baer@mfgt.ch>
 ---
 
-## Titel 2
