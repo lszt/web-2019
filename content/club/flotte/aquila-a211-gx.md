@@ -1,5 +1,5 @@
 ---
-title: Aquila A211 GX
+title: "Aquila A211 GX\_"
 date: '2019-05-10T16:16:06+02:00'
 draft: false
 weight: '2'
