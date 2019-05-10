@@ -1,9 +1,13 @@
 ---
-title: Mitglied werden
+title: Thomas Füllemann
 date: 2017-01-04T15:04:10.000Z
-description: >-
-  Lorem ipsum
-image: /img/news/test.jpg
+weight: '2'
+image: /img/uploads/fluglehrer_blanco.jpg
+description: |-
+  **Thomas Füllemann**\
+  Finanzen
+
+  T 079 665 60 01\
+  <mailto:thomas.fuellemann@mfgt.ch>
 ---
 
-## Titel 2
