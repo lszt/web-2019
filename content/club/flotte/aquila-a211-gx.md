@@ -1,10 +1,10 @@
 ---
-title: Aquila A211 GX
+title: HB-SGT
 date: '2019-05-10T16:18:32+02:00'
 draft: false
 weight: '1'
 image: /img/uploads/flotte_dummy.jpg
-description: '**HB-SGT**'
+description: '**Aquila A211 GX**'
 ---
 Schul- und Reiseflugzeug
 
