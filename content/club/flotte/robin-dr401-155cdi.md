@@ -5,10 +5,10 @@ weight: '5'
 image: /img/uploads/flotte_dummy.jpg
 description: '**HB-KLA**'
 buttons:
-  - title: 'preise '
-  - title: mass & balance
+  - title: 'Preise '
+  - title: M&B
   - cta: true
-    title: reservation
+    title: Reservation
     url: 'https://www.flightnet.aero'
 ---
 Reiseflugzeug
