@@ -12,7 +12,7 @@ description: >-
   fliegerischen Handwerk weiterzubilden. Dies ist eine sinnvolle Ergänzung, um
   ein Flugzeug sicher und professionell zu betreiben.
 ---
-**Voraussetzungen**
+### Voraussetzungen
 
 * Medical Class 1
 * NIT Rating
@@ -20,13 +20,11 @@ description: >-
 * Gesamtflugerfahrung für die Prüfungszulassung 200 h\
   davon 100 h als PIC (Pilot in Command)
 
-\
-**Theoretische Ausbildung**
+### Theoretische Ausbildung
 
 Die theoretische Ausbildung erfolgt bei einem externen Anbieter wie [Safety Wings](https://www.safetywings.ch/) oder [Horizon SFA](https://www.horizon-sfa.ch/de) im Fernstrudieum oder als Klassenlehrgang.
 
-\
-**Praktische Ausbildung**
+### Praktische Ausbildung
 
 * 25 h am Doppelsteuer\
   Fliegen in schwierigem Gelände, bei schwierigem Wetter, Radionavigation sowie Flughäfen im In- und Ausland
@@ -35,6 +33,6 @@ Die theoretische Ausbildung erfolgt bei einem externen Anbieter wie [Safety Wing
 
 Inhabern einer gültigen IR(A)-Lizenz werden die 10 h nach Instrumenten angerechnet.  
 
-**Kostenübersicht**
+### Kostenübersicht
 
 [Download (PDF)](pdf)
