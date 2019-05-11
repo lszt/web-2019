@@ -8,8 +8,8 @@ description: |-
   KONTAKT – Das Mitteilungsblatt der MFGT.\
   Die Ausgabe 2019 gibts hier zum Downloaden.
 buttons:
-  - title: ältere ausgaben
+  - title: Archiv
   - cta: true
-    title: download kontakt 2019
+    title: Kontakt 2019
 ---
 
