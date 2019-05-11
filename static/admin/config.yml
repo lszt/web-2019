@@ -339,9 +339,9 @@ collections:
         required: false
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
-  - name: "club-charter-reservationen"
-    label: "Club - Charter + Reservationen"
-    folder: "content/club/charter-reservationen"
+  - name: "club-club"
+    label: "Club - Club"
+    folder: "content/club/club"
     create: true
     slug: "{{slug}}"
     fields:
@@ -420,9 +420,9 @@ collections:
         required: false
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
-  - name: "club-merchandies"
-    label: "Club - Merchandise"
-    folder: "content/club/merchandise"
+  - name: "club-functionary"
+    label: "Club - Funktionäre"
+    folder: "content/club/functionary"
     create: true
     slug: "{{slug}}"
     fields:
