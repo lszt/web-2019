@@ -3,7 +3,7 @@ title: CAMO+
 date: '2019-05-13T17:35:30+02:00'
 draft: false
 weight: '2'
-image: /img/uploads/ausbildung_luftaufnahme.jpg
+image: /img/uploads/maintenance_1.jpg
 description: >-
   Neben dem Betrieb für den Flugzeugunterhalt unterhält die Motorfluggruppe
   Thurgau mit der Lizenz CH.MG.5030 auch eine eigene, nach EASA Part M Subpart G
