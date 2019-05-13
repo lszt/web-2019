@@ -5,7 +5,7 @@ draft: false
 weight: '2'
 image: /img/uploads/ausbildung_flugschule_robin.jpg
 description: |-
-  **Untersee/Rhein, Oberthurgau, Toggenburg**
+  **Untersee/Rhein, Oberthurgau oder Toggenburg**
 
   Flugzeit ca. 30 Minuten
 
