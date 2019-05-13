@@ -5,7 +5,7 @@ draft: false
 weight: '7'
 image: /img/uploads/ausbildung_flugschule_robin.jpg
 description: |-
-  **Berner Alpen/Engadin/Jura**
+  **Berner Alpen, Engadin oder Jura**
 
   Flugzeit ca. 1 Std. 50 Minuten
 
