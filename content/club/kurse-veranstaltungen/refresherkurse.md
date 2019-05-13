@@ -10,6 +10,6 @@ description: >-
 
   Infos jeweils per Newsletter oder in der Agenda.
 buttons:
-  - title: zur agenda
+  - title: agenda
 ---
 

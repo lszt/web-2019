@@ -10,6 +10,6 @@ description: >-
   kunstflugtaugliche FFA AS202 BRAVO.
 buttons:
   - title: details
-  - title: zur agenda
+  - title: agenda
 ---
 

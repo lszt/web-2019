@@ -10,6 +10,6 @@ description: >-
   referiert, wobei die Teilnehmer auch selbst Fragen stellen und ihre
   Erfahrungen einbringen können.
 buttons:
-  - title: zur agenda
+  - title: agenda
 ---
 

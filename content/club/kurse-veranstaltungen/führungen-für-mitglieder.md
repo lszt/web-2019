@@ -11,6 +11,6 @@ description: >-
   Produktionsstätte der Aquila besichtigen. Infos jeweils per Newsletter oder in
   der Agenda.
 buttons:
-  - title: zur agenda
+  - title: agenda
 ---
 

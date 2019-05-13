@@ -9,6 +9,6 @@ description: >-
   Regionen in Europa kennen und stellen sich neuen, fliegerischen
   Herausforderungen.
 buttons:
-  - title: zur agenda
+  - title: agenda
 ---
 
