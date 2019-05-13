@@ -2,6 +2,7 @@
 title: Gutscheine
 date: '2019-05-13T11:58:43+02:00'
 draft: true
+weight: '2'
 image: /img/uploads/club_kontakt.jpg
 description: >-
   Die spezielle Idee zum Geburtstag oder Familienfest: Überraschen Sie Ihre
