@@ -5,7 +5,7 @@ draft: false
 weight: '5'
 image: /img/uploads/ausbildung_flugschule_robin.jpg
 description: |-
-  **Vierwaldstättersee/Tödi/Chur**
+  **Vierwaldstättersee, Tödi oder Chur**
 
   Flugzeit ca. 60 Minuten
 
