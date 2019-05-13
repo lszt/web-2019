@@ -11,6 +11,8 @@ description: |-
   **11.00 bis 12.00 Uhr und 13.30 bis 19.00 Uhr**
 
   An allen übrigen Tagen sind Rundflüge auf Voranmeldung möglich.
+buttons:
+  - title: Flyer downloaden
 ---
 Ein Rundflug ist ab einer Buchung für 2 Passagiere möglich, jeder Passagier erhält für diesen gemeinsamen Flug einen separaten Gutschein.
 
