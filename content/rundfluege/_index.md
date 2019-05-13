@@ -3,7 +3,9 @@ title: Die Schweiz aus der Luft
 date: 2019-04-14T15:03:48.000Z
 draft: false
 coverImages:
-  - image: /img/cover/flugschule.jpg
+  - image: /img/uploads/slider_rundflug_1.jpg
+  - image: /img/uploads/slider_rundflug_2.jpg
+  - image: /img/uploads/slider_rundflug_3.jpg
 ---
 Sind Sie auf der Suche nach einem ganz speziellen Geschenk?\
 Oder möchten Sie selbst einmal die Welt von oben geniessen?
