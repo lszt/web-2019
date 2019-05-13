@@ -3,7 +3,9 @@ title: Wir kümmern uns um Ihr Flugzeug
 date: 2019-04-14T15:03:39.000Z
 draft: false
 coverImages:
-  - image: /img/cover/flugschule.jpg
+  - image: /img/uploads/slider_maintenance_garmin.jpg
+  - image: /img/uploads/slider_maintenance_robin.jpg
+  - image: /img/uploads/slider_maintenance_oldtimer.jpg
 ---
 Die Motorfluggruppe Thurgau betreibt in Lommis mit der Lizenz CH.MF.4037 einen eigenen, sowohl nach EASA Part M, Subpart F als auch nach Art. 34 Abs. 1 der Verordnung über die Lufttüchtigkeit von Luftfahrzeugen (VLL) lizenzierten Unterhaltsbetrieb. Wir sind für den Unterhalt an Flugzeugen und Motorseglern mit Kolbenmotoren in Metall-, Holz-, Gemischt- und Kunststoff-Bauweise bis 5700kg MTOW zertifiziert.
 
