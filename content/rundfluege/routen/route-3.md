@@ -5,7 +5,7 @@ draft: false
 weight: '3'
 image: /img/uploads/ausbildung_flugschule_robin.jpg
 description: |-
-  **Alpstein/Zürichsee/Schaffhausen **
+  **Alpstein, Zürichsee oder Schaffhausen**
 
   Flugzeit ca. 40 Minuten
 
