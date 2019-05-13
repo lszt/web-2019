@@ -5,6 +5,7 @@ draft: false
 image: /img/uploads/ausbildung_aquila.jpg
 description: Test
 ---
-![](/img/uploads/ausbildung_luftaufnahme.jpg)
-
-![](/img/uploads/bild_hangar.jpg)
+Test für einen Bericht
+![null](/img/uploads/ausbildung_luftaufnahme.jpg)
+Zweite Bild
+![null](/img/uploads/bild_hangar.jpg)
