@@ -1,5 +1,5 @@
 ---
-title: Dienstleistungen
+title: Spezialisierungen
 date: '2019-05-13T14:49:58+02:00'
 draft: false
 weight: '1'
