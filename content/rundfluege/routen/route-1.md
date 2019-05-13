@@ -10,5 +10,8 @@ description: |-
   Flugzeit ca. 20 Minuten
 
   Preis pro Person: CHF 80.–
+buttons:
+  - cta: true
+    title: Rundflug buchen
 ---
 
