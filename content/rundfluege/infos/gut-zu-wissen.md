@@ -3,7 +3,7 @@ title: Gut zu wissen
 date: '2019-05-13T11:46:35+02:00'
 draft: false
 weight: '1'
-image: /img/uploads/ausbildung_flugschule_robin.jpg
+image: /img/uploads/rundflug.jpg
 description: |-
   Bei schönem Wetter führen wir Rundflüge zu folgenden Zeiten durch:
 

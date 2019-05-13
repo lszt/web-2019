@@ -3,7 +3,7 @@ title: Route 4
 date: '2019-05-13T12:32:59+02:00'
 draft: false
 weight: '4'
-image: /img/uploads/ausbildung_flugschule_robin.jpg
+image: /img/uploads/rundflug_route4.jpg
 description: |-
   **Innerschweiz, Glarner Alpen oder Pizol**
 
