@@ -7,7 +7,7 @@ image: /img/uploads/ausbildung_flugschule_robin.jpg
 description: |-
   Bei schönem Wetter führen wir Rundflüge zu folgenden Zeiten durch:
 
-  **Sonntag: **\
+  **Sonntag:**\
   **11.00 bis 12.00 Uhr und 13.30 bis 19.00 Uhr**
 
   An allen übrigen Tagen sind Rundflüge auf Voranmeldung möglich.
