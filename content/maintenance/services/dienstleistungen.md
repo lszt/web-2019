@@ -2,7 +2,7 @@
 title: Dienstleistungen
 date: '2019-05-13T14:49:58+02:00'
 draft: false
-weight: '2'
+weight: '1'
 image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: >-
   Unser Betrieb ist auf den Unterhalt an Metall-, Holz-, Gemischt- und
