@@ -2,7 +2,7 @@
 title: YES-Tag 2017
 date: '2019-05-13T15:24:06+02:00'
 draft: false
-weight: '3'
+weight: '2'
 image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: >-
   Einmal einen Tag lang Aviatikkluft schnuppern und selber fliegen – und das
