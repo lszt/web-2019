@@ -1,5 +1,5 @@
 ---
-title: Entdecken Sie die Schweiz aus der Luft
+title: Die Schweiz aus der Luft
 date: 2019-04-14T15:03:48.000Z
 draft: false
 coverImages:
