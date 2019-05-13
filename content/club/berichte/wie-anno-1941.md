@@ -6,6 +6,6 @@ weight: '3'
 image: /img/uploads/berichte_duxford_2016.jpg
 description: '2016: Mit der HB-KLA VFR zur Flying Legends Airshow nach Duxford (UK).'
 buttons:
-  - title: Download Reisebericht (PDF)
+  - title: Reisebericht
 ---
 

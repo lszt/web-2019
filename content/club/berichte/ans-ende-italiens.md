@@ -6,6 +6,6 @@ weight: '4'
 image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: '2016: VFR nach Malta'
 buttons:
-  - title: Download Reisebericht (PDF)
+  - title: Reisebericht
 ---
 
