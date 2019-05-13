@@ -3,7 +3,7 @@ title: Route 6
 date: '2019-05-13T12:34:48+02:00'
 draft: false
 weight: '6'
-image: /img/uploads/ausbildung_flugschule_robin.jpg
+image: /img/uploads/rundflug_route6.jpg
 description: |-
   **Zentralalpen, Gotthard oder Prättigau**
 
