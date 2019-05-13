@@ -5,7 +5,7 @@ draft: false
 weight: '4'
 image: /img/uploads/ausbildung_flugschule_robin.jpg
 description: |-
-  **Innerschweiz/Glarner Alpen/Pizol **
+  **Innerschweiz, Glarner Alpen oder Pizol**
 
   Flugzeit ca. 50 Minuten
 
