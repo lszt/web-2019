@@ -5,7 +5,7 @@ draft: false
 weight: '6'
 image: /img/uploads/ausbildung_flugschule_robin.jpg
 description: |-
-  **Zentralalpen/Gotthard/Prättigau**
+  **Zentralalpen, Gotthard oder Prättigau**
 
   Flugzeit ca. 80 Minuten
 
