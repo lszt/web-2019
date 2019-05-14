@@ -4,7 +4,6 @@ coverImages:
   - image: /img/uploads/slider_kla_lommis.jpg
   - image: /img/uploads/slider_robin.jpg
   - image: /img/cover/flugschule.jpg
-  - {}
 ---
 Der Flugplatz Lommis (ICAO-Code LSZT) wurde 1962 eröffnet und als Ersatz für den Flugplatz Frauenfeld – der damals dem Waffenplatz Frauenfeld weichen musste – geschaffen. Die heute 615 Meter lange und 25 Meter breite Graspiste erlaubt den Betrieb von kleineren, meist ein­motorigen Flugzeugen. 
 
