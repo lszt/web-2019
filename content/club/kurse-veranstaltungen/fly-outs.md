@@ -6,8 +6,7 @@ image: /img/uploads/club_flyaway.jpg
 description: >-
   An jährlich stattfindenden Fly-Outs sammeln Jungpiloten erste
   Auslandserfahrungen und gestandene Piloten lernen neue Destinationen und
-  Regionen in Europa kennen und stellen sich neuen, fliegerischen
-  Herausforderungen.
+  Regionen in Europa kennen.
 buttons:
   - title: agenda
 ---
