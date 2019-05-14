@@ -1,14 +1,19 @@
 ---
-title: "Willkommen in Lommis"
+title: Willkommen in Lommis
 coverImages:
+  - image: /img/uploads/slider_kla_lommis.jpg
+  - image: /img/uploads/slider_robin.jpg
   - image: /img/cover/flugschule.jpg
-  - image: /img/cover/flugschule.jpg
-  - image: /img/cover/flugschule.jpg
+  - {}
 ---
-Die Motorfluggruppe Thurgau ist ein Verein mit ca. 300 Mitgliedern und betreibt in Lommis (Thurgau) eine
-Flugzeug-Flotte von zur Zeit 6 einmotorigen Flugzeugen mit 2 bis 4 Plätzen, welche für Schulung, Reise- und
-Rundflüge eingesetzt werden.
+Der Flugplatz Lommis (ICAO-Code LSZT) wurde 1962 eröffnet und als Ersatz für den Flugplatz Frauenfeld – der damals dem Waffenplatz Frauenfeld weichen musste – geschaffen. Die heute 615 Meter lange und 25 Meter breite Graspiste erlaubt den Betrieb von kleineren, meist ein­motorigen Flugzeugen. 
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+**Fliegen und fliegen lernen**
 
-Bis demnächst in Lommis - wir freuen uns!
+Verwirkliche Dir Deinen Traum vom Fliegen auf unserem Flugplatz – am Steuerknüppel bei einem Schnupperflug oder als Passagier auf einem Rundflug. Und falls es Dir so geht wie schon vielen vor Dir: Wird Pilotin oder Pilot – unsere Flugschule macht’s möglich! 
+
+**Für jeden etwas dabei**
+
+Auch für Nichtflieger und Ausflügler ist unser Flugplatz immer einen Besuch wert. Unsere gemütliche Flugplatzbeiz direkt neben der Start- und Landepiste bietet während der Sommermonate eine breite Auswahl an – Grillspezialitäten inklusive. Und die Kleinsten dürfen sich derweil auf dem grossen Spielplatz nebenan austoben.
+
+Bis demnächst in Lommis – wir freuen uns!
