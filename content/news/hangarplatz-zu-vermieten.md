@@ -17,6 +17,6 @@ buttons:
   + MwSt.
 * Halter und Piloten sind Mitglied der MFGT
 
-**Auskunft: **\
+**Auskunft:**\
 D. Lutz, Betriebsleiter LSZT, \
 T 052 366 33 33 oder <mailto:betriebsleiter@mfgt.ch>
