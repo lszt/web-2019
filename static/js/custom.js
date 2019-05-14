@@ -12,7 +12,7 @@ $('.header-images--slider').slick({
   slidesToShow: 1,
   slidesToScroll: 1,
   autoplay: true,
-  autoplaySpeed: 3500,
+  autoplaySpeed: 5000,
 	arrows: false,
 	fade: true,
 });
