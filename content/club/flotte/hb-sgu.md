@@ -26,4 +26,6 @@ Schul- und Reiseflugzeug
 * Reisegeschwindigkeit: xx KTS
 * MTOW: xx kg
 
+\    
+
 ![](/img/uploads/flotte_cockpit_sgt-sgu.jpg)
