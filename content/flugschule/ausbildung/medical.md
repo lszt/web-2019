@@ -5,8 +5,9 @@ draft: false
 weight: 2
 image: /img/uploads/ausbildung_medical.jpg
 description: >-
-  Vor dem Start der Pilotenausbildung besuchen Sie einen Fliegerarzt, der Sie
-  auf Ihre medizinische Tauglichkeit untersucht. Er stellt bei positivem
-  Entscheid ein sogenanntes Medical aus. Für die Privatpilotenlizenz (PPL) 
-  benötigen Sie ein Medical Class 2.
+  Vor dem Start der Pilotenausbildung besuchst Du einen Fliegerarzt, der Dich
+  auf Deine medizinische Tauglichkeit untersucht. Er stellt ein sogenanntes
+  Medical aus. Für die Privatpilotenlizenz (PPL) benötigst Du ein Medical Class
+  2.
 ---
+
