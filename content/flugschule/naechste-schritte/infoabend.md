@@ -4,11 +4,9 @@ date: 2019-04-14T10:51:24.000Z
 draft: false
 image: /img/uploads/bild_hangar.jpg
 description: >-
-  Interessieren Sie sich für eine Ausbildung zum Privatpiloten und für eine
-  Mitgliedschaft bei der Motorfluggruppe Thurgau? \
-
-  Dann ist der Infotag der Flugschule genau das Richtige für Sie! Sie erfahren
-  alles über die Anforderungen und Inhalte der Ausbildung zum Privatpiloten.
+  Interessierst Du Dich für eine Ausbildung zum Privatpiloten und für eine
+  Mitgliedschaft bei der Motorfluggruppe Thurgau? Dann ist der Infotag der
+  Flugschule genau das Richtige für Dich!
 buttons:
   - cta: true
     title: Daten & Anmeldung

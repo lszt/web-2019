@@ -1,19 +1,19 @@
 ---
-title: Starten Sie bei uns Ihre Berufspiloten-Karriere!
+title: Starte bei uns Deine Berufspiloten-Karriere!
 date: 2019-04-14T10:51:24.000Z
 draft: false
 image: /img/uploads/ausbildung_sphair.jpg
 description: >-
-  SPHAIR findet junge Schweizer Nachwuchspiloten und Fallschirmaufklärer.
-  Experten aus der zivilen und militärischen Luftfahrt prüfen die Kandidaten in
-  einem mehrstufigen Verfahren und bereiten sie auf die Praxis vor. Das SPHAIR
-  Zertifikat ist Qualitätssiegel für das Talent und das Engagement der
-  Kandidaten.
+  SPHAIR findet junge Schweizer Nachwuchspiloten. Experten aus der zivilen und
+  militärischen Luftfahrt prüfen die Kandidaten in einem mehrstufigen Verfahren
+  und bereiten sie auf die Praxis vor.
 buttons:
   - cta: true
     title: Kursdaten
     url: ''
 ---
+**Das SPHAIR Zertifikat ist Qualitätssiegel für das Talent und das Engagement der Kandidaten.**
+
 SPHAIR ist die offizielle Ausbildungsplattform der Schweizer Aviatik. Ein SPHAIR Schlusszertifikat mit positiver Empfehlung wird für eine Laufbahn als Militärpilot vorausgesetzt. Aber auch für die zivile Pilotenlaufbahn, z.B. als Linienpilot ist das Zertifikat ein anerkannter Leistungsausweis für weitere Karriereschritte in der Aviatik. 
 
 Melden Sie sich noch heute unter [www.sphair.ch](http://www.sphair.ch) für die Eignungsprüfung im fliegerärztlichen Institut in Dübendorf an, um die grundlegende Begabung für den Pilotenberuf zu testen. Bei positivem Resultat dürfen Sie an einem zweiwöchigen Kurs teilnehmen, bei welchem Sie die Möglichkeit haben, Ihre Fähigkeiten als Pilot oder Pilotin unter Beweis zu stellen. 

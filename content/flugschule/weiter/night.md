@@ -7,9 +7,10 @@ image: /img/uploads/bild_nit.jpg
 description: >-
   Die Nachtflug-Ausblidung (NIT) ist auf der Stufe Privatpilot eine Erweiterung
   auf freiwilliger Basis. Zur Erlangung der Instrumentenflugberechtigung ist sie
-  Pflicht. Sie ermöglicht es Ihnen, entsprechend ausgerüstete und zugelassene
-  Flugplätze auch bei Nacht anzufliegen.
+  Pflicht.
 ---
+NIT ermöglicht es Dir, entsprechend ausgerüstete und zugelassene Flugplätze auch bei Nacht anzufliegen.
+
 **Voraussetzungen**
 
 * PPL (A)

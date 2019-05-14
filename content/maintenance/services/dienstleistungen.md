@@ -6,23 +6,18 @@ weight: '1'
 image: /img/uploads/maintenance_garmin.jpg
 description: >-
   Unser Betrieb ist auf den Unterhalt an Metall-, Holz-, Gemischt- und
-  Kunststoff-Flugzeugen der nachfolgenden Hersteller spezialisiert:
-
-
-  * Cessna
-
-  * Mooney
-
-  * Piper
-
-  * Robin
-
-  * SIAI-Marchetti
-
-  * Oldtimer nach Annex II
-
-  * Eigenbau/Experimental-Flugzeuge
+  Kunststoff-Flugzeugen diverser Hersteller spezialisiert.
 ---
+Hersteller:
+
+* Cessna
+* Mooney
+* Piper
+* Robin
+* SIAI-Marchetti
+* Oldtimer nach Annex II
+* Eigenbau/Experimental-Flugzeuge
+
 Unsere Flugzeugwartung umfasst die folgenden Teilbereiche:
 
 * Allgemeine Unterhalt- und Servicearbeiten

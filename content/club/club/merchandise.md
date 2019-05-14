@@ -6,8 +6,8 @@ weight: '3'
 image: /img/uploads/club_merchandise_softshell.jpg
 description: >-
   Mach Werbung für die MFGT! Nebst den T-Shirts und Caps stehen neu auch
-  Softshell-Jacken für kühlere Tage zur Verfügung. Bist Du nicht sicher, welche
-  Grösse Du benötigst? Im Sekretariat stehen Muster zur Anprobe bereit.
+  Softshell-Jacken für kühlere Tage zur Verfügung. Im Sekretariat stehen Muster
+  zur Anprobe bereit.
 buttons:
   - cta: true
     title: bestellen

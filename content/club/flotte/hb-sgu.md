@@ -3,7 +3,7 @@ title: HB-SGU
 date: '2019-05-10T16:23:18+02:00'
 draft: false
 weight: '2'
-image: /img/uploads/flotte_dummy.jpg
+image: /img/uploads/flotte_sgu.jpg
 description: '**Aquila A211 GX**'
 buttons:
   - title: Preise
@@ -25,3 +25,7 @@ Schul- und Reiseflugzeug
 * Endurance: xx h
 * Reisegeschwindigkeit: xx KTS
 * MTOW: xx kg
+
+\    
+
+![](/img/uploads/flotte_cockpit_sgt-sgu.jpg)

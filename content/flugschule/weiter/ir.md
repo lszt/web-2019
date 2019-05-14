@@ -5,10 +5,9 @@ draft: false
 weight: '3'
 image: /img/uploads/bild_ir.jpg
 description: >-
-  Möchten Sie unabhängig vom Wetter jederzeit von A nach B fliegen können? Beim
+  Möchtest Du unabhängig vom Wetter jederzeit von A nach B fliegen können? Beim
   Instrumentenflug (IR) wird die Fluglage ausschliesslich durch Interpretation
-  der Instrumente verändert oder gehalten. Ein natürlicher Horizont ist nicht
-  erforderlich.
+  der Instrumente verändert oder gehalten.
 ---
 **Voraussetzungen**
 

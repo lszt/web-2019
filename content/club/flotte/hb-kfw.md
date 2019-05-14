@@ -2,7 +2,7 @@
 title: HB-KFW
 date: 2017-01-04T15:04:10.000Z
 weight: '3'
-image: /img/uploads/flotte_dummy.jpg
+image: /img/uploads/flotte_kfw.jpg
 description: Robin DR400 – 140B
 buttons:
   - title: Preise
@@ -23,3 +23,5 @@ Schul- und Reiseflugzeug
 * Endurance: 4.5 h
 * Reisegeschwindigkeit: xxx KTS
 * MTOW: 1000 kg
+
+![](/img/uploads/flotte_cockpit_kfw-kof.jpg)

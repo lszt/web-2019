@@ -3,7 +3,7 @@ title: HB-KOF
 date: '2019-05-10T16:33:00+02:00'
 draft: false
 weight: '5'
-image: /img/uploads/flotte_dummy.jpg
+image: /img/uploads/flotte_kof.jpg
 description: '**Robin DR400 – 140B**'
 buttons:
   - title: Preise
@@ -24,3 +24,5 @@ Schul- und Reiseflugzeug
 * Endurance: 4.5 h
 * Reisegeschwindigkeit: xxx KTS
 * MTOW: 1000 kg
+
+![](/img/uploads/flotte_cockpit_kfw-kof.jpg)
