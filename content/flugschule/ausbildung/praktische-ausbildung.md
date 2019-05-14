@@ -5,14 +5,13 @@ draft: false
 weight: '4'
 image: /img/uploads/ausbildung_praktische_ausbildung.jpg
 description: >-
-  Im praktischen Teil der Ausbildung bestimmen Sie, wie viel Zeit Sie für die
-  Ausbildung in Anspruch nehmen wollen. Bei einer intensiven Schulung, auch
-  unter der Woche, können Sie die Lizenz in einer Saison erlangen. Vom
-  Gesetzgeber wird ein Minimum von 45 Blockstunden (Zeit vom Wegrollen bis zum
-  Abstellen des Flugzeuges), davon 10 Stunden alleine an Bord, vorgeschrieben,
-  bis Sie die Prüfungsreife erreichen.
+  Im praktischen Teil der Ausbildung bestimmst Du, wieviel Zeit Du für die
+  Ausbildung in Anspruch nehmen willst. Bei einer intensiven Schulung, auch
+  unter der Woche, kann man die Lizenz in einer Saison erlangen.
 ---
-Das Ausbildungsprogramm umfasst folgende Lernstufen:
+Vom Gesetzgeber wird ein Minimum von 45 Blockstunden (Zeit vom Wegrollen bis zum Abstellen des Flugzeuges), davon 10 Stunden alleine an Bord, vorgeschrieben, bis Sie die Prüfungsreife erreichen.
+
+**Das Ausbildungsprogramm umfasst folgende Lernstufen:**
 
 * Einführungsflüge
 * Fluglagentraining
