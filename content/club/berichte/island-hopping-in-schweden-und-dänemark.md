@@ -6,6 +6,6 @@ weight: '5'
 image: /img/uploads/bild_kla_schweden.jpg
 description: '2015: Mit der HB-KLA nach Borgholm, Öland und Gotland'
 buttons:
-  - title: Download Reisebericht (PDF)
+  - title: Reisebericht
 ---
 
