@@ -7,6 +7,7 @@ description: >-
   Softshell-Jacken für kühlere Tage zur Verfügung. Im Sekretariat stehen Muster
   zur Anprobe bereit.
 buttons:
-  - title: bestellen
+  - cta: true
+    title: bestellen
 ---
 ##
