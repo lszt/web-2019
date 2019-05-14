@@ -1,5 +1,5 @@
 ---
-title: Island-Hopping in Schweden und Dänemark
+title: Island-Hopping in Schweden & Dänemark
 date: '2019-05-13T18:26:53+02:00'
 draft: false
 weight: '5'
