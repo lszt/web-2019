@@ -3,7 +3,7 @@ title: YES-Tag 2018
 date: '2019-05-13T15:16:45+02:00'
 draft: false
 weight: '1'
-image: /img/uploads/bild_schnupperflug.jpg
+image: /img/uploads/yes_2018.jpg
 description: >-
   Am 11. August 2018 fand unter der Leitung der Motorfluggruppe wieder ein
   YES-Tag statt.
@@ -16,8 +16,14 @@ Linienpiloten und Privatflugpiloten sind nicht das gleiche. Linienpiloten fliege
 
 _Lisa M. und Luis M._
 
+![](/img/uploads/yes2018_1.jpg)
+
 Mit der Navigation fällt es einem leichter zu fliegen. Die Karten helfen auch viel dabei, aber wenn man mehr Mals fliegt, kennt man die Umgebung besser, und braucht keine Navigation mehr, aber für viele von uns war es am Anfang noch schwierig mit Navigation um zu gehen. Wir wissen aber, dass man es sehr gut gebrauchen kann in Gebieten, die man nicht gut kennt oder wenn man keine gute Sicht hat wie Nebel. 
 
 _Noah J. und Moritz E._ 
 
+![](/img/uploads/yes2018_2.jpg)
+
 Nach einer kurzen Besprechung und einem Aussencheck stiegen wir in das 4-Mann-Propellerflugzeug und begannen direkt damit, die Checkliste abzuarbeiten. Es dauerte nicht lange bis uns der Cheffluglehrer der MFGT Markus Schnyder in die Luft beförderte. Nachdem er die Platzrunde gemacht hatte, übergab er uns die Kontrolle über das Flugzeug. Bei dem ersten Flug steuerten wir den Säntis an. Dabei genossen wir die grandiose Aussicht auf das Alpsteinmassiv. Danach flogen wir den Rhein an und später ging es in Richtung Thurtal, wo wir eine kleine Sightseeingtour mit dem ortsansässigen Schüler Felix G. machten, der die Umgebung sehr gut kennt.
+
+![](/img/uploads/yes2018_3.jpg)
