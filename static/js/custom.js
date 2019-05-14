@@ -14,6 +14,7 @@ $('.header-images--slider').slick({
   autoplay: true,
   autoplaySpeed: 3500,
 	arrows: false,
+	fade: true,
 });
 
 /* Mobile Navigation Fix */
