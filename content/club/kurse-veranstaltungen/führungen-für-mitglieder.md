@@ -6,10 +6,9 @@ weight: '6'
 image: /img/uploads/club_fuehrungen.jpg
 description: >-
   Interessiert, mal hinter die Kulissen zu schauen? Einige unserere Mitglieder
-  ermöglichen immer wieder mal Führungen an aussergewöhnliche Orte – z.B.
-  durften wir bereits die Gepäcksortieranlage am Flughafen Kloten oder die
-  Produktionsstätte der Aquila besichtigen. Infos jeweils per Newsletter oder in
-  der Agenda.
+  ermöglichen immer wieder mal Führungen an aussergewöhnliche Orte.\
+
+  Infos jeweils per Newsletter oder in der Agenda.
 buttons:
   - title: agenda
 ---
