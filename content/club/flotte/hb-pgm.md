@@ -2,7 +2,7 @@
 title: HB-PGM
 date: 2017-01-04T15:04:10.000Z
 weight: '6'
-image: /img/uploads/flotte_dummy.jpg
+image: /img/uploads/flotte_pgm.jpg
 description: '**Piper Archer II PA28-181**'
 buttons:
   - title: Preise
@@ -24,3 +24,5 @@ Reiseflugzeug
 * Endurance: xx h
 * Reisegeschwindigkeit: xxx KTS
 * MTOW: xxx kg
+
+![](/img/uploads/flotte_cockpit_pgm.jpg)
