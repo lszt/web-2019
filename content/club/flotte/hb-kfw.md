@@ -24,10 +24,4 @@ Schul- und Reiseflugzeug
 * Reisegeschwindigkeit: xxx KTS
 * MTOW: 1000 kg
 
-
-
-
-
-
-
 ![null](/img/uploads/flotte_cockpit_kfw-kof.jpg)
