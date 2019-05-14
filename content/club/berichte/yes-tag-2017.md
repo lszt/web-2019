@@ -6,9 +6,7 @@ weight: '2'
 image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: >-
   Einmal einen Tag lang Aviatikkluft schnuppern und selber fliegen – und das
-  erst noch kostenlos? Ein weiterer YES-Tag hat am 16. September unter der
-  Leitung der Motorfluggruppe Thurgau (MFGT) auf dem Flugplatz Lommis
-  stattgefunden.
+  erst noch kostenlos? Yes, am YES-Tag 2017!
 ---
 **Berichte von Teilnehmenden**
 
