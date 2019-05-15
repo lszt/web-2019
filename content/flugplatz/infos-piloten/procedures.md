@@ -36,6 +36,10 @@ pro Übernachtung (inkl. MwSt): CHF 30.–
 
 **AD Info**
 
+![](/img/uploads/bild_piloteninfos_vac.jpg)
+
+![](/img/uploads/bild_piloteninfos_ad-info.jpg)
+
 Angaben ohne Gewähr. Massgebend sind die offiziellen Publikationen (VFR Manual CH)\
 _Informations provided without guarantee. Use official publications (VFR Manual CH) for planning and navigation._
 
