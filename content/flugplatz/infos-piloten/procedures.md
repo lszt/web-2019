@@ -17,7 +17,7 @@ SUN/HOL: \
 
 **Landetaxen**
 
-MTOM 0 – 750 kg 	\
+MTOM 0 – 750 kg\
 Clubflugzeuge Schulung (exkl. MwSt): CHF 11.–\
 Alle anderen Flugzeuge (inkl. MwSt): CHF 16.–
 
@@ -42,7 +42,7 @@ _Informations provided without guarantee. Use official publications (VFR Manual 
 **Procedures**
 
 An- und Abflug LSZT\
-_Approach and Departure LSZT _
+_Approach and Departure LSZT_
 
 Engine Start LSZT
 
