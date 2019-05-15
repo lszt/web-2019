@@ -12,4 +12,24 @@ buttons:
   - cta: true
     title: bestellen
 ---
+**T-Shirt**
 
+![](/img/uploads/bild_shirts.jpg)
+
+![](/img/uploads/bild_shirts_2.jpg)
+
+Bei den T-Shirts stehen die Grössen S/M/L/XL/XXL (nur Herren) zur Auswahl. Zusätzlich können die Herren mit oder ohne Brusttasche auswählen. \
+Preis: CHF 45.– 
+
+**Softshell-Jacke**
+
+![](/img/uploads/bild_softshell.jpg)
+
+Die Softshell Jacke kann für Damen oder Herren (siehe Bilder) bestellt werden.\
+Preis: CHF 149.-
+
+**Cap**
+
+![](/img/uploads/bild_cap.jpg)
+
+Preis: CHF 15.–
