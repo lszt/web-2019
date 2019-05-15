@@ -2,7 +2,7 @@
 title: Infos für Piloten
 date: 2017-01-04T15:04:10.000Z
 weight: '1'
-image: /img/uploads/ausbildung_luftaufnahme.jpg
+image: /img/uploads/bild_infos_piloten.jpg
 description: >-
   Hier finden Sie Informationen, Verfahren und Gebühren, wie sie in Lommis LSZT
   angewendet werden. An- und abfliegende Piloten bitten wir, sich strikt daran
