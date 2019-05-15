@@ -5,7 +5,7 @@ weight: '1'
 image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: >-
   Hier finden Sie Informationen, Verfahren und Gebühren, wie sie in Lommis LSZT
-  angewendet werden. An- und abfliegende Piloten bitten wir, sich zwingend daran
+  angewendet werden. An- und abfliegende Piloten bitten wir, sich strikt daran
   zu halten.
 ---
 **Betriebszeiten:**\
