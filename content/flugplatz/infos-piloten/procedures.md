@@ -45,6 +45,8 @@ _Informations provided without guarantee. Use official publications (VFR Manual 
 
 **Procedures**
 
+![](/img/uploads/bild_piloteninfos_procedures.jpg)
+
 An- und Abflug LSZT\
 _Approach and Departure LSZT_
 
