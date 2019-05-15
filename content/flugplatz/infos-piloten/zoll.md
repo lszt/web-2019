@@ -10,8 +10,10 @@ description: >-
 buttons:
   - cta: true
     title: Zoll-Formular
+    url: 'http://www.zollairport.ch/Fluganmeldung/ZollAnmeldung/ZollForm.php?ad=LSZT&la=DE'
   - cta: true
     title: Custom Form
+    url: 'http://www.zollairport.ch/Fluganmeldung/ZollAnmeldung/ZollForm.php?ad=LSZT&la=EN'
 ---
 Personenabfertigungen für Direktflüge ins Ausland (Ausflug-Zoll in den Schengen-Raum) bzw. für Direkteinflüge aus dem Ausland (Einflug-Zoll aus dem Schengen-Raum).
 
