@@ -10,6 +10,6 @@ description: >-
 ---
 Grund genug für einen Spontan-Event in unserem Hangar mit einem spannenden Referet von Carlo Ferrari – Pilot und Owner dieses Prachtstücks!
 
-![](/img/uploads/news_beech18_2.jpg)
+![null](/img/uploads/news_beech18_2.jpg)
 
-![](/img/uploads/news_beech18_3.jpg)
+![null](/img/uploads/news_beech18_3.jpg)
