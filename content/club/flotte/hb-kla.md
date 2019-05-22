@@ -14,7 +14,7 @@ buttons:
 Reiseflugzeug
 
 * 4 Sitzplätze
-* Engine: TAE  CDI 155
+* Engine: Thielert Centurion 2.0S – TAE125-02-114
 * Leistung: 155 PS
 * Zulassung: VFR
 * 2-Achsen-Autopilot
@@ -26,4 +26,4 @@ Reiseflugzeug
 * Reisegeschwindigkeit: 125 KTS
 * MTOW: 1100 kg
 
-![](/img/uploads/flotte_cockpit_kla.jpg)
+![null](/img/uploads/flotte_cockpit_kla.jpg)
