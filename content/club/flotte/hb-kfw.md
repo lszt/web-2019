@@ -14,14 +14,15 @@ buttons:
 Schul- und Reiseflugzeug
 
 * 4 Sitzplätze
-* Engine: xxx
-* Leistung: xxx PS
+* Engine: Lycoming O-320-D2A
+* Leistung: 160 PS
 * Zulassung: VFR
 * PowerFLARM
-* Haupttank: 110 Liter Jet A1
-* Zusatztank: 50 Liter Jet A1
+* Garmin GTN 650
+* Haupttank: 110 Liter Avgas/Mogas
+* Zusatztank: 50 Liter Avgas/Mogas
 * Endurance: 4.5 h
-* Reisegeschwindigkeit: xxx KTS
+* Reisegeschwindigkeit: 105 KTS
 * MTOW: 1000 kg
 
 ![null](/img/uploads/flotte_cockpit_kfw-kof.jpg)
