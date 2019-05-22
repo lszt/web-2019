@@ -22,7 +22,7 @@ Reiseflugzeug
 * PowerFLARM
 * Haupttank: 110 Liter Jet A1
 * Zusatztank: 50 Liter Jet A1
-* Endurance: 5.5 h
+* Endurance: 6 h
 * Reisegeschwindigkeit: 125 KTS
 * MTOW: 1100 kg
 
