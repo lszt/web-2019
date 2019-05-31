@@ -7,6 +7,6 @@ image: /img/uploads/fluglehrer_blanco.jpg
 description: |-
   Accountable Manager Maintenance / CAMO\
   Certifying Staff EASA / FAA\
-  Lizenzierter Flugzeugmechaniker
-   <mailto:maintenance@mfgt.ch>
+  Lizenzierter Flugzeugmechaniker\
+  <mailto:maintenance@mfgt.ch>
 ---
