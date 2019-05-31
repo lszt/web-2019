@@ -9,7 +9,7 @@ buttons:
   - title: M&B
   - cta: true
     title: Reservation
-    url: 'https://www.flightnet.aero'
+    url: 'https://www.flightnet.aero/default.aspx?company=mfgt'
 ---
 Schul- und Reiseflugzeug
 
