@@ -7,10 +7,9 @@ description: >-
   Landen Sie in Lommis und möchten Sie auch am Boden mobil sein? Dann haben Sie
   die Möglichkeit, bei uns ein Mietauto zu reservieren.
 buttons:
-  - cta: false
-    title: AGB
   - cta: true
     title: Reservieren
+    url: 'https://docs.google.com/forms/d/e/1FAIpQLSfKNzpS-LO_PFkbR8UcXd2bBl2Rf8Sb4JOitPKNzs5o4n1JPA/viewform'
 ---
 
 Landen Sie in Lommis und möchten Sie auch am Boden mobil sein? Dann haben Sie die Möglichkeit, bei uns ein Mietauto zu reservieren.
