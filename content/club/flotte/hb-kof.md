@@ -7,6 +7,8 @@ image: /img/uploads/flotte_kof.jpg
 description: '**Robin DR400 – 140B**'
 buttons:
   - title: Preise
+    cta: false
+    url: 'https://drive.google.com/a/mfgt.ch/file/d/19wMdnTTvqhRbaScBwS0Tqf3iBVFWExGj/view'
   - title: M&B
   - cta: true
     title: Reservation

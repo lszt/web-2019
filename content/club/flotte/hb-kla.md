@@ -5,7 +5,9 @@ weight: '5'
 image: /img/uploads/flotte_kla.jpg
 description: '**Robin DR401 – 155CDI**'
 buttons:
-  - title: 'Preise '
+  - title: 'Preise'
+    cta: false
+    url: 'https://drive.google.com/a/mfgt.ch/file/d/19wMdnTTvqhRbaScBwS0Tqf3iBVFWExGj/view'
   - title: M&B
   - cta: true
     title: Reservation

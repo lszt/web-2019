@@ -7,6 +7,8 @@ image: /img/uploads/flotte_sgt.jpg
 description: '**Aquila A211 GX**'
 buttons:
   - title: Preise
+    cta: false
+    url: 'https://drive.google.com/a/mfgt.ch/file/d/19wMdnTTvqhRbaScBwS0Tqf3iBVFWExGj/view'
   - title: M&B
   - cta: true
     title: Reservation

@@ -6,6 +6,8 @@ image: /img/uploads/flotte_pgm.jpg
 description: '**Piper Archer II PA28-181**'
 buttons:
   - title: Preise
+    cta: false
+    url: 'https://drive.google.com/a/mfgt.ch/file/d/19wMdnTTvqhRbaScBwS0Tqf3iBVFWExGj/view'
   - title: M&B
   - cta: true
     title: Reservation
