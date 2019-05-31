@@ -9,6 +9,7 @@ description: >-
 buttons:
   - cta: true
     title: Anfragen
+    url: 'mailto:betriebsleiter@mfgt.ch'
 ---
 * Flugzeug bis max. 11 m Spannweite
 * Hoch- oder Tiefdecker
