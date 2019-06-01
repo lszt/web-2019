@@ -1,0 +1,30 @@
+#airport-status {
+  position: relative;
+  padding: 1em;
+  min-height: 250px;
+  &.airport-open {
+    background: #35f192;
+    .airport-status__icon {
+      background-image: url('/img/icon-check-circle.svg');
+    }
+  }
+  &.airport-close {
+    background: #ff6838;
+    .airport-status__icon {
+      background-image: url('/img/icon-close-circle.svg');
+    }
+  }
+  &.airport-error {
+    background: grey;
+  }
+  .airport-status__icon {
+    display: block;
+    position: absolute;
+    bottom: 1em;
+    right: 1em;
+    height: 60px;
+    width: 60px;
+    background-size: 60px 60px;
+    filter: brightness(0) invert(1);
+  }
+}
