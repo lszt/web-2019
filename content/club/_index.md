@@ -3,6 +3,7 @@ title: unsere mitglieder in der luft
 date: 2019-04-14T15:03:45.000Z
 draft: false
 coverImages:
+  - image: /img/uploads/slider_kla_gibraltar.jpg
   - image: /img/uploads/slider_pilzen.jpg
   - image: /img/uploads/slider_club_pa28.jpg
 ---

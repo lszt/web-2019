@@ -7,23 +7,25 @@ image: /img/uploads/flotte_sgt.jpg
 description: '**Aquila A211 GX**'
 buttons:
   - title: Preise
+    cta: false
+    url: 'https://drive.google.com/a/mfgt.ch/file/d/19wMdnTTvqhRbaScBwS0Tqf3iBVFWExGj/view'
   - title: M&B
   - cta: true
     title: Reservation
-    url: 'http://www.flightnet.aero'
+    url: 'https://www.flightnet.aero/default.aspx?company=mfgt'
 ---
 Schul- und Reiseflugzeug
 
 * 2 Sitzplätze
-* Engine: xxx
-* Leistung: xxx PS
+* Engine: Rotax 912S
+* Leistung: 101 PS
 * Zulassung: VFR
 * Garmin GPS 500
 * PowerFLARM
-* Haupttank: xx Liter Jet A1
-* Zusatztank: xx Liter Jet A1
-* Endurance: xx h
-* Reisegeschwindigkeit: xx KTS
-* MTOW: xx kg
+* Flügeltank links: 60 Liter Avgas/Mogas
+* Flügeltank rechts: 60 Liter Avgas/Mogas
+* Endurance: 5.5 h
+* Reisegeschwindigkeit: 120 KTS
+* MTOW: 750 kg
 
-![](/img/uploads/flotte_cockpit_sgt-sgu.jpg)
+![null](/img/uploads/flotte_cockpit_sgt-sgu.jpg)

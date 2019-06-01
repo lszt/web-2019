@@ -5,4 +5,36 @@ draft: false
 image: /img/uploads/shpair_ehemalige.jpg
 description: Hier findest Du Fotos und Berichte vergangener SPHAIR-Kurse
 ---
-Inhalt folgt
+### 2017
+
+S-108
+
+![](/img/uploads/sphair_108.jpg)
+
+S-122
+
+![](/img/uploads/sphair_122.jpg)
+
+S-147
+
+![](/img/uploads/sphair_147.jpg)
+
+### 2016
+
+S-105
+
+![](/img/uploads/sphair_105.jpg)
+
+S-146
+
+![](/img/uploads/sphair_146.jpg)
+
+### 2015
+
+S-104
+
+![](/img/uploads/sphair_104.jpg)
+
+S-125
+
+![](/img/uploads/sphair_125.jpg)

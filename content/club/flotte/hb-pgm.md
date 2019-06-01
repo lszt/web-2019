@@ -6,23 +6,25 @@ image: /img/uploads/flotte_pgm.jpg
 description: '**Piper Archer II PA28-181**'
 buttons:
   - title: Preise
+    cta: false
+    url: 'https://drive.google.com/a/mfgt.ch/file/d/19wMdnTTvqhRbaScBwS0Tqf3iBVFWExGj/view'
   - title: M&B
   - cta: true
     title: Reservation
-    url: 'https://www.flightnet.aero'
+    url: 'https://www.flightnet.aero/default.aspx?company=mfgt'
 ---
 Reiseflugzeug
 
 * 4 Sitzplätze
-* Engine: xxx
-* Leistung: xxx PS
+* Engine: Avco Lycoming O-360-A4M 
+* Leistung: 180 PS
 * Zulassung: VFR
 * 2-Achsen-Autopilot
 * PowerFLARM
-* Haupttank: xx Liter Jet A1
-* Zusatztank: xx Liter Jet A1
-* Endurance: xx h
-* Reisegeschwindigkeit: xxx KTS
-* MTOW: xxx kg
+* Linker Flügeltank: 95 Liter Avgas/Mogas
+* Rechter Flügeltank: 95 Liter Avgas/Mogas
+* Endurance: 5 h
+* Reisegeschwindigkeit: 110 KTS
+* MTOW: 1157 kg
 
-![](/img/uploads/flotte_cockpit_pgm.jpg)
+![null](/img/uploads/flotte_cockpit_pgm.jpg)

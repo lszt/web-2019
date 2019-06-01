@@ -8,5 +8,5 @@ description: "Mindestalter\_\_\_|\_\_\_15 Jahre\n\nMindestflugstunden\_\_\_|\_\_
 buttons:
   - cta: true
     title: Anmelden
-    url: 'https://www.google.ch/'
+    url: 'https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform'
 ---

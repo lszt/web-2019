@@ -7,22 +7,25 @@ image: /img/uploads/flotte_kof.jpg
 description: '**Robin DR400 – 140B**'
 buttons:
   - title: Preise
+    cta: false
+    url: 'https://drive.google.com/a/mfgt.ch/file/d/19wMdnTTvqhRbaScBwS0Tqf3iBVFWExGj/view'
   - title: M&B
   - cta: true
     title: Reservation
-    url: 'https://www.flightnet.aero'
+    url: 'https://www.flightnet.aero/default.aspx?company=mfgt'
 ---
 Schul- und Reiseflugzeug
 
 * 4 Sitzplätze
-* Engine: xxx
-* Leistung: xxx PS
+* Engine: Lycoming O-320-D2A
+* Leistung: 160 PS
 * Zulassung: VFR
 * PowerFLARM
-* Haupttank: 110 Liter Jet A1
-* Zusatztank: 50 Liter Jet A1
+* Garmin GTN 650
+* Haupttank: 110 Liter Avgas/Mogas
+* Zusatztank: 50 Liter Avgas/Mogas
 * Endurance: 4.5 h
-* Reisegeschwindigkeit: xxx KTS
+* Reisegeschwindigkeit: 105 KTS
 * MTOW: 1000 kg
 
-![](/img/uploads/flotte_cockpit_kfw-kof.jpg)
+![null](/img/uploads/flotte_cockpit_kfw-kof.jpg)

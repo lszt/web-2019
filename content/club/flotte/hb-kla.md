@@ -5,16 +5,18 @@ weight: '5'
 image: /img/uploads/flotte_kla.jpg
 description: '**Robin DR401 – 155CDI**'
 buttons:
-  - title: 'Preise '
+  - title: 'Preise'
+    cta: false
+    url: 'https://drive.google.com/a/mfgt.ch/file/d/19wMdnTTvqhRbaScBwS0Tqf3iBVFWExGj/view'
   - title: M&B
   - cta: true
     title: Reservation
-    url: 'https://www.flightnet.aero'
+    url: 'https://www.flightnet.aero/default.aspx?company=mfgt'
 ---
 Reiseflugzeug
 
 * 4 Sitzplätze
-* Engine: TAE  CDI 155
+* Engine: Thielert Centurion 2.0S – TAE125-02-114
 * Leistung: 155 PS
 * Zulassung: VFR
 * 2-Achsen-Autopilot
@@ -22,8 +24,8 @@ Reiseflugzeug
 * PowerFLARM
 * Haupttank: 110 Liter Jet A1
 * Zusatztank: 50 Liter Jet A1
-* Endurance: 5.5 h
+* Endurance: 6 h
 * Reisegeschwindigkeit: 125 KTS
 * MTOW: 1100 kg
 
-![](/img/uploads/flotte_cockpit_kla.jpg)
+![null](/img/uploads/flotte_cockpit_kla.jpg)

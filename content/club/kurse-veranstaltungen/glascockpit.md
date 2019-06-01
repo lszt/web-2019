@@ -10,5 +10,6 @@ description: >-
 buttons:
   - cta: true
     title: anmelden
+    url: 'https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform'
 ---
 
