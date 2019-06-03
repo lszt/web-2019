@@ -9,7 +9,7 @@ description: >-
   auf freiwilliger Basis. Zur Erlangung der Instrumentenflugberechtigung ist sie
   Pflicht.
 ---
-NIT ermöglicht es Dir, entsprechend ausgerüstete und zugelassene Flugplätze auch bei Nacht anzufliegen.
+Die Erweiterung NIT ermöglicht es Dir, entsprechend ausgerüstete und zugelassene Flugplätze auch bei Nacht anzufliegen.
 
 **Voraussetzungen**
 
