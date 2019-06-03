@@ -17,7 +17,7 @@ description: >-
 \
 **Theoretische Ausbildung**
 
-Die theoretische Ausbildung erfolgt bei einem externen Anbieter wie [Safety Wings](https://www.safetywings.ch/) oder [Horizon SFA](https://www.horizon-sfa.ch/de) im Fernstrudieum oder als Klassenlehrgang.
+Die theoretische Ausbildung erfolgt bei einem externen Anbieter wie [Safety Wings](https://www.safetywings.ch/) oder [Horizon SFA](https://www.horizon-sfa.ch/de) im Fernstudium oder als Klassenlehrgang.
 
 \
 **Praktische Ausbildung**
