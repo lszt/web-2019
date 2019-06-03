@@ -13,13 +13,13 @@ NIT ermöglicht es Dir, entsprechend ausgerüstete und zugelassene Flugplätze a
 
 **Voraussetzungen**
 
-* PPL (A)
+* PPL
 * Medical Class 2
 
 \
 **Theoretische Ausbildung**
 
-Das dazu notwendige Wissen wird Ihnen von Ihrem Fluglehrer anlässlich der praktischen Ausbildung vermittelt. Es gibt weder einen Theoriekurs noch eine Theorieprüfung dafür.
+Das dazu notwendige Wissen wird Dir von Deinem Fluglehrer anlässlich der praktischen Ausbildung vermittelt. Es gibt weder einen Theoriekurs noch eine Theorieprüfung dafür.
 
 \
 **Praktische Ausbildung**
