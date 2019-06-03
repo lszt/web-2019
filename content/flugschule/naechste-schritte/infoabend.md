@@ -11,6 +11,8 @@ buttons:
   - cta: true
     title: Daten & Anmeldung
 ---
-Wir zeigen Ihnen, wie die theoretische und die praktische Ausbildung aufgebaut ist, welche Voraussetzungen Sie mitbringen sollten und mit welchen Kosten Sie rechnen können. Das wichtigste aber: Wir wollen Sie fürs Fliegen begeistern und mit dem Virus aviaticus anstecken!
+Selbstverständlich stehen wir Dir bei Fragen jederzeit Red' und Antwort. Melde Dich einfach beim [Sekretariat](mailto:sekretariat@mfgt.ch) für einen individuellen Termin.
 
-Am Nachmittag können Sie bei einem Schnupperflug mit einem Fluglehrer das Steuer selber in die Hand nehmen. Die Kosten für den Schnupperflug betragen CHF 300.– für einen rund 40-minütigen Flug mit der Aquila. Bitte bei der Anmeldung vermerken, wenn Sie Interesse haben. Wir freuen uns auf Sie!
+Wir zeigen Dir, wie die Ausbildung aufgebaut ist, welche Voraussetzungen Du mitbringen solltest und mit welchen Kosten Du rechnen musst. Das Wichtigste aber: Wir wollen Dich fürs Fliegen begeistern und mit dem «Virus aviaticus» anstecken!
+
+Am Nachmittag kannst Du bei einem Schnupperflug mit einem Fluglehrer das Steuer selber in die Hand nehmen. Die Kosten dafür betragen CHF 300.– für einen rund 40-minütigen Flug mit der Aquila plus Vor- und Nachbearbeitung. Bitte bei der Anmeldung vermerken, wenn Du Interesse hast. Wir freuen uns auf Dich!
