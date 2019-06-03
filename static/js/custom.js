@@ -6,16 +6,6 @@ $('.navigation__close').bind('click', function () {
 	$('body').removeClass('show-mobile-navigation');
 });
 
-// Header-Slider
-$('.header-images--slider').slick({
-  slidesToShow: 1,
-  slidesToScroll: 1,
-  autoplay: true,
-  autoplaySpeed: 5000,
-	arrows: false,
-	fade: true,
-});
-
 /* Mobile Navigation Fix */
 $(window).resize(function () {
 	if ($(window).width() > 600) {
@@ -23,7 +13,33 @@ $(window).resize(function () {
 	}
 });
 
-// Airport Status
+// Header-Slider
+function startHeaderSlider() {
+	$('.header-images--slider').slick({
+		slidesToShow: 1,
+		slidesToScroll: 1,
+		autoplay: true,
+		autoplaySpeed: 5000,
+		arrows: false,
+		fade: true,
+	});
+}
+
+// Webcam Slider
+function startWebcamSlider() {
+	if ($('#airport-status').length) {
+		$('.airport-webcam--slider').slick({
+			slidesToShow: 1,
+			slidesToScroll: 1,
+			autoplay: true,
+			autoplaySpeed: 5000,
+			arrows: true,
+			fade: false,
+		});
+	}
+}
+
+// Date Helper
 function formatDate(date) {
 	var day = date.getDate() < 10 ? '0' + date.getDate() : date.getDate();
 	var month = date.getMonth() < 10 ? '0' + (date.getMonth() + 1) : (date.getMonth() + 1);
@@ -35,6 +51,7 @@ function formatDate(date) {
 	return date + ' ' + time;
 }
 
+// Airport Status
 function fetchAirportStatus() {
 	// Only if airport status is embedded
 	if ($('#airport-status').length) {
@@ -53,4 +70,6 @@ function fetchAirportStatus() {
 
 $(document).ready(function(){
 	fetchAirportStatus();
+	startHeaderSlider();
+	startWebcamSlider();
 });

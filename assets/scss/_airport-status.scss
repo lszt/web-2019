@@ -1,7 +1,8 @@
 #airport-status {
   position: relative;
   padding: 1em;
-  min-height: 250px;
+  min-height: 200px;
+  height: calc(100% - 35px - 50px);
   &.airport-open {
     background: #35f192;
     .airport-status__icon {
