@@ -7,4 +7,4 @@ coverImages:
   - image: /img/uploads/slider_flugschule_2.jpg
   - image: /img/uploads/slider_flugschule_3.jpg
 ---
-Die Motorfluggruppe Thurgau betreibt seit 1946 ihre eigene Fluschule und ist seit 2017 Teil der SwissPSA (Swiss Pilot School Association).
+Die Motorfluggruppe Thurgau betreibt seit 1946 ihre eigene Flugschule und ist seit 2017 Teil der SwissPSA (Swiss Pilot School Association).
