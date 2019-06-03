@@ -9,7 +9,9 @@ description: >-
   Ausbildung in Anspruch nehmen willst. Bei einer intensiven Schulung, auch
   unter der Woche, kann man die Lizenz in einer Saison erlangen.
 ---
-Vom Gesetzgeber wird ein Minimum von 45 Blockstunden (Zeit vom Wegrollen bis zum Abstellen des Flugzeuges), davon 10 Stunden alleine an Bord, vorgeschrieben, bis Sie die Prüfungsreife erreichen.
+Unsere erfahrenen Fluglehrer stehen dir unter der Woche wie auch an den Wochenenden zur Verfügung.
+
+Für das PPL (Private Pilot Licence) wird vom Gesetzgeber ein Minimum von 45 Blockstunden (Zeit vom Wegrollen bis zum Abstellen des Flugzeuges), davon 10 Stunden alleine an Bord, vorgeschrieben, bis Du die Prüfungsreife erreichst.
 
 **Das Ausbildungsprogramm umfasst folgende Lernstufen:**
 
@@ -24,4 +26,6 @@ Vom Gesetzgeber wird ein Minimum von 45 Blockstunden (Zeit vom Wegrollen bis zum
 * Navigationsflug allein an Bord über eine Distanz von 270km mit Zwischenlandungen
 * Prüfungstraining
 
-Diese Voraussetzungen gelten für die europäische EASA-Lizenz, die Sie zum Fliegen im gesamten europäischen Raum, sowie im kontrollierten Luftraum ermächtigen.
+Diese Voraussetzungen gelten für die europäische EASA-Lizenz, die Dich zum Fliegen im gesamten europäischen Raum, sowie im kontrollierten Luftraum ermächtigen.
+
+Für das LAPL (Light Aircraft Pilot Licence) sind hingegen nur 30 Blockstunden vorgeschrieben, dafür sind auch die Einsatzmöglichkeiten im Gegensatz zum PPL eingeschränkt. Welche Lizenz für Dich in Frage kommt, werden wir gerne in einem persönlichen Gespräch zusammen analysieren.
