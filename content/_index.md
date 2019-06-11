@@ -9,7 +9,7 @@ Der Flugplatz Lommis (ICAO-Code LSZT) wurde 1962 eröffnet und als Ersatz für d
 
 **Fliegen und fliegen lernen**
 
-Verwirkliche Dir Deinen Traum vom Fliegen auf unserem Flugplatz – am Steuerknüppel bei einem Schnupperflug oder als Passagier auf einem Rundflug. Und falls es Dir so geht wie schon vielen vor Dir: Wird Pilotin oder Pilot – unsere Flugschule macht’s möglich!
+Verwirkliche Dir Deinen Traum vom Fliegen auf unserem Flugplatz – am Steuerknüppel bei einem Schnupperflug oder als Passagier auf einem Rundflug. Und falls es Dir so geht wie schon vielen vor Dir: Werde Pilotin oder Pilot – unsere Flugschule macht’s möglich!
 
 **Für jeden etwas dabei**
 
