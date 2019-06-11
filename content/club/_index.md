@@ -7,6 +7,6 @@ coverImages:
   - image: /img/uploads/slider_pilzen.jpg
   - image: /img/uploads/slider_club_pa28.jpg
 ---
-Die Motorfluggruppe Thurgau ist ein Verein mit ca. 300 Mitgliedern und betreibt in Lommis TG eine Flugzeug-Flotte von zur Zeit 6 einmotorigen Flugzeugen mit 2 bis 4 Plätzen, welche für Schulung, Reise- und Rundflüge eingesetzt werden.
+Die Motorfluggruppe Thurgau ist ein Verein mit ca. 230 Mitgliedern und betreibt in Lommis TG eine Flugzeug-Flotte von zur Zeit 6 einmotorigen Flugzeugen mit 2 bis 4 Plätzen, welche für Schulung, Reise- und Rundflüge eingesetzt werden.
 
 Neben dem primären Ziel, den Mitgliedern das Fliegen zu günstigen Konditionen zu ermöglichen, werden auch regelmässige Clubanlässe organisiert.
