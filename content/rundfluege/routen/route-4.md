@@ -13,5 +13,7 @@ description: |-
 buttons:
   - cta: true
     title: Rundflug buchen
+    url: >-
+      https://www.gurado.de/mfgt/gutscheine-rundfluge/gutschein-rundflug-route-4.html
 ---
 
