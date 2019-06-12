@@ -26,6 +26,6 @@ Die theoretische Ausbildung erfolgt bei einem externen Anbieter wie [Safety Wing
 * davon 40 h auf dem Simulator  
 
  \
-**Kosten und weiteres Informationen**
+**Kosten und weitere Informationen**
 
 Telefon 052 366 33 33 oder <mailto:info@mfgt.ch>
