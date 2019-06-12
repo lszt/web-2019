@@ -30,6 +30,6 @@ Die theoretische Ausbildung erfolgt bei einem externen Anbieter wie [Safety Wing
 
 Inhabern einer gültigen IR(A)-Lizenz werden die 10 h nach Instrumenten angerechnet.  
 
-### Kostenübersicht
+### Kosten und weiteres Informationen
 
-[Download (PDF)](pdf)
+Telefon 052 366 33 33 oder <mailto:info@mfgt.ch>
