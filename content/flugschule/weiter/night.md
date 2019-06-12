@@ -26,7 +26,7 @@ Das dazu notwendige Wissen wird Dir von Deinem Fluglehrer anlässlich der prakti
 
 * mindestens 5 Flugstunden\
   davon mindestens 3 Stunden am Doppelsteuer\
-  davon mindestens 1 einstündiger Überlandflug. 
+  davon mindestens 1 einstündiger Überlandflug 
 * 5 Solo-Starts und -Landungen bei Nacht 
 
 Gestartet wird in Lommis vor der Dunkelheit. Gelandet auf Schweizer Plätzen mit Pistenbeleuchtung wie z.B. Grenchen, St. Gallen Altenrhein\
