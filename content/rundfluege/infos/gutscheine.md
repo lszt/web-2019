@@ -11,6 +11,6 @@ description: >-
 buttons:
   - cta: true
     title: Gutschein bestellen
-    url: 'https://www.gurado.de/mfgt/gutschein-schnupperflug-1.html'
+    url: 'https://www.gurado.de/mfgt/gutscheine-rundfluge/gutschein-rundflug.html'
 ---
 
