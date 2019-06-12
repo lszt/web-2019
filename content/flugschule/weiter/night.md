@@ -34,6 +34,6 @@ Die Rückkehr erfolgt dann am nächsten Morgen. Für die Nachtflugausbildung ist
 Nach abgeschlossener Ausbildung erfolgt nach Einreichung der Formulare der entsprechende Eintrag im Ausweis.
 
 \
-**Kostenübersicht**
+**Kosten und weiteres Informationen**
 
-[Download (PDF)](pdf)
+Telefon 052 366 33 33 oder <mailto:info@mfgt.ch>
