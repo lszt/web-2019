@@ -19,7 +19,7 @@ T +41 52 366 33 33\
 Maintenance MFGT\
 Flugplatz\
 9506 Lommis\
-T +41 366 33 41\
+T +41 52 366 33 41\
 <mailto:maintenance@mfgt.ch>
 
 **Anfahrt**
