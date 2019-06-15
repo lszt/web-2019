@@ -1,10 +1,9 @@
 #airport-status {
   position: relative;
-  padding: 1em;
-  min-height: 200px;
-  height: calc(100% - 35px - 50px);
+  font-size: 1.3em;
+  line-height: 1.8em;
   &.airport-open {
-    background: #35f192;
+    background: #34f135;
     .airport-status__icon {
       background-image: url('/img/icon-check-circle.svg');
     }
@@ -17,6 +16,9 @@
   }
   &.airport-error {
     background: grey;
+  }
+  .content-block__text {
+    padding: 1em 1em 0 1em;
   }
   .airport-status__icon {
     display: block;

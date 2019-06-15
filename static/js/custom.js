@@ -6,6 +6,15 @@ $('.navigation__close').bind('click', function () {
 	$('body').removeClass('show-mobile-navigation');
 });
 
+// Scroll button
+$('#arrow-button--scroll-down').bind('click', function () {
+	$("html, body").animate({ scrollTop: $('#content').offset().top - 65 }, 1000);
+});
+
+$('#arrow-button--scroll-top').bind('click', function () {
+	$("html, body").animate({ scrollTop: 0 }, 1000);
+});
+
 /* Mobile Navigation Fix */
 $(window).resize(function () {
 	if ($(window).width() > 600) {

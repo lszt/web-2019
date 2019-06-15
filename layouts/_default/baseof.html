@@ -8,10 +8,13 @@
         <img src="/img/mfgt_logo.svg" alt="Logo Motorfluggruppe Thurgau" />
       </a>
     </div>
+    {{ if ne .Kind "page" }}
+    <div id="arrow-button--scroll-down" class="arrow-button arrow-button--head arrow-button--down"></div>
+    {{ end }}
     <div class="page">
       <div class="page__inner">
         {{ partial "navigation" . }}
-        <div class="content">
+        <div id="content" class="content">
           {{ block "main" . }}
           {{ end }}
         </div>

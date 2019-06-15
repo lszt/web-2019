@@ -22,6 +22,24 @@ body {
   }
 }
 
+.arrow-button {
+  position: absolute;
+  left: calc(50% - 40px);
+  display: block;
+  height: 80px;
+  width: 80px;
+  background: rgba(52,66,72, 0.85);
+  border-radius: 50%;
+  cursor: pointer;
+  &--head {
+    bottom: 180px;
+    background-image: url('/img/icon-arrow-down.svg');
+    background-size: 40px 40px;
+    background-repeat: no-repeat;
+    background-position: 20px 20px;
+  }
+}
+
 .page {
   width: 100%;
   max-width: 1150px;
@@ -35,6 +53,10 @@ body {
       p {
         margin-bottom: 1em;
       }
+    }
+    .col--backlink {
+      text-align: right;
+      padding-top: 35px;
     }
   }
 }
@@ -76,3 +98,25 @@ body {
   }
 }
 
+[style*="--aspect-ratio"] > :first-child {
+  width: 100%;
+}
+[style*="--aspect-ratio"] > img {
+  height: auto;
+}
+@supports (--custom:property) {
+  [style*="--aspect-ratio"] {
+    position: relative;
+  }
+  [style*="--aspect-ratio"]::before {
+    content: "";
+    display: block;
+    padding-bottom: calc(100% / (var(--aspect-ratio)));
+  }
+  [style*="--aspect-ratio"] > :first-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+  }
+}
