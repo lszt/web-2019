@@ -1,7 +1,7 @@
 ---
 title: Moritz Bartholdi-Weber
 date: '2019-05-13T12:11:45+02:00'
-draft: false
+draft: true
 weight: '1'
 image: /img/uploads/fluglehrer_blanco.jpg
 description: Rundflugpilot
