@@ -5,10 +5,10 @@ weight: '6'
 image: /img/uploads/flotte_pgm.jpg
 description: '**Piper Archer II PA28-181**'
 buttons:
-  - title: Preise
-    cta: false
-    url: 'https://drive.google.com/a/mfgt.ch/file/d/19wMdnTTvqhRbaScBwS0Tqf3iBVFWExGj/view'
-  - title: M&B
+  - cta: false
+    title: Preise
+    url: >-
+      https://drive.google.com/a/mfgt.ch/file/d/19wMdnTTvqhRbaScBwS0Tqf3iBVFWExGj/view
   - cta: true
     title: Reservation
     url: 'https://www.flightnet.aero/default.aspx?company=mfgt'
