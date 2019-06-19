@@ -36,21 +36,19 @@ pro Übernachtung (inkl. MwSt): CHF 30.–
 
 **AD Info**
 
-![](/img/uploads/bild_piloteninfos_vac.jpg)
+![https://drive.google.com/a/mfgt.ch/file/d/1jEGnBAYojDRh-UdCEI4TGfauzU7eSCtn/view?usp=sharing](/img/uploads/bild_piloteninfos_vac.jpg)
 
-![](/img/uploads/bild_piloteninfos_ad-info.jpg)
+![https://drive.google.com/a/mfgt.ch/file/d/1iQBUCZ45rKlyD6w3_GW4NHezcb4X2PJy/view?usp=sharing](/img/uploads/bild_piloteninfos_ad-info.jpg)
 
 Angaben ohne Gewähr. Massgebend sind die offiziellen Publikationen (VFR Manual CH)\
 _Informations provided without guarantee. Use official publications (VFR Manual CH) for planning and navigation._
 
 **Procedures**
 
-![](/img/uploads/bild_piloteninfos_procedures.jpg)
+![https://drive.google.com/a/mfgt.ch/file/d/1IWUSwvpP9x1BX14L6kFtka3zHXjM2QNk/view?usp=sharing](/img/uploads/bild_piloteninfos_procedures.jpg)
 
 An- und Abflug LSZT\
-_Approach and Departure LSZT_
-
-Engine Start LSZT
+[https://drive.google.com/a/mfgt.ch/file/d/1IWUSwvpP9x1BX14L6kFtka3zHXjM2QNk/view?usp=sharing](Approach and Departure LSZT)
 
 Rollverfahren\
-_Taxi-Procedure_
+[https://drive.google.com/a/mfgt.ch/file/d/18r-c7mhr2uByscznI4l5UEozjh_7qC-X/view?usp=sharing](Taxi Procedure LSZT)
