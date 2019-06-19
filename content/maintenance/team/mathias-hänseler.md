@@ -5,6 +5,7 @@ draft: false
 weight: '3'
 image: /img/uploads/haenseler.jpg
 description: |-
+  Certifying Staff EASA \
   Lizenzierter Flugzeugmechaniker
 
   <mailto:mathias.haenseler@mfgt.ch>
