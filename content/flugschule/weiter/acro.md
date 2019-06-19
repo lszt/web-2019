@@ -1,5 +1,5 @@
 ---
-title: AKRO sicherheitstraining
+title: AKRO Sicherheitstraining
 date: 2019-04-14T10:51:24.000Z
 draft: false
 weight: '1'
