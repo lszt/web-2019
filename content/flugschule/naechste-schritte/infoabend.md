@@ -10,6 +10,7 @@ description: >-
 buttons:
   - cta: true
     title: Daten & Anmeldung
+    url: 'https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform'
 ---
 Selbstverständlich stehen wir Dir bei Fragen jederzeit Red' und Antwort. Melde Dich einfach beim [Sekretariat](mailto:sekretariat@mfgt.ch) für einen individuellen Termin.
 

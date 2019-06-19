@@ -8,7 +8,9 @@ description: >-
   erlernen willst.
 buttons:
   - title: statuten
+    url: 'https://drive.google.com/a/mfgt.ch/file/d/1i8IqoX6U5-ukg5uy9tT_ffoz0bbJdSo5/view?usp=sharing'
   - cta: true
     title: mitglied werden
+    url: 'mailto:sekretariat@mfgt.ch'
 ---
 

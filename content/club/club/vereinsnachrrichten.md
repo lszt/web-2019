@@ -10,15 +10,12 @@ description: |-
 buttons:
   - cta: true
     title: Kontakt 2019
+    url: 'https://drive.google.com/a/mfgt.ch/file/d/1fFxHhohEl0UZIoJxo6pzYQk11M4gHPmi/view?usp=sharing'
 ---
 **KONTAKT 171 – 2018**
 
-![](/img/uploads/bild_kontakt_2018.jpg)
+![https://drive.google.com/a/mfgt.ch/file/d/1MowdujVOWUDSffqqXNsobCI31XhxrqOz/view?usp=sharing](/img/uploads/bild_kontakt_2018.jpg)
 
 **KONTAKT 170 – 2017**
 
-![](/img/uploads/bild_kontakt_2017.jpg)
-
-**KONTAKT 169 – 2016**
-
-![](/img/uploads/bild_kontakt_2016.jpg)
+![https://drive.google.com/a/mfgt.ch/file/d/1ysmsMVpPK8_L2kfXvxtPNcOod8AbwA6J/view?usp=sharing](/img/uploads/bild_kontakt_2017.jpg)
