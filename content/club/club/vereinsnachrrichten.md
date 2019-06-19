@@ -14,8 +14,10 @@ buttons:
 ---
 **KONTAKT 171 – 2018**
 
-![https://drive.google.com/a/mfgt.ch/file/d/1MowdujVOWUDSffqqXNsobCI31XhxrqOz/view?usp=sharing](/img/uploads/bild_kontakt_2018.jpg)
+![](/img/uploads/bild_kontakt_2018.jpg)
+[Download 171 - 2018](https://drive.google.com/a/mfgt.ch/file/d/1MowdujVOWUDSffqqXNsobCI31XhxrqOz/view?usp=sharing)
 
 **KONTAKT 170 – 2017**
 
-![https://drive.google.com/a/mfgt.ch/file/d/1ysmsMVpPK8_L2kfXvxtPNcOod8AbwA6J/view?usp=sharing](/img/uploads/bild_kontakt_2017.jpg)
+![](/img/uploads/bild_kontakt_2017.jpg)
+[Download 170 - 2017](https://drive.google.com/a/mfgt.ch/file/d/1ysmsMVpPK8_L2kfXvxtPNcOod8AbwA6J/view?usp=sharing)
