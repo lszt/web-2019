@@ -48,7 +48,8 @@ _Informations provided without guarantee. Use official publications (VFR Manual 
 
 **Procedures**
 
-![https://drive.google.com/a/mfgt.ch/file/d/1IWUSwvpP9x1BX14L6kFtka3zHXjM2QNk/view?usp=sharing](/img/uploads/bild_piloteninfos_procedures.jpg)
+![](/img/uploads/bild_piloteninfos_procedures.jpg)
+[Download Procedures](https://drive.google.com/a/mfgt.ch/file/d/1IWUSwvpP9x1BX14L6kFtka3zHXjM2QNk/view?usp=sharing)
 
 An- und Abflug LSZT\
 [Approach and Departure LSZT](https://drive.google.com/a/mfgt.ch/file/d/1IWUSwvpP9x1BX14L6kFtka3zHXjM2QNk/view?usp=sharing)
