@@ -13,6 +13,7 @@ description: |-
   An allen übrigen Tagen sind Rundflüge auf Voranmeldung möglich.
 buttons:
   - title: Flyer downloaden
+    url: 'https://drive.google.com/a/mfgt.ch/file/d/1rLLlwYhoBN-2E7XHrSDpKiGsotK4wFob/view'
 ---
 Ein Rundflug ist ab einer Buchung für 2 Passagiere möglich, jeder Passagier erhält für diesen gemeinsamen Flug einen separaten Gutschein.
 
