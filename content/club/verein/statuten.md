@@ -2,7 +2,7 @@
 title: Aktuar
 date: 2017-01-04T15:04:10.000Z
 weight: '4'
-image: /img/uploads/fluglehrer_blanco.jpg
+image: /img/uploads/stuber.jpg
 description: |-
   **Fabian Stuber**
 
