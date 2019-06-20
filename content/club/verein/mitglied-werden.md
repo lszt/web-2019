@@ -2,7 +2,7 @@
 title: Finanzen
 date: 2017-01-04T15:04:10.000Z
 weight: '2'
-image: /img/uploads/stuber.jpg
+image: /img/uploads/fuellemann.jpg
 description: |-
   **Thomas Füllemann**
 
