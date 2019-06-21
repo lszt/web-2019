@@ -30,11 +30,17 @@ Flugplatz Lommis  |  Anmelden
 
 Flugplatz Lommis  |  Anmelden
 
-30.08.2019 18:30 	Clubhöck 	Rita's Flugplatzbeizli
+30.08.2019 – 18:30  |  Clubhöck
 
-31.08.2019 	Jungbürgerfeier Lommis 	Flugplatz Lommis
+Rita's Flugplatzbeizli
 
-04.09.2019 19:00 	Sicherheitstraining Theorie 	Theorieraum Flugplatz
+31.08.2019  |  Jungbürgerfeier Lommis
+
+Flugplatz Lommis
+
+04.09.2019 – 19:00  |  Sicherheitstraining Theorie
+
+Theorieraum Flugplatz
 
 07.09.2019 08:30 	Sicherheitstraining Praxis 	Flugplatz Lommis
 
