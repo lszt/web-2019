@@ -45,6 +45,7 @@ function startWebcamSlider() {
 			arrows: true,
 			fade: false,
 		});
+		$('#airport-webcam a').simpleLightbox();
 	}
 }
 
