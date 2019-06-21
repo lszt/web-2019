@@ -1,5 +1,5 @@
 {{ range . }}
-  <div class="container-fluid">
+  <div class="container-fluid" id="{{ replace (lower .Title) " " "-" }}">
     <div class="row container__title">
       <div class="col-xs-12">
         <h2>{{ .Title }}</h2>
