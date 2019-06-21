@@ -26,38 +26,47 @@ Rita's Flugplatzbeizli
 
 Flugplatz Lommis  |  Anmelden
 
-### 17.08.2019 – 09:00  |  YES-Tag (Reservedatum)
+### 17.08.2019 – 09:00  |  YES-Tag 
+Reservedatum, Flugplatz Lommis  |  Anmelden
 
-Flugplatz Lommis  |  Anmelden
-
-30.08.2019 – 18:30  |  Clubhöck
+### 30.08.2019 – 18:30  |  Clubhöck
 
 Rita's Flugplatzbeizli
 
-31.08.2019  |  Jungbürgerfeier Lommis
+### 31.08.2019  |  Jungbürgerfeier Lommis
 
 Flugplatz Lommis
 
-04.09.2019 – 19:00  |  Sicherheitstraining Theorie
+### 04.09.2019 – 19:00  |  Sicherheitstraining Theorie
 
-Theorieraum Flugplatz
+Theorieraum Flugplatz  |  Anmelden
 
-07.09.2019 08:30 	Sicherheitstraining Praxis 	Flugplatz Lommis
+### 07.09.2019 – 08:30  |  Sicherheitstraining Praxis 	
+Flugplatz Lommis  |  Anmelden
 
-08.09.2019 08:30 	Sicherheitstraining Praxis (Reservedatum) 	Flugplatz Lommis
+### 08.09.2019 – 08:30  |  Sicherheitstraining Praxis
+Reservedatum, Flugplatz Lommis  |  Anmelden
 
-07./08.09.2019 	Flugplatzfest Schmerlat 	Flugplatz Schmerlat
+### 07./08.09.2019  |  Flugplatzfest Schmerlat 	
+Flugplatz Schmerlat
 
-21.09.2019 09:00 	Infoanlass der Flugschule 	Theorieraum Flugplatz
+### 21.09.2019 – 09:00  |  Infoanlass der Flugschule 
+Theorieraum Flugplatz  |  Anmelden
 
-27.09.2019 18:30 	Clubhöck 	Rita's Flugplatzbeizli
+### 27.09.2019 – 18:30  |  Clubhöck
+Rita's Flugplatzbeizli
 
-28.09.2019 09:00 	RTF Praxis Englisch 	Theorieraum Flugplatz
+### 28.09.2019 – 09:00  |  RTF Praxis Englisch
+Theorieraum Flugplatz  |  Anmelden
 
-25.10.2019 18:30 	Clubhöck 	Rita's Flugplatzbeizli
+### 25.10.2019 – 18:30  |  Clubhöck
+Rita's Flugplatzbeizli
 
-26.10.2019 	Platzunterhalt 	Flugplatz Lommis
+### 26.10.2019  |  Platzunterhalt
+Flugplatz Lommis
 
-29.11.2019 18:30 	Clubhöck 	Rita's Flugplatzbeizli
+### 29.11.2019 – 18:30  |  Clubhöck
+Rita's Flugplatzbeizli
 
-27.12.2019 18:30 	Clubhöck 	Rita's Flugplatzbeizli
+### 27.12.2019 – 18:30  |  Clubhöck
+Rita's Flugplatzbeizli
