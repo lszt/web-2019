@@ -30,9 +30,9 @@ googleAnalytics = "UA-25486694-1"
     weight     = 3
 
     [[menu.main]]
-    identifier = "rundfluege"
+    identifier = "rundflug"
     name       = "Rundflüge"
-    url        = "/rundfluege/"
+    url        = "/rundflug/"
     weight     = 4
 
     [[menu.main]]

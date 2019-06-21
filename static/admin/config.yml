@@ -501,9 +501,9 @@ collections:
         required: false
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
-  - name: "rundfluege"
+  - name: "rundflug"
     label: "Rundflüge"
-    folder: "content/rundfluege/"
+    folder: "content/rundflug/"
     create: false
     slug: "{{slug}}"
     fields:
@@ -518,9 +518,9 @@ collections:
         required: true
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
-  - name: "rundfluege-routen"
+  - name: "rundflug-routen"
     label: "Rundflüge - Intro Routen"
-    folder: "content/rundfluege/routen"
+    folder: "content/rundflug/routen"
     create: true
     slug: "{{slug}}"
     fields:
@@ -545,9 +545,9 @@ collections:
         required: false
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
-  - name: "rundfluege-infos"
+  - name: "rundflug-infos"
     label: "Rundflüge - Infos"
-    folder: "content/rundfluege/infos"
+    folder: "content/rundflug/infos"
     create: true
     slug: "{{slug}}"
     fields:
@@ -572,9 +572,9 @@ collections:
         required: false
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
-  - name: "rundfluege-gutschein"
+  - name: "rundflug-gutschein"
     label: "Rundflüge - Gutschein"
-    folder: "content/rundfluege/gutschein"
+    folder: "content/rundflug/gutschein"
     create: true
     slug: "{{slug}}"
     fields:
