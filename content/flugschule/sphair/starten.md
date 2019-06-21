@@ -8,7 +8,7 @@ description: >-
   militärischen Luftfahrt prüfen die Kandidaten in einem mehrstufigen Verfahren
   und bereiten sie auf die Praxis vor.
 buttons:
-  - cta: true
+  - cta: false
     title: Kursdaten
     url: ''
 ---
