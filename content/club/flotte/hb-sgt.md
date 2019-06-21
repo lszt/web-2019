@@ -4,6 +4,8 @@ date: '2019-05-10T16:18:32+02:00'
 draft: false
 weight: '1'
 image: /img/uploads/flotte_sgt.jpg
+positionx: 50
+positiony: 50
 description: '**Aquila A211 GX**'
 buttons:
   - cta: false

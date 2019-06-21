@@ -4,6 +4,8 @@ date: 2019-04-14T10:51:24.000Z
 draft: false
 weight: '3'
 image: /img/uploads/bild_ir.jpg
+positionx: 50
+positiony: 50
 description: >-
   Möchtest Du unabhängig vom Wetter jederzeit von A nach B fliegen können? Beim
   Instrumentenflug (IR) wird die Fluglage ausschliesslich durch Interpretation
@@ -22,8 +24,8 @@ Die theoretische Ausbildung erfolgt bei einem externen Anbieter wie [Safety Wing
 \
 **Praktische Ausbildung**
 
-* 50 h 
-* davon 40 h auf dem Simulator  
+* 50 h
+* davon 40 h auf dem Simulator
 
  \
 **Kosten und weitere Informationen**

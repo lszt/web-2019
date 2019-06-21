@@ -3,6 +3,8 @@ title: HB-KFW
 date: 2017-01-04T15:04:10.000Z
 weight: '3'
 image: /img/uploads/flotte_kfw.jpg
+positionx: 50
+positiony: 50
 description: Robin DR400 – 140B
 buttons:
   - cta: false

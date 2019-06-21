@@ -4,6 +4,8 @@ date: '2019-05-13T15:24:06+02:00'
 draft: false
 weight: '2'
 image: /img/uploads/yes2017.jpg
+positionx: 50
+positiony: 50
 description: >-
   Einmal einen Tag lang Aviatikkluft schnuppern und selber fliegen – und das
   erst noch kostenlos? Yes, am YES-Tag 2017!

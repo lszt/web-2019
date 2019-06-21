@@ -3,6 +3,8 @@ title: Fly-Outs
 date: 2017-01-04T15:04:10.000Z
 weight: '5'
 image: /img/uploads/club_flyaway.jpg
+positionx: 50
+positiony: 50
 description: >-
   An jährlich stattfindenden Fly-Outs sammelst Du als Jungpilot erste
   Auslandserfahrungen und gestandene Piloten lernen neue Destinationen und

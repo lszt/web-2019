@@ -4,6 +4,8 @@ date: '2019-05-09T16:46:49+02:00'
 draft: false
 weight: '8'
 image: /img/uploads/club_jugend.jpg
+positionx: 50
+positiony: 50
 description: >-
   Aviatikluft schnuppern und das Steuer in die Hand nehmen!\
 

@@ -4,8 +4,14 @@ date: 2019-04-14T15:03:48.000Z
 draft: false
 coverImages:
   - image: /img/uploads/slider_rundflug_1.jpg
+    positionx: 50
+    positiony: 50
   - image: /img/uploads/slider_rundflug_2.jpg
+    positionx: 50
+    positiony: 50
   - image: /img/uploads/slider_rundflug_3.jpg
+    positionx: 50
+    positiony: 50
 ---
 Sind Sie auf der Suche nach einem ganz speziellen Geschenk?\
 Oder möchten Sie selbst einmal die Welt von oben geniessen?

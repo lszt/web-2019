@@ -3,6 +3,8 @@ title: HB-PGM
 date: 2017-01-04T15:04:10.000Z
 weight: '6'
 image: /img/uploads/flotte_pgm.jpg
+positionx: 50
+positiony: 50
 description: '**Piper Archer II PA28-181**'
 buttons:
   - cta: false
@@ -16,7 +18,7 @@ buttons:
 Reiseflugzeug
 
 * 4 Sitzplätze
-* Engine: Avco Lycoming O-360-A4M 
+* Engine: Avco Lycoming O-360-A4M
 * Leistung: 180 PS
 * Zulassung: VFR
 * 2-Achsen-Autopilot

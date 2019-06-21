@@ -4,6 +4,8 @@ date: 2019-04-14T10:51:24.000Z
 draft: false
 weight: '2'
 image: /img/uploads/bild_nit.jpg
+positionx: 50
+positiony: 50
 description: >-
   Die Nachtflug-Ausblidung (NIT) ist auf der Stufe Privatpilot eine Erweiterung
   auf freiwilliger Basis. Zur Erlangung der Instrumentenflugberechtigung ist sie
@@ -26,8 +28,8 @@ Das dazu notwendige Wissen wird Dir von Deinem Fluglehrer anlässlich der prakti
 
 * mindestens 5 Flugstunden\
   davon mindestens 3 Stunden am Doppelsteuer\
-  davon mindestens 1 einstündiger Überlandflug 
-* 5 Solo-Starts und -Landungen bei Nacht 
+  davon mindestens 1 einstündiger Überlandflug
+* 5 Solo-Starts und -Landungen bei Nacht
 
 Gestartet wird in Lommis vor der Dunkelheit. Gelandet auf Schweizer Plätzen mit Pistenbeleuchtung wie z.B. Grenchen, St. Gallen Altenrhein\
 Die Rückkehr erfolgt dann am nächsten Morgen. Für die Nachtflugausbildung ist vor allem die Winterzeit wegen der frühen Dunkelheit geeignet.\

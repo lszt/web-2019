@@ -4,6 +4,8 @@ date: 2019-04-14T10:51:24.000Z
 draft: false
 weight: 2
 image: /img/uploads/ausbildung_medical.jpg
+positionx: 50
+positiony: 50
 description: >-
   Vor der Pilotenausbildung besuchst Du einen Fliegerarzt, der Dich auf Deine
   medizinische Tauglichkeit untersucht. Er stellt ein sogenanntes Medical aus.

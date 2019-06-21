@@ -4,6 +4,8 @@ date: 2019-04-14T10:51:24.000Z
 draft: false
 weight: '4'
 image: /img/uploads/bild_cpl.jpg
+positionx: 50
+positiony: 50
 description: >-
   Die Commercial Pilot License (CPL) berechtigt Dich, für ein Unternehmen
   kommerziell zu fliegen. Es geht auch darum, die Kenntnisse aus dem PPL zu
@@ -26,7 +28,7 @@ Die theoretische Ausbildung erfolgt bei einem externen Anbieter wie [Safety Wing
 * 25 h am Doppelsteuer\
   Fliegen in schwierigem Gelände, bei schwierigem Wetter, Radionavigation sowie Flughäfen im In- und Ausland
 * davon rund 10 h erfolgen nach Instrumenten\
-  davon maximal 5 h im Simulator 
+  davon maximal 5 h im Simulator
 
 Inhabern einer gültigen IR(A)-Lizenz werden die 10 h nach Instrumenten angerechnet.  
 

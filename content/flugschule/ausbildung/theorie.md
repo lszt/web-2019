@@ -4,6 +4,8 @@ date: 2019-04-14T10:51:24.000Z
 draft: false
 weight: '2'
 image: /img/uploads/ausbildung_theorie.jpg
+positionx: 50
+positiony: 50
 description: >-
   Der PP-Theoriekurs der Flugschule der MFGT wird übers ganze Jahr als rollender
   Kurs angeboten. Der Einstieg ist jederzeit zu Beginn eines Faches möglich.

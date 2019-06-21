@@ -4,6 +4,8 @@ date: 2019-04-14T10:51:24.000Z
 draft: false
 weight: '4'
 image: /img/uploads/ausbildung_praktische_ausbildung.jpg
+positionx: 50
+positiony: 50
 description: >-
   Im praktischen Teil der Ausbildung bestimmst Du, wieviel Zeit Du für die
   Ausbildung in Anspruch nehmen willst. Bei einer intensiven Schulung, auch

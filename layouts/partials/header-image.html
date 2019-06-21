@@ -7,15 +7,15 @@
   <div class="header-images header-images--slider">
     {{ if isset .Params "coverImages" }}
       {{ range .Params.coverImages }}
-      <div class="header-images__item" style="background-image: url('{{ .image }}')"></div>
+      <div class="header-images__item" style="background-image: url('{{ .image }}'); background-position: {{ .positionx }}% {{ .positiony }}%"></div>
       {{ end }}
     {{ else if $currentSectionCoverImages }}
       {{ range $currentSectionCoverImages }}
-        <div class="header-images__item" style="background-image: url('{{ .image }}')"></div>
+        <div class="header-images__item" style="background-image: url('{{ .image }}'); background-position: {{ .positionx }}% {{ .positiony }}%"></div>
       {{ end }}
     {{ else if $sectionCoverImages }}
       {{ range $sectionCoverImages }}
-        <div class="header-images__item" style="background-image: url('{{ .image }}')"></div>
+        <div class="header-images__item" style="background-image: url('{{ .image }}'); background-position: {{ .positionx }}% {{ .positiony }}%"></div>
       {{ end }}
     {{ else }}
       <div class="header-images__item" style="background-image: url('{{ .Site.Params.coverImage }}')"></div>

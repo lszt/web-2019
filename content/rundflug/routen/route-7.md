@@ -4,6 +4,8 @@ date: '2019-05-13T12:35:51+02:00'
 draft: false
 weight: '7'
 image: /img/uploads/rundflug_route7.jpg
+positionx: 50
+positiony: 50
 description: |-
   **Berner Alpen, Engadin oder Jura**
 

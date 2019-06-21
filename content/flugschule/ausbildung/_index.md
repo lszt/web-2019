@@ -5,4 +5,6 @@ draft: false
 weight: 2
 coverImages:
   - image: /img/cover/flugschule.jpg
+    positionx: 50
+    positiony: 50
 ---

@@ -4,6 +4,8 @@ date: '2019-05-13T15:16:45+02:00'
 draft: false
 weight: '1'
 image: /img/uploads/yes_2018.jpg
+positionx: 50
+positiony: 50
 description: >-
   Am 11. August 2018 fand unter der Leitung der Motorfluggruppe wieder ein
   YES-Tag statt.

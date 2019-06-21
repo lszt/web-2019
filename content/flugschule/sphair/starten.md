@@ -3,6 +3,8 @@ title: Starte bei uns Deine Berufspiloten-Karriere!
 date: 2019-04-14T10:51:24.000Z
 draft: false
 image: /img/uploads/ausbildung_sphair.jpg
+positionx: 50
+positiony: 50
 description: >-
   SPHAIR findet junge Schweizer Nachwuchspiloten. Experten aus der zivilen und
   militärischen Luftfahrt prüfen die Kandidaten in einem mehrstufigen Verfahren

@@ -4,6 +4,8 @@ date: '2019-05-13T12:34:48+02:00'
 draft: false
 weight: '6'
 image: /img/uploads/rundflug_route6.jpg
+positionx: 50
+positiony: 50
 description: |-
   **Zentralalpen, Gotthard oder Prättigau**
 

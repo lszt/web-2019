@@ -4,6 +4,8 @@ date: '2019-05-10T16:23:18+02:00'
 draft: false
 weight: '2'
 image: /img/uploads/flotte_sgu.jpg
+positionx: 50
+positiony: 50
 description: '**Aquila A211 GX**'
 buttons:
   - cta: false
@@ -28,6 +30,6 @@ Schul- und Reiseflugzeug
 * Reisegeschwindigkeit: 120 KTS
 * MTOW: 750 kg
 
-\    
+\
 
 ![null](/img/uploads/flotte_cockpit_sgt-sgu.jpg)

@@ -4,6 +4,8 @@ date: '2019-05-13T12:32:59+02:00'
 draft: false
 weight: '4'
 image: /img/uploads/rundflug_route4.jpg
+positionx: 50
+positiony: 50
 description: |-
   **Innerschweiz, Glarner Alpen oder Pizol**
 

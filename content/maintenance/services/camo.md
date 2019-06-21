@@ -4,6 +4,8 @@ date: '2019-05-13T17:35:30+02:00'
 draft: false
 weight: '2'
 image: /img/uploads/maintenance_1.jpg
+positionx: 50
+positiony: 50
 description: >-
   Die Motorfluggruppe Thurgau unterhält mit der Lizenz CH.MG.5030 eine eigene,
   nach EASA Part M Subpart G und I lizenzierte Continuing Airworthiness

@@ -4,6 +4,8 @@ date: '2019-05-10T15:45:58+02:00'
 draft: false
 weight: '5'
 image: /img/uploads/hug.jpg
+positionx: 50
+positiony: 50
 description: |-
   **Philipp Hug**
 

@@ -19,6 +19,8 @@ collections:
         required: true
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "index-news"
     label: "Home - News"
     folder: "content/news"
@@ -26,9 +28,11 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Bild", name: "image", widget: "image", required: true}
+      - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+      - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
       - {label: "Teaser", name: "description", widget: "markdown"}
       - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Buttons"
@@ -45,6 +49,8 @@ collections:
         required: false
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "flugplatz"
     label: "Flugplatz"
     folder: "content/flugplatz/"
@@ -52,8 +58,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Headerbild/Headerbilder"
@@ -62,6 +68,8 @@ collections:
         required: true
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "flugplatz-infos-piloten"
     label: "Flugplatz - Infos für Piloten"
     folder: "content/flugplatz/infos-piloten"
@@ -69,8 +77,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
@@ -89,6 +97,8 @@ collections:
         required: false
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "flugplatz-gastronomie"
     label: "Flugplatz - Gastronomie"
     folder: "content/flugplatz/gastronomie"
@@ -96,8 +106,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
@@ -116,6 +126,8 @@ collections:
         required: false
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "flugschule"
     label: "Flugschule"
     folder: "content/flugschule/"
@@ -123,8 +135,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Headerbild/Headerbilder"
@@ -133,6 +145,8 @@ collections:
         required: true
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "flugschule-fliegen-lernen"
     label: "Flugschule - Intro"
     folder: "content/flugschule/fliegen-lernen"
@@ -140,8 +154,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
@@ -160,6 +174,8 @@ collections:
         required: false
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "flugschule-ausbildung"
     label: "Flugschule - Ausbildung"
     folder: "content/flugschule/ausbildung"
@@ -167,8 +183,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
@@ -187,6 +203,8 @@ collections:
         required: false
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "flugschule-sphair"
     label: "Flugschule - Sphair"
     folder: "content/flugschule/sphair"
@@ -194,8 +212,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
@@ -214,6 +232,8 @@ collections:
         required: false
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "flugschule-fluglehrer"
     label: "Flugschule - Fluglehrer"
     folder: "content/flugschule/fluglehrer"
@@ -221,8 +241,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
@@ -241,6 +261,8 @@ collections:
         required: false
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "flugschule-weiter"
     label: "Flugschule - So geht's Weiter"
     folder: "content/flugschule/weiter"
@@ -248,8 +270,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
@@ -268,6 +290,8 @@ collections:
         required: false
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "flugschule-nachste-schritte"
     label: "Flugschule - Nächste Schritte"
     folder: "content/flugschule/naechste-schritte"
@@ -275,8 +299,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
@@ -295,6 +319,8 @@ collections:
         required: false
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "club"
     label: "Club"
     folder: "content/club/"
@@ -302,8 +328,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Headerbild/Headerbilder"
@@ -312,6 +338,8 @@ collections:
         required: true
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "club-flotte"
     label: "Club - Intro Flotte"
     folder: "content/club/flotte"
@@ -319,8 +347,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
@@ -339,6 +367,8 @@ collections:
         required: false
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "club-club"
     label: "Club - Club"
     folder: "content/club/club"
@@ -346,8 +376,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
@@ -366,6 +396,8 @@ collections:
         required: false
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "club-kurse-veranstaltungne"
     label: "Club - Kurse + Veranstaltungen"
     folder: "content/club/kurse-veranstaltungen"
@@ -373,8 +405,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
@@ -393,6 +425,8 @@ collections:
         required: false
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "club-agenda"
     label: "Club - Agenda"
     folder: "content/club/agenda"
@@ -400,8 +434,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
@@ -420,6 +454,8 @@ collections:
         required: false
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "club-functionary"
     label: "Club - Funktionäre"
     folder: "content/club/functionary"
@@ -427,8 +463,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
@@ -447,6 +483,8 @@ collections:
         required: false
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "club-berichte"
     label: "Club - Berichte"
     folder: "content/club/berichte"
@@ -454,8 +492,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
@@ -474,6 +512,8 @@ collections:
         required: false
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "club-verein"
     label: "Club - Verein"
     folder: "content/club/verein"
@@ -481,8 +521,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
@@ -501,15 +541,17 @@ collections:
         required: false
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "rundflug"
-    label: "Rundflüge"
+    label: "Rundflug"
     folder: "content/rundflug/"
     create: false
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Headerbild/Headerbilder"
@@ -518,15 +560,17 @@ collections:
         required: true
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "rundflug-routen"
-    label: "Rundflüge - Intro Routen"
+    label: "Rundflug - Intro Routen"
     folder: "content/rundflug/routen"
     create: true
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
@@ -545,15 +589,17 @@ collections:
         required: false
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "rundflug-infos"
-    label: "Rundflüge - Infos"
+    label: "Rundflug - Infos"
     folder: "content/rundflug/infos"
     create: true
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
@@ -572,15 +618,17 @@ collections:
         required: false
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "rundflug-gutschein"
-    label: "Rundflüge - Gutschein"
+    label: "Rundflug - Gutschein"
     folder: "content/rundflug/gutschein"
     create: true
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
@@ -599,6 +647,8 @@ collections:
         required: false
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "maintenance"
     label: "Maintenance"
     folder: "content/maintenance/"
@@ -606,8 +656,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Headerbild/Headerbilder"
@@ -616,6 +666,8 @@ collections:
         required: true
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "maintenance-services"
     label: "Maintenance - Dienstleistungen"
     folder: "content/maintenance/services"
@@ -623,8 +675,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
@@ -643,6 +695,8 @@ collections:
         required: false
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "maintenance-camo"
     label: "Maintenance - CAMO"
     folder: "content/maintenance/camo"
@@ -650,8 +704,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
@@ -670,6 +724,8 @@ collections:
         required: false
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "maintenance-location"
     label: "Maintenance - Location"
     folder: "content/maintenance/location"
@@ -677,8 +733,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
@@ -697,6 +753,8 @@ collections:
         required: false
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "maintenance-team"
     label: "Maintenance - Team"
     folder: "content/maintenance/team"
@@ -704,8 +762,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Teaser", name: "description", widget: "markdown"}
@@ -724,6 +782,8 @@ collections:
         required: false
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "kontakt"
     label: "Kontakt"
     folder: "content/kontakt/"
@@ -731,8 +791,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Headerbild/Headerbilder"
@@ -741,6 +801,8 @@ collections:
         required: true
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "mitgliederbereich"
     label: "Mitgliederbereich"
     folder: "content/mitgliederbereich/"
@@ -748,8 +810,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false }
-      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false }
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Headerbild/Headerbilder"
@@ -758,5 +820,5 @@ collections:
         required: true
         fields:
           - {label: "Bild", name: "image", widget: "image", required: true}
-
-
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}

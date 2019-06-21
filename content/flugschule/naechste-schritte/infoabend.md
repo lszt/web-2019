@@ -3,6 +3,8 @@ title: Infoanlass
 date: 2019-04-14T10:51:24.000Z
 draft: false
 image: /img/uploads/bild_hangar.jpg
+positionx: 50
+positiony: 50
 description: >-
   Interessierst Du Dich für eine Ausbildung zum Privatpiloten und für eine
   Mitgliedschaft bei der Motorfluggruppe Thurgau? Dann ist der Infotag der

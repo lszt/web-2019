@@ -3,6 +3,8 @@ title: Infos für Piloten
 date: 2017-01-04T15:04:10.000Z
 weight: '1'
 image: /img/uploads/bild_infos_piloten.jpg
+positionx: 50
+positiony: 50
 description: >-
   Hier finden Sie Informationen, Verfahren und Gebühren, wie sie in Lommis LSZT
   angewendet werden. An- und abfliegende Piloten bitten wir, sich strikt daran
@@ -29,10 +31,10 @@ MTOM > 1500 kg\
 Alle anderen Flugzeuge (inkl. MwSt): CHF 50.–
 
 **Abstellplatz im Freien**\
-pro Übernachtung (inkl. MwSt): CHF 15.– 	
+pro Übernachtung (inkl. MwSt): CHF 15.–
 
 **Hangarplatz**\
-pro Übernachtung (inkl. MwSt): CHF 30.– 	
+pro Übernachtung (inkl. MwSt): CHF 30.–
 
 **AD Info**
 

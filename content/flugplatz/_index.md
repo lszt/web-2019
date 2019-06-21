@@ -4,7 +4,11 @@ date: 2019-04-14T15:03:39.000Z
 draft: false
 coverImages:
   - image: /img/uploads/slider_aquila.jpg
+    positionx: 40
+    positiony: 50
   - image: /img/uploads/slider_luftaufnahme.jpg
+    positionx: 50
+    positiony: 50
 ---
 Die 615 Meter lange und 25 Meter breite Graspiste erlaubt den Betrieb von kleineren, meist einmotorigen Flugzeugen.
 

@@ -4,6 +4,8 @@ date: '2019-05-13T12:37:03+02:00'
 draft: false
 weight: '8'
 image: /img/uploads/rundflug_route8.jpg
+positionx: 50
+positiony: 50
 description: |-
   **Walliser Alpen, Matterhorn, Aletschgletscher**
 
