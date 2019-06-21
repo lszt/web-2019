@@ -11,6 +11,8 @@ description: >-
 buttons:
   - cta: true
     title: Kursdaten
+  - cta: true
+    title: anmelden
 ---
 Der Radiotelefonie-Kurs wird von professionellen Voice-Instruktorinnen und Instruktoren durchgeführt und mit der Prüfung durch das BAZL abgeschlossen. 
 
