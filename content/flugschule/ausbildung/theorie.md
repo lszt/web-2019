@@ -31,5 +31,5 @@ Du kannst dir das theoretische Wissen auch online erwerben. Du wirst von Spezial
 [Weitere Informationen zum Distance Learning](https://swisspsa.ch/index.php/fernunterricht-neu/einleitung-mobile-2)
 
 Weitere Details sowie Kosten siehe [AGB](link) und [Kursprogramm](link).\
-Kursleiterin: \
+**Kursleiterin: **\
 Dagmar Hollerer, Fluglehrerin, <mailto:hollerer@bluemail.ch>, 078 684 30 60
