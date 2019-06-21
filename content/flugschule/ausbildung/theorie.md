@@ -9,8 +9,10 @@ description: >-
   Kurs angeboten. Der Einstieg ist jederzeit zu Beginn eines Faches möglich.
   Alle Fächer werden mit einer BAZL-Prüfung abgeschlossen.
 buttons:
-  - cta: true
+  - cta: false
     title: Kursdaten
+  - cta: true
+    title: anmelden
 ---
 Die Ausbildung besteht aus 9 Theoriefächern und der Radiotelefonie Praxis:
 
