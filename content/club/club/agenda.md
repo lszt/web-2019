@@ -28,13 +28,12 @@ Rita's Flugplatzbeizli
 
 ### YES-Tag
 
-Flugplatz Lommis
+Flugplatz Lommis, > Anmelden
 
-anmelden
+### 17.08.2019 09:00
 
-17.08.2019 09:00
-
-YES-Tag (Reservedatum)
+### YES-Tag 
+(Reservedatum)
 Flugplatz Lommis
 
 30.08.2019 18:30 	Clubhöck 	Rita's Flugplatzbeizli
