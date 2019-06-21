@@ -6,25 +6,25 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-**28.06.2019 – 18:30**
+### 28.06.2019 – 18:30
 ### Clubhöck
 Rita's Flugplatzbeizli
 
-**29.06.2019**
+### 29.06.2019
 ### Platzunterhalt
 Flugplatz Lommis
 
-**14.07. – 26.07.2019**
+### 14.07. – 26.07.2019
 ### SPHAIR-Kurs 2 	
 Flugplatz Lommis
 
-**26.07.2019 – 18:30**
+### 26.07.2019 – 18:30
 
 ### Clubhöck 	
 
 Rita's Flugplatzbeizli
 
-**10.08.2019 – 09:00 	**
+### 10.08.2019 – 09:00
 
 ### YES-Tag
 
@@ -35,7 +35,6 @@ anmelden
 17.08.2019 09:00
 
 YES-Tag (Reservedatum)
-
 Flugplatz Lommis
 
 30.08.2019 18:30 	Clubhöck 	Rita's Flugplatzbeizli
