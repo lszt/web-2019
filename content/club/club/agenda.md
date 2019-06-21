@@ -7,21 +7,15 @@ description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unse
 buttons: []
 ---
 **28.06.2019 – 18:30**
-
-## Clubhöck** 	**
-
+## Clubhöck
 Rita's Flugplatzbeizli
 
 **29.06.2019**
-
 ## Platzunterhalt
-
 Flugplatz Lommis
 
 **14.07. – 26.07.2019**
-
 ## SPHAIR-Kurs 2 	
-
 Flugplatz Lommis
 
 **26.07.2019 – 18:30**
@@ -30,11 +24,19 @@ Flugplatz Lommis
 
 Rita's Flugplatzbeizli
 
-10.08.2019 – 09:00 	
+**10.08.2019 – 09:00 	**
 
-YES-Tag 	Flugplatz Lommis
+## YES-Tag
 
-17.08.2019 09:00 	YES-Tag (Reservedatum) 	Flugplatz Lommis
+Flugplatz Lommis
+
+anmelden
+
+17.08.2019 09:00
+
+YES-Tag (Reservedatum)
+
+Flugplatz Lommis
 
 30.08.2019 18:30 	Clubhöck 	Rita's Flugplatzbeizli
 
