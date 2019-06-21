@@ -9,7 +9,7 @@ description: >-
   ausweisen. Dafür bieten wir über den Winter Kurse an. Voraussetzung sind
   Basiskenntnisse in englischer Sprache.
 buttons:
-  - cta: true
+  - cta: false
     title: Kursdaten
   - cta: true
     title: anmelden
