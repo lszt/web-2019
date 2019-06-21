@@ -1,6 +1,12 @@
 <div class="col-xs-12 col-sm-6 content-block">
   <div class="content-block__image">
-    <img src="{{ .Params.image }}" />
+    {{ if .Content }}
+      <a href="{{ .Permalink }}">
+    {{ end }}
+      <img src="{{ .Params.image }}" alt="{{ .Title }}"/>
+    {{ if .Content }}
+      </a>
+    {{ end }}
   </div>
   <div class="content-block__title">
     <h3>{{ .Title }}</h3>
