@@ -29,3 +29,7 @@ Die 9 Theorieprüfungen können auf maximal 6 Sessionen aufgeteilt werden. Im Ku
 
 Du kannst dir das theoretische Wissen auch online erwerben. Du wirst von Spezialisten betreut und in einem abschliessenden Präsenzkurs optimal auf die Prüfung vorbereitet. \
 [Weitere Informationen zum Distance Learning](https://swisspsa.ch/index.php/fernunterricht-neu/einleitung-mobile-2)
+
+Weitere Details sowie Kosten siehe [AGB](link) und [Kursprogramm](link).\
+Kursleiterin: \
+Dagmar Hollerer, Fluglehrerin, <mailto:hollerer@bluemail.ch>, 078 684 30 60
