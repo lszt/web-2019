@@ -4,8 +4,6 @@ date: 2019-04-14T10:51:24.000Z
 draft: false
 weight: '2'
 image: /img/uploads/ausbildung_theorie.jpg
-positionx: 50
-positiony: 50
 description: >-
   Der PP-Theoriekurs der Flugschule der MFGT wird übers ganze Jahr als rollender
   Kurs angeboten. Der Einstieg ist jederzeit zu Beginn eines Faches möglich.
@@ -13,7 +11,7 @@ description: >-
 buttons:
   - cta: false
     title: Kursdaten
-    url: '/club/club/agenda'
+    url: /club/club/agenda
   - cta: true
     title: anmelden
     url: >-
@@ -37,7 +35,8 @@ Die 9 Theorieprüfungen können auf maximal 6 Sessionen aufgeteilt werden. Im Ku
 Du kannst dir das theoretische Wissen auch online erwerben. Du wirst von Spezialisten betreut und in einem abschliessenden Präsenzkurs optimal auf die Prüfung vorbereitet. \
 [Weitere Informationen zum Distance Learning](https://swisspsa.ch/index.php/fernunterricht-neu/einleitung-mobile-2)
 
-Weitere Details sowie Kosten siehe [AGB](link) und [Kursprogramm](link).\
+Weitere Details sowie Kosten siehe [AGB](link) und [Kursprogramm](link).
+
 **Kursleiterin:**
 
 Dagmar Hollerer, Fluglehrerin, <mailto:hollerer@bluemail.ch>, 078 684 30 60

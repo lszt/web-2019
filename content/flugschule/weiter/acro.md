@@ -4,8 +4,6 @@ date: 2019-04-14T10:51:24.000Z
 draft: false
 weight: '1'
 image: /img/uploads/bild_akro.jpg
-positionx: 50
-positiony: 50
 description: >-
   Die Flugschule der Motorfluggruppe Thurgau organisiert einmal im Jahr ein
   Sicherheitstraining mit einem Kunstfluglehrer. Zur Verwendung kommt eine voll
@@ -38,10 +36,9 @@ Interessierte können ausserdem folgende Grundfiguren miterleben:
 
 * Rolle und Looping
 * Immelmann und Retournement
-* Renversement und Rückenflug
+* Reinversement und Rückenflug
 
  \
 **Kosten**
 
-CHF 350.–\
-[Download Flyer (PDF)](pdf)
+CHF 350.–
