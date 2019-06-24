@@ -11,9 +11,10 @@ description: >-
 buttons:
   - cta: false
     title: Kursdaten
-    url: /club/club/agenda
+    url: >-
+      https://drive.google.com/file/d/16AYVjsZ86V0sUmrwrs4TaGAPD63UItUF/view?usp=sharing
   - cta: true
-    title: anmelden
+    title: Anmelden
     url: >-
       https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform
 ---
