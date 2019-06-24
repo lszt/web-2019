@@ -36,7 +36,7 @@ Interessierte können ausserdem folgende Grundfiguren miterleben:
 
 * Rolle und Looping
 * Immelmann und Retournement
-* Renversement und Rückenflug
+* Reinversement und Rückenflug
 
  \
 **Kosten**
