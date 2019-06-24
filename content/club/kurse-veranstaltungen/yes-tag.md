@@ -13,6 +13,7 @@ description: >-
   ermöglichen dir einen packenden Einstieg in den Motorflug.
 buttons:
   - title: agenda
+    url: '/club/club/agenda/'
 ---
 **Voraussetzung**
 

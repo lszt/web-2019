@@ -12,6 +12,7 @@ description: >-
 buttons:
   - title: details
   - title: agenda
+    url: '/club/club/agenda/'
   - cta: true
     title: anmelden
     url: >-

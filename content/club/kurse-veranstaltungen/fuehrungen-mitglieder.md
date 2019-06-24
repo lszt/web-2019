@@ -13,5 +13,6 @@ description: >-
   Infos jeweils per Newsletter oder in der Agenda.
 buttons:
   - title: agenda
+    url: '/club/club/agenda/'
 ---
 

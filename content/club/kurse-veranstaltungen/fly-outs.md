@@ -11,5 +11,6 @@ description: >-
   Regionen in Europa kennen.
 buttons:
   - title: agenda
+    url: '/club/club/agenda/'
 ---
 

@@ -12,5 +12,6 @@ description: >-
   Durchführung und über die Destinationen referiert.
 buttons:
   - title: agenda
+    url: '/club/club/agenda/'
 ---
 
