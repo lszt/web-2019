@@ -8,7 +8,7 @@ positiony: 50
 description: |-
   **Oliver Baer**
 
-  T 079 416 40 27\
+  T +41 79 416 40 27\
   <mailto:oliver.baer@mfgt.ch>
 ---
 

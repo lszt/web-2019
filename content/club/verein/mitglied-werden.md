@@ -8,7 +8,7 @@ positiony: 50
 description: |-
   **Thomas Füllemann**
 
-  T 079 665 60 01\
+  T +41 79 665 60 01\
   <mailto:thomas.fuellemann@mfgt.ch>
 ---
 

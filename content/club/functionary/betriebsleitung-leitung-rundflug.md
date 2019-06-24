@@ -9,8 +9,8 @@ positiony: 50
 description: |-
   **Daniel Lutz**
 
-  T 052 366 33 33\
-  T 079 427 74 03\
+  T +41 52 366 33 33\
+  T +41 79 427 74 03\
   <mailto:betriebsleiter@mfgt.ch>
 ---
 

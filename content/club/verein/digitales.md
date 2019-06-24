@@ -9,7 +9,7 @@ positiony: 50
 description: |-
   **Philipp Hug**
 
-  T 076 370 22 54\
+  T +41 76 370 22 54\
   <mailto:philipp.hug@mfgt.ch>
 ---
 

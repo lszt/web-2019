@@ -8,7 +8,7 @@ positiony: 50
 description: |-
   **Peter Schafferer**
 
-  T 079 404 06 14\
+  T +41 79 404 06 14\
   <mailto:praesident@mfgt.ch>
 ---
 

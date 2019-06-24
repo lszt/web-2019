@@ -35,4 +35,4 @@ Inhabern einer gültigen IR(A)-Lizenz werden die 10 h nach Instrumenten angerech
 ### Kosten und weitere Informationen
 
 Unser CFI Markus Schnyder steht Dir für detaillierte Auskünfte zur Verfügung\
-Telefon 079 680 19 38 oder <mailto:markus.schnyder@mfgt.ch>
+Telefon +41 79 680 19 38 oder <mailto:markus.schnyder@mfgt.ch>

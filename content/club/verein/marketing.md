@@ -9,7 +9,7 @@ positiony: 50
 description: |-
   **André Heinzelmann**
 
-  T 079 429 76 41\
+  T +41 79 429 76 41\
   <mailto:andre.heinzelmann@mfgt.ch>
 ---
 

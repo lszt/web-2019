@@ -39,4 +39,4 @@ Nach abgeschlossener Ausbildung erfolgt nach Einreichung der Formulare der entsp
 **Kosten und weitere Informationen**
 
 Unser CFI Markus Schnyder steht Dir für detaillierte Auskünfte zur Verfügung\
-Telefon 079 680 19 38 oder <mailto:markus.schnyder@mfgt.ch>
+Telefon +41 79 680 19 38 oder <mailto:markus.schnyder@mfgt.ch>
