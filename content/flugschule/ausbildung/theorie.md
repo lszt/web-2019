@@ -35,7 +35,7 @@ Die 9 Theorieprüfungen können auf maximal 6 Sessionen aufgeteilt werden. Im Ku
 Du kannst dir das theoretische Wissen auch online erwerben. Du wirst von Spezialisten betreut und in einem abschliessenden Präsenzkurs optimal auf die Prüfung vorbereitet. \
 [Weitere Informationen zum Distance Learning](https://swisspsa.ch/index.php/fernunterricht-neu/einleitung-mobile-2)
 
-Weitere Details sowie Kosten siehe [AGB](link) und [Kursprogramm](link).
+Weitere Details sowie Kosten siehe [AGB](link) und [Kursprogramm](https://drive.google.com/file/d/18En0ncnQQ4Sh9yf-HkR7VKKS3QinVRWR/view?usp=sharing).
 
 **Kursleiterin:**
 
