@@ -7,8 +7,8 @@ image: /img/uploads/bild_flugpruefung.jpg
 positionx: 50
 positiony: 50
 description: >-
-  Als Mitglied der Swiss Pilot School Association SwissPSA
-  [www.swisspsa.ch](http://www.swisspsa.ch) bieten wir die Ausbildung vom LAPL
+  Als Mitglied der Swiss Pilot School Association [SwissPSA](http://www.swisspsa.ch)
+  bieten wir die Ausbildung vom LAPL
   (Light Aircraft Pilot Licence) über das PPL (Private Pilot Licence) bis hin
   zum CPL (Commercial Pilot Licence) an.
 ---
