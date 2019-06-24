@@ -5,7 +5,7 @@
 {{ end }}
 
 {{ range .Params.buttons }}
-  <a class="btn {{ if .cta }}cta{{ else }}outline{{ end }}" href="{{ .url }}" target="_blank">
+  <a class="btn {{ if .cta }}cta{{ else }}outline{{ end }}" href="{{ .url }}">
     {{ if .title }}
       {{ .title }}
     {{ else }}
