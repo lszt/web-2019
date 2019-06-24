@@ -13,7 +13,7 @@ buttons:
     title: Kursdaten
     url: 'https://drive.google.com/file/d/18En0ncnQQ4Sh9yf-HkR7VKKS3QinVRWR/view'
   - cta: true
-    title: anmelden
+    title: Anmelden
     url: >-
       https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform
 ---
