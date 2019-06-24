@@ -11,6 +11,7 @@ description: >-
   Sicherheitstraining mit einem Kunstfluglehrer.
 buttons:
   - title: details
+    url: '/flugschule/#so-gehts-weiter-nach-dem-ppl'
   - title: agenda
     url: '/club/club/agenda/'
   - cta: true
