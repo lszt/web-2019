@@ -9,8 +9,9 @@ description: >-
   Nachwuchspiloten – in Lommis!
 buttons:
   - title: details
-    url: 'https://mfgt-2019.netlify.com/flugschule/sphair/starten/'
+    url: '/flugschule/sphair/starten/'
   - cta: true
     title: kursdaten
+    url: '/club/club/agenda/'
 ---
 
