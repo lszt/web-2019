@@ -13,6 +13,7 @@ description: >-
 buttons:
   - cta: false
     title: Kursdaten
+    url: '/club/club/agenda'
   - cta: true
     title: anmelden
     url: >-
