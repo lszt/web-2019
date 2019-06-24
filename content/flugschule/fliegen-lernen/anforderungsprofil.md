@@ -10,7 +10,6 @@ description: "Mindestalter\_\_\_|\_\_\_14 Jahre (Soloflug und Prüfung 16 Jahre)
 buttons:
   - cta: true
     title: Anmelden
-    url: >-
-      https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform
+    url: 'mailto:sekretariat@mfgt.ch'
 ---
 
