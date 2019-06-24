@@ -16,4 +16,4 @@ Für Flugzeuge des Clubs wie auch von privaten Eignern stehen Hangargebäude und
 
 Die Club-eigene Tankstelle steht während der Flugplatz-Öffnungszeiten allen Piloten zur Verfügung und bietet AVGAS, Mogas und Jet A1.
 
-Auf dem Gelände findet sich ausserdem die Firma Küerzi Avionics AG und deren Werkstatt.
+Auf dem Gelände findet sich ausserdem die Firma Kuerzi Avionics AG und deren Werkstatt.
