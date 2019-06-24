@@ -42,3 +42,7 @@ Interessierte können ausserdem folgende Grundfiguren miterleben:
 **Kosten**
 
 CHF 350.–
+
+\
+**Kursprogramm**
+[Kursprogramm] (https://drive.google.com/file/d/1K9I9wzj1XNsZLZC6sgYsv-PapIZLAc2S/view?usp=sharing)
