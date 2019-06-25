@@ -4,8 +4,6 @@ date: '2019-05-13T11:46:35+02:00'
 draft: false
 weight: '1'
 image: /img/uploads/rundflug.jpg
-positionx: 50
-positiony: 50
 description: |-
   Bei schönem Wetter führen wir Rundflüge zu folgenden Zeiten durch:
 
@@ -14,7 +12,8 @@ description: |-
 
   An allen übrigen Tagen sind Rundflüge auf Voranmeldung möglich.
 buttons:
-  - title: Flyer downloaden
+  - cta: true
+    title: Flyer
     url: >-
       https://drive.google.com/a/mfgt.ch/file/d/1rLLlwYhoBN-2E7XHrSDpKiGsotK4wFob/view
 ---
