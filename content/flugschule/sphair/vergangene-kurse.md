@@ -18,7 +18,6 @@ S-122
 S-147 [Bericht] (https://drive.google.com/file/d/1wxEahHRb07hEtlY2GOE9hjI5qg3n7COG/view?usp=sharing)
 
 ![](/img/uploads/sphair_147.jpg)
-[Bericht] (https://drive.google.com/file/d/1wxEahHRb07hEtlY2GOE9hjI5qg3n7COG/view?usp=sharing)
 
 ### 2016
 
