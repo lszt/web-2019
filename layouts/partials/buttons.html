@@ -5,7 +5,11 @@
 {{ end }}
 
 {{ range .Params.buttons }}
-  <a class="btn {{ if .cta }}cta{{ else }}outline{{ end }}" href="{{ .url }}" {{ if .cta }}target="_blank"{{ end }}>
+  <a
+    class="btn {{ if .cta }}cta{{ else }}outline{{ end }}"
+    href="{{ .url }}"
+    {{ if .blank }} target="_blank"{{ end }}
+  >
     {{ if .title }}
       {{ .title }}
     {{ else }}

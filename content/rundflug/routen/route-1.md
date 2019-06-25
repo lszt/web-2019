@@ -15,7 +15,7 @@ description: |-
 buttons:
   - cta: true
     title: Rundflug buchen
-    url: >-
-      https://www.gurado.de/mfgt/gutscheine-rundfluge/gutschein-rundflug-route-1.html
+    url: 'https://www.gurado.de/mfgt/gutscheine-rundfluge/gutschein-rundflug-route-1.html'
+    blank: true
 ---
 

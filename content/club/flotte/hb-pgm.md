@@ -9,11 +9,12 @@ description: '**Piper Archer II PA28-181**'
 buttons:
   - cta: false
     title: Preise
-    url: >-
-      https://drive.google.com/a/mfgt.ch/file/d/19wMdnTTvqhRbaScBwS0Tqf3iBVFWExGj/view
+    url: 'https://drive.google.com/a/mfgt.ch/file/d/19wMdnTTvqhRbaScBwS0Tqf3iBVFWExGj/view'
+    blank: true
   - cta: true
     title: Reservation
     url: 'https://www.flightnet.aero/default.aspx?company=mfgt'
+    blank: true
 ---
 Reiseflugzeug
 

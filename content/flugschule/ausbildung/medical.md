@@ -13,7 +13,7 @@ description: >-
 buttons:
   - cta: false
     title: infos
-    url: >-
-      https://www.bazl.admin.ch/bazl/de/home/fachleute/ausbildung-und-lizenzen/flugmedizinischer-dienst.html
+    url: 'https://www.bazl.admin.ch/bazl/de/home/fachleute/ausbildung-und-lizenzen/flugmedizinischer-dienst.html'
+    blank: true
 ---
 

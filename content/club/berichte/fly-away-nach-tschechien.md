@@ -10,5 +10,6 @@ description: '2014: Rundreise in Tschechien mit der HB-KOF'
 buttons:
   - title: Reisebericht
     url: 'https://drive.google.com/a/mfgt.ch/file/d/1-IkWFFVa-vYP_bVDz350xk4b5d1cLj6y/view?usp=sharing'
+    blank: true
 ---
 

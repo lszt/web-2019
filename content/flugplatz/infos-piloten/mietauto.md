@@ -11,7 +11,9 @@ description: >-
 buttons:
   - cta: false
     url: 'https://drive.google.com/open?id=1xkGwXQJBWN1ymfJFM56Gj1itVr6gIP8e'
+    blank: true
   - cta: true
     title: Reservieren
     url: 'https://docs.google.com/forms/d/e/1FAIpQLSfKNzpS-LO_PFkbR8UcXd2bBl2Rf8Sb4JOitPKNzs5o4n1JPA/viewform'
+    blank: true
 ---

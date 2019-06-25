@@ -12,10 +12,11 @@ buttons:
   - cta: false
     title: Kursdaten
     url: 'https://drive.google.com/file/d/18En0ncnQQ4Sh9yf-HkR7VKKS3QinVRWR/view'
+    blank: true
   - cta: true
     title: Anmelden
-    url: >-
-      https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform
+    url: 'https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform'
+    blank: true
 ---
 Die Ausbildung besteht aus 9 Theoriefächern und der Radiotelefonie Praxis:
 

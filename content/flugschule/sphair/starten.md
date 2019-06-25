@@ -13,6 +13,7 @@ buttons:
   - cta: false
     title: Kursdaten
     url: '/club/club/agenda/'
+    blank: false
 ---
 **Das SPHAIR Zertifikat ist Qualitätssiegel für das Talent und das Engagement der Kandidaten.**
 

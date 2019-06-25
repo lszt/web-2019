@@ -12,7 +12,7 @@ description: >-
 buttons:
   - cta: true
     title: schnupperflug buchen
-    url: >-
-      https://www.gurado.de/mfgt/gutschein-schnupperflug-1/gutschein-schnupperflug.html
+    url: 'https://www.gurado.de/mfgt/gutschein-schnupperflug-1/gutschein-schnupperflug.html'
+    blank: true
 ---
 

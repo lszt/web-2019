@@ -18,5 +18,6 @@ buttons:
   - cta: true
     title: Anmelden
     url: 'mailto:sekretariat@mfgt.ch'
+    blank: false
 ---
 

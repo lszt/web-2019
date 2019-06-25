@@ -14,5 +14,6 @@ description: >-
 buttons:
   - title: agenda
     url: '/club/club/agenda/'
+    blank: false
 ---
 

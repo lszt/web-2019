@@ -14,6 +14,7 @@ buttons:
   - cta: true
     title: bestellen
     url: 'https://docs.google.com/forms/d/e/1FAIpQLSe_0g1fZBFQmXXYKiMwzM_1gXNo4mIHisTKm8JeqsKKfluRCA/viewform'
+    blank: true
 ---
 **T-Shirt**
 

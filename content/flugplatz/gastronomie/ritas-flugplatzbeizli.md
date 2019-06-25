@@ -13,6 +13,7 @@ buttons:
   - cta: true
     title: zur Webseite
     url: 'http://www.flugplatzbeizli.com/'
+    blank: true
 ---
 Unsere gemütliche Flugplatzbeiz, die Ihnen eine breite Auswahl an alkoholischen und alkoholfreien Getränken sowie kalten und warmen Speisen bietet. Für Gruppen sind wir auf Voranmeldung bestens gerüstet. Für unsere Kleinsten steht ein grosser Kinderspielplatz mit verschiedenen Spielgeräten zur Verfügung!
 

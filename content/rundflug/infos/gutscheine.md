@@ -14,5 +14,6 @@ buttons:
   - cta: true
     title: Gutschein bestellen
     url: 'https://www.gurado.de/mfgt/'
+    blank: true
 ---
 

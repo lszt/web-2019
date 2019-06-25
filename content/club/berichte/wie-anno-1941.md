@@ -10,4 +10,5 @@ description: '2016: Mit der HB-KLA VFR zur Flying Legends Airshow nach Duxford (
 buttons:
   - title: Reisebericht
     url: 'https://drive.google.com/a/mfgt.ch/file/d/13bIrzcPETeGlSmyD2ciqPu_3RBuLqlC2/view?usp=sharing'
+    blank: true
 ---

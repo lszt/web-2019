@@ -13,6 +13,7 @@ buttons:
   - cta: true
     title: Kontakt 2019
     url: 'https://drive.google.com/a/mfgt.ch/file/d/1fFxHhohEl0UZIoJxo6pzYQk11M4gHPmi/view?usp=sharing'
+    blank: true
 ---
 **KONTAKT 171 – 2018**
 

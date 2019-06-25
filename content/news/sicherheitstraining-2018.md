@@ -10,7 +10,9 @@ description: >-
   FFA AS202 BRAVO.
 buttons:
   - title: Details
+    blank: true
   - cta: true
     title: anmelden
+    blank: true
 ---
 
