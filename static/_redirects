@@ -1,2 +1,8 @@
+# Redirect domain aliases to primary domain
+https://www.flugplatz-lommis.ch/* https://www.mfgt.ch/:splat 301!
+https://flugplatz-lommis.ch/* https://www.mfgt.ch/:splat 301!
+https://flugplatzlommis.ch/* https://www.mfgt.ch/:splat 301!
+https://www.flugplatzlommis.ch/* https://www.mfgt.ch/:splat 301!
+
 # Redirect default Netlify subdomain to primary domain
 https://mfgt-2019.netlify.com/* https://www.mfgt.ch/:splat 301!
