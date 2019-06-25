@@ -10,7 +10,7 @@ description: >-
 buttons:
   - title: details
     url: '/flugschule/sphair/starten/'
-  - cta: true
+  - cta: false
     title: kursdaten
     url: '/club/club/agenda/'
 ---
