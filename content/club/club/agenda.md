@@ -6,6 +6,7 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons:
   - title: Fehlenden/Falschen Eintrag melden
+    url: 'mailto:webmaster@mfgt.ch'
 ---
 ### 28.06.2019 – 18:30 | Clubhöck
 
