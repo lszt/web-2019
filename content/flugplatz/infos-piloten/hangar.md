@@ -23,4 +23,4 @@ buttons:
 
 **Auskunft:**\
 D. Lutz, Betriebsleiter LSZT\
-T +41 52 366 33 33 oder <mailto:betriebsleiter@mfgt.ch >
+T +41 52 366 33 33 oder <mailto:betriebsleiter@mfgt.ch>
