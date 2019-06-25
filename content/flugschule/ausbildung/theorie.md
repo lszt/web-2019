@@ -10,13 +10,12 @@ description: >-
   Alle Fächer werden mit einer BAZL-Prüfung abgeschlossen.
 buttons:
   - cta: false
-    title: Kursdaten
+    title: kursprogramm
     url: 'https://drive.google.com/file/d/18En0ncnQQ4Sh9yf-HkR7VKKS3QinVRWR/view'
-    blank: true
   - cta: true
-    title: Anmelden
-    url: 'https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform'
-    blank: true
+    title: anmelden
+    url: >-
+      https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform
 ---
 Die Ausbildung besteht aus 9 Theoriefächern und der Radiotelefonie Praxis:
 
