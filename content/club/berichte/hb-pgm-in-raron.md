@@ -3,6 +3,7 @@ title: HB-PGM in Raron
 date: '2019-06-26T01:08:27+02:00'
 draft: false
 weight: '3'
+image: /img/uploads/flotte_pgm.jpg
 description: '2016: Eindrücke eines intensiven Flugtrainings'
 buttons:
   - title: reisebericht
