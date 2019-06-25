@@ -10,7 +10,7 @@ description: >-
   Lackierung, die sie einem Auftritt in der neuen TV-Serie Catch-22 (mit George
   Clooney) zu verdanken hat.
 ---
-Grund genug für einen Spontan-Event in unserem Hangar mit einem spannenden Referet von Carlo Ferrari – Pilot und Owner dieses Prachtstücks!
+Grund genug für einen Spontan-Event in unserem Hangar mit einem spannenden Referat von Carlo Ferrari – Pilot und Owner dieses Prachtstücks!
 
 ![null](/img/uploads/news_beech18_2.jpg)
 
