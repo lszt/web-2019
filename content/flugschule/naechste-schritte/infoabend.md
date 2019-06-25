@@ -21,5 +21,3 @@ Selbstverständlich stehen wir Dir bei Fragen jederzeit Red' und Antwort. Melde 
 Wir zeigen Dir, wie die Ausbildung aufgebaut ist, welche Voraussetzungen Du mitbringen solltest und mit welchen Kosten Du rechnen musst. Das Wichtigste aber: Wir wollen Dich fürs Fliegen begeistern und mit dem «Virus aviaticus» anstecken!
 
 Am Nachmittag kannst Du bei einem Schnupperflug mit einem Fluglehrer das Steuer selber in die Hand nehmen. Die Kosten dafür betragen CHF 300.– für einen rund 40-minütigen Flug mit der Aquila plus Vor- und Nachbearbeitung. Bitte bei der Anmeldung vermerken, wenn Du Interesse hast. Wir freuen uns auf Dich!
-
-[Hier Flyer downloaden] (https://drive.google.com/file/d/145KbrNmk-A8nYtlLpRn2wWVM3l5VnWk8/view?usp=sharing)
