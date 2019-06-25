@@ -1,7 +1,7 @@
 ---
 title: Roundtables 'Auslandflüge'
 date: 2017-01-04T15:04:10.000Z
-draft: true
+draft: false
 weight: '2'
 image: /img/uploads/bild_kla_schweden.jpg
 description: >-
@@ -10,7 +10,6 @@ description: >-
   Durchführung und über die Destinationen referiert.
 buttons:
   - title: agenda
-    url: '/club/club/agenda/'
-    blank: false
+    url: /club/club/agenda/
 ---
 
