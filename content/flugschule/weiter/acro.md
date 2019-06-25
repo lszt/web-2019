@@ -10,7 +10,7 @@ description: >-
   kunstflugtaugliche FFA AS202 BRAVO.
 buttons:
   - cta: true
-    title: anmelden
+    title: Anmelden
     url: >-
       https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform
 ---
@@ -42,3 +42,8 @@ Interessierte können ausserdem folgende Grundfiguren miterleben:
 **Kosten**
 
 CHF 350.–
+
+\
+**Kursprogramm**
+
+[Kursprogramm] (https://drive.google.com/file/d/1K9I9wzj1XNsZLZC6sgYsv-PapIZLAc2S/view?usp=sharing)

@@ -4,8 +4,6 @@ date: 2019-04-14T10:51:24.000Z
 draft: false
 weight: '3'
 image: /img/uploads/ausbildung_voice.jpg
-positionx: 50
-positiony: 50
 description: >-
   Zusätzlich zu den Theorie-Fächern musst Du Dich in Radiotelefonie (Voice)
   ausweisen. Dafür bieten wir über den Winter Kurse an. Voraussetzung sind
@@ -13,9 +11,10 @@ description: >-
 buttons:
   - cta: false
     title: Kursdaten
-    url: '/club/club/agenda'
+    url: >-
+      https://drive.google.com/file/d/16AYVjsZ86V0sUmrwrs4TaGAPD63UItUF/view?usp=sharing
   - cta: true
-    title: anmelden
+    title: Anmelden
     url: >-
       https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform
 ---
@@ -25,7 +24,7 @@ Der Besuch der ersten beiden Kursdaten ist oligatorisch (im Kursprogamm lila dar
 
 Bei mehr als 5 Teilnehmern finden die Praxisblöcke jeweils in zwei Gruppen am gleichen Tag zu unterschiedlichen Zeiten statt (im Kursprogamm rot und rosa dargetellt). Die Gruppeneinteilung wird am ersten Kurstag festgelegt.
 
-Weitere Details siehe [Kursprogramm](link).
+Weitere Details siehe [Kursprogramm](https://drive.google.com/file/d/16AYVjsZ86V0sUmrwrs4TaGAPD63UItUF/view?usp=sharing).
 
 **Kursleiterin**
 
