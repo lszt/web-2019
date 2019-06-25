@@ -39,4 +39,4 @@ Weitere Details sowie Kosten siehe [AGB](https://drive.google.com/file/d/1iF-XZ-
 
 **Kursleiterin:**
 
-Dagmar Hollerer, Fluglehrerin, <mailto:hollerer@bluemail.ch>, 078 684 30 60
+Dagmar Hollerer, Fluglehrerin, <mailto:hollerer@bluemail.ch>, +41 78 684 30 60
