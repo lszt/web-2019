@@ -9,9 +9,11 @@ description: >-
   Softshell-Jacken für kühlere Tage zur Verfügung. Im Sekretariat stehen Muster
   zur Anprobe bereit.
 buttons:
+  - title: mehr
+    url: /club/club/merchandise/
   - cta: true
     title: bestellen
-    url: 'https://docs.google.com/forms/d/e/1FAIpQLSe_0g1fZBFQmXXYKiMwzM_1gXNo4mIHisTKm8JeqsKKfluRCA/viewform'
-    blank: true
+    url: >-
+      https://docs.google.com/forms/d/e/1FAIpQLSe_0g1fZBFQmXXYKiMwzM_1gXNo4mIHisTKm8JeqsKKfluRCA/viewform
 ---
 
