@@ -15,7 +15,7 @@ S-122
 
 ![null](/img/uploads/sphair_122.jpg)
 
-S-147 [Bericht](https://drive.google.com/file/d/1wxEahHRb07hEtlY2GOE9hjI5qg3n7COG/view?usp=sharing) [Video](https://drive.google.com/file/d/1V-w03l3gNA5ZsW71cyDhlmBenSSYCgBu/view)
+S-147 [Bericht](https://drive.google.com/file/d/1wxEahHRb07hEtlY2GOE9hjI5qg3n7COG/view?usp=sharing)/[Video](https://drive.google.com/file/d/1V-w03l3gNA5ZsW71cyDhlmBenSSYCgBu/view)
 
 ![null](/img/uploads/sphair_147.jpg)
 
@@ -41,7 +41,7 @@ S-125
 
 ### 2014
 
-S-103 [Bericht] (https://drive.google.com/file/d/1sCVKeLmDq9nP7dj62aESo_KFeomd3B-6/view?usp=sharing) [Video] (https://www.youtube.com/watch?v=aIsonjVai18)
+S-103 [Bericht] (https://drive.google.com/file/d/1sCVKeLmDq9nP7dj62aESo_KFeomd3B-6/view?usp=sharing)/[Video] (https://www.youtube.com/watch?v=aIsonjVai18)
 
 ![null](/img/uploads/sphair_103.jpg)
 
