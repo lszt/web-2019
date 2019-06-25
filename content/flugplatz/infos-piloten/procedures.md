@@ -3,8 +3,6 @@ title: Infos für Piloten
 date: 2017-01-04T15:04:10.000Z
 weight: '1'
 image: /img/uploads/bild_infos_piloten.jpg
-positionx: 50
-positiony: 50
 description: >-
   Hier finden Sie Informationen, Verfahren und Gebühren, wie sie in Lommis LSZT
   angewendet werden. An- und abfliegende Piloten bitten wir, sich strikt daran
@@ -51,10 +49,10 @@ _Informations provided without guarantee. Use official publications (VFR Manual 
 **Procedures**
 
 ![](/img/uploads/bild_piloteninfos_procedures.jpg)
-[Download Procedures](https://drive.google.com/a/mfgt.ch/file/d/1IWUSwvpP9x1BX14L6kFtka3zHXjM2QNk/view?usp=sharing)
+[Download Procedures](https://drive.google.com/file/d/1fZ593dDIfP-kWTG5w8HeBJWeR4ctBSFF/view?usp=sharing)
 
 An- und Abflug LSZT\
-[Approach and Departure LSZT](https://drive.google.com/a/mfgt.ch/file/d/1IWUSwvpP9x1BX14L6kFtka3zHXjM2QNk/view?usp=sharing)
+[Approach and Departure LSZT](https://drive.google.com/file/d/1fZ593dDIfP-kWTG5w8HeBJWeR4ctBSFF/view?usp=sharing)
 
 Rollverfahren\
 [Taxi Procedure LSZT](https://drive.google.com/a/mfgt.ch/file/d/18r-c7mhr2uByscznI4l5UEozjh_7qC-X/view?usp=sharing)
