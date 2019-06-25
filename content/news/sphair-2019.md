@@ -9,11 +9,9 @@ description: >-
   Nachwuchspiloten – in Lommis!
 buttons:
   - title: details
-    url: '/flugschule/sphair/starten/'
-    blank: false
+    url: /flugschule/sphair/starten/
   - cta: false
-    title: kursdaten
-    url: '/club/club/agenda/'
-    blank: false
+    title: agenda
+    url: /club/club/agenda/
 ---
 
