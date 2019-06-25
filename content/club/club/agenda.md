@@ -83,4 +83,4 @@ Rita's Flugplatzbeizli
 Rita's Flugplatzbeizli
 
 **Fehlt etwas?**
-Test
+Fehlt ein Termin oder stimmt ein Datum? Wir sind um jeden [Hinweis] (mailto: webmaster@mfgt.ch) froh.
