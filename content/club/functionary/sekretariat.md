@@ -9,7 +9,7 @@ positiony: 50
 description: |-
   **Corinna Brüllmann**
 
-  T 052 366 33 33\
+  T +41 52 366 33 33\
   <mailto:sekretariat@mfgt.ch>
 ---
 

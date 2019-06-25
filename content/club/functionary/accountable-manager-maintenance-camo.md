@@ -9,7 +9,7 @@ positiony: 50
 description: |-
   **Philipp Müller**
 
-  T 052 366 33 41\
+  T +41 52 366 33 41\
   <mailto:maintenance@mfgt.ch>
 ---
 
