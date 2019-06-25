@@ -49,9 +49,6 @@ _Informations provided without guarantee. Use official publications (VFR Manual 
 **Procedures**
 
 ![](/img/uploads/bild_piloteninfos_procedures.jpg)
-[Download Procedures](https://drive.google.com/file/d/1fZ593dDIfP-kWTG5w8HeBJWeR4ctBSFF/view?usp=sharing)
-
-An- und Abflug LSZT\
 [Approach and Departure LSZT](https://drive.google.com/file/d/1fZ593dDIfP-kWTG5w8HeBJWeR4ctBSFF/view?usp=sharing)
 
 Rollverfahren\
