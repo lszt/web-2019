@@ -4,8 +4,6 @@ date: '2019-05-09T16:46:49+02:00'
 draft: false
 weight: '8'
 image: /img/uploads/club_jugend.jpg
-positionx: 50
-positiony: 50
 description: >-
   Aviatikluft schnuppern und das Steuer in die Hand nehmen!\
 
@@ -13,7 +11,7 @@ description: >-
   ermöglichen dir einen packenden Einstieg in den Motorflug.
 buttons:
   - title: agenda
-    url: '/club/club/agenda/'
+    url: /club/club/agenda/
 ---
 **Voraussetzung**
 
@@ -53,4 +51,4 @@ Damit du im YES fliegen darfst, brauchen wir eine Bestätigung mit der Unterschr
 
 Markus Schnyder, <mailto:markus.schnyder@mfgt.ch>, +41 79 680 19 38 
 
-[Hier Flyer downloaden](pdf)
+[Hier Flyer downloaden](https://drive.google.com/file/d/1rr3Ai_a1pgrypxF4DsXr9lAKNHdgvVAf/view?usp=sharing)
