@@ -1,7 +1,7 @@
 ---
 title: HB-PGM in Raron
 date: '2019-06-26T01:08:27+02:00'
-draft: true
+draft: false
 weight: '3'
 description: '2016: Eindrücke eines intensiven Flugtrainings'
 buttons:
