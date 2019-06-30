@@ -6,7 +6,7 @@ weight: '6'
 image: /img/uploads/flotte_pgm.jpg
 description: '2016: Eindrücke eines intensiven Flugtrainings'
 buttons:
-  - title: reisebericht
+  - title: bericht
     url: >-
       https://drive.google.com/file/d/1SiNbyPNMJIR7iT2sK1Uvri180aeamweu/view?usp=sharing
 ---
