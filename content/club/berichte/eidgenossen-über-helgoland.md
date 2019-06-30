@@ -6,7 +6,7 @@ weight: '10'
 image: /img/uploads/bericht_helgoland.jpg
 description: '2013: Mit der Robin nach Helgoland'
 buttons:
-  - title: Reisebericht
+  - title: bericht
     url: >-
       https://drive.google.com/a/mfgt.ch/file/d/1BaKysak9SgGN8D0Ns2_AGXWrusuHuo7c/view?usp=sharing
 ---
