@@ -10,10 +10,6 @@ buttons: []
 
 Rita's Flugplatzbeizli
 
-### 29.06.2019 | Platzunterhalt
-
-Flugplatz Lommis
-
 ### 14.07. – 26.07.2019 | SPHAIR-Kurs 2
 
 Flugplatz Lommis
