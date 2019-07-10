@@ -6,3 +6,5 @@ https://www.flugplatzlommis.ch/* https://www.mfgt.ch/:splat 301!
 
 # Redirect default Netlify subdomain to primary domain
 https://mfgt-2019.netlify.com/* https://www.mfgt.ch/:splat 301!
+
+https://www.mfgt.ch/nc/flugplatz/piloten-infos/webcam/ https://www.mfgt.ch/
