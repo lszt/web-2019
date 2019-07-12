@@ -12,7 +12,7 @@ description: |-
   Preis pro Person: CHF 110.–
 buttons:
   - cta: true
-    title: Rundflug buchen
+    title: Gutschein Route 2 bestellen
     url: >-
       https://www.gurado.de/mfgt/gutscheine-rundfluge/gutschein-rundflug-route-2.html
 ---
