@@ -4,8 +4,6 @@ date: '2019-05-13T12:35:51+02:00'
 draft: false
 weight: '7'
 image: /img/uploads/rundflug_route7.jpg
-positionx: 50
-positiony: 50
 description: |-
   **Berner Alpen, Engadin oder Jura**
 
@@ -14,8 +12,8 @@ description: |-
   Preis pro Person: CHF 350.–
 buttons:
   - cta: true
-    title: Rundflug buchen
-    url: 'https://www.gurado.de/mfgt/gutscheine-rundfluge/gutschein-rundflug-route-7.html'
-    blank: true
+    title: Gutschein Route 7 bestellen
+    url: >-
+      https://www.gurado.de/mfgt/gutscheine-rundfluge/gutschein-rundflug-route-7.html
 ---
 
