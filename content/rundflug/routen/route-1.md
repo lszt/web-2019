@@ -12,7 +12,7 @@ description: |-
   Preis pro Person: CHF 80.–
 buttons:
   - cta: true
-    title: Rundfluggutschein bestellen
+    title: Gutschein Route 1 bestellen
     url: >-
       https://www.gurado.de/mfgt/gutscheine-rundfluge/gutschein-rundflug-route-1.html
 ---
