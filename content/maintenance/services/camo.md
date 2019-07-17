@@ -21,5 +21,3 @@ Diese umfassen:
 * Verfolgung der anfallenden AD’s und SB’s
 * Durchführung von Airworthiness Reviews (Lufttüchtigkeitsprüfungen)
 * Ausstellen und Verlängern von Airworthiness Review Certificates (ARC’s, Lufttüchtigkeitszeugnisse)
-
-Wir sind auch in der Lage, bereits bestehende ARC’s zu verlängern.
