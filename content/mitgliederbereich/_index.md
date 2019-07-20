@@ -7,4 +7,4 @@ coverImages:
     positionx: 50
     positiony: 50
 ---
-Interner [Bereich] (https://drive.google.com/drive/folders/0ANu6_Zpq5akJUk9PVA)
+[Hier] (https://drive.google.com/drive/folders/0ANu6_Zpq5akJUk9PVA) gehts zum interner Bereich.
