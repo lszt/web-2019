@@ -831,7 +831,7 @@ collections:
   - name: "mitgliederbereich-dokumente"
     label: "Mitgliederbereich - Dokumente"
     folder: "content/mitgliederbereich/dokumente/"
-    create: false
+    create: true
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
