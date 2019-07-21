@@ -809,9 +809,9 @@ collections:
           - {label: "Bild", name: "image", widget: "image", required: true}
           - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
           - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
-  - name: "mitgliederbereich-dokumente"
-    label: "Mitgliederbereich - Dokumente"
-    folder: "content/mitgliederbereich/dokumente/"
+  - name: "mitgliederbereich"
+    label: "Mitgliederbereich"
+    folder: "content/mitgliederbereich/"
     create: false
     slug: "{{slug}}"
     fields:
@@ -828,9 +828,9 @@ collections:
           - {label: "Bild", name: "image", widget: "image", required: true}
           - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
           - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
-  - name: "mitgliederbereich"
-    label: "Mitgliederbereich"
-    folder: "content/mitgliederbereich/"
+  - name: "mitgliederbereich-dokumente"
+    label: "Mitgliederbereich - Dokumente"
+    folder: "content/mitgliederbereich/dokumente/"
     create: false
     slug: "{{slug}}"
     fields:
