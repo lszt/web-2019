@@ -814,7 +814,7 @@ collections:
     folder: "content/mitgliederbereich/"
     create: true
     slug: "{{slug}}"
-     fields:
+    fields:
       - {label: "Titel", name: "title", widget: "string"}
       - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
       - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
