@@ -8,7 +8,7 @@ description: >-
   Für den Zugang verwenden wir die E-Mail-Adresse, die du bei uns hinterlegt
   hast.
 ---
-Um die hier abgelegten Dokumente einsehen zu können, ist ein Login zwingend erforderlich.
+Um die Dokumente im internen Bereich der Homepage einsehen zu können, ist ein Login zwingen erforderlich.
 
 Für den Zugang verwenden wir die E-Mail-Adresse, die du bei uns hinterlegt hast.
 
