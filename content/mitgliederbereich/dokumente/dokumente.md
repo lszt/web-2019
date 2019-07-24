@@ -8,8 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
-<hr> 
-<table border="1" width="100%">
+<table border="0" width="100%">
   <colgroup>
     <col width="1*">
     <col width="2*">
@@ -41,4 +40,3 @@ description: >-
     <td>hinzugefügt</td>
   </tr>
 </table>
-<hr>
