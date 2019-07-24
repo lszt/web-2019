@@ -9,6 +9,9 @@ coverImages:
   - image: /img/uploads/ausbildung_praktische_ausbildung.jpg
     positionx: 50
     positiony: 50
+  - image: /img/uploads/ausbildung_theorie.jpg
+    positionx: 50
+    positiony: 50
 ---
 Willkommen im interne Bereich unserer Hompage.
 
