@@ -14,9 +14,9 @@ description: >-
 
 <tr>
 
-<td> 19.07.2019 </th>
+<td>19.07.2019</th>
 
-<td> HB-KFW/AFM</th>
+<td>HB-KFW/AFM</th>
 
 <td>Operation without wheel spat</th>
 
@@ -26,9 +26,9 @@ description: >-
 
 <tr>
 
-<td> 19.07.2019 </th>
+<td>19.07.2019</th>
 
-<td> HB-KFW/AFM</th>
+<td>HB-KFW/AFM</th>
 
 <td>Use of disk braking system</th>
 
@@ -38,21 +38,21 @@ description: >-
 
 <tr>
 
-<td> 19.07.2019 </th>
+<td>19.07.2019</th>
 
-<td>   HB-KOF/AFM</th>
+<td>HB-KOF/AFM</th>
 
-<td>  Operation without wheel spat</th>
+<td>Operation without wheel spat</th>
 
-<td>  _hinzugefügt_</th>
+<td>hinzugefügt</th>
 
 </tr>
 
 <tr>
 
-<td> 19.07.2019 </th>
+<td>19.07.2019</th>
 
-<td> HB-KOF/AFM</th>
+<td>HB-KOF/AFM</th>
 
 <td>Use of disk braking system</th>
 
