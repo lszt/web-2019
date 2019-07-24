@@ -8,35 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
-<table border="0" width="100%">
-  <colgroup>
-    <col width="1*">
-    <col width="2*">
-    <col width="4*">
-    <col width="1*">
-  </colgroup>
-  <tr>
-    <td>19.07.2019</td>
-    <td>HB-KFW/AFM</td>
-    <td>[Operation without wheel spat] (https://drive.google.com/drive/folders/1GU1DASDEi-3-CeMtEt3ho3VkUl92vjPX)</td>
-    <td>hinzugefügt</td>
-  </tr>
-  <tr>
-    <td>19.07.2019</td>
-    <td>HB-KFW/AFM</td>
-    <td>Use of disk braking system</td>
-    <td>hinzugefügt</td>
-  </tr>
-  <tr>
-    <td>19.07.2019</td>
-    <td>HB-KOF/AFM</td>
-    <td>Operation without wheel spat</td>
-    <td>hinzugefügt</td>
-  </tr>
-  <tr>
-    <td>19.07.2019</td>
-    <td>HB-KOF/AFM</td>
-    <td>Use of disk braking system</td>
-    <td>hinzugefügt</td>
-  </tr>
-</table>
+* 19.07.2019 HB-KFW/AFM [Operation without wheel spat](https://drive.google.com/drive/folders/1GU1DASDEi-3-CeMtEt3ho3VkUl92vjPX) _hinzugefügt_
+* 19.07.2019 HB-KFW/AFM [Use of disk braking system] (https://drive.google.com/drive/folders/1GU1DASDEi-3-CeMtEt3ho3VkUl92vjPX) _hinzugefügt_
+* 19.07.2019 HB-KOF/AFM [Operation without wheel spat] (https://drive.google.com/drive/folders/1RgaX0deVrczFGQYFXAnZfWL-EeOt_C5T) _hinzugefügt_
+* 19.07.2019 HB-KOF/AFM [Use of disk braking system] (https://drive.google.com/drive/folders/1RgaX0deVrczFGQYFXAnZfWL-EeOt_C5T) _hinzugefügt_
