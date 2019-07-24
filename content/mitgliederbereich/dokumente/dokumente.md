@@ -63,3 +63,18 @@ description: >-
 </table>
 
 <hr>
+<table border="1" width="100%">
+  <colgroup>
+    <col width="1*">
+    <col width="2*">
+    <col width="4*">
+    <col width="1*">
+  </colgroup>
+  <tr>
+    <td>19.07.2019</td>
+    <td>HB-KFW/AFM</td>
+    <td>Operation without wheel spat</td>
+    <td>hinzugefügt</td>
+  </tr>
+  <!-- usw. andere Zeilen der Tabelle -->
+</table>
