@@ -73,3 +73,9 @@ Rita's Flugplatzbeizli
 ### 27.12.2019 – 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
+
+<hr>
+
+Fehlen Anlässe oder sind Termine falsch?
+
+Wir sind dankbar für deine Rückmeldung an <mailto:webmaster@mfgt.ch>
