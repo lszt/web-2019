@@ -3,11 +3,8 @@ title: Login
 date: '2019-07-22T10:07:36+02:00'
 draft: false
 weight: '2'
+image: /img/uploads/flotte_dummy.jpg
 description: >-
-  Um die hier abgelegten Dokumente einsehen zu können, ist ein Login zwingend
-  erforderlich.
-
-
   Für den Zugang verwenden wir die E-Mail-Adresse, die du bei uns hinterlegt
   hast.
 ---
