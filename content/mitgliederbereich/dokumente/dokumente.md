@@ -40,11 +40,11 @@ description: >-
 
 <td> 19.07.2019 </th>
 
-<td> HB-KOF/AFM</th>
+<td>   HB-KOF/AFM</th>
 
-<td>Operation without wheel spat</th>
+<td>  Operation without wheel spat</th>
 
-<td>hinzugefügt</th>
+<td>  _hinzugefügt_</th>
 
 </tr>
 
