@@ -812,7 +812,7 @@ collections:
   - name: "mitgliederbereich"
     label: "Mitgliederbereich"
     folder: "content/mitgliederbereich/"
-    create: false
+    create: true
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
