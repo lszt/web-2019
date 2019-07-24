@@ -46,12 +46,6 @@ googleAnalytics = "UA-25486694-1"
     name       = "Kontakt"
     url        = "/kontakt/"
     weight     = 6
-    
-    [[menu.main]]
-    identifier = "mitgliederbereich"
-    name       = "..."
-    url        = "/mitgliederbereich/"
-    weight     = 7
 
 [sitemap]
   changefreq  = "monthly"
