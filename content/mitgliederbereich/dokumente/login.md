@@ -8,7 +8,8 @@ description: >-
   Für den Zugang verwenden wir die E-Mail-Adresse, die du bei uns hinterlegt
   hast.
 buttons:
-  - cta: true
+  - blank: true
+    cta: true
     title: Login
     url: 'https://drive.google.com/drive/folders/0ANu6_Zpq5akJUk9PVA'
 ---
