@@ -10,9 +10,56 @@ description: >-
 ---
 <hr>
 
-* 19.07.2019 HB-KFW/AFM Operation without wheel spat hinzugefügt
-* 19.07.2019 HB-KFW/AFM Use of disk braking system hinzugefügt
-* 19.07.2019 HB-KOF/AFM Operation without wheel spat hinzugefügt
-* 19.07.2019 HB-KOF/AFM Use of disk braking system hinzugfügt
+<table>
+
+<tr>
+
+<th> 19.07.2019 </th>
+
+<th> HB-KFW/AFM</th>
+
+<th>Operation without wheel spat</th>
+
+<th>hinzugefügt</th>
+
+</tr>
+
+<tr>
+
+<th> 19.07.2019 </th>
+
+<th> HB-KFW/AFM</th>
+
+<th>Use of disk braking system</th>
+
+<th>hinzugefügt</th>
+
+</tr>
+
+<tr>
+
+<th> 19.07.2019 </th>
+
+<th> HB-KOF/AFM</th>
+
+<th>Operation without wheel spat</th>
+
+<th>hinzugefügt</th>
+
+</tr>
+
+<tr>
+
+<th> 19.07.2019 </th>
+
+<th> HB-KOF/AFM</th>
+
+<th>Use of disk braking system</th>
+
+<th>hinzugefügt</th>
+
+</tr>
+
+</table>
 
 <hr>
