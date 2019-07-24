@@ -7,6 +7,6 @@ coverImages:
     positionx: 50
     positiony: 50
 ---
-Willkommen im interne Bereich unserer Hompage.
+Willkommen im internen Bereich unserer Homepage.
 
 Um die hier abgelegten Dokumente einsehen zu können, ist ein Login zwingend erforderlich.
