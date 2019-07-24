@@ -2,7 +2,7 @@
 title: Recently revised
 date: '2019-07-22T10:04:03+02:00'
 draft: false
-weight: '2'
+weight: '1'
 image: /img/uploads/ausbildung_praktische_ausbildung.jpg
 description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
