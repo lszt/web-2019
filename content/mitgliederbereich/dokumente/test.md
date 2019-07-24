@@ -16,4 +16,4 @@ Damit der Zugriff klappt benötigst du ein Google-Konto, falls du noch keins has
 
 Falls du bereits einen Google-Konto hast, das du für den Zugang benutzen willst, dieses aber auf eine andere E-Mail Adresse lautet, dann füge die Adresse die bei uns hinterlegt ist deinem Konto gemäss folgendem [Link] (https://support.google.com/accounts/answer/176347?&hl=de) hinzu.
 
-Bei Fragen melde dich bitte unter webmaster@mfgt.ch
+Bei Fragen melde dich bitte unter <mailto:webmaster@mfgt.ch>
