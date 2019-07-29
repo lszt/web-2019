@@ -6,14 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 14.07. – 26.07.2019 | SPHAIR-Kurs 2
-
-Flugplatz Lommis
-
-### 26.07.2019 – 18:30 | Clubhöck
-
-Rita's Flugplatzbeizli
-
 ### 10.08.2019 – 09:00 | YES-Tag
 
 Flugplatz Lommis  |  [Anmelden](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
