@@ -10,9 +10,8 @@ description: >-
   FFA AS202 BRAVO.
 buttons:
   - title: Details
-    blank: true
+    url: club-kurse-veranstaltungne/entries/akro-sicherheitstraining
   - cta: true
     title: anmelden
-    blank: true
 ---
 
