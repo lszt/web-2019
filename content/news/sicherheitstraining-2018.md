@@ -9,8 +9,8 @@ description: >-
   mit einem Kunstfluglehrer. Zur Verwendung kommt eine voll kunstflugtaugliche
   FFA AS202 BRAVO.
 buttons:
-  - title: Details
-    url: club-kurse-veranstaltungne/entries/akro-sicherheitstraining
+  - title: mehr
+    url: /flugschule/weiter/acro/
   - cta: true
     title: anmelden
 ---
