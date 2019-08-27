@@ -38,7 +38,8 @@ Rundgang auf dem Flugplatz mit Besichtigung Flugzeugflotte
 Apéro im Flugplatzbeizli
 
 **13.30 Uhr**\
-Individuelle, rund 40-minütige, Schnupperflüge mit Fluglehrer, bei denen Du das Steuer selber in die Hand nehmen darfst. Kosten: CHF 300.– (mit Infoanlass-Gutschein: CHF 250.–).\
+Individuelle, rund 40-minütige Schnupperflüge mit Fluglehrer, bei denen Du das Steuer selber in die Hand nehmen darfst. \
+Kosten: CHF 300.– (mit Infoanlass-Gutschein: CHF 250.–).\
 Die Anzahl Flüge ist beschränkt. Bitte am besten schon bei der Anmeldung vermerken.
 
 [\> Jetzt und hier anmelden!](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
