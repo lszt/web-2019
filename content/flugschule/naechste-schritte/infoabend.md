@@ -2,7 +2,7 @@
 title: Infoanlass
 date: 2019-04-14T10:51:24.000Z
 draft: false
-image: /img/uploads/bild_hangar.jpg
+image: /img/uploads/bild_infoanlass.jpg
 description: >-
   **Samstag, 21. September 2019, 9 – 12 Uhr**\
 
