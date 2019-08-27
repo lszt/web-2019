@@ -4,21 +4,39 @@ date: 2019-04-14T10:51:24.000Z
 draft: false
 image: /img/uploads/bild_hangar.jpg
 description: >-
+  **Samstag, 21. September 2019, 9 – 12 Uhr**\
+
+  **Theorielokal, Flugplatz Lommis**
+
+
   Interessierst Du Dich für eine Ausbildung zum Privatpiloten und für eine
-  Mitgliedschaft bei der Motorfluggruppe Thurgau? Dann ist der Infotag der
+  Mitgliedschaft bei der Motorfluggruppe Thurgau? Dann ist der Infoanlass der
   Flugschule genau das Richtige für Dich!
 buttons:
-  - cta: false
-    title: Agenda
-    url: /club/club/agenda/
-    blank: false
   - cta: true
     title: Anmelden
-    url: 'https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform'
-    blank: true
+    url: >-
+      https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform
 ---
-Selbstverständlich stehen wir Dir bei Fragen jederzeit Red' und Antwort. Melde Dich einfach beim [Sekretariat](mailto:sekretariat@mfgt.ch) für einen individuellen Termin.
+Wir zeigen Dir, wie die Ausbildung aufgebaut ist, welche Voraussetzungen Du mitbringen solltest und mit welchen Kosten Du rechnen musst. Das Wichtigste aber: Wir wollen Dich fürs Fliegen begeistern!
 
-Wir zeigen Dir, wie die Ausbildung aufgebaut ist, welche Voraussetzungen Du mitbringen solltest und mit welchen Kosten Du rechnen musst. Das Wichtigste aber: Wir wollen Dich fürs Fliegen begeistern und mit dem «Virus aviaticus» anstecken!
+## **Programm:**
 
-Am Nachmittag kannst Du bei einem Schnupperflug mit einem Fluglehrer das Steuer selber in die Hand nehmen. Die Kosten dafür betragen CHF 300.– für einen rund 40-minütigen Flug mit der Aquila plus Vor- und Nachbearbeitung. Bitte bei der Anmeldung vermerken, wenn Du Interesse hast. Wir freuen uns auf Dich!
+**09.00 Uhr **\
+Eintreffen, Begrüssung
+
+Themen:\
+- Medizinische Voraussetzung\
+- Theorie und Praxis der Privatpiloten-Ausbildung\
+\
+danach:\
+Rundgang auf dem Flugplatz
+
+**12.00 Uhr**\
+Apéro im Flugplatzbeizli
+
+**13.30 Uh**\
+Individuelle rund 40-minütige Schnupperflüge mit Fluglehrer, bei denen Du das Steuer selber ind Hand nehmen darfst. Kosten: CHF 300.– (mit Infoanlass-Gutschein: CHF 250.–).\
+Die Anzahl Flüge ist beschränkt. Bitte am besten schon bei der Anmeldung vermerken.
+
+[\> Jetzt und hier anmelden!](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
