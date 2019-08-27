@@ -32,7 +32,7 @@ Themen:\
 – Weiterbildung\
 \
 danach:\
-Rundgang auf dem Flugplatz
+Rundgang auf dem Flugplatz mit Besichtigung Flugzeugflotte
 
 **12.00 Uhr**\
 Apéro im Flugplatzbeizli
