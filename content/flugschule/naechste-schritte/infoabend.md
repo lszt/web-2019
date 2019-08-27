@@ -26,17 +26,20 @@ Wir zeigen Dir, wie die Ausbildung aufgebaut ist, welche Voraussetzungen Du mitb
 Eintreffen, Begrüssung
 
 Themen:\
-- Medizinische Voraussetzung\
-- Theorie und Praxis der Privatpiloten-Ausbildung\
-\
-danach:\
-Rundgang auf dem Flugplatz
+
+* Medizinische Voraussetzung\
+* Theorie und Praxis der Privatpiloten-Ausbildung
+* 
+* \
+  \
+  danach:\
+  Rundgang auf dem Flugplatz
 
 **12.00 Uhr**\
 Apéro im Flugplatzbeizli
 
-**13.30 Uh**\
-Individuelle rund 40-minütige Schnupperflüge mit Fluglehrer, bei denen Du das Steuer selber ind Hand nehmen darfst. Kosten: CHF 300.– (mit Infoanlass-Gutschein: CHF 250.–).\
+**13.30 Uhr**\
+Individuelle rund 40-minütige Schnupperflüge mit Fluglehrer, bei denen Du das Steuer selber in die Hand nehmen darfst. Kosten: CHF 300.– (mit Infoanlass-Gutschein: CHF 250.–).\
 Die Anzahl Flüge ist beschränkt. Bitte am besten schon bei der Anmeldung vermerken.
 
 [\> Jetzt und hier anmelden!](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
