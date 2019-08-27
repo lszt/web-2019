@@ -20,20 +20,20 @@ buttons:
 ---
 Wir zeigen Dir, wie die Ausbildung aufgebaut ist, welche Voraussetzungen Du mitbringen solltest und mit welchen Kosten Du rechnen musst. Das Wichtigste aber: Wir wollen Dich fürs Fliegen begeistern!
 
-## **Programm:**
+## Programm:
 
-**09.00 Uhr **\
+**09.00 Uhr**
+
 Eintreffen, Begrüssung
 
 Themen:\
-
-* Medizinische Voraussetzung\
-* Theorie und Praxis der Privatpiloten-Ausbildung
-* 
-* \
-  \
-  danach:\
-  Rundgang auf dem Flugplatz
+– Medizinische Voraussetzung\
+– Theorie und Praxis der Privatpiloten-Ausbildung\
+– Ausbildungsdauer und Kosten\
+– Weiterbildung\
+\
+danach:\
+Rundgang auf dem Flugplatz
 
 **12.00 Uhr**\
 Apéro im Flugplatzbeizli
