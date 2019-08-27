@@ -22,8 +22,7 @@ Wir zeigen Dir, wie die Ausbildung aufgebaut ist, welche Voraussetzungen Du mitb
 
 ## Programm:
 
-**09.00 Uhr**
-
+**09.00 Uhr**\
 Eintreffen, Begrüssung
 
 Themen:\
