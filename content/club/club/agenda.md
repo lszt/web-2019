@@ -30,6 +30,10 @@ Reservedatum, Flugplatz Lommis  |  [Anmelden](https://docs.google.com/forms/d/e/
 
 Flugplatz Schmerlat
 
+### 21.09.2019 – 08:00 - 12:00 | Platzunterhalt
+
+Flugplatz Lommis | [Anmelden](mailto:betriebsleiter@mfgt.ch)
+
 ### 21.09.2019 – 09:00 | Infoanlass der Flugschule
 
 Theorieraum Flugplatz  |  [Anmelden](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
