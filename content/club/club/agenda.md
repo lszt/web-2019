@@ -6,14 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 30.08.2019 – 18:30 | Clubhöck
-
-Rita's Flugplatzbeizli
-
-### 31.08.2019 | Jungbürgerfeier Lommis
-
-Flugplatz Lommis
-
 ### 04.09.2019 – 19:00 | Sicherheitstraining Theorie
 
 Theorieraum Flugplatz  |  [Anmelden](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
