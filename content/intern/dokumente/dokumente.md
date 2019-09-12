@@ -8,6 +8,8 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 11.09.2019 | Allgemein/Charter | [Daten Flugzeuge]
+(https://drive.google.com/file/d/1-JAdfujN3CY5hZhQQZETKsw0nRHEGPnF/view?usp=sharing) | hinzugefügt
 * 21.08.2019 | HB-SGT / HB-SGU/AFM | [Flughandbuch](https://drive.google.com/file/d/1dOQhEgY1v7gvtBLXlsCY54zLwcTLC5Zh/view?usp=sharing) | aktualisiert
 * 19.07.2019 | HB-KFW/AFM | [Operation without wheel spat](https://drive.google.com/file/d/1Pg5ZtzAvRwPHX_yo3FgALzX4_5WPK5_l/view?usp=sharing) | hinzugefügt
 * 19.07.2019 | HB-KFW/AFM | [Use of disk braking system](https://drive.google.com/file/d/1ri9XdzIKwrl1z_pSXFJmCT1mOF_y80iI/view?usp=sharing) | hinzugefügt
