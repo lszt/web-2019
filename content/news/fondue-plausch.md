@@ -13,10 +13,15 @@ buttons:
 ---
 Wie jedes Jahr zum Ende der Saison findet auch in diesem Jahr wieder der traditionelle
 Fondue-Plausch im Maintenance-Hangar statt:
+
 Freitag, 29. November 2019 um 19.00 Uhr
-Anmeldung spätestens
-Freitag, 22. November 2019.
-Kosten: 25 Fr. inkl. Dessert. Der Betrag wird am Anfang der Veranstaltung eingezogen.
+
+Anmeldung spätestens Freitag, 22. November 2019.
+
+Kosten: 25 Fr. inkl. Dessert. 
+Der Betrag wird am Anfang der Veranstaltung eingezogen.
+
 Wir freuen uns auf eine rege Teilnahme!
+
 Im Namen des Vorstandes und des Flugplatz-Teams
 Daniel Lutz, Betriebsleiter MFGT
