@@ -9,8 +9,8 @@ description: >-
   Mit dem Sportcruiser HB-WYC und der Robin DR40 HB-KLA quer über den Balkan
   nach Elba und Korsika
 buttons:
-  - cta: true
-    title: Reisebericht
+  - cta: false
+    title: Bericht
     url: 'https://www.fly-away-swiss.com/'
 ---
 
