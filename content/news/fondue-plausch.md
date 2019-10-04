@@ -7,7 +7,7 @@ positionx: 50
 positiony: 50
 description: Fondue-Plausch im Maintenance-Hangar am 29. November 2019
 buttons:
-  - title: Info
+  - title: Mehr
     url: >-
       https://drive.google.com/file/d/1CpmHjnUE-qEqgGYIlx0NbaetwJBvs2Ge/view?usp=sharing
   - cta: true
