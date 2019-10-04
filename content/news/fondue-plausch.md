@@ -2,7 +2,7 @@
 title: Fondue-Plausch
 date: '2019-10-04T13:37:37+02:00'
 draft: false
-image: /img/uploads/ausbildung_luftaufnahme.jpg
+image: /img/uploads/fondue.jpg
 positionx: 50
 positiony: 50
 description: Fondue-Plausch im Maintenance-Hangar am 29. November 2019
