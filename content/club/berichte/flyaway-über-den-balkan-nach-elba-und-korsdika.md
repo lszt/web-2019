@@ -1,5 +1,5 @@
 ---
-title: Flyaway über den Balkan nach Elba und Korsdika
+title: Flyaway über den Balkan nach Elba und Korsika
 date: '2019-10-04T13:47:39+02:00'
 draft: false
 weight: '2'
