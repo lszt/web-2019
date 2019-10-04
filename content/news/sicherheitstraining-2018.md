@@ -1,6 +1,7 @@
 ---
 title: Sicherheitstraining 2019
 date: '2019-08-01T16:04:10+02:00'
+draft: true
 image: /img/uploads/bild_akro.jpg
 positionx: 50
 positiony: 50
