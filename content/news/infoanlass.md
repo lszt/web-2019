@@ -1,7 +1,7 @@
 ---
 title: Infoanlass Flugschule
 date: '2019-08-27T16:46:38+02:00'
-draft: false
+draft: true
 image: /img/uploads/bild_infoanlass.jpg
 positionx: 50
 positiony: 50
