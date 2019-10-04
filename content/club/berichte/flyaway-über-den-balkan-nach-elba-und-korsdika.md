@@ -10,6 +10,6 @@ description: >-
 buttons:
   - cta: false
     title: Bericht
-    url: 'https://www.mfgt.ch/club/berichte/die-kla-in-afrika/'
+    url: 'https://www.fly-away-swiss.com/'
 ---
 
