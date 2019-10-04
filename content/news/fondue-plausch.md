@@ -10,6 +10,9 @@ buttons:
   - cta: true
     title: Anmelden
     url: 'https://doodle.com/poll/hadyig2z3spyunh6'
+  - title: Info
+    url: >-
+      https://drive.google.com/file/d/1CpmHjnUE-qEqgGYIlx0NbaetwJBvs2Ge/view?usp=sharing
 ---
 Wie jedes Jahr zum Ende der Saison findet auch in diesem Jahr wieder der traditionelle
 Fondue-Plausch im Maintenance-Hangar statt:
@@ -24,4 +27,5 @@ Der Betrag wird am Anfang der Veranstaltung eingezogen.
 Wir freuen uns auf eine rege Teilnahme!
 
 Im Namen des Vorstandes und des Flugplatz-Teams
+
 Daniel Lutz, Betriebsleiter MFGT
