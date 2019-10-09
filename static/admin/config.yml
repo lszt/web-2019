@@ -29,7 +29,6 @@ collections:
     fields:
       - {label: "Titel", name: "title", widget: "string"}
       - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
-      - {label: "Ablaufdatum", name: "date", widget: "datetime", required: false}
       - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "Bild", name: "image", widget: "image", required: true}
       - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
