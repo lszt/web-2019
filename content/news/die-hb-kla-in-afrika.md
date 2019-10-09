@@ -1,6 +1,6 @@
 ---
 title: Die HB-KLA in afrika
-date: '2019-10-04T13:02:09+02:00'
+date: '2019-10-04T14:02:09+02:00'
 draft: false
 image: /img/uploads/news_kla_marokko_2.jpg
 positionx: 50
