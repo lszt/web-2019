@@ -6,21 +6,13 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 25.10.2019 – 18:30 | Clubhöck
-
-Rita's Flugplatzbeizli
-
-### 26.10.2019 | Platzunterhalt
-
-Flugplatz Lommis
-
 ### 29.11.2019 – 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
 
 ### 29.11.2019 - 19:00 | Fondue-Plausch
 
-Maintenance-Hangar | [Anmelden] (https://doodle.com/poll/hadyig2z3spyunh6)
+Maintenance-Hangar | [Anmelden](https://doodle.com/poll/hadyig2z3spyunh6)
 
 ### 27.12.2019 – 18:30 | Clubhöck
 
