@@ -8,10 +8,16 @@
       background-image: url('/img/icon-check-circle.svg');
     }
   }
-  &.airport-close {
+  &.airport-restricted {
+    background: #fef9e6;
+    .airport-status__icon {
+      background-image: url('/img/icon-restricted-circle.svg');
+    }
+  }
+  &.airport-closed {
     background: #ff6838;
     .airport-status__icon {
-      background-image: url('/img/icon-close-circle.svg');
+      background-image: url('/img/icon-closed-circle.svg');
     }
   }
   &.airport-error {
