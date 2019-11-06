@@ -1,6 +1,7 @@
 ---
 title: SPHAIR Kurse 2019
 date: 2017-01-04T15:04:10.000Z
+draft: true
 image: /img/uploads/ausbildung_sphair.jpg
 positionx: 50
 positiony: 50

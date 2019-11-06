@@ -1,6 +1,7 @@
 ---
 title: Hangarplatz zu vermieten
 date: 2017-01-04T15:04:10.000Z
+draft: true
 image: /img/uploads/bild_hangar.jpg
 positionx: 50
 positiony: 50
@@ -11,7 +12,6 @@ buttons:
   - cta: true
     title: anfragen
     url: 'mailto:betriebsleiter@mfgt.ch'
-    blank: false
 ---
 * Flugzeug bis max. 11 m Spannweite
 * Hoch- oder Tiefdecker

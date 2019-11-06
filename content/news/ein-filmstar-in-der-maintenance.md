@@ -1,7 +1,7 @@
 ---
 title: Ein Filmstar in der Maintenance!
 date: '2019-05-21T17:12:57+02:00'
-draft: false
+draft: true
 image: /img/uploads/news_beech18.jpg
 positionx: 50
 positiony: 50
