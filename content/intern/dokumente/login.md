@@ -13,7 +13,7 @@ buttons:
     title: Login
     url: 'https://drive.google.com/drive/folders/0ANu6_Zpq5akJUk9PVA'
 ---
-Um die Dokumente im internen Bereich der Homepage einsehen zu können, ist ein Login zwingen erforderlich.
+Um die Dokumente im internen Bereich der Homepage einsehen zu können, ist ein Login zwingend erforderlich.
 
 Für den Zugang verwenden wir die E-Mail-Adresse, die du bei uns hinterlegt hast.
 
