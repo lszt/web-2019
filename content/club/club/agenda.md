@@ -33,7 +33,7 @@ MZH Lommis | [Anmeldung] (https://doodle.com/poll/b4hmxzmn4axebr5u)
 MZH Lommis | [Anmeldung] (https://doodle.com/poll/b4hmxzmn4axebr5u)
 
 ### 06/07.06.2020 | Fly Away Flugschule MFGT
-[Anmeldung und Info's] (andre.heinzelmann@mfgt.ch)
+[Anmeldung und Info's] (mailto:andre.heinzelmann@mfgt.ch)
 
 ### 04/05.07.2020 | Ausweichdatum Fly Away Flugschule MFGT
 
