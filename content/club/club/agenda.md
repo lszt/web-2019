@@ -32,6 +32,9 @@ MZH Lommis | [Anmeldung] (https://doodle.com/poll/b4hmxzmn4axebr5u)
 ### 07.03.2020 | 08:30 - 12:00 | MFGT-Refresher 2020
 MZH Lommis | [Anmeldung] (https://doodle.com/poll/b4hmxzmn4axebr5u)
 
+### 06/07.06.2020 | Fly Away Flugschule MFGT
+[Anmeldung und Info's] (andre.heinzelmann@mfgt.ch)
+
 <hr>
 
 Fehlen Anlässe oder sind Termine falsch?
