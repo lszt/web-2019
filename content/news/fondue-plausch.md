@@ -1,7 +1,7 @@
 ---
 title: Fondue-Plausch
 date: '2019-10-09T10:50:37+02:00'
-draft: false
+draft: true
 image: /img/uploads/fondue.jpg
 positionx: 50
 positiony: 50
