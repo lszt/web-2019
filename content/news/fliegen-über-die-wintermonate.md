@@ -6,9 +6,6 @@ image: /img/uploads/fliegen_winter.jpg
 positionx: 50
 positiony: 50
 description: >-
-  Geschätzte MFGT-Mitglieder
-
-
   Auch an schönen Herbst- und Wintertagen kann auf unserem Flugplatz unter
   Beachtung der besonderen Bedingungen WinterOPS geflogen werden.
 buttons:
