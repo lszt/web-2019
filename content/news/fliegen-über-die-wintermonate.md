@@ -12,7 +12,7 @@ description: >-
   Auch an schönen Herbst- und Wintertagen kann auf unserem Flugplatz unter
   Beachtung der besonderen Bedingungen WinterOPS geflogen werden.
 buttons:
-  - cta: true
+  - cta: false
     title: mehr
     url: >-
       https://drive.google.com/file/d/1zr8fomj0feS1Dwdjb-oodOXj0BqS5SQI/view?usp=sharing
