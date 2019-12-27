@@ -11,6 +11,6 @@ description: >-
 buttons:
   - cta: true
     title: musikvideo
-    url: '<a href="https://www.youtube.com/watch?v=CalaVwVL8ac" target="_blank"'
+    url: '<a href="https://www.youtube.com/watch?v=CalaVwVL8ac" target="_blank">'
 ---
 
