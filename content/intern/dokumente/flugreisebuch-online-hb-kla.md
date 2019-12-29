@@ -7,5 +7,7 @@ buttons:
   - cta: true
     title: Login
     url: 'https://odch-aircraft-logbook-prod.firebaseapp.com/organizations/mfgt'
+coverImages:
+  - image: /img/uploads/bild_infoanlass.jpg
 ---
 
