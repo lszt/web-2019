@@ -8,4 +8,4 @@ buttons:
     title: Login
     url: 'https://odch-aircraft-logbook-prod.firebaseapp.com/organizations/mfgt'
 ---
-
+Zugang zum Flugreisebuch online.
