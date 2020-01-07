@@ -6,7 +6,7 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 27.12.2019 | 18:30 | Clubhöck
+### 31.01.2020 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
 
@@ -20,6 +20,10 @@ MZH Lommis | [Anmeldung](https://doodle.com/poll/b4hmxzmn4axebr5u)
 
 Flugplatz Lommis
 
+### 28.02.2020 | 18:30 | Clubhöck
+
+Rita's Flugplatzbeizli
+
 ### 03.03.2020 | 18:30 - 22:00 | MFGT-Refresher 2020
 
 MZH Lommis | [Anmeldung](https://doodle.com/poll/b4hmxzmn4axebr5u)
@@ -28,11 +32,51 @@ MZH Lommis | [Anmeldung](https://doodle.com/poll/b4hmxzmn4axebr5u)
 
 MZH Lommis | [Anmeldung](https://doodle.com/poll/b4hmxzmn4axebr5u)
 
+### 27.03.2020 | 18:30 | Clubhöck
+
+Rita's Flugplatzbeizli
+
+### 24.04.2020 | 18:30 | Clubhöck
+
+Rita's Flugplatzbeizli
+
+### 29.05.2020 | 18:30 | Clubhöck
+
+Rita's Flugplatzbeizli
+
 ### 06/07.06.2020 | Fly Away Flugschule MFGT
 
 [Anmeldung und Info's](mailto:andre.heinzelmann@mfgt.ch)
 
+### 26.06.2020 | 18:30 | Clubhöck
+
+Rita's Flugplatzbeizli
+
 ### 04/05.07.2020 | Ausweichdatum Fly Away Flugschule MFGT
+
+### 31.07.2020 | 18:30 | Clubhöck
+
+Rita's Flugplatzbeizli
+
+### 28.08.2020 | 18:30 | Clubhöck
+
+Rita's Flugplatzbeizli
+
+### 25.09.2020 | 18:30 | Clubhöck
+
+Rita's Flugplatzbeizli
+
+### 30.10.2020 | 18:30 | Clubhöck
+
+Rita's Flugplatzbeizli
+
+### 27.11.2020 | 18:30 | Clubhöck
+
+Rita's Flugplatzbeizli
+
+### 25.12.2020 | 18:30 | Clubhöck
+
+Rita's Flugplatzbeizli
 
 <hr>
 
