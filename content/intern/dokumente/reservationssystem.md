@@ -5,7 +5,8 @@ draft: false
 image: /img/uploads/bild_infoanlass.jpg
 description: Zugang zum Reservationssystem (Flightnet)
 buttons:
-  - cta: true
+  - blank: true
+    cta: true
     title: Login
     url: 'https://www.flightnet.aero/default.aspx?company=mfgt'
 ---
