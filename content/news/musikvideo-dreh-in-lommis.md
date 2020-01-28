@@ -9,7 +9,8 @@ description: >-
   Die Rockband PILOTS OF THE DAYDREAMS hat für ihre neuste Musikvideo-Produktion
   den Flugplatz Lommis als Kulisse gewählt. Das Produkt kann sich sehen lassen!
 buttons:
-  - cta: true
+  - blank: true
+    cta: true
     title: musikvideo
     url: 'https://www.youtube.com/watch?v=CalaVwVL8ac'
 ---
