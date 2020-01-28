@@ -1,20 +1,18 @@
 ---
 title: HB-PGM
 date: 2017-01-04T15:04:10.000Z
+draft: true
 weight: '6'
 image: /img/uploads/flotte_pgm.jpg
-positionx: 50
-positiony: 50
 description: '**Piper Archer II PA28-181**'
 buttons:
   - cta: false
     title: Preise
-    url: 'https://drive.google.com/a/mfgt.ch/file/d/19wMdnTTvqhRbaScBwS0Tqf3iBVFWExGj/view'
-    blank: true
+    url: >-
+      https://drive.google.com/a/mfgt.ch/file/d/19wMdnTTvqhRbaScBwS0Tqf3iBVFWExGj/view
   - cta: true
     title: Reservation
     url: 'https://www.flightnet.aero/default.aspx?company=mfgt'
-    blank: true
 ---
 Reiseflugzeug
 
