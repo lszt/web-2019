@@ -5,7 +5,8 @@ weight: '3'
 image: /img/uploads/flotte_kfw.jpg
 description: Robin DR400 – 140B
 buttons:
-  - cta: false
+  - blank: true
+    cta: false
     title: Preise
     url: >-
       https://drive.google.com/file/d/1MIxz36JIStEgBr11ccatpX3kfDepbUc1/view?usp=sharing
