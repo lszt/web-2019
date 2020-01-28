@@ -5,7 +5,8 @@ draft: false
 image: /img/uploads/bild_infoanlass.jpg
 description: Zugang zum Flugreisebuch online.
 buttons:
-  - cta: true
+  - blank: true
+    cta: true
     title: Login
     url: 'https://odch-aircraft-logbook-prod.firebaseapp.com/organizations/mfgt'
 coverImages: []
