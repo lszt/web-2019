@@ -3,18 +3,15 @@ title: HB-KFW
 date: 2017-01-04T15:04:10.000Z
 weight: '3'
 image: /img/uploads/flotte_kfw.jpg
-positionx: 50
-positiony: 50
 description: Robin DR400 – 140B
 buttons:
   - cta: false
     title: Preise
-    url: 'https://drive.google.com/a/mfgt.ch/file/d/19wMdnTTvqhRbaScBwS0Tqf3iBVFWExGj/view'
-    blank: true
+    url: >-
+      https://drive.google.com/file/d/1MIxz36JIStEgBr11ccatpX3kfDepbUc1/view?usp=sharing
   - cta: true
     title: Reservation
     url: 'https://www.flightnet.aero/default.aspx?company=mfgt'
-    blank: true
 ---
 Schul- und Reiseflugzeug
 
