@@ -6,7 +6,8 @@ weight: '1'
 image: /img/uploads/flotte_sgt.jpg
 description: '**Aquila A211 GX**'
 buttons:
-  - cta: false
+  - blank: true
+    cta: false
     title: Preise
     url: >-
       https://drive.google.com/file/d/1MIxz36JIStEgBr11ccatpX3kfDepbUc1/view?usp=sharing
