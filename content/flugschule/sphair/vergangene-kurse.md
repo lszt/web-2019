@@ -2,7 +2,7 @@
 title: Vergangene SPHAIR-Kurse
 date: 2019-04-14T10:51:24.000Z
 draft: false
-image: /img/uploads/sphair_2018_146.jpg
+image: /img/uploads/sphair_2019_146.jpg
 description: Hier findest Du Fotos und Berichte vergangener SPHAIR-Kurse
 ---
 ### 2019
