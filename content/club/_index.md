@@ -9,7 +9,7 @@ coverImages:
   - image: /img/uploads/slider_pilzen.jpg
     positionx: 50
     positiony: 50
-  - image: /img/uploads/slider_club_pa28.jpg
+  - image: /img/uploads/slider_robin.jpg
     positionx: 50
     positiony: 50
 ---
