@@ -5,7 +5,8 @@ weight: '5'
 image: /img/uploads/flotte_kla.jpg
 description: '**Robin DR401 – 155CDI**'
 buttons:
-  - cta: false
+  - blank: true
+    cta: false
     title: Preise
     url: >-
       https://drive.google.com/file/d/1MIxz36JIStEgBr11ccatpX3kfDepbUc1/view?usp=sharing
