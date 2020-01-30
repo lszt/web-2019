@@ -5,7 +5,7 @@ draft: false
 image: /img/uploads/club_flyaway.jpg
 positionx: 50
 positiony: 50
-description: Das nächste Fly Away findet am 06./07. Jnui 2020 nach Polen statt.
+description: Das nächste Fly Away findet am 06./07. Juni 2020 nach Polen statt.
 buttons:
   - title: mehr
     url: /club-kurse-veranstaltungne/entries/fly-outs
