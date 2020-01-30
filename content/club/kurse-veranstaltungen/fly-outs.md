@@ -19,7 +19,8 @@ Die Details stehen fest: das diesjährige offizielle Fly Away der Flugschule der
 
 Das Fly Away wird von 1-2 Fluglehrern begleitet und ist somit für alle Piloten geeignet, die die den Auslandflug mit all seinen Facetten erlernen oder auffrischen möchten. Oder aber einfach für all jene, die gerne wieder mal eine neue Destination kennenlernen und/oder mit Pilotenkollegen zwei gemütliche Tage verbringen möchten.
 
-**Folgende Aspekte werden durch die Fluglehrer im Speziellen betreut:** 
+**Folgende Aspekte werden durch die Fluglehrer im Speziellen betreut:**
+ 
 * Flugvorbereitung, Routenplanung, Alternates, Fuel Planning
 * Flugpläne
 * Zollformalitäten und Airports of Entry (Tschechien, Polen, Österreich)
