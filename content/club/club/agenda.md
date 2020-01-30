@@ -14,12 +14,6 @@ Rita's Flugplatzbeizli
 
 MZH Lommis | [Anmeldung](https://doodle.com/poll/b4hmxzmn4axebr5u)
 
-### 27.03.2020 | 19:00 | Generalversammlung 2020 der MFGT
-
-### 28.03.2020 | 08:30 | Flugplatzputzete 2020
-
-Flugplatz Lommis
-
 ### 28.02.2020 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
@@ -32,9 +26,11 @@ MZH Lommis | [Anmeldung](https://doodle.com/poll/b4hmxzmn4axebr5u)
 
 MZH Lommis | [Anmeldung](https://doodle.com/poll/b4hmxzmn4axebr5u)
 
-### 27.03.2020 | 18:30 | Clubhöck
+### 27.03.2020 | 19:00 | Generalversammlung 2020 der MFGT
 
-Rita's Flugplatzbeizli
+### 28.03.2020 | 08:30 | Flugplatzputzete 2020
+
+Flugplatz Lommis
 
 ### 24.04.2020 | 18:30 | Clubhöck
 
