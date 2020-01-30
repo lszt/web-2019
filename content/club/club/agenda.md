@@ -42,7 +42,7 @@ Rita's Flugplatzbeizli
 
 ### 06/07.06.2020 | Fly Away Flugschule MFGT
 
-[Anmeldung und Info's](mailto:andre.heinzelmann@mfgt.ch)
+[Anmeldung] (https://doodle.com/poll/z4by2mfubv34ne72) und [Info's](mailto:andre.heinzelmann@mfgt.ch)
 
 ### 26.06.2020 | 18:30 | Clubhöck
 
