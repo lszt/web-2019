@@ -11,7 +11,12 @@ buttons: []
 ---
 Wir zeigen Dir, wie die Ausbildung aufgebaut ist, welche Voraussetzungen Du mitbringen solltest und mit welchen Kosten Du rechnen musst. Das Wichtigste aber: Wir wollen Dich fürs Fliegen begeistern!
 
-Zur Zeit sind leider keine Infoanlässe geplant.
+Die nächsten Anlässe finden statt am:
+
+Samstag, 09.05.2020, 09:00
+Samstag, 12.09.2020, 09:00
+
+Theoriesaal Flugplatz Lommis
 
 Für Weitere Informationen wende dich bitte an <mailto:info@mfgt.ch>
 
