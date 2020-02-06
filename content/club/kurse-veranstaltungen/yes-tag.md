@@ -13,6 +13,8 @@ buttons:
   - cta: false
     title: agenda
     url: /club/club/agenda/
+  - cta: true
+    title: anmelden
 ---
 **Voraussetzung**
 
