@@ -10,14 +10,14 @@ description: >-
   finden.
 
 
-  * Yes-Tag
+  * [Yes-Tag] (/club/kurse-veranstaltungen/yes-tag/)
 
-  * Sicherheitstraining
+  * [Sicherheitstraining] (/flugschule/weiter/acro/)
 
-  * Infoanlässe der Flugschule
+  * [Infoanlässe der Flugschule] (/flugschule/naechste-schritte/infoabend/)
 
 
   Eine Anmeldung kann direkt auf der Seite des jeweiligen Kurses oder über die
-  Agenda erfolgen.
+  [Agenda] (/club/club/agenda/) erfolgen.
 ---
 
