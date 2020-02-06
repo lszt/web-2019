@@ -14,3 +14,5 @@ Wir zeigen Dir, wie die Ausbildung aufgebaut ist, welche Voraussetzungen Du mitb
 Zur Zeit sind leider keine Infoanlässe geplant.
 
 Für Weitere Informationen wende dich bitte an <mailto:info@mfgt.ch>
+
+Link https://drive.google.com/file/d/1IrPckdenQAWALhIDT-b4j3vrFUS0cs9w/view?usp=sharing
