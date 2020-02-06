@@ -56,4 +56,4 @@ Damit du im YES fliegen darfst, brauchen wir eine Bestätigung mit der Unterschr
 
 Markus Schnyder, <mailto:markus.schnyder@mfgt.ch>, +41 79 680 19 38 
 
-[Hier Flyer downloaden](https://drive.google.com/file/d/1rr3Ai_a1pgrypxF4DsXr9lAKNHdgvVAf/view?usp=sharing)
+[Hier Flyer downloaden](https://drive.google.com/file/d/1PcHwsKJWUf_dd5ge7uj_0uFqXEqHEgeg/view?usp=sharing)
