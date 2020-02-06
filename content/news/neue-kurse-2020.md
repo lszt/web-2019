@@ -6,8 +6,8 @@ image: /img/uploads/ausbildung_praktische_ausbildung.jpg
 positionx: 50
 positiony: 50
 description: >-
-  Auf der Homepage sind neue Kurse für 2020 mit den entsprechenden Informationen
-  aufgeschaltet.
+  Für 2020 wurden weitere Kurse ausgeschrieben. Die Informationen findet ihr auf
+  der entsprechenden Seite der Homepage.
 ---
 Folgende Kurse wurden hinzugefügt:
 
