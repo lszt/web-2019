@@ -10,6 +10,7 @@ description: >-
   kunstflugtaugliche FFA AS202 BRAVO.
 buttons:
   - title: agenda
+    url: /club/club/agenda/
   - cta: true
     title: anmelden
     url: >-
