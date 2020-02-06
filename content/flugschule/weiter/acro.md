@@ -9,6 +9,7 @@ description: >-
   Sicherheitstraining mit einem Kunstfluglehrer. Zur Verwendung kommt eine voll
   kunstflugtaugliche FFA AS202 BRAVO.
 buttons:
+  - title: agenda
   - cta: true
     title: anmelden
     url: >-
