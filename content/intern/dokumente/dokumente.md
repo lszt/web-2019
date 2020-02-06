@@ -8,6 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 06.02.2020 | HB-KLA/Instruction | [Anleitung digitales Flugreisebuch](https://drive.google.com/drive/folders/1YlJBBizJfRBdCpQNWCHi7AhDES8LQNQf) | hinzugefügt
 * 28.01.2020 | Allgemein/Charter | [Preis-/Kostenübersicht](https://drive.google.com/open?id=1ObcWwB3kzKhttwNuVWJAwsxs3a6hjgCC) | aktualisiert
 * 28.01.2020 | Allgemein/Charter | [Charterpreise](https://drive.google.com/open?id=1MIxz36JIStEgBr11ccatpX3kfDepbUc1) | aktualisiert
 * 11.09.2019 | Allgemein/Charter | [Daten Flugzeuge](https://drive.google.com/file/d/1-JAdfujN3CY5hZhQQZETKsw0nRHEGPnF/view?usp=sharing) | hinzugefügt
