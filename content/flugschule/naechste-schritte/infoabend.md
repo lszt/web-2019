@@ -7,7 +7,13 @@ description: >-
   Interessierst Du Dich für eine Ausbildung zum Privatpiloten und für eine
   Mitgliedschaft bei der Motorfluggruppe Thurgau? Dann ist der Infoanlass der
   Flugschule genau das Richtige für Dich!
-buttons: []
+buttons:
+  - title: agenda
+    url: /club/club/agenda/
+  - cta: true
+    title: anmelden
+    url: >-
+      https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform
 ---
 Wir zeigen Dir, wie die Ausbildung aufgebaut ist, welche Voraussetzungen Du mitbringen solltest und mit welchen Kosten Du rechnen musst. Das Wichtigste aber: Wir wollen Dich fürs Fliegen begeistern!
 
