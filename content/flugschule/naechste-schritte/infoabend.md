@@ -15,4 +15,4 @@ Zur Zeit sind leider keine Infoanlässe geplant.
 
 Für Weitere Informationen wende dich bitte an <mailto:info@mfgt.ch>
 
-[Hier Flyer downloaden] (Link https://drive.google.com/file/d/1IrPckdenQAWALhIDT-b4j3vrFUS0cs9w/view?usp=sharing)
+[Hier Flyer downloaden](https://drive.google.com/file/d/1IrPckdenQAWALhIDT-b4j3vrFUS0cs9w/view?usp=sharing)
