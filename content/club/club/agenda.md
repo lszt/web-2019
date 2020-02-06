@@ -24,6 +24,8 @@ MZH Lommis | [Anmeldung](https://doodle.com/poll/b4hmxzmn4axebr5u)
 
 ### 27.03.2020 | 19:00 | Generalversammlung 2020 der MFGT
 
+MZH Lommis
+
 ### 28.03.2020 | 08:30 | Flugplatzputzete 2020
 
 Flugplatz Lommis
