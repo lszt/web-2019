@@ -37,7 +37,7 @@ Flugplatz Lommis, Theoriesaal
 **Theoriematerial**
 
 * VFR Manual
-* Ordner «RTF Theorie» und CD «VFR Training» (je CHF 98.–) 
+* Ordner «RTF Theorie» und «VFR RTF Training» (je CHF 98.–) 
 
 **Kurskosten**
 
