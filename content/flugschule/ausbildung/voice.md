@@ -41,7 +41,7 @@ Flugplatz Lommis, Theoriesaal
 
 **Kurskosten**
 
-CHF 920.– (Grundkurs à 2 Theorie- und 7 Praxisblöcken) 
+CHF 920.– (Grundkurs à 2 Theorie- und 6 Praxisblöcken) 
 
 **Bemerkungen**
 
