@@ -6,21 +6,17 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 22.02.2020 | 08:30 - 12:00 | MFGT-Refresher 2020
-
-MZH Lommis | [Anmeldung](https://doodle.com/poll/b4hmxzmn4axebr5u) | [Unterlagen] (https://drive.google.com/drive/folders/1B8KKpyXobT5EtVs_EjN66zEPiEZzNTCG)
-
 ### 28.02.2020 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
 
 ### 03.03.2020 | 18:30 - 22:00 | MFGT-Refresher 2020 |
 
-MZH Lommis | [Anmeldung](https://doodle.com/poll/b4hmxzmn4axebr5u) | [Unterlagen] (https://drive.google.com/drive/folders/1B8KKpyXobT5EtVs_EjN66zEPiEZzNTCG)
+MZH Lommis | [Anmeldung](https://doodle.com/poll/b4hmxzmn4axebr5u) | [Unterlagen](https://drive.google.com/drive/folders/1B8KKpyXobT5EtVs_EjN66zEPiEZzNTCG)
 
 ### 07.03.2020 | 08:30 - 12:00 | MFGT-Refresher 2020 |
 
-MZH Lommis | [Anmeldung](https://doodle.com/poll/b4hmxzmn4axebr5u) | [Unterlagen] (https://drive.google.com/drive/folders/1B8KKpyXobT5EtVs_EjN66zEPiEZzNTCG)
+MZH Lommis | [Anmeldung](https://doodle.com/poll/b4hmxzmn4axebr5u) | [Unterlagen](https://drive.google.com/drive/folders/1B8KKpyXobT5EtVs_EjN66zEPiEZzNTCG)
 
 ### 27.03.2020 | 19:00 | Generalversammlung 2020 der MFGT
 
@@ -36,7 +32,7 @@ Rita's Flugplatzbeizli
 
 ### 09.05.2020 | 09:00 | Infoanlass der Flugschule
 
-Flugplatz Lommis | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
+Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
 ### 29.05.2020 | 18:30 | Clubhöck
 
@@ -44,7 +40,7 @@ Rita's Flugplatzbeizli
 
 ### 06/07.06.2020 | Fly Away Flugschule MFGT
 
-[Anmeldung] (https://doodle.com/poll/z4by2mfubv34ne72) und [Info's](mailto:andre.heinzelmann@mfgt.ch)
+[Anmeldung](https://doodle.com/poll/z4by2mfubv34ne72) und [Info's](mailto:andre.heinzelmann@mfgt.ch)
 
 ### 26.06.2020 | 18:30 | Clubhöck
 
@@ -58,7 +54,7 @@ Rita's Flugplatzbeizli
 
 ### 15.08.2020 | 09:00 | YES-Tag
 
-Flugplatz Lommis | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
+Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
 ### 22.08.2020 | 09:00 | Reservedatum YES-Tag
 
@@ -70,7 +66,7 @@ Rita's Flugplatzbeizli
 
 ### 12.09.2020 | 09:00 | Infoanlass der Flugschule
 
-Flugplatz Lommis | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
+Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
 ### 23.09.2020 | 19:00 - 21:30 | Theorie Sicherheitstraining
 
@@ -82,7 +78,7 @@ Rita's Flugplatzbeizli
 
 ### 26.09.2020 | 08:30 | Sicherheitstraining
 
-Flugplatz Lommis | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
+Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
 ### 27.09.2020 | 10:30 | Reservedatum Sicherheitstraining
 
