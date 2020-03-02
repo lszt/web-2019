@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 28.02.2020 | 18:30 | Clubhöck
-
-Rita's Flugplatzbeizli
-
 ### 03.03.2020 | 18:30 - 22:00 | MFGT-Refresher 2020 |
 
 MZH Lommis | [Anmeldung](https://doodle.com/poll/b4hmxzmn4axebr5u) | [Unterlagen](https://drive.google.com/drive/folders/1B8KKpyXobT5EtVs_EjN66zEPiEZzNTCG)
