@@ -10,7 +10,7 @@ description: >-
   porträtiert. Viel Spass beim Lesen.
 buttons:
   - blank: true
-    title: artikel lesen
+    title: mehr
     url: >-
       https://drive.google.com/file/d/1uyMucZOWVhnvqMtio-yr8LkQzp0vengw/view?usp=sharing
 ---
