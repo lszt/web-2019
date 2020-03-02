@@ -6,7 +6,7 @@ image: /img/uploads/news_fliegermagazin.jpg
 positionx: 50
 positiony: 50
 description: >-
-  Das "flieger Magazin" hat in der Ausgabe 02/2020 unseren Flugplatz
+  Das "flieger magazin" hat in der Ausgabe 02/2020 unseren Flugplatz
   porträtiert. Viel Spass beim Lesen.
 buttons:
   - blank: true
