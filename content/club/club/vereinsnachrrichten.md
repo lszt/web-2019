@@ -15,7 +15,7 @@ buttons:
 ---
 **KONTAKT 172 - 2019**
 
-![](/img/uploads/club_kontakt.jpg)
+![](/img/uploads/bild_kontakt_2019.jpg)
 [Download 172 - 2019](https://drive.google.com/a/mfgt.ch/file/d/1fFxHhohEl0UZIoJxo6pzYQk11M4gHPmi/view?usp=sharing)
 
 **KONTAKT 171 – 2018**
