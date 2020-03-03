@@ -8,7 +8,8 @@ description: |-
   KONTAKT – Das Mitteilungsblatt der MFGT.\
   Die Ausgabe 2020 gibts hier zum Downloaden.
 buttons:
-  - cta: true
+  - blank: true
+    cta: true
     title: Kontakt 2020
     url: >-
       https://drive.google.com/file/d/1oKwUh7uUmhBRYASxc06x7KOEwNLdE28J/view?usp=sharing
