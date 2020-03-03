@@ -28,3 +28,14 @@ buttons:
 
 ![](/img/uploads/bild_kontakt_2017.jpg)
 [Download 170 - 2017](https://drive.google.com/a/mfgt.ch/file/d/1ysmsMVpPK8_L2kfXvxtPNcOod8AbwA6J/view?usp=sharing)
+
+**ältere Ausgaben**
+
+[Download 169 - 2016]
+(https://drive.google.com/file/d/1jeyKcIwEaoY6AAAprE6SWzCLk3GtwTAM/view?usp=sharing)
+
+[Download 168 - 2015]
+(https://drive.google.com/file/d/1w1LOk7_JQ60WHizd-hiT4Q_kNFS5J3iP/view?usp=sharing)
+
+[Download 167 - 2014]
+(https://drive.google.com/file/d/1flaPfNi1VmQydBRuez5YgRgm1JBBhoSv/view?usp=sharing)
