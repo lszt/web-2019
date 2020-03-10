@@ -18,7 +18,7 @@ Flugplatz Lommis | [Anmeldung](https://doodle.com/poll/fqbt7c9x8b6c9gc4)
 
 Flugplatz Lommis
 
-### 12.04. - 25.04.2020 |SPHAIR Kurs 2 (Robin)
+### 12.04. - 25.04.2020 | SPHAIR Kurs 2 (Robin)
 
 Flugplatz Lommis
 
@@ -102,7 +102,7 @@ Flugplatz Lommis
 
 ### 23.09.2020 | 19:00 - 21:30 | Theorie Sicherheitstraining
 
-Theorielokal Flugplatz Lommis
+Theorieraum Lommis
 
 ### 25.09.2020 | 18:30 | Clubhöck
 
