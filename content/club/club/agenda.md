@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 07.03.2020 | 08:30 - 12:00 | MFGT-Refresher 2020 |
-
-MZH Lommis | [Anmeldung](https://doodle.com/poll/b4hmxzmn4axebr5u) | [Unterlagen](https://drive.google.com/drive/folders/1B8KKpyXobT5EtVs_EjN66zEPiEZzNTCG)
-
 ### 27.03.2020 | 19:00 | Generalversammlung 2020 der MFGT
 
 MZH Lommis | [Anmeldung](https://doodle.com/poll/fqbt7c9x8b6c9gc4)
@@ -18,9 +14,21 @@ MZH Lommis | [Anmeldung](https://doodle.com/poll/fqbt7c9x8b6c9gc4)
 
 Flugplatz Lommis | [Anmeldung](https://doodle.com/poll/fqbt7c9x8b6c9gc4)
 
+### 29.03. - 11.04.2020 | SPHAIR Kurs 1 (Aquila)
+
+Flugplatz Lommis
+
+### 12.04. - 25.04.2020 |SPHAIR Kurs 2 (Robin)
+
+Flugplatz Lommis
+
 ### 24.04.2020 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
+
+### 27.04.2020 | Tankstellen-Revision AVGAS (Tankstelle geschlossen)
+
+Flugplatz Lommis
 
 ### 09.05.2020 | 09:00 | Infoanlass der Flugschule
 
@@ -29,6 +37,10 @@ Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXr
 ### 29.05.2020 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
+
+### 03.06.2020 | 19:00 | Briefing Fly Away
+
+Theorieraum Lommis
 
 ### 06/07.06.2020 | Fly Away Flugschule MFGT
 
@@ -40,6 +52,18 @@ Rita's Flugplatzbeizli
 
 ### 04/05.07.2020 | Ausweichdatum Fly Away Flugschule MFGT
 
+### 11.07.2020 | 10 Jahre Rita's Flugplatzbeizli
+
+Rita's Flugplatzbeizli
+
+### 12.07. - 25.07.2020 | SPHAIR Kurs 3 (Aquila)
+
+Flugplatz Lommis
+
+### 26.7. - 08.08.2020 | SPHAIR Kurs 4 (Aquila)
+
+Flugplatz Lommis
+
 ### 31.07.2020 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
@@ -47,6 +71,10 @@ Rita's Flugplatzbeizli
 ### 15.08.2020 | 09:00 | YES-Tag
 
 Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
+
+### 15.08. - 16.08.2020 | Flugfest Hagenbuch
+
+temporäres Flugfeld Hagenbuch
 
 ### 22.08.2020 | 09:00 | Reservedatum YES-Tag
 
@@ -56,9 +84,21 @@ Flugplatz Lommis
 
 Rita's Flugplatzbeizli
 
+### 29.08.2020 | Jungbürgerfeier Lommis
+
+Flugplatz Lommis
+
+### 05.09. - 06.09.2020 | Flugfest Schmerlat
+
+Flugplatz Schmerlat
+
 ### 12.09.2020 | 09:00 | Infoanlass der Flugschule
 
 Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
+
+### 19.09.2020 | Platzunterhalt
+
+Flugplatz Lommis
 
 ### 23.09.2020 | 19:00 - 21:30 | Theorie Sicherheitstraining
 
@@ -73,6 +113,10 @@ Rita's Flugplatzbeizli
 Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
 ### 27.09.2020 | 10:30 | Reservedatum Sicherheitstraining
+
+Flugplatz Lommis
+
+### 04.10. - 17.10.2020 | SPHAIR Kurs 5 (Aquila)
 
 Flugplatz Lommis
 
