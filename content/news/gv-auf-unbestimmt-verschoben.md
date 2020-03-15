@@ -15,7 +15,7 @@ buttons:
 ---
 Der Flugbetrieb unterliegt vorderhand keinen Einschränkungen. 
 
-Wir werden situativ auf allfällig angeordnete Massnahmen reagieren. Insbesondere bitten wir euch, die Hygiene Erfordernisse gemäss den öffentlich publizierten Regeln einzuhalten. Entsprechende Informationen sind angeschlagen. Wir werden auf dem Platz allfällig geforderte Utensilien bereit stellen. Bitte mit Umsicht verwenden, der Nachschub an Desinfizierungsmitteln ist erheblich erschwert.
+Wir werden situativ auf allfällig angeordnete Massnahmen reagieren. Insbesondere bitten wir euch, die Hygiene Erfordernisse gemäss den öffentlich publizierten Regeln einzuhalten. Entsprechende Informationen sind angeschlagen. Wir werden auf dem Platz allfällig geforderte Utensilien bereit stellen. Bitte mit Umsicht verwenden, der Nachschub an Desinfektionsmittel ist erheblich erschwert.
 
 Wir fordern euch auf, auf dem Platz den Kontakt zu den Mitarbeitern so kurz wie möglich zu halten und Abstand zu wahren. Soweit wie möglich soll der Kontakt telefonisch erfolgen. Das Sekretariat wird unregelmässig und schwächer besetzt sein. 
 
