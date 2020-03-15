@@ -10,6 +10,7 @@ description: >-
   27.03. auf unbestimmt verschoben.
 buttons:
   - blank: true
+    cta: true
     title: flyer BAG
     url: 'https://drive.google.com/open?id=1NykOVIAXOgUYtIX2kwJOF2e2umAZBxIM'
 ---
