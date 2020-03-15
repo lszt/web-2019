@@ -16,11 +16,11 @@ Flugplatz Lommis | [Anmeldung](https://doodle.com/poll/fqbt7c9x8b6c9gc4)
 
 ### 29.03. - 11.04.2020 | SPHAIR Kurs 1 (Aquila)
 
-<font color="red">Abgesagt</font>
+### <font color="red">Abgesagt</font>
 
 ### 12.04. - 25.04.2020 | SPHAIR Kurs 2 (Robin)
 
-<font color="red">Abgesagt</font>
+### <font color="red">Abgesagt</font>
 
 ### 24.04.2020 | 18:30 | Clubhöck
 
