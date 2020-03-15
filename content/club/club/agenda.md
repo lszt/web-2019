@@ -8,7 +8,7 @@ buttons: []
 ---
 ### 27.03.2020 | 19:00 | Generalversammlung 2020 der MFGT
 
-MZH Lommis | [Anmeldung](https://doodle.com/poll/fqbt7c9x8b6c9gc4)
+### <font color="red">auf unbestimmte Zeit verschoben!</font>
 
 ### 28.03.2020 | 08:30 | Flugplatzputzete 2020
 
