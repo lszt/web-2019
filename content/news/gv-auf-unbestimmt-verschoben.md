@@ -23,8 +23,7 @@ Aufgrund der Verordnung des Bundesrats über Massnahmen zur Bekämpfung des Coro
 
 Zur Sachlage im Bereich Schulung Praxis im Flugzeug, wurde durch das BAZL Klarheit geschaffen. Hier der entsprechende Auszug der BAZL Mitteilung:
 
-* _Praxis: Einzelunterricht von Flugschülern kann weiterhin stattfinden. Bitte befolgen Sie die Empfehlungen des Bundesamtes für Gesundheit, sowie des Bundesrats und Vorgaben der jeweiligen Kantone. Beachten Sie auch die Tipps zum Schutz vor dem Coronavirus im Cockpit und der Flugzeugkabine auf [Stay Safe](https://staysafe.bazl.admin.ch/de/tipps-zum-schutz-vor-dem-coronavirus/) sowie die Informationen auf der Homepage des BAZL.
-  _
+* Praxis: Einzelunterricht von Flugschülern kann weiterhin stattfinden. Bitte befolgen Sie die Empfehlungen des Bundesamtes für Gesundheit, sowie des Bundesrats und Vorgaben der jeweiligen Kantone. Beachten Sie auch die Tipps zum Schutz vor dem Coronavirus im Cockpit und der Flugzeugkabine auf [Stay Safe](https://staysafe.bazl.admin.ch/de/tipps-zum-schutz-vor-dem-coronavirus/) sowie die Informationen auf der Homepage des BAZL.
 
 Auch in Bezug des Flugplatzes und der Flüge ist nun Klarheit geschaffen:
 
