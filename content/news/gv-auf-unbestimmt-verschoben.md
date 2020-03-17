@@ -40,7 +40,7 @@ Die Maintenance und das Sekretariat sind noch besetzt.
 
 Wir werden situativ auf allfällig weitere Massnahmen reagieren. Insbesondere bitten wir euch, die Hygiene Erfordernisse gemäss den öffentlich publizierten Regeln einzuhalten. Entsprechende Informationen sind angeschlagen. Wir werden auf dem Platz allfällig geforderte Utensilien bereitstellen. Bitte mit Umsicht verwenden, der Nachschub an Desinfektionsmittel ist erheblich erschwert.
 
-Wir fordern euch auf, auf dem Platz den Kontakt zu den Mitarbeitern so kurz wie möglich zu halten und Abstand zu wahren. Soweit wie möglich soll der <em>**Kontakt telefonisch**</em> erfolgen. Das Sekretariat wird unregelmässig und schwächer besetzt sein. 
+Wir fordern euch auf, auf dem Platz den Kontakt zu den Mitarbeitern so kurz wie möglich zu halten und Abstand zu wahren. Soweit wie möglich soll der **Kontakt telefonisch** erfolgen. Das Sekretariat wird unregelmässig und schwächer besetzt sein. 
 
 Letztes Update: 17.03.20 21:15
 
