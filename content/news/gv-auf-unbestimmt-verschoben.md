@@ -42,11 +42,11 @@ Wir werden situativ auf allfällig weitere Massnahmen reagieren. Insbesondere bi
 
 Wir fordern euch auf, auf dem Platz den Kontakt zu den Mitarbeitern so kurz wie möglich zu halten und Abstand zu wahren. Soweit wie möglich soll der **_Kontakt telefonisch_** erfolgen. Das Sekretariat wird unregelmässig und schwächer besetzt sein. 
 
-Letztes Update: 17.03.20 21:15
+_Letztes Update: 17.03.20 21:15_
 
 <hr>
 
-Diverse Links zum Thema:
+**Diverse Links zum Thema:**
 
 _Informationen des_ [_BAG_](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html)
 
