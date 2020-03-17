@@ -16,10 +16,7 @@ buttons:
 ---
 Aufgrund der Verordnung des Bundesrats über Massnahmen zur Bekämpfung des Coronavirus werden die folgenden Massnahmen seitens der MFGT getroffen:
 
-* 
-
-Absage der GV
-
+* Absage der GV
 * Absage Flugplatzputzete
 * Absage Theorieunterricht
 * Schliessung Platz für grenzüberschreitenden Verkehr
