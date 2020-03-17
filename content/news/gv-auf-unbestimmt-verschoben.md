@@ -16,29 +16,21 @@ buttons:
 ---
 Aufgrund der Verordnung des Bundesrats über Massnahmen zur Bekämpfung des Coronavirus werden die folgenden Massnahmen seitens der MFGT getroffen:
 
-* Absage der GV
+* 
 
-
+Absage der GV
 
 * Absage Flugplatzputzete
-
-
-
 * Absage Theorieunterricht
-
-
-
 * Schliessung Platz für grenzüberschreitenden Verkehr
 
-
-
-Ob der Flugschulbetrieb weiter laufen kann, ist in Abklärung. Auch alle Arten von Checkflügen sind davon betroffen. Es ist davon auszugehen, dass diese Flüge nicht mehr zugelassen sind.
+Ob der Flugschulbetrieb weiterlaufen kann, ist in Abklärung. Auch alle Arten von Checkflügen sind davon betroffen. Es ist davon auszugehen, dass diese Flüge nicht mehr zugelassen sind.
 
 Es ist noch offen, ob wir den Flugplatz ganz schliessen müssen. Flüge alleine sollten möglich sein, dies auf eigene Verantwortung.
 
-Die Maintenance und das Sekretariat sind noch besetzt.
+Die Maintenance und das Sekretariat sind noch besetzt.
 
-Wir werden situativ auf allfällig weitere Massnahmen reagieren. Insbesondere bitten wir euch, die Hygiene Erfordernisse gemäss den öffentlich publizierten Regeln einzuhalten. Entsprechende Informationen sind angeschlagen. Wir werden auf dem Platz allfällig geforderte Utensilien bereit stellen. Bitte mit Umsicht verwenden, der Nachschub an Desinfektionsmittel ist erheblich erschwert.
+Wir werden situativ auf allfällig weitere Massnahmen reagieren. Insbesondere bitten wir euch, die Hygiene Erfordernisse gemäss den öffentlich publizierten Regeln einzuhalten. Entsprechende Informationen sind angeschlagen. Wir werden auf dem Platz allfällig geforderte Utensilien bereitstellen. Bitte mit Umsicht verwenden, der Nachschub an Desinfektionsmittel ist erheblich erschwert.
 
 Wir fordern euch auf, auf dem Platz den Kontakt zu den Mitarbeitern so kurz wie möglich zu halten und Abstand zu wahren. Soweit wie möglich soll der Kontakt telefonisch erfolgen. Das Sekretariat wird unregelmässig und schwächer besetzt sein. 
 
