@@ -44,12 +44,16 @@ Wir fordern euch auf, auf dem Platz den Kontakt zu den Mitarbeitern so kurz wie 
 
 Letztes Update: 17.03.20 21:15
 
-Informationen des [BAG](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html)
+<hr>
 
-Informationen des [Bundes](https://www.bag.admin.ch/bag/de/home/das-bag/aktuell/medienmitteilungen.msg-id-78437.html)
+Diverse Links zum Thema:
 
-Informationen [Kanton Thurgau](https://www.tg.ch/news/fachdossier-coronavirus.html/10552)
+_Informationen des [BAG](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html)_
 
-Informationen des [BAZL](https://www.bazl.admin.ch/bazl/de/home/fachleute/corona_update.html)
+_Informationen des [Bundes](https://www.bag.admin.ch/bag/de/home/das-bag/aktuell/medienmitteilungen.msg-id-78437.html)_
 
-[Q&A](https://www.aeroclub.ch/fragen-und-antworten-qa-zur-situation-covid-2019-fuer-die-leicht-und-sportaviatik-stand-17-03-2020-13-00-uhr/) AeroClub
+_Informationen [Kanton Thurgau](https://www.tg.ch/news/fachdossier-coronavirus.html/10552)_
+
+_Informationen des [BAZL](https://www.bazl.admin.ch/bazl/de/home/fachleute/corona_update.html)_
+
+_[Q&A](https://www.aeroclub.ch/fragen-und-antworten-qa-zur-situation-covid-2019-fuer-die-leicht-und-sportaviatik-stand-17-03-2020-13-00-uhr/) AeroClub_
