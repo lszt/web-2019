@@ -19,14 +19,14 @@ Aufgrund der Verordnung des Bundesrats über Massnahmen zur Bekämpfung des Coro
 * Absage der GV
 * Absage Flugplatzputzete
 * Absage Theorieunterricht
-* _**keine praktische Schulung**_
-* _**Schliessung Platz für grenzüberschreitenden Verkehr**_
+* **keine praktische Schulung**
+* **Schliessung Platz für grenzüberschreitenden Verkehr**
 
 Zur Sachlage im Bereich praktische Schulung beachtet bitte die Informationen auf der Homepage des [BAZL](https://www.bazl.admin.ch/bazl/de/home/fachleute/corona_update.html) und auch die Tipps zum Schutz vor dem Coronavirus im Cockpit und der Flugzeugkabine auf [Stay Safe](https://staysafe.bazl.admin.ch/de/tipps-zum-schutz-vor-dem-coronavirus/).
 
 Auch in Bezug des Flugplatzes und der Flüge ist nun Klarheit geschaffen:
 
-Der _**Flugplatz ist offen**_ und es kann geflogen werden. Private Flüge sind auf das Wesentliche zu beschränken. Soloflüge und Flüge mit Personen im gleichen Haushalt entsprechen der Minimalabstandregel. Grenzüberschreitende Flüge sind nicht erlaubt. Bitte jeweils vorgängig den Zielflughafen über die Situation telefonisch abfragen und die NOTAMS genau studieren.
+Der **Flugplatz ist offen** und es kann geflogen werden. Private Flüge sind auf das Wesentliche zu beschränken. Soloflüge und Flüge mit Personen im gleichen Haushalt entsprechen der Minimalabstandregel. Grenzüberschreitende Flüge sind nicht erlaubt. Bitte jeweils vorgängig den Zielflughafen über die Situation telefonisch abfragen und die NOTAMS genau studieren.
 
 Bitte die folgenden Anweisungen befolgen:
 
@@ -40,9 +40,9 @@ Die Maintenance und das Sekretariat sind noch besetzt.
 
 Wir werden situativ auf allfällig weitere Massnahmen reagieren. Insbesondere bitten wir euch, die Hygiene Erfordernisse gemäss den öffentlich publizierten Regeln einzuhalten. Entsprechende Informationen sind angeschlagen. Wir werden auf dem Platz allfällig geforderte Utensilien bereitstellen. Bitte mit Umsicht verwenden, der Nachschub an Desinfektionsmittel ist erheblich erschwert.
 
-Wir fordern euch auf, auf dem Platz den Kontakt zu den Mitarbeitern so kurz wie möglich zu halten und Abstand zu wahren. Soweit wie möglich soll der _**Kontakt telefonisch**_ erfolgen. Das Sekretariat wird unregelmässig und schwächer besetzt sein. 
+Wir fordern euch auf, auf dem Platz den Kontakt zu den Mitarbeitern so kurz wie möglich zu halten und Abstand zu wahren. Soweit wie möglich soll der **Kontakt telefonisch** erfolgen. Das Sekretariat wird unregelmässig und schwächer besetzt sein. 
 
-_Letztes Update: 17.03.20 21:15_
+Letztes Update: 17.03.20 21:15
 
 <hr>
 
