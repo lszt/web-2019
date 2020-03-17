@@ -48,12 +48,12 @@ _Letztes Update: 17.03.20 21:15_
 
 **Diverse Links zum Thema:**
 
-_Informationen des [BAG](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html)_
+_Informationen des_ [BAG](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html)
 
-_Informationen des _[_Bundes_](https://www.bag.admin.ch/bag/de/home/das-bag/aktuell/medienmitteilungen.msg-id-78437.html)
+_Informationen des_ [Bundes](https://www.bag.admin.ch/bag/de/home/das-bag/aktuell/medienmitteilungen.msg-id-78437.html)
 
-_Informationen _[_Kanton Thurgau_](https://www.tg.ch/news/fachdossier-coronavirus.html/10552)
+_Informationen_ [Kanton Thurgau](https://www.tg.ch/news/fachdossier-coronavirus.html/10552)
 
-_Informationen des _[_BAZL_](https://www.bazl.admin.ch/bazl/de/home/fachleute/corona_update.html)
+_Informationen des_ [BAZL](https://www.bazl.admin.ch/bazl/de/home/fachleute/corona_update.html)
 
-[_Q&A_](https://www.aeroclub.ch/fragen-und-antworten-qa-zur-situation-covid-2019-fuer-die-leicht-und-sportaviatik-stand-17-03-2020-13-00-uhr/)_ AeroClub_
+[Q&A](https://www.aeroclub.ch/fragen-und-antworten-qa-zur-situation-covid-2019-fuer-die-leicht-und-sportaviatik-stand-17-03-2020-13-00-uhr/) _AeroClub_
