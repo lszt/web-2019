@@ -48,7 +48,7 @@ _Letztes Update: 17.03.20 21:15_
 
 **Diverse Links zum Thema:**
 
-_Informationen des _[_BAG_](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html)
+_Informationen des [BAG](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html)_
 
 _Informationen des _[_Bundes_](https://www.bag.admin.ch/bag/de/home/das-bag/aktuell/medienmitteilungen.msg-id-78437.html)
 
