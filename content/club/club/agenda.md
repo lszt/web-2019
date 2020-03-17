@@ -12,7 +12,7 @@ buttons: []
 
 ### 28.03.2020 | 08:30 | Flugplatzputzete 2020
 
-Flugplatz Lommis | [Anmeldung](https://doodle.com/poll/fqbt7c9x8b6c9gc4)
+### <font color="red">Abgesagt</font>
 
 ### 29.03. - 11.04.2020 | SPHAIR Kurs 1 (Aquila)
 
