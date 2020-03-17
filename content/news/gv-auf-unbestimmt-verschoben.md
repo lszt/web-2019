@@ -21,9 +21,7 @@ Aufgrund der Verordnung des Bundesrats über Massnahmen zur Bekämpfung des Coro
 * Absage Theorieunterricht
 * Schliessung Platz für grenzüberschreitenden Verkehr
 
-Zur Sachlage im Bereich Schulung Praxis im Flugzeug, wurde durch das BAZL Klarheit geschaffen. Hier der entsprechende Auszug der BAZL Mitteilung:
-
-* Praxis: Einzelunterricht von Flugschülern kann weiterhin stattfinden. Bitte befolgen Sie die Empfehlungen des Bundesamtes für Gesundheit, sowie des Bundesrats und Vorgaben der jeweiligen Kantone. Beachten Sie auch die Tipps zum Schutz vor dem Coronavirus im Cockpit und der Flugzeugkabine auf [Stay Safe](https://staysafe.bazl.admin.ch/de/tipps-zum-schutz-vor-dem-coronavirus/) sowie die Informationen auf der Homepage des BAZL.
+Zur Sachlage im Bereich Schulung beachtet bitte die Informationen auf der Homepage des [BAZL] (https://www.bazl.admin.ch/bazl/de/home/fachleute/corona_update.html) und auch die Tipps zum Schutz vor dem Coronavirus im Cockpit und der Flugzeugkabine auf [Stay Safe](https://staysafe.bazl.admin.ch/de/tipps-zum-schutz-vor-dem-coronavirus/).
 
 Auch in Bezug des Flugplatzes und der Flüge ist nun Klarheit geschaffen:
 
@@ -48,5 +46,7 @@ Informationen des [BAG](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrue
 Informationen des [Bundes](https://www.bag.admin.ch/bag/de/home/das-bag/aktuell/medienmitteilungen.msg-id-78437.html)
 
 Informationen [Kanton Thurgau](https://www.tg.ch/news/fachdossier-coronavirus.html/10552)
+
+Informationen des [BAZL](https://www.bazl.admin.ch/bazl/de/home/fachleute/corona_update.html)
 
 [Q&A](https://www.aeroclub.ch/fragen-und-antworten-qa-zur-situation-covid-2019-fuer-die-leicht-und-sportaviatik-stand-17-03-2020-13-00-uhr/) AeroClub
