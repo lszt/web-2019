@@ -21,7 +21,7 @@ Aufgrund der Verordnung des Bundesrats über Massnahmen zur Bekämpfung des Coro
 * Absage Theorieunterricht
 * Schliessung Platz für grenzüberschreitenden Verkehr
 
-Zur Sachlage im Bereich praktische Schulung beachtet bitte die Informationen auf der Homepage des [BAZL] (https://www.bazl.admin.ch/bazl/de/home/fachleute/corona_update.html) und auch die Tipps zum Schutz vor dem Coronavirus im Cockpit und der Flugzeugkabine auf [Stay Safe](https://staysafe.bazl.admin.ch/de/tipps-zum-schutz-vor-dem-coronavirus/).
+Zur Sachlage im Bereich praktische Schulung beachtet bitte die Informationen auf der Homepage des [BAZL](https://www.bazl.admin.ch/bazl/de/home/fachleute/corona_update.html) und auch die Tipps zum Schutz vor dem Coronavirus im Cockpit und der Flugzeugkabine auf [Stay Safe](https://staysafe.bazl.admin.ch/de/tipps-zum-schutz-vor-dem-coronavirus/).
 
 Auch in Bezug des Flugplatzes und der Flüge ist nun Klarheit geschaffen:
 
@@ -33,7 +33,7 @@ Bitte die folgenden Anweisungen befolgen:
 * Werden unsere Headsets verwendet, müssen auch diese desinfiziert werden. Die Mic Muffs wurden aus Hygienegründen entfernt.
 * Bitte nicht ins C-Büro und in den Unterhaltsbetrieb treten
 * Immer genügend Abstand wahren
-* Im Übrigen gelten die Massnahmen des Bundes., speziell Personen die der Risikogruppe angehören, sollen zuhause bleiben.
+* Im Übrigen gelten die Massnahmen des Bundes, speziell Personen die der Risikogruppe angehören, sollen zuhause bleiben.
 
 Die Maintenance und das Sekretariat sind noch besetzt.
 
