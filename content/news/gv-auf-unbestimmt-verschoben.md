@@ -21,9 +21,22 @@ Aufgrund der Verordnung des Bundesrats über Massnahmen zur Bekämpfung des Coro
 * Absage Theorieunterricht
 * Schliessung Platz für grenzüberschreitenden Verkehr
 
-Ob der Flugschulbetrieb weiterlaufen kann, ist in Abklärung. Auch alle Arten von Checkflügen sind davon betroffen. Es ist davon auszugehen, dass diese Flüge nicht mehr zugelassen sind.
+Zur Sachlage im Bereich Schulung Praxis im Flugzeug, wurde durch das BAZL Klarheit geschaffen. Hier der entsprechende Auszug der BAZL Mitteilung:
 
-Es ist noch offen, ob wir den Flugplatz ganz schliessen müssen. Flüge alleine sollten möglich sein, dies auf eigene Verantwortung.
+* _Praxis: Einzelunterricht von Flugschülern kann weiterhin stattfinden. Bitte befolgen Sie die Empfehlungen des Bundesamtes für Gesundheit, sowie des Bundesrats und Vorgaben der jeweiligen Kantone. Beachten Sie auch die Tipps zum Schutz vor dem Coronavirus im Cockpit und der Flugzeugkabine auf [Stay Safe](https://staysafe.bazl.admin.ch/de/tipps-zum-schutz-vor-dem-coronavirus/) sowie die Informationen auf der Homepage des BAZL.
+  _
+
+Auch in Bezug des Flugplatzes und der Flüge ist nun Klarheit geschaffen:
+
+Der Flugplatz ist offen und es kann geflogen werden. Grenzüberschreitende Flüge sind nicht erlaubt. Bitte jeweils vorgängig den Zielflughafen über die Situation telefonisch abfragen und die NOTAMS genau studieren.
+
+Bitte die folgenden Anweisungen befolgen:
+
+* Vor jedem Flug die Steuer inkl. Bedienelemente desinfizieren und möglichst eigene Headsets verwenden
+* Werden unsere Headsets verwendet, müssen auch diese desinfiziert werden. Die Mic Muffs wurden aus Hygienegründen entfernt.
+* Bitte nicht ins C-Büro und in den Unterhaltsbetrieb treten
+* Immer genügend Abstand wahren
+* Im Übrigen gelten die Massnahmen des Bundes., speziell Personen die der Risikogruppe angehören, sollen zuhause bleiben.
 
 Die Maintenance und das Sekretariat sind noch besetzt.
 
@@ -36,3 +49,5 @@ Informationen des [BAG](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrue
 Informationen des [Bundes](https://www.bag.admin.ch/bag/de/home/das-bag/aktuell/medienmitteilungen.msg-id-78437.html)
 
 Informationen [Kanton Thurgau](https://www.tg.ch/news/fachdossier-coronavirus.html/10552)
+
+[Q&A](https://www.aeroclub.ch/fragen-und-antworten-qa-zur-situation-covid-2019-fuer-die-leicht-und-sportaviatik-stand-17-03-2020-13-00-uhr/) AeroClub
