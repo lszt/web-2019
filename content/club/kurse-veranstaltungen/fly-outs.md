@@ -13,7 +13,7 @@ buttons:
 ---
 ### Fly Away am 6./7. Juni 2020
 
-**_Witamy w polsce!_** _(Willlkommen in Polen)_
+**Witamy w polsce!** (Willlkommen in Polen)
 
 Die Details stehen fest: das diesjährige offizielle Fly Away der Flugschule der MFGT bringt uns nach Wroclaw EPWR in Polen. Die Route führt auf dem Hinweg über Karlovy Vary/Karlsbad LKKV (Tschechien) und auf dem Rückweg über Linz LOWL (Österreich). Selbstverständlich ist es den einzelnen Crews überlassen, welche Route sie fliegen oder ob sie die Gelegenheit für ein Flugplatz-Hopping nutzen. Die definierten Zwischenlandungen sollen in erster Linie dem Pilotenwechsel, dem gemeinsamen Mittagessen und ggfls. Fuel Stop dienen.
 
