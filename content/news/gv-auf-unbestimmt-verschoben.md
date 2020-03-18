@@ -20,6 +20,7 @@ Aufgrund der Verordnung des Bundesrats über Massnahmen zur Bekämpfung des Coro
 * Absage Flugplatzputzete
 * Absage Theorieunterricht
 * **keine praktische Schulung inkl. Checkflüge**
+* **keine Rundflüge und Schnupperflüge**
 * **Schliessung Platz für grenzüberschreitenden Verkehr**
 * **Restaurantbetrieb ist sicher bis am 19. April 2020 eingestellt**
 
