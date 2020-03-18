@@ -19,8 +19,9 @@ Aufgrund der Verordnung des Bundesrats über Massnahmen zur Bekämpfung des Coro
 * Absage der GV
 * Absage Flugplatzputzete
 * Absage Theorieunterricht
-* **keine praktische Schulung**
+* **keine praktische Schulung inkl. Checkflüge**
 * **Schliessung Platz für grenzüberschreitenden Verkehr**
+* **Restaurantbetrieb ist sicher bis am 19. April 2020 eingestellt**
 
 Zur Sachlage im Bereich praktische Schulung beachtet bitte die Informationen auf der Homepage des [BAZL](https://www.bazl.admin.ch/bazl/de/home/fachleute/corona_update.html) und auch die Tipps zum Schutz vor dem Coronavirus im Cockpit und der Flugzeugkabine auf [Stay Safe](https://staysafe.bazl.admin.ch/de/tipps-zum-schutz-vor-dem-coronavirus/).
 
