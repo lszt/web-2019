@@ -21,7 +21,7 @@ Erlaubt bleiben:
 * **Flugplatz offen, für Auswärtige geschlossen**
 * Maintenance
 * Bis auf Weiteres dürfen Flugprüfungen auf Flugzeugen oder im Simulator, wie auch Trainingsflüge für die Verlängerung des Classrating SEP/TMG stattfinden. Mit einem Flug kombinierte Language Proficiency Checks LVL 4 können ebenfalls weiterhin stattfinden.
-* **Privatflüge: Sind auf das Wesentliche zu beschränken. Es darf maximal 1 Passagier mitfliegen, vorausgesetzt dieser lebt im selben Haushalt**
+* Privatflüge: Sind auf das Wesentliche zu beschränken. Es darf maximal 1 Passagier mitfliegen, vorausgesetzt dieser lebt im selben Haushalt
 * Wir fordern euch auf, möglichst die gesamte Flugvorbereitung von zu Hause aus zu machen. Briefing und Fluganzeige sind problemlos vorher zu erledigen – so muss das C-Büro nicht unnötig besetzt wird. Der Mindestabstand von 2 Metern zu anderen Personen muss jederzeit eingehalten werden.
 
 Damit gelten die folgenden weiteren Massnahmen auf dem Flugplatz:
