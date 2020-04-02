@@ -6,18 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 27.03.2020 | 19:00 | Generalversammlung 2020 der MFGT
-
-### <font color="red">auf unbestimmte Zeit verschoben!</font>
-
-### 28.03.2020 | 08:30 | Flugplatzputzete 2020
-
-### <font color="red">Abgesagt</font>
-
-### 29.03. - 11.04.2020 | SPHAIR Kurs 1 (Aquila)
-
-### <font color="red">Abgesagt</font>
-
 ### 12.04. - 25.04.2020 | SPHAIR Kurs 2 (Robin)
 
 ### <font color="red">Abgesagt</font>
@@ -41,6 +29,10 @@ Rita's Flugplatzbeizli
 ### 03.06.2020 | 19:00 | Briefing Fly Away
 
 Theorieraum Lommis
+
+### 23.06.2020 | 19:00 | Generalversammlung 2020 der MFGT
+
+MZH Lommis oder online
 
 ### 06/07.06.2020 | Fly Away Flugschule MFGT
 
