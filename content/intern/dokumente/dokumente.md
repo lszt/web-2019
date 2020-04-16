@@ -8,7 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
-* 16.02.2020 | Allgemein/Flugplatz | [Hangarreglement](https://drive.google.com/drive/folders/13UnVyZG353Me2nlmGVcZbBYqkYfq7xoL) | aktualisiert
+* 16.04.2020 | Allgemein/Flugplatz | [Hangarreglement](https://drive.google.com/drive/folders/13UnVyZG353Me2nlmGVcZbBYqkYfq7xoL) | aktualisiert
 * 19.02.2020 | Allgemein/Flugschule/Refresher | [Refresher 2020](https://drive.google.com/drive/folders/1B8KKpyXobT5EtVs_EjN66zEPiEZzNTCG) | hinzugefügt
 * 06.02.2020 | HB-KLA/Instruction | [Anleitung digitales Flugreisebuch](https://drive.google.com/open?id=1YmHBOazKpcg07U0iBTl50-q_EFemyaTc) | hinzugefügt
 * 28.01.2020 | Allgemein/Charter | [Preis-/Kostenübersicht](https://drive.google.com/open?id=1ObcWwB3kzKhttwNuVWJAwsxs3a6hjgCC) | aktualisiert
