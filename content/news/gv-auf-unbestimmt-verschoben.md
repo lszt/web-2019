@@ -83,4 +83,4 @@ Informationen [Kanton Thurgau](https://www.tg.ch/news/fachdossier-coronavirus.ht
 
 Informationen des [BAZL](https://www.bazl.admin.ch/bazl/de/home/fachleute/corona_update.html)
 
-[Q&A](https://www.aeroclub.ch/fragen-und-antworten-qa-zur-situation-covid-2019-fuer-die-leicht-und-sportaviatik-stand-17-03-2020-13-00-uhr/) AeroClub
+[Q&A](https://www.aeroclub.ch/fragen-und-antworten-qa-zur-situation-covid-2019-fuer-die-leicht-und-sportaviatik/) AeroClub
