@@ -21,7 +21,7 @@ Nach den öffentlichen Covid-19  Publikationen der letzten Zeit und dem Bundesra
 * nur Soloflüge oder Flüge mit einer Person aus demselben Haushalt
 * max. 3 Landung pro Pilot und Tag
 * max. 2 Flugzeuge auf der Volte
-* kene Schulflüge
+* keine Schulflüge
 * keine Auslandflüge
 * LSZT für Auswärtige gesperrt
 * Maintenance-Flüge sind PPR (Tel. 079 427 74 03 oder 052 366 33 42)
@@ -29,7 +29,7 @@ Nach den öffentlichen Covid-19  Publikationen der letzten Zeit und dem Bundesra
 * das Briefing ist von zu Hause aus zu erledigen
 * Flugzeuge nach dem Flug immer hangarieren, ausser der nächste Pilot ist bereit
 * die Benutzung des Flugplatzes erfolgt auf eigene Verantwortung
-* der letzte Benutzer des Platzes schliesst den Flugplatz gemäss Checklist
+* der letzte Benutzer des Platzes schliesst den Flugplatz gemäss Checkliste
 * die Hygienevorschriften sind zu befolgen
 
 **Hygienevorschriften Covid-19**
@@ -37,7 +37,7 @@ Nach den öffentlichen Covid-19  Publikationen der letzten Zeit und dem Bundesra
 * 2m Minimalabstand überall auf dem Platz
 * keine Gruppen von mehr als 5 Personen
 * Desinfektionsmittel wenn möglich selber mitnehmen, diese stehen nur beschränkt zur Verfügung
-* vor jeder Benutzung Flächen, Tasteaturen an den PC's, usw. desinfizieren
+* vor jeder Benutzung Flächen, Tastaturen an den PC's, usw. desinfizieren
 * Instrument und Hebel im Flugzeug nicht besprühen, mit den bereitgestellten Tüchern desinfizieren
 * bitte mit den Mitteln effizient und effektiv umgehen
 * weiter Informationen sind auf der Homepage des [BAG] (https://bag-coronavirus.ch/) zu finden
