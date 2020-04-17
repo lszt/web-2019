@@ -24,7 +24,7 @@ Nach den öffentlichen Covid-19  Publikationen der letzten Zeit und dem Bundesra
 * keine Schulflüge
 * keine Auslandflüge
 * LSZT für Auswärtige gesperrt
-* Maintenance-Flüge sind PPR (Tel. 079 427 74 03 oder 052 366 33 42)
+* Maintenance-Flüge sind PPR (Tel. 079 427 74 03 oder 052 366 33 41)
 * nur 1 Pilot im C-Büro für die Flug An- und Abmeldung, Rapport und Flugreisebuch
 * das Briefing ist von zu Hause aus zu erledigen
 * Flugzeuge nach dem Flug immer hangarieren, ausser der nächste Pilot ist bereit
