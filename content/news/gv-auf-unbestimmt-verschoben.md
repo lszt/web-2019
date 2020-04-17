@@ -40,7 +40,7 @@ Nach den öffentlichen Covid-19  Publikationen der letzten Zeit und dem Bundesra
 * vor jeder Benutzung Flächen, Tasteaturen an den PC's, usw. desinfizieren
 * Instrument und Hebel im Flugzeug nicht besprühen, mit den bereitgestellten Tüchern desinfizieren
 * bitte mit den Mitteln effizient und effektiv umgehen
-* weiter Informationen sind auf der Homepage des BAG zu finden
+* weiter Informationen sind auf der Homepage des [BAG] (https://bag-coronavirus.ch/) zu finden
 
 **Sonstiges**
 
