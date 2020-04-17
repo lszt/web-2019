@@ -62,8 +62,8 @@ Sobald sich die Lage ändert, werden wir wieder informieren.
 
 Für Kontakt bitte E-Mail an:
 
-* Sekretariat und Betriebsleitung: info@mfgt.ch
-* Maintenance: maintenance@mfgt.ch
+* Sekretariat und Betriebsleitung: <a href="mailto:info@mfgt.ch">info@mfgt.ch</a>
+* Maintenance: <a href="maintenance@mfgt.ch">maintenance@mfgt.ch</a>
 
 Besten Dank.
 
