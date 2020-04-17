@@ -45,9 +45,10 @@ Nach den öffentlichen Covid-19  Publikationen der letzten Zeit und dem Bundesra
 **Sonstiges**
 
 * bedingt durch die Einschränkungen und zur Verringerung unserer Fixkosten beschränken wir unsere Flotte auf drei Flugzeuge. Im Einsatz sind:
-* HB-KLA
-* HB-KOF
-* HB-SGU
+<ul><li>HB-KLA</li>
+<li>HB-KOF</li>
+<li>HB-SGU</li>
+</ul>
 * kein Headset-Verleih
 * das Sekretariat bleibt unregelmässig besetzt. Der persönliche Kontakt ist zu meiden
 * Kaffee und Getränke sind nicht verfügbar
