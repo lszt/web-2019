@@ -15,7 +15,7 @@ buttons:
     title: flyer BAG
     url: 'https://drive.google.com/open?id=1NykOVIAXOgUYtIX2kwJOF2e2umAZBxIM'
 ---
-Nach den öffentlichen Covid-19  Publikationen der letzten Zeit und dem Bundesratsbeschluss vom 16.04.20 hat der Vorstand entschieden, einen **restriktiven Betrieb auf dem Flugplatz ab Freitag, 17.04.2020 wieder zuzulassen**. Es gelten folgende Einschränkungen:
+Nach den öffentlichen Covid-19  Publikationen der letzten Zeit und dem Bundesratsbeschluss vom 16.04.2020 hat der Vorstand entschieden, einen **restriktiven Betrieb auf dem Flugplatz ab Freitag, 17.04.2020 wieder zuzulassen**. Es gelten folgende Einschränkungen:
 
 * nur Übungsflüge zur Erhaltung der Flugsicherheit
 * nur Soloflüge oder Flüge mit einer Person aus demselben Haushalt
@@ -68,7 +68,7 @@ Besten Dank.
 
 Wir wünschen euch allem voran gute Gesundheit!
 
-Letztes Update: 17.04.20 10:15
+Letztes Update: 17.04.2020 10:15
 
 <hr>
 
