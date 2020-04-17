@@ -1,8 +1,8 @@
 ---
 title: Türschliess-System Clubhaus
 date: '2020-04-17T11:09:50+02:00'
-draft: true
-image: /img/uploads/ausbildung_aquila.jpg
+draft: false
+image: /img/uploads/jc-clavarex.jpg
 positionx: 50
 positiony: 50
 description: >-
