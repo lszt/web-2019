@@ -6,38 +6,69 @@ image: /img/uploads/covid_19.jpg
 positionx: 50
 positiony: 50
 description: >-
-  Geschätzte Mitglieder, auf Grund der aktuellen Lage wir der Flugplatz Lommis
-  geschlossen.
+  Geschätzte Mitglieder, da sich die Situation langsam beruhigt und kontrolliert
+  werden kann, können wir aus Rücksicht auf den Trainingsbedarf der Piloten
+  einen restriktiven Betrieb wieder zulassen.
 buttons:
   - blank: true
     cta: true
     title: flyer BAG
     url: 'https://drive.google.com/open?id=1NykOVIAXOgUYtIX2kwJOF2e2umAZBxIM'
 ---
-Aufgrund der Verordnung des Bundesrats über Massnahmen zur Bekämpfung des Coronavirus  haben wir uns entschieden, **den Flugplatz Lommis für den normalen Flugbetrieb per 20.03.2020 um 19.00h zu schliessen**. Der Unterhaltsbetrieb wird weitergeführt, der Flugplatz steht für Werksflüge und Flüge zur Firma Kürzi weiterhin zur Verfügung.
+Nach den öffentlichen Covid-19  Publikationen der letzten Zeit und dem Bundesratsbeschluss vom 16.04.20 hat der Vorstand entschieden, einen **restriktiven Betrieb auf dem Flugplatz ab Freitag, 17.04.2020 wieder zuzulassen**. Es gelten folgende Einschränkungen:
 
-Damit gelten die folgenden weiteren Massnahmen auf dem Flugplatz:
+* nur Übungsflüge zur Erhaltung der Flugsicherheit
+* nur Soloflüge oder Flüge mit einer Person aus demselben Haushalt
+* max. 3 Landung pro Pilot und Tag
+* max. 2 Flugzeuge auf der Volte
+* kene Schulflüge
+* keine Auslandflüge
+* LSZT für Auswärtige gesperrt
+* Maintenance-Flüge sind PPR (Tel. 079 427 74 03 oder 052 366 33 42)
+* nur 1 Pilot im C-Büro für die Flug An- und Abmeldung, Rapport und Flugreisebuch
+* das Briefing ist von zu Hause aus zu erledigen
+* Flugzeuge nach dem Flug immer hangarieren, ausser der nächste Pilot ist bereit
+* die Benutzung des Flugplatzes erfolgt auf eigene Verantwortung
+* der letzte Benutzer des Platzes schliesst den Flugplatz gemäss Checklist
+* die Hygienevorschriften sind zu befolgen
 
-* Absage der GV
-* Absage Flugplatzputzete
-* Absage aller Vereinsaktivitäten
-* Absage Theorieunterricht
-* Restaurantbetrieb ist sicher bis am 19. April 2020 eingestellt
-* Kinderspielplatz ist geschlossen
+Hygienevorschriften Covid-19
 
-Die Betriebsleitung und das Sekretariat werden unregelmässiger und schwächer besetzt sein. Der telefonischer Kontakt ist damit eingeschränkt. 
+* 2m Minimalabstand überall auf dem Platz
+* keine Gruppen von mehr als 5 Personen
+* Desinfektionsmittel wenn möglich selber mitnehmen, diese stehen nur beschränkt zur Verfügung
+* vor jeder Benutzung Flächen, Tasteaturen an den PC's, usw. desinfizieren
+* Instrument und Hebel im Flugzeug nicht besprühen, mit den bereitgestellten Tüchern desinfizieren
+* bitte mit den Mitteln effizient und effektiv umgehen
+* weiter Informationen sind auf der Homepage des BAG zu finden
 
-Bitte Email auf: 
+Sonstiges
 
-Sekretariat und Betriebsleitung: info@mfgt.ch
+* bedingt durch die Einschränkungen und zur Verringerung unserer Fixkosten beschränken wir unsere Flotte auf drei Flugzeuge. Im Einsatz sind:
+* HB-KLA
+* HB-KOF
+* HB-SGU
+* kein Headset-Verleih
+* das Sekretariat bleibt unregelmässig besetzt. Der persönliche Kontakt ist zu meiden
+* Kaffee und Getränke sind nicht verfügbar
+* kein Theorie- und Praxisunterricht
+* Restaurantbetrieb ist voraussichtlich bis am 08. Juni 2020 eingestellt
+* Spielplatz bleibt geschlossen
 
-Maintenance: maintenance@mfgt.ch
+Wir werden vorderhand auf den Einsatz von FDL's verzichten und den Betrieb in eurer Eigenverantwortung betreiben. Sollte das Flugaufkommen zunehmen, werden wir die Lage neu beurteilen. Wir bitten euch, Zurückhaltung zu üben und wirklich nur zu Trainingszwecken zu fliegen. Solltet ihr nach längerem Unterbruch unsicher sind, dann wartet lieber ab, bis wieder mit einem Fluglehrer geflogen werden kann. Safety first! Personen, die einer Risikogruppe angehören, sollen bitte zu Hause bleiben.
+
+Sobald sich die Lage ändert, werden wir wieder informieren.
+
+Für Kontakt bitte E-Mail an:
+
+* Sekretariat und Betriebsleitung: info@mfgt.ch
+* Maintenance: maintenance@mfgt.ch
 
 Besten Dank.
 
 Wir wünschen euch allem voran gute Gesundheit!
 
-Letztes Update: 20.03.20 19:15
+Letztes Update: 17.04.20 10:15
 
 <hr>
 
