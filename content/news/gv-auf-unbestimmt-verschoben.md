@@ -13,7 +13,8 @@ buttons:
   - blank: true
     cta: true
     title: flyer BAG
-    url: 'https://drive.google.com/open?id=1NykOVIAXOgUYtIX2kwJOF2e2umAZBxIM'
+    url: >-
+      https://drive.google.com/file/d/1UhWzeKSgOtc7OHqDdpKI5uvCKjnueX1R/view?usp=sharing
 ---
 Nach den öffentlichen Covid-19  Publikationen der letzten Zeit und dem Bundesratsbeschluss vom 16.04.2020 hat der Vorstand entschieden, einen **restriktiven Betrieb auf dem Flugplatz ab Freitag, 17.04.2020 wieder zuzulassen**. Es gelten folgende Einschränkungen:
 
