@@ -32,7 +32,7 @@ Nach den öffentlichen Covid-19  Publikationen der letzten Zeit und dem Bundesra
 * der letzte Benutzer des Platzes schliesst den Flugplatz gemäss Checklist
 * die Hygienevorschriften sind zu befolgen
 
-Hygienevorschriften Covid-19
+**Hygienevorschriften Covid-19**
 
 * 2m Minimalabstand überall auf dem Platz
 * keine Gruppen von mehr als 5 Personen
@@ -42,7 +42,7 @@ Hygienevorschriften Covid-19
 * bitte mit den Mitteln effizient und effektiv umgehen
 * weiter Informationen sind auf der Homepage des BAG zu finden
 
-Sonstiges
+**Sonstiges**
 
 * bedingt durch die Einschränkungen und zur Verringerung unserer Fixkosten beschränken wir unsere Flotte auf drei Flugzeuge. Im Einsatz sind:
 * HB-KLA
