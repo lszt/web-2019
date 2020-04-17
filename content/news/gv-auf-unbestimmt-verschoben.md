@@ -77,7 +77,7 @@ Letztes Update: 17.04.2020 10:15
 
 Informationen des [BAG](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html)
 
-Informationen des [Bundes](https://www.bag.admin.ch/bag/de/home/das-bag/aktuell/medienmitteilungen.msg-id-78437.html)
+Informationen des [Bundes](https://www.bag.admin.ch/bag/de/home/das-bag/aktuell/medienmitteilungen.msg-id-78818.html)
 
 Informationen [Kanton Thurgau](https://www.tg.ch/news/fachdossier-coronavirus.html/10552)
 
