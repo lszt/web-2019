@@ -1,7 +1,7 @@
 ---
 title: Webinar Aviatik und Coronavirus
 date: '2020-04-16T10:00:11+02:00'
-draft: false
+draft: true
 image: /img/uploads/club_refresher.jpg
 positionx: 50
 positiony: 50
