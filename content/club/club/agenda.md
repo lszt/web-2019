@@ -6,22 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 12.04. - 25.04.2020 | SPHAIR Kurs 2 (Robin)
-
-### <font color="red">Abgesagt</font>
-
-### 24.04.2020 | 18:30 | Clubhöck
-
-Rita's Flugplatzbeizli
-
-### 27.04.2020 | Tankstellen-Revision AVGAS (Tankstelle geschlossen)
-
-Flugplatz Lommis
-
-### 09.05.2020 | 09:00 | Infoanlass der Flugschule
-
-Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
-
 ### 29.05.2020 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
@@ -29,6 +13,10 @@ Rita's Flugplatzbeizli
 ### 03.06.2020 | 19:00 | Briefing Fly Away
 
 Theorieraum Lommis
+
+### 13.06.2020 | 09:00 | Infoanlass der Flugschule
+
+Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
 ### 23.06.2020 | 19:00 | Generalversammlung 2020 der MFGT
 
