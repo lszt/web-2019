@@ -41,15 +41,11 @@ Nach den öffentlichen Covid-19  Publikationen der letzten Zeit und dem Bundesra
 * vor jeder Benutzung Flächen, Tastaturen an den PC's, usw. desinfizieren
 * Instrument und Hebel im Flugzeug nicht besprühen, mit den bereitgestellten Tüchern desinfizieren
 * bitte mit den Mitteln effizient und effektiv umgehen
-* weiter Informationen sind auf der Homepage des [BAG] (https://bag-coronavirus.ch/) zu finden
+* weiter Informationen sind auf der Homepage des [BAG](https://bag-coronavirus.ch/) zu finden
 
 **Sonstiges**
 
 * bedingt durch die Einschränkungen und zur Verringerung unserer Fixkosten beschränken wir unsere Flotte auf drei Flugzeuge. Im Einsatz sind:
-<ul><li>HB-KLA</li>
-<li>HB-KOF</li>
-<li>HB-SGU</li>
-</ul>
 * kein Headset-Verleih
 * das Sekretariat bleibt unregelmässig besetzt. Der persönliche Kontakt ist zu meiden
 * Kaffee und Getränke sind nicht verfügbar
@@ -59,7 +55,30 @@ Nach den öffentlichen Covid-19  Publikationen der letzten Zeit und dem Bundesra
 
 Wir werden vorderhand auf den Einsatz von FDL's verzichten und den Betrieb in eurer Eigenverantwortung betreiben. Sollte das Flugaufkommen zunehmen, werden wir die Lage neu beurteilen. Wir bitten euch, Zurückhaltung zu üben und wirklich nur zu Trainingszwecken zu fliegen. Solltet ihr nach längerem Unterbruch unsicher sind, dann wartet lieber ab, bis wieder mit einem Fluglehrer geflogen werden kann. Safety first! Personen, die einer Risikogruppe angehören, sollen bitte zu Hause bleiben.
 
-Sobald sich die Lage ändert, werden wir wieder informieren.
+**Lockerungen Flugbetrieb und Schulung ab 11.05.2020**
+
+Ab Montag, 11.05.2020 sind Passagier- und Schulflüge innerhalb der Schweiz wieder erlaubt. Der Platz wird ausserdem für auswärtige Flugzeuge **ohne** grenzüberschreitenden Verkehr wieder geöffnet.
+
+Diese Lockerungen sind aber an etliche Bedingungen geknüpft. Die entsprechenden Unterlagen sind unter folgenden Links zu finden:
+
+[Massnahmenplan](https://drive.google.com/file/d/1mXZU9r1LjBYGP3eomgIgONuOYwihhKiM/view?usp=sharing)
+
+[Schulungs-Schutzkonzept](https://drive.google.com/file/d/1ULhThayPITM3WuwGOl60xhrhWFYvBEU2/view?usp=sharing)
+
+Darin werden für alle Benutzer des Platzes folgende Punkte geregelt:
+
+* Benutzung des Platzes
+* Flüge mit Personen, die im gleichen Haushalt leben
+* Passagierflüge
+* Schulflüge
+* Benutzung Theorieraum
+* Benutzungspauschale
+
+Für die Zeit, in der diese Massnahmen gelten, erheben wir eine Nutzungspauschale. Diese soll die in dieser Zeit anfallenden Mehrkosten decken.
+
+Die Erfassung von Start und Landung können die Piloten über folgenden [Link](https://flights.lszt.ch) auch ausserhalb des Clubhauses erledigen.
+
+Rita's Flugplatzbeizli wird voraussichtlich ab Samstag, 16.05.2020 ebenfalls mit einem beschränkten Angebot wieder geöffnet sein. Über die Öffnung des Spielplatzes wird noch entschieden.
 
 Für Kontakt bitte E-Mail an:
 
@@ -70,7 +89,7 @@ Besten Dank.
 
 Wir wünschen euch allem voran gute Gesundheit!
 
-Letztes Update: 17.04.2020 10:15
+Letztes Update: 08.05.2020 14:10
 
 <hr>
 
