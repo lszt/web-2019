@@ -50,7 +50,7 @@ Nach den öffentlichen Covid-19  Publikationen der letzten Zeit und dem Bundesra
 * das Sekretariat bleibt unregelmässig besetzt. Der persönliche Kontakt ist zu meiden
 * Kaffee und Getränke sind nicht verfügbar
 * kein Theorie- und Praxisunterricht
-* Restaurantbetrieb ist voraussichtlich bis am 08. Juni 2020 eingestellt
+* Restaurantbetrieb ist voraussichtlich bis am 16 Mai 2020 eingestellt
 * Spielplatz bleibt geschlossen
 
 Wir werden vorderhand auf den Einsatz von FDL's verzichten und den Betrieb in eurer Eigenverantwortung betreiben. Sollte das Flugaufkommen zunehmen, werden wir die Lage neu beurteilen. Wir bitten euch, Zurückhaltung zu üben und wirklich nur zu Trainingszwecken zu fliegen. Solltet ihr nach längerem Unterbruch unsicher sind, dann wartet lieber ab, bis wieder mit einem Fluglehrer geflogen werden kann. Safety first! Personen, die einer Risikogruppe angehören, sollen bitte zu Hause bleiben.
