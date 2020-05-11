@@ -7,8 +7,11 @@ positionx: 50
 positiony: 50
 description: >-
   Geschätzte Mitglieder, da sich die Situation langsam beruhigt und kontrolliert
-  werden kann, können wir aus Rücksicht auf den Trainingsbedarf der Piloten
-  einen restriktiven Betrieb wieder zulassen.
+  werden kann, wird der Betrieb unter Einhaltung der Covid-19 Vorschriften
+  wieder aufgenommen. 
+
+
+  Der Flugplatz ist offen.
 buttons:
   - blank: true
     cta: true
@@ -16,44 +19,6 @@ buttons:
     url: >-
       https://drive.google.com/file/d/1UhWzeKSgOtc7OHqDdpKI5uvCKjnueX1R/view?usp=sharing
 ---
-Nach den öffentlichen Covid-19  Publikationen der letzten Zeit und dem Bundesratsbeschluss vom 16.04.2020 hat der Vorstand entschieden, einen **restriktiven Betrieb auf dem Flugplatz ab Freitag, 17.04.2020 wieder zuzulassen**. Es gelten folgende Einschränkungen:
-
-* nur Übungsflüge zur Erhaltung der Flugsicherheit
-* nur Soloflüge oder Flüge mit einer Person aus demselben Haushalt
-* max. 3 Landung pro Pilot und Tag
-* max. 2 Flugzeuge auf der Volte
-* keine Schulflüge
-* keine Auslandflüge
-* Maintenance-Flüge sind PPR (Tel. 079 427 74 03 oder 052 366 33 41)
-* nur 1 Pilot im C-Büro für die Flug An- und Abmeldung, Rapport und Flugreisebuch
-* das Briefing ist von zu Hause aus zu erledigen
-* Flugzeuge nach dem Flug immer hangarieren, ausser der nächste Pilot ist bereit
-* die Benutzung des Flugplatzes erfolgt auf eigene Verantwortung
-* der letzte Benutzer des Platzes schliesst den Flugplatz gemäss Checkliste
-* die Hygienevorschriften sind zu befolgen
-
-**Hygienevorschriften Covid-19**
-
-* 2m Minimalabstand überall auf dem Platz
-* keine Gruppen von mehr als 5 Personen
-* Desinfektionsmittel wenn möglich selber mitnehmen, diese stehen nur beschränkt zur Verfügung
-* vor jeder Benutzung Flächen, Tastaturen an den PC's, usw. desinfizieren
-* Instrument und Hebel im Flugzeug nicht besprühen, mit den bereitgestellten Tüchern desinfizieren
-* bitte mit den Mitteln effizient und effektiv umgehen
-* weiter Informationen sind auf der Homepage des [BAG](https://bag-coronavirus.ch/) zu finden
-
-**Sonstiges**
-
-* bedingt durch die Einschränkungen und zur Verringerung unserer Fixkosten beschränken wir unsere Flotte auf drei Flugzeuge. Im Einsatz sind:
-* kein Headset-Verleih
-* das Sekretariat bleibt unregelmässig besetzt. Der persönliche Kontakt ist zu meiden
-* Kaffee und Getränke sind nicht verfügbar
-* kein Theorie- und Praxisunterricht
-* Restaurantbetrieb ist voraussichtlich bis am 16 Mai 2020 eingestellt
-* Spielplatz bleibt geschlossen
-
-Wir werden vorderhand auf den Einsatz von FDL's verzichten und den Betrieb in eurer Eigenverantwortung betreiben. Sollte das Flugaufkommen zunehmen, werden wir die Lage neu beurteilen. Wir bitten euch, Zurückhaltung zu üben und wirklich nur zu Trainingszwecken zu fliegen. Solltet ihr nach längerem Unterbruch unsicher sind, dann wartet lieber ab, bis wieder mit einem Fluglehrer geflogen werden kann. Safety first! Personen, die einer Risikogruppe angehören, sollen bitte zu Hause bleiben.
-
 **Lockerungen Flugbetrieb und Schulung ab 11.05.2020**
 
 Ab Montag, 11.05.2020 sind Passagier- und Schulflüge innerhalb der Schweiz wieder erlaubt. Der Platz wird ausserdem für auswärtige Flugzeuge **ohne** grenzüberschreitenden Verkehr wieder geöffnet.
@@ -73,9 +38,11 @@ Darin werden für alle Benutzer des Platzes folgende Punkte geregelt:
 * Benutzung Theorieraum
 * Benutzungspauschale
 
-Für die Zeit, in der diese Massnahmen gelten, erheben wir eine Nutzungspauschale. Diese soll die in dieser Zeit anfallenden Mehrkosten decken.
+Für die Zeit, in der diese Massnahmen gelten, erheben wir eine Nutzungspauschale von CHF 10.00 pro Rapport/Tag/Flug. Diese soll die in dieser Zeit anfallenden Mehrkosten decken.
 
 Die Erfassung von Start und Landung können die Piloten über folgenden [Link](https://flights.lszt.ch) auch ausserhalb des Clubhauses erledigen.
+
+Der FDL Dienst wird ab dem 16.05.2020 wieder aufgenommen. MFGT-Rundflüge finden bis auf weiteres nicht statt.
 
 Rita's Flugplatzbeizli wird voraussichtlich ab Samstag, 16.05.2020 ebenfalls mit einem beschränkten Angebot wieder geöffnet sein. Über die Öffnung des Spielplatzes wird noch entschieden.
 
@@ -84,11 +51,31 @@ Für Kontakt bitte E-Mail an:
 * Sekretariat und Betriebsleitung: <a href="mailto:info@mfgt.ch">info@mfgt.ch</a>
 * Maintenance: <a href="mailto:maintenance@mfgt.ch">maintenance@mfgt.ch</a>
 
+**Hygienevorschriften Covid-19**
+
+* 2m Minimalabstand überall auf dem Platz
+* keine Gruppen von mehr als 5 Personen
+* Desinfektionsmittel für Hände wenn möglich selber mitnehmen, diese stehen nur beschränkt zur Verfügung
+* vor jeder Benutzung Flächen, Tastaturen an den PC's, usw. desinfizieren
+* Zur Desinfektion des Flugzeugs steht an der Tankstelle eine Box parat
+* bitte mit den Mitteln effizient und effektiv umgehen
+* weiter Informationen sind auf der Homepage des [BAG](https://bag-coronavirus.ch/) zu finden
+
+**Sonstiges**
+
+* bedingt durch die Einschränkungen und zur Verringerung unserer Fixkosten beschränken wir unsere Flotte auf drei Flugzeuge. 
+* kein Headset-Verleih
+* Das Sekretariat bleibt unregelmässig besetzt. Der persönliche Kontakt ist zu meiden.
+* Kaffee und Getränke sind nicht verfügbar
+* Restaurant ist voraussichtlich ab 16. Mai 2020 wieder in Betrieb
+
 Besten Dank.
 
 Wir wünschen euch allem voran gute Gesundheit!
 
-Letztes Update: 08.05.2020 14:10
+Letztes Update: 11.05.2020 14:45
+
+
 
 <hr>
 
