@@ -8,6 +8,11 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 18.05.2020 | Allgemein/Flugschule/Kontrollflug | [Kontrollflugprogramm](https://drive.google.com/open?id=1Wqz-KxUWY42l8eUYv19BnBu1uk8E_w3O) | aktualisiert
+* 18.05.2020 | Allgemein/Flugschule/Kontrollflug | [Kontrollflug-Formular](https://drive.google.com/open?id=1MHBDEtrOsLJOpcDxQ--de1Yp4qYYLZ6x) | aktualisiert
+* 18.05.2020 | Allgemein/Flugschule/Kontrollflug | [Documents on Board](https://drive.google.com/open?id=1nJmiKO2kE_L6WmRN-Z4AW8r3Z_MxseAd) | hinzugefügt
+* 18.05.2020 | Allgemein/Flugschule/Kontrollflug | [Checkliste Flugvorbereitung](https://drive.google.com/open?id=1kPE09PU6CejpbW10cDk-4C9V2F9SZOYQ) | aktualisiert
+* 18.05.2020 | Allgemein/Flugschule/Kontrollflug | [Briefing](https://drive.google.com/open?id=1N2Bz6ekPiA2cpb2IJvybuINgUFF2afkn) | hinzugefügt
 * 17.04.2020 | Allgemein/Flugplatz | [Anleitung Schliess-System](https://drive.google.com/open?id=1QCJZ6XB4pD8S1LdTvkm8mzXTcEC4-mLo) | hinzugefügt
 * 16.04.2020 | Allgemein/Flugplatz | [Hangarreglement](https://drive.google.com/drive/folders/13UnVyZG353Me2nlmGVcZbBYqkYfq7xoL) | aktualisiert
 * 19.02.2020 | Allgemein/Flugschule/Refresher | [Refresher 2020](https://drive.google.com/drive/folders/1B8KKpyXobT5EtVs_EjN66zEPiEZzNTCG) | hinzugefügt
