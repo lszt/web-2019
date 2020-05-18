@@ -6,7 +6,7 @@ image: /img/uploads/ausbildung_praktische_ausbildung.jpg
 positionx: 50
 positiony: 50
 description: >-
-  Die aktuellen Dokumente für den Kontrollflug 2020/2021 sind nun online. Bitte
+  Die aktuellen Dokumente für den Kontrollflug 2020 sind nun online. Bitte
   verwendet die aktuellen Unterlagen zur Vorbereitung und Durchführung eurer
   Flüge.
 ---
