@@ -22,15 +22,13 @@ Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXr
 
 MZH Lommis oder online
 
-### 06/07.06.2020 | Fly Away Flugschule MFGT
-
-[Anmeldung](https://doodle.com/poll/z4by2mfubv34ne72) und [Info's](mailto:andre.heinzelmann@mfgt.ch)
-
 ### 26.06.2020 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
 
-### 04/05.07.2020 | Ausweichdatum Fly Away Flugschule MFGT
+### 04./05.07.2020 | Fly Away Flugschule MFGT
+
+[Anmeldung](https://doodle.com/poll/z4by2mfubv34ne72) und [Info's](mailto:andre.heinzelmann@mfgt.ch)
 
 ### 11.07.2020 | 10 Jahre Rita's Flugplatzbeizli
 
