@@ -13,11 +13,10 @@ description: |-
 
   Ausbildungsdauer: 1 bis 2 Jahre
 
-  Gesundheit:Medical Class 2
+  Gesundheit: Medical Class 2
 buttons:
   - cta: true
     title: Anmelden
     url: 'mailto:sekretariat@mfgt.ch'
-    blank: false
 ---
 
