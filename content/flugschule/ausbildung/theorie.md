@@ -34,7 +34,7 @@ Die Ausbildung besteht aus 9 Theoriefächern und der Radiotelefonie Praxis:
 Die 9 Theorieprüfungen können auf maximal 6 Sessionen aufgeteilt werden. Im Kursprogramm sind bereits Prüfungstermine vorgegeben, an denen mehrere Fächer geprüft werden. Alle 9 Theoriefächer plus die praktische Prüfung Radiotelefonie müssen innerhalb einer Frist von 18 Monaten bestanden sein. Sobald die letzte dieser Prüfungen bestanden wurde (9 Theoriefächer + Radiotelefonie Praxis) muss die praktische Flugprüfung innerhalb einer Frist von 24 Monaten absolviert werden.
 
 Du kannst dir das theoretische Wissen auch online erwerben. Du wirst von Spezialisten betreut und in einem abschliessenden Präsenzkurs optimal auf die Prüfung vorbereitet. \
-[Weitere Informationen zum Distance Learning](https://swisspsa.ch/index.php/fernunterricht-neu/einleitung-mobile-2)
+[Weitere Informationen zum Distance Learning](https://www.swisspsa.ch/index.php/fernunterricht-neu/einleitung-mobile)
 
 Weitere Details sowie Kosten siehe [AGB](https://drive.google.com/file/d/1iF-XZ-CfMZVE1tXJXf4WRGbm4CRAZv92/view?usp=sharing) und [Kursprogramm](https://drive.google.com/file/d/17oy4aJayCbGj0Mf4DLxFWOtwTaoc_7h9/view?usp=sharing).
 
