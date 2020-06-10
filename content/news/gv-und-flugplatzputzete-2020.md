@@ -11,8 +11,5 @@ description: >-
 buttons:
   - title: agenda
     url: /club/club/agenda/
-  - cta: true
-    title: test
-    url: www.mfgt.ch
 ---
 Für die virtuelle GV sind nur Aktiv-, Passiv-, U25- und Ehrenmitglieder zugelassen. **Der Anmeldeschluss ist der 16.06.2020. Dieser ist aus organisatorischen Gründen zwingend einzuhalten.** Bitte verwendet bei der Anmeldung die E-Mail Adresse, die ihr später auch für die Anmeldung bei Zoom verwendet. Die [Anmeldung] (https://doodle.com/poll/3ndsw4psmiyay2u7) für beide Anlässe erfolgt wie immer über einen Doodle.
