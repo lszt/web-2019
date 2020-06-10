@@ -12,7 +12,7 @@ Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXr
 
 ### 23.06.2020 | 19:00 | Generalversammlung 2020 der MFGT
 
-MZH Lommis oder online
+online | [Anmeldung] (https://doodle.com/poll/3ndsw4psmiyay2u7)
 
 ### 26.06.2020 | 18:30 | Clubhöck
 
