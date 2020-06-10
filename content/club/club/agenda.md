@@ -18,6 +18,10 @@ online | [Anmeldung] (https://doodle.com/poll/3ndsw4psmiyay2u7)
 
 Rita's Flugplatzbeizli
 
+### 27.06.2020 | 08:00 | Flugplatzputzete
+
+Flugplatz Lommis | [Anmeldung] (https://doodle.com/poll/3ndsw4psmiyay2u7)
+
 ### 04./05.07.2020 | Fly Away Flugschule MFGT
 
 [Anmeldung](https://doodle.com/poll/z4by2mfubv34ne72) und [Info's](mailto:andre.heinzelmann@mfgt.ch)
@@ -41,10 +45,6 @@ Rita's Flugplatzbeizli
 ### 15.08.2020 | 09:00 | YES-Tag
 
 Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
-
-### 15.08. - 16.08.2020 | Flugfest Hagenbuch
-
-temporäres Flugfeld Hagenbuch
 
 ### 22.08.2020 | 09:00 | Reservedatum YES-Tag
 
