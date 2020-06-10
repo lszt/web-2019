@@ -58,10 +58,6 @@ Rita's Flugplatzbeizli
 
 Flugplatz Lommis
 
-### 05.09. - 06.09.2020 | Flugfest Schmerlat
-
-Flugplatz Schmerlat
-
 ### 12.09.2020 | 09:00 | Infoanlass der Flugschule
 
 Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
