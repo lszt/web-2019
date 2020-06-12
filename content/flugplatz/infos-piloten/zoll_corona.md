@@ -5,7 +5,7 @@ draft: false
 weight: '2'
 image: /img/uploads/bild_zoll.jpg
 description: >-
-  <font color="red">Auf Grund der aktuellen Lage sind in Lommis bis auf Weiteres
-  keine Zollabwicklungen weder vom noch ins Ausland möglich!</font>
+  <font color="red">Auf Grund der aktuellen Lage sind in Lommis erst ab dem
+  15.06.2020 Zollabwicklungen vom und ins Ausland möglich!</font>
 ---
 
