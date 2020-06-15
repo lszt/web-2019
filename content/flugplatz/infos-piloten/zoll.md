@@ -1,7 +1,7 @@
 ---
 title: Zoll_standard
 date: '2020-03-17T10:50:36+01:00'
-draft: true
+draft: false
 weight: '2'
 image: /img/uploads/bild_zoll.jpg
 description: >-
