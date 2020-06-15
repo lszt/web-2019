@@ -6,13 +6,9 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 13.06.2020 | 09:00 | Infoanlass der Flugschule
-
-Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
-
 ### 23.06.2020 | 19:00 | Generalversammlung 2020 der MFGT
 
-online | [Anmeldung] (https://doodle.com/poll/3ndsw4psmiyay2u7)
+online | [Anmeldung](https://doodle.com/poll/3ndsw4psmiyay2u7)
 
 ### 26.06.2020 | 18:30 | Clubhöck
 
@@ -20,7 +16,7 @@ Rita's Flugplatzbeizli
 
 ### 27.06.2020 | 08:00 | Flugplatzputzete
 
-Flugplatz Lommis | [Anmeldung] (https://doodle.com/poll/3ndsw4psmiyay2u7)
+Flugplatz Lommis | [Anmeldung](https://doodle.com/poll/3ndsw4psmiyay2u7)
 
 ### 04./05.07.2020 | Fly Away Flugschule MFGT
 
