@@ -17,7 +17,7 @@ buttons:
     cta: true
     title: flyer BAG
     url: >-
-      https://drive.google.com/file/d/1UhWzeKSgOtc7OHqDdpKI5uvCKjnueX1R/view?usp=sharing
+      https://drive.google.com/file/d/1B5Lconu1-zeFPe9OL5Pfyh2Xr5THYsCh/view?usp=sharing
 ---
 **Flug- und Flugplatz-Betrieb in Lommis**
 
@@ -80,7 +80,7 @@ Letztes Update: 15.06.2020 13:30
 
 Informationen des [BAG](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html)
 
-Informationen des [Bundes](https://www.bag.admin.ch/bag/de/home/das-bag/aktuell/medienmitteilungen.msg-id-78948.html)
+Informationen des [Bundes](https://www.bag.admin.ch/bag/de/home/das-bag/aktuell/medienmitteilungen.msg-id-79373.html)
 
 Informationen [Kanton Thurgau](https://www.tg.ch/news/fachdossier-coronavirus.html/10552)
 
