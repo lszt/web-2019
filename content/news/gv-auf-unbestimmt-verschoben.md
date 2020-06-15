@@ -19,11 +19,11 @@ buttons:
     url: >-
       https://drive.google.com/file/d/1UhWzeKSgOtc7OHqDdpKI5uvCKjnueX1R/view?usp=sharing
 ---
-**Lockerungen Flugbetrieb und Schulung ab 11.05.2020**
+**Flug- und Flugplatz-Betrieb in Lommis**
 
-Ab Montag, 11.05.2020 sind Passagier- und Schulflüge innerhalb der Schweiz wieder erlaubt. Der Platz wird ausserdem für auswärtige Flugzeuge **ohne** grenzüberschreitenden Verkehr wieder geöffnet.
+Der Flugplatz ist unter Einhaltung der nachfolgenden Schutzmassnahmen für Passagier- und Schulflüge wieder geöffnet. Es ist zudem wieder grenzüberschreitender Verkehr unter Beachtung der entsprechenden Zollvorschriften erlaubt.
 
-Diese Lockerungen sind aber an etliche Bedingungen geknüpft. Die entsprechenden Unterlagen sind unter folgenden Links zu finden:
+Der aktuelle Betrieb ist aber an etliche Bedingungen geknüpft. Die entsprechenden Unterlagen sind unter folgenden Links zu finden:
 
 [Massnahmenplan](https://drive.google.com/file/d/1mXZU9r1LjBYGP3eomgIgONuOYwihhKiM/view?usp=sharing)
 
@@ -44,7 +44,7 @@ Die Erfassung von Start und Landung können die Piloten über folgenden [Link](h
 
 Der FDL Dienst wird ab dem 16.05.2020 wieder aufgenommen. MFGT-Rundflüge finden bis auf weiteres nicht statt.
 
-Rita's Flugplatzbeizli wird voraussichtlich ab Samstag, 16.05.2020 ebenfalls mit einem beschränkten Angebot wieder geöffnet sein. Über die Öffnung des Spielplatzes wird noch entschieden.
+Rita's Flugplatzbeizli ist ebenfalls mit einem reduzierten Angebot wieder geöffnet.
 
 Für Kontakt bitte E-Mail an:
 
@@ -67,15 +67,12 @@ Für Kontakt bitte E-Mail an:
 * kein Headset-Verleih
 * Das Sekretariat bleibt unregelmässig besetzt. Der persönliche Kontakt ist zu meiden.
 * Kaffee und Getränke sind nicht verfügbar
-* Restaurant ist voraussichtlich ab 16. Mai 2020 wieder in Betrieb
 
 Besten Dank.
 
 Wir wünschen euch allem voran gute Gesundheit!
 
-Letztes Update: 11.05.2020 14:45
-
-
+Letztes Update: 15.06.2020 13:30
 
 <hr>
 
