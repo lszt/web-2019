@@ -6,12 +6,8 @@ image: /img/uploads/covid_19.jpg
 positionx: 50
 positiony: 50
 description: >-
-  Geschätzte Mitglieder, da sich die Situation langsam beruhigt und kontrolliert
-  werden kann, wird der Betrieb unter Einhaltung der Covid-19 Vorschriften
-  wieder aufgenommen. 
-
-
-  Der Flugplatz ist offen.
+  Geschätzte Mitglieder, bedingt durch die Lockerungen im Umgang mit Covid-19
+  des BAG, machen auch wir folgende Schritte:
 buttons:
   - blank: true
     cta: true
@@ -23,7 +19,7 @@ buttons:
 
 Der Flugplatz ist unter Einhaltung der nachfolgenden Schutzmassnahmen für Passagier- und Schulflüge wieder geöffnet. Es ist zudem wieder grenzüberschreitender Verkehr unter Beachtung der entsprechenden Zollvorschriften erlaubt.
 
-Der aktuelle Betrieb ist aber an etliche Bedingungen geknüpft. Die entsprechenden Unterlagen sind unter folgenden Links zu finden:
+Der aktuelle Betrieb ist aber an Bedingungen geknüpft. Die entsprechenden Unterlagen sind unter folgenden Links zu finden:
 
 [Massnahmenplan](https://drive.google.com/file/d/1mXZU9r1LjBYGP3eomgIgONuOYwihhKiM/view?usp=sharing)
 
@@ -38,13 +34,9 @@ Darin werden für alle Benutzer des Platzes folgende Punkte geregelt:
 * Benutzung Theorieraum
 * Benutzungspauschale
 
-Für die Zeit, in der diese Massnahmen gelten, erheben wir eine Nutzungspauschale von CHF 10.00 pro Rapport/Tag/Flug. Diese soll die in dieser Zeit anfallenden Mehrkosten decken.
-
 Die Erfassung von Start und Landung können die Piloten über folgenden [Link](https://flights.lszt.ch) auch ausserhalb des Clubhauses erledigen.
 
-Der FDL Dienst wird ab dem 16.05.2020 wieder aufgenommen. MFGT-Rundflüge finden bis auf weiteres nicht statt.
-
-Rita's Flugplatzbeizli ist ebenfalls mit einem reduzierten Angebot wieder geöffnet.
+Der FDL Dienst wurde am 16.05.2020 aufgenommen. Rundflüge werden wieder angeboten.
 
 Für Kontakt bitte E-Mail an:
 
@@ -54,25 +46,19 @@ Für Kontakt bitte E-Mail an:
 **Hygienevorschriften Covid-19**
 
 * 2m Minimalabstand überall auf dem Platz
-* keine Gruppen von mehr als 5 Personen
+* Bei Schulflügen, Rundflügen und Flügen mit PAX gilt per sofort: Fordert jemand Schutzmasken, sind alle Insassen zum Tragen der Maske verpflichtet
 * Desinfektionsmittel für Hände wenn möglich selber mitnehmen, diese stehen nur beschränkt zur Verfügung
+* Die gemeinsamen Headsets können wieder verwendet werden, jedoch ohne Schaumstoffhülle des Mikrofones. Vor und nach dem Gebrauch sind sie zu desinfizieren.
 * vor jeder Benutzung Flächen, Tastaturen an den PC's, usw. desinfizieren
 * Zur Desinfektion des Flugzeugs steht an der Tankstelle eine Box parat
 * bitte mit den Mitteln effizient und effektiv umgehen
 * weiter Informationen sind auf der Homepage des [BAG](https://bag-coronavirus.ch/) zu finden
 
-**Sonstiges**
-
-* bedingt durch die Einschränkungen und zur Verringerung unserer Fixkosten beschränken wir unsere Flotte auf drei Flugzeuge. 
-* kein Headset-Verleih
-* Das Sekretariat bleibt unregelmässig besetzt. Der persönliche Kontakt ist zu meiden.
-* Kaffee und Getränke sind nicht verfügbar
-
 Besten Dank.
 
 Wir wünschen euch allem voran gute Gesundheit!
 
-Letztes Update: 15.06.2020 13:30
+Letztes Update: 18.06.2020 11:00
 
 <hr>
 
