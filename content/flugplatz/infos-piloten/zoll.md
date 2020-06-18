@@ -7,7 +7,8 @@ image: /img/uploads/bild_zoll.jpg
 description: >-
   Im Rahmen einer Sonderbewilligung der Eidgenössischen Zollverwaltung verfügt
   die Motorfluggruppe Thurgau über die Kompetenz, auf dem Flugplatz Lommis
-  Personenabfertigungen zu bewilligen.
+  Personenabfertigungen zu bewilligen. Aufgrund Covid-19 unbedingt die Situation
+  im Zielland vor dem Abflug klären und sorgfältig vorbereiten.
 buttons:
   - cta: true
     title: Zoll-Formular
