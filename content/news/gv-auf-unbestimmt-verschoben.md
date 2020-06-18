@@ -28,11 +28,9 @@ Der aktuelle Betrieb ist aber an Bedingungen geknüpft. Die entsprechenden Unter
 Darin werden für alle Benutzer des Platzes folgende Punkte geregelt:
 
 * Benutzung des Platzes
-* Flüge mit Personen, die im gleichen Haushalt leben
 * Passagierflüge
 * Schulflüge
 * Benutzung Theorieraum
-* Benutzungspauschale
 
 Die Erfassung von Start und Landung können die Piloten über folgenden [Link](https://flights.lszt.ch) auch ausserhalb des Clubhauses erledigen.
 
