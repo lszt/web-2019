@@ -35,7 +35,7 @@ Dagmar Hollerer, Fluglehrerin, +41 78 684 30 60, <mailto:hollerer@bluemail.ch >
 
 **Ort**
 
-Flugplatz Lommis, Theoriesaal 
+Flugplatz Lommis, Theoriesaal
 
 **Theoriematerial**
 
