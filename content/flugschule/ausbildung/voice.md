@@ -10,9 +10,12 @@ description: >-
   Basiskenntnisse in englischer Sprache.
 buttons:
   - cta: false
-    title: kursprogramm
+    title: kursprogramm 2020
     url: >-
       https://drive.google.com/file/d/10okHqTf76PnC0117CW04TI4FZIhBU0NJ/view?usp=sharing
+  - title: kursprogramm 2021
+    url: >-
+      https://drive.google.com/file/d/1bqk6AZbt0iWx1InGJz9U8bFvY4mLSh-j/view?usp=sharing
   - cta: true
     title: anmelden
     url: >-
@@ -24,7 +27,7 @@ Der Besuch der ersten beiden Kursdaten ist oligatorisch (im Kursprogamm lila dar
 
 Bei mehr als 5 Teilnehmern finden die Praxisblöcke jeweils in zwei Gruppen am gleichen Tag zu unterschiedlichen Zeiten statt (im Kursprogamm rot und rosa dargetellt). Die Gruppeneinteilung wird am ersten Kurstag festgelegt.
 
-Weitere Details siehe [Kursprogramm](https://drive.google.com/file/d/10okHqTf76PnC0117CW04TI4FZIhBU0NJ/view?usp=sharing).
+Weitere Details siehe [Kursprogramm 2020](https://drive.google.com/file/d/10okHqTf76PnC0117CW04TI4FZIhBU0NJ/view?usp=sharing) oder [Kursprogramm 2021](https://drive.google.com/file/d/1bqk6AZbt0iWx1InGJz9U8bFvY4mLSh-j/view?usp=sharing).
 
 **Kursleiterin**
 
