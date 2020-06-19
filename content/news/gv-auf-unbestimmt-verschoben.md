@@ -22,10 +22,10 @@ Der Flugplatz ist unter Einhaltung der nachfolgenden Schutzmassnahmen für Passa
 Der aktuelle Betrieb ist aber an Bedingungen geknüpft. Die entsprechenden Unterlagen sind unter folgenden Links zu finden:
 
 [Massnahmenplan]
-https://drive.google.com/file/d/16wUyLreaHuhhJZEPXMij6vkBXbacyhN1/view?usp=sharing
+(https://drive.google.com/file/d/16wUyLreaHuhhJZEPXMij6vkBXbacyhN1/view?usp=sharing)
 
 [Schulungs-Schutzkonzept]
-https://drive.google.com/file/d/178PiOszPaZQrBvS-6jVMFfo8hnYZcsNg/view?usp=sharing
+(https://drive.google.com/file/d/178PiOszPaZQrBvS-6jVMFfo8hnYZcsNg/view?usp=sharing)
 
 Darin werden für alle Benutzer des Platzes folgende Punkte geregelt:
 
