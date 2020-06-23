@@ -90,6 +90,10 @@ Rita's Flugplatzbeizli
 
 Rita's Flugplatzbeizli
 
+### 14. / 15.08.2021 | 75 Jahre MFGT
+
+Flugplatz Lommis
+
 <hr>
 
 Fehlen Anlässe oder sind Termine falsch?
