@@ -18,10 +18,6 @@ Rita's Flugplatzbeizli
 
 Flugplatz Lommis | [Anmeldung](https://doodle.com/poll/3ndsw4psmiyay2u7)
 
-### 04./05.07.2020 | Fly Away Flugschule MFGT
-
-[Anmeldung](https://doodle.com/poll/z4by2mfubv34ne72) und [Info's](mailto:andre.heinzelmann@mfgt.ch)
-
 ### 12.07. - 25.07.2020 | SPHAIR Kurs 3 (Aquila)
 
 Flugplatz Lommis
@@ -90,7 +86,15 @@ Rita's Flugplatzbeizli
 
 Rita's Flugplatzbeizli
 
-### 14. / 15.08.2021 | 75 Jahre MFGT
+### 26.03.2021 | 19:00 | Generalversammlung 2021 der MFGT
+
+MZH Lommis
+
+### 27.03.2021 | 08:00 | Flugplatzputzete
+
+Flugplatz Lommis
+
+### 14./15.08.2021 | 75 Jahre MFGT
 
 Flugplatz Lommis
 
