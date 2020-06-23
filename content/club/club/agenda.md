@@ -22,15 +22,11 @@ Flugplatz Lommis | [Anmeldung](https://doodle.com/poll/3ndsw4psmiyay2u7)
 
 [Anmeldung](https://doodle.com/poll/z4by2mfubv34ne72) und [Info's](mailto:andre.heinzelmann@mfgt.ch)
 
-### 11.07.2020 | 10 Jahre Rita's Flugplatzbeizli
-
-Rita's Flugplatzbeizli
-
 ### 12.07. - 25.07.2020 | SPHAIR Kurs 3 (Aquila)
 
 Flugplatz Lommis
 
-### 26.7. - 08.08.2020 | SPHAIR Kurs 4 (Aquila)
+### 26.7. - 08.08.2020 | SPHAIR Kurs 4 (Robin)
 
 Flugplatz Lommis
 
