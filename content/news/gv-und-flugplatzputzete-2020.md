@@ -1,8 +1,7 @@
 ---
 title: GV und Flugplatzputzete 2020
 date: '2020-06-10T21:11:17+02:00'
-endDate: '2020-06-10T22:20:00+02:00'
-draft: false
+draft: true
 image: /img/uploads/ausbildung_luftaufnahme.jpg
 positionx: 50
 positiony: 50
