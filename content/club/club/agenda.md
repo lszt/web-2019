@@ -6,18 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 23.06.2020 | 19:00 | Generalversammlung 2020 der MFGT
-
-online | [Anmeldung](https://doodle.com/poll/3ndsw4psmiyay2u7)
-
-### 26.06.2020 | 18:30 | Clubhöck
-
-Rita's Flugplatzbeizli
-
-### 27.06.2020 | 08:00 | Flugplatzputzete
-
-Flugplatz Lommis | [Anmeldung](https://doodle.com/poll/3ndsw4psmiyay2u7)
-
 ### 12.07. - 25.07.2020 | SPHAIR Kurs 3 (Aquila)
 
 Flugplatz Lommis
