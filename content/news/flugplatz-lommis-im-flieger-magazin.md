@@ -1,7 +1,7 @@
 ---
 title: Flugplatz Lommis im "flieger magazin"
 date: '2020-03-02T16:39:35+01:00'
-draft: false
+draft: true
 image: /img/uploads/news_fliegermagazin.jpg
 positionx: 50
 positiony: 50
