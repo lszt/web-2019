@@ -1,7 +1,7 @@
 ---
 title: 'Verlängerung Ratings, LPC und Medical'
 date: '2020-04-02T14:08:10+02:00'
-draft: false
+draft: true
 image: /img/uploads/licence.jpg
 positionx: 50
 positiony: 50
