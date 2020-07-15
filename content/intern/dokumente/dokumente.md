@@ -8,6 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 15.07.2020 | HB-KLA/AFM | [Flughandbuch](https://drive.google.com/drive/folders/1bP0JXNkbXNqzEyUr58vg8QJZBE1NphHr) | aktualisiert
 * 18.05.2020 | Allgemein/Flugschule/Kontrollflug | [Kontrollflugprogramm](https://drive.google.com/open?id=1Wqz-KxUWY42l8eUYv19BnBu1uk8E_w3O) | aktualisiert
 * 18.05.2020 | Allgemein/Flugschule/Kontrollflug | [Kontrollflug-Formular](https://drive.google.com/open?id=1MHBDEtrOsLJOpcDxQ--de1Yp4qYYLZ6x) | aktualisiert
 * 18.05.2020 | Allgemein/Flugschule/Kontrollflug | [Documents on Board](https://drive.google.com/open?id=1nJmiKO2kE_L6WmRN-Z4AW8r3Z_MxseAd) | hinzugefügt
