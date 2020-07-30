@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 12.07. - 25.07.2020 | SPHAIR Kurs 3 (Aquila)
-
-Flugplatz Lommis
-
 ### 26.7. - 08.08.2020 | SPHAIR Kurs 4 (Robin)
 
 Flugplatz Lommis
