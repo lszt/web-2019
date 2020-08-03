@@ -1,7 +1,7 @@
 ---
 title: Flugverbot für Drohnen
 date: '2019-07-01T17:21:45+02:00'
-draft: false
+draft: true
 image: /img/uploads/drohnenkarte.jpg
 positionx: 50
 positiony: 50
