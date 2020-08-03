@@ -1,7 +1,7 @@
 ---
 title: Hangarplatz zu vermieten
 date: '2020-06-03T16:04:10+02:00'
-draft: true
+draft: false
 image: /img/uploads/bild_hangar.jpg
 positionx: 50
 positiony: 50
