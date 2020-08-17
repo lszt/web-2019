@@ -1,7 +1,7 @@
 ---
 title: Neue Kurse 2020
 date: '2020-02-06T13:37:57+01:00'
-draft: false
+draft: true
 image: /img/uploads/ausbildung_praktische_ausbildung.jpg
 positionx: 50
 positiony: 50
