@@ -13,6 +13,10 @@ buttons:
     url: >-
       https://drive.google.com/file/d/1eTpCSaORA0WAuzCItSd74ISC02X-qwC8/view?usp=sharing
 ---
+Ein **Pinch Hitter**, abgekürzt PH (de.: Einwechsel-Batter), ist im Baseball ein Reservespieler, der nicht von Anfang an in der Schlagreihenfolge eingeteilt ist, aber einen Mitspieler ersetzt, der eigentlich laut Reihenfolge als nächster Batter vorgesehen wäre.
+
+
+
 Der Pinch Hitter Kurs richtet sich an alle Personen die häufiger in Kleinflugzeugen mitfliegen und die Möglichkeit wahrnehmen wollen, im Notfall das Flugzeug sicher landen zu könne.
 
 **Die Kursinhalte sind unter anderem:**
@@ -28,5 +32,3 @@ Die notwendigen Fertigkeiten werden dem Kursteilnehmer in kurzen theoretischen B
 **Ansprechpartner:**
 
 Markus Schnyder, <mailto:markus.schnyder@mfgt.ch> +41 76 680 19 38
-
-_Ein **Pinch Hitter**, abgekürzt PH (de.: Einwechsel-Batter), ist im Baseball ein Reservespieler, der nicht von Anfang an in der Schlagreihenfolge eingeteilt ist, aber einen Mitspieler ersetzt, der eigentlich laut Reihenfolge als nächster Batter vorgesehen wäre._
