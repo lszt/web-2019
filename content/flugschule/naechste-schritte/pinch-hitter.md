@@ -3,7 +3,7 @@ title: Pinch Hitter
 date: '2020-08-17T15:20:31+02:00'
 draft: false
 weight: '3'
-image: /img/uploads/slider_flugschule_2.jpg
+image: /img/uploads/ausbildung_aquila.jpg
 description: >-
   Es ist schon ein gutes Gefühl, wenn Frau/Mann im Flugzeug mitfliegt und weiss,
   dass Sie/Er im Notfall das Steuer übernehmen und das Flugzeug landen könnte.
@@ -15,7 +15,7 @@ buttons:
 ---
 Ein **Pinch Hitter**, abgekürzt PH (de.: Einwechsel-Batter), ist im Baseball ein Reservespieler, der nicht von Anfang an in der Schlagreihenfolge eingeteilt ist, aber einen Mitspieler ersetzt, der eigentlich laut Reihenfolge als nächster Batter vorgesehen wäre.
 
-
+<hr>
 
 Der Pinch Hitter Kurs richtet sich an alle Personen die häufiger in Kleinflugzeugen mitfliegen und die Möglichkeit wahrnehmen wollen, im Notfall das Flugzeug sicher landen zu könne.
 
