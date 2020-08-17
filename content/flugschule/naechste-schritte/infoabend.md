@@ -2,6 +2,7 @@
 title: Infoanlass
 date: 2019-04-14T10:51:24.000Z
 draft: false
+weight: '1'
 image: /img/uploads/bild_infoanlass.jpg
 description: >-
   Interessierst Du Dich für eine Ausbildung zum Privatpiloten und für eine
