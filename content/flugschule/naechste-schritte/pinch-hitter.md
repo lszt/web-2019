@@ -2,7 +2,7 @@
 title: Pinch Hitter
 date: '2020-08-17T15:20:31+02:00'
 draft: false
-weight: '3'
+weight: ''
 image: /img/uploads/ausbildung_aquila.jpg
 description: >-
   Es ist schon ein gutes Gefühl, wenn Frau/Mann im Flugzeug mitfliegt und weiss,
