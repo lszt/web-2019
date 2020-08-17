@@ -1,7 +1,7 @@
 ---
 title: Pinch Hitter
 date: '2020-08-17T15:20:31+02:00'
-draft: true
+draft: false
 weight: '3'
 image: /img/uploads/slider_flugschule_2.jpg
 description: >-
@@ -15,7 +15,7 @@ buttons:
 ---
 Der Pinch Hitter Kurs richtet sich an alle Personen die häufiger in Kleinflugzeugen mitfliegen und die Möglichkeit wahrnehmen wollen, im Notfall das Flugzeug sicher landen zu könne.
 
-## Die Kursinhalte sind unter anderem:
+**Die Kursinhalte sind unter anderem:**
 
 * praxisbezogene Theorieblöcke
 * erarbeiten der praktischen Grundlagen
@@ -25,6 +25,8 @@ Der Pinch Hitter Kurs richtet sich an alle Personen die häufiger in Kleinflugze
 
 Die notwendigen Fertigkeiten werden dem Kursteilnehmer in kurzen theoretischen Blöcken, im Simulator und natürlich im praktischen Flug vermittelt. Je nach Fortschritt und Bedarf wird das Programm individuell angepasst.
 
-## Ansprechpartner:
+**Ansprechpartner:**
 
-Markus Schnyder markus.schnyder@mfgt.ch 076 680 19 38
+Markus Schnyder, <mailto:markus.schnyder@mfgt.ch> +41 76 680 19 38
+
+_Ein **Pinch Hitter**, abgekürzt PH (de.: Einwechsel-Batter), ist im Baseball ein Reservespieler, der nicht von Anfang an in der Schlagreihenfolge eingeteilt ist, aber einen Mitspieler ersetzt, der eigentlich laut Reihenfolge als nächster Batter vorgesehen wäre._
