@@ -6,14 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 15.08.2020 | 09:00 | YES-Tag
-
-Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
-
-### 22.08.2020 | 09:00 | Reservedatum YES-Tag
-
-Flugplatz Lommis
-
 ### 28.08.2020 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
@@ -21,6 +13,10 @@ Rita's Flugplatzbeizli
 ### 29.08.2020 | Jungbürgerfeier Lommis
 
 Flugplatz Lommis
+
+### 29.08.2020 | AeCOS Fly-In Saanen
+
+Flugplatz Saanen | [Anmeldung] (https://aecos.ch/component/icagenda/73-aecos-fly-in-flugplatz-saanen?Itemid=1992)
 
 ### 12.09.2020 | 09:00 | Infoanlass der Flugschule
 
