@@ -10,10 +10,6 @@ buttons: []
 
 Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
-### 19.09.2020 | Platzunterhalt
-
-Flugplatz Lommis
-
 ### 23.09.2020 | 19:00 - 21:30 | Theorie Sicherheitstraining
 
 Theorieraum Lommis
@@ -37,6 +33,10 @@ Flugplatz Lommis
 ### 30.10.2020 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
+
+### 31.10.2020 | Platzunterhalt
+
+Flugplatz Lommis
 
 ### 27.11.2020 | 18:30 | Clubhöck
 
