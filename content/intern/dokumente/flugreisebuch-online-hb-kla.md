@@ -8,7 +8,7 @@ buttons:
   - blank: true
     cta: true
     title: Login
-    url: 'https://odch-aircraft-logbook-prod.firebaseapp.com/organizations/mfgt'
+    url: 'https://app.vuela.aero/organizations/mfgt'
 coverImages: []
 ---
 
