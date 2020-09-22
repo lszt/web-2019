@@ -8,7 +8,7 @@ buttons: []
 ---
 ### 23.09.2020 | 19:00 - 21:30 | Theorie Sicherheitstraining
 
-Theorieraum Lommis
+### <font color="red">Abgesagt!</font>
 
 ### 25.09.2020 | 18:30 | Clubhöck
 
@@ -16,11 +16,11 @@ Rita's Flugplatzbeizli
 
 ### 26.09.2020 | 08:30 | Sicherheitstraining
 
-Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
+### <font color="red">Abgesagt!</font>
 
 ### 27.09.2020 | 10:30 | Reservedatum Sicherheitstraining
 
-Flugplatz Lommis
+### <font color="red">Abgesagt!</font>
 
 ### 04.10. - 17.10.2020 | SPHAIR Kurs 5 (Aquila)
 
