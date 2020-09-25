@@ -1,5 +1,5 @@
 ---
-title: Flugreisebuch online - HB-KLA
+title: Flugreisebuch online
 date: '2019-12-29T16:57:37+01:00'
 draft: false
 image: /img/uploads/bild_infoanlass.jpg
@@ -8,7 +8,7 @@ buttons:
   - blank: true
     cta: true
     title: Login
-    url: 'https://app.vuela.aero/organizations/mfgt'
+    url: 'https://odch-aircraft-logbook-prod.firebaseapp.com/organizations/mfgt'
 coverImages: []
 ---
 
