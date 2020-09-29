@@ -18,6 +18,10 @@ Rita's Flugplatzbeizli
 
 Flugplatz Lommis
 
+### 11.2020 | Fondue-Plausch
+
+### <font color=red>Abgesagt!</font>
+
 ### 27.11.2020 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
