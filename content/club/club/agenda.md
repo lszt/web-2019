@@ -6,21 +6,9 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 23.09.2020 | 19:00 - 21:30 | Theorie Sicherheitstraining
-
-### <font color="red">Abgesagt!</font>
-
 ### 25.09.2020 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
-
-### 26.09.2020 | 08:30 | Sicherheitstraining
-
-### <font color="red">Abgesagt!</font>
-
-### 27.09.2020 | 10:30 | Reservedatum Sicherheitstraining
-
-### <font color="red">Abgesagt!</font>
 
 ### 04.10. - 17.10.2020 | SPHAIR Kurs 5 (Aquila)
 
