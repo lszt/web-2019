@@ -1,7 +1,7 @@
 ---
 title: Sicherheitstraining 2020
 date: '2020-09-22T16:04:10+02:00'
-draft: false
+draft: true
 image: /img/uploads/bild_akro.jpg
 positionx: 50
 positiony: 50
