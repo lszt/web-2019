@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 25.09.2020 | 18:30 | Clubhöck
-
-Rita's Flugplatzbeizli
-
 ### 04.10. - 17.10.2020 | SPHAIR Kurs 5 (Aquila)
 
 Flugplatz Lommis
