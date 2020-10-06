@@ -8,6 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 06.10.2020 | Allgemein/Charter | [Reservation Clubflugzeuge für mehrtägige Reisen] (https://drive.google.com/file/d/1auVVBVUwb5MCmHcez_vhsS8L_wqkmunK/view?usp=sharing) | aktualisiert
 * 30.09.2020 | Allgemein/Charter | [Anleitung Digitales Flugreisebuch] (https://drive.google.com/file/d/1QcQCY2CFnFM9alrLb4cUAPESsGtXf80D/view?usp=sharing) | hinzugefügt
 * 15.07.2020 | HB-KLA/AFM | [Flughandbuch](https://drive.google.com/file/d/1BgttF0evePCDUFokpiqq4GCM6H9rD1FM/view?usp=sharing) | aktualisiert
 * 18.05.2020 | Allgemein/Flugschule/Kontrollflug | [Kontrollflugprogramm](https://drive.google.com/open?id=1Wqz-KxUWY42l8eUYv19BnBu1uk8E_w3O) | aktualisiert
