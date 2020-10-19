@@ -12,7 +12,7 @@ buttons:
   - cta: false
     title: kursprogramm
     url: >-
-      https://drive.google.com/file/d/1XrzVGTW-VouyvmnK_Bmm3FcvGsUCQ15S/view?usp=sharing
+      https://drive.google.com/file/d/146XbbKIaPrVdPsAcEc0aw8Ia4D9GM_up/view?usp=sharing
   - cta: true
     title: anmelden
     url: >-
@@ -36,7 +36,7 @@ Die 9 Theorieprüfungen können auf maximal 6 Sessionen aufgeteilt werden. Im Ku
 Du kannst dir das theoretische Wissen auch online erwerben. Du wirst von Spezialisten betreut und in einem abschliessenden Präsenzkurs optimal auf die Prüfung vorbereitet. \
 [Weitere Informationen zum Distance Learning](https://www.swisspsa.ch/index.php/fernunterricht-neu/einleitung-mobile)
 
-Weitere Details sowie Kosten siehe [AGB](https://drive.google.com/file/d/1iF-XZ-CfMZVE1tXJXf4WRGbm4CRAZv92/view?usp=sharing) und [Kursprogramm](https://drive.google.com/file/d/1XrzVGTW-VouyvmnK_Bmm3FcvGsUCQ15S/view?usp=sharing).
+Weitere Details sowie Kosten siehe [AGB](https://drive.google.com/file/d/1iF-XZ-CfMZVE1tXJXf4WRGbm4CRAZv92/view?usp=sharing) und [Kursprogramm](https://drive.google.com/file/d/146XbbKIaPrVdPsAcEc0aw8Ia4D9GM_up/view?usp=sharing).
 
 **Kursleiterin:**
 
