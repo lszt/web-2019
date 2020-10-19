@@ -6,8 +6,8 @@ image: /img/uploads/covid_19.jpg
 positionx: 50
 positiony: 50
 description: >-
-  Geschätzte Mitglieder, bedingt durch die Lockerungen im Umgang mit Covid-19
-  des BAG, machen auch wir folgende Schritte:
+  Geschätzte Mitglieder, wir haben die Coronamassnahmen auf dem Platz und in den
+  Flugzeugen den aktuellen Erfordernissen anpassen müssen:
 buttons:
   - blank: true
     cta: true
@@ -45,20 +45,24 @@ Für Kontakt bitte E-Mail an:
 
 **Hygienevorschriften Covid-19**
 
-* 2m Minimalabstand überall auf dem Platz
-* Bei Schulflügen, Rundflügen und Flügen mit PAX gilt per sofort: Fordert jemand Schutzmasken, sind alle Insassen zum Tragen der Maske verpflichtet
-* Desinfektionsmittel für Hände wenn möglich selber mitnehmen, diese stehen nur beschränkt zur Verfügung
-* Die gemeinsamen Headsets können wieder verwendet werden, jedoch ohne Schaumstoffhülle des Mikrofones. Vor und nach dem Gebrauch sind sie zu desinfizieren.
+* im Briefingraum gilt eine Maskenpflicht und eine maximale Anzahl von 5 Personen
+* im Theorieraum gilt Maskenpflicht, sofern der Mindestabstand nicht eingehalten werden kann. Bei Eintritt zu Kürzi muss die Maske getragen werden
+* in den Flugzeugen können wir den Mindestabstand nicht einhalten. Hier gilt nach wie vor die Maskenpflicht für alle Insassen, sofern nicht alle im gleichen Haushalt wohnen
+* Desinfektionsmittel für Hände, wenn möglich selber mitnehmen, diese stehen nur beschränkt zur Verfügung
+* Die gemeinsamen Headsets können wiederverwendet werden, jedoch ohne Schaumstoffhülle des Mikrofones. Vor und nach dem Gebrauch sind sie zu desinfizieren.
 * vor jeder Benutzung Flächen, Tastaturen an den PC's, usw. desinfizieren
-* Zur Desinfektion des Flugzeugs steht an der Tankstelle eine Box parat
+* die Desinfizierung der Oberflächen in den Flugzeugen und der Gegenstände, die ihr anfasst, muss wieder konsequent eingehalten werden. Zur Desinfektion des Flugzeugs steht an der Tankstelle eine Box parat
 * bitte mit den Mitteln effizient und effektiv umgehen
+* wir bitten euch, Personenansammlungen zu vermeiden und auch unsere Mitarbeiter nur wenn nötig persönlich zu treffen
+* den Spielplatz halten wir weiterhinauf zusehen offen. Sollten sich zu viele Menschen dort aufhalten, werden wir ihn wieder schliessen
+* das Restaurant bleibt offen, auch hier gilt Maskenpflicht, sofern nicht am Tisch sitzend und konsumierend
 * weiter Informationen sind auf der Homepage des [BAG](https://bag-coronavirus.ch/) zu finden
 
 Besten Dank.
 
 Wir wünschen euch allem voran gute Gesundheit!
 
-Letztes Update: 18.06.2020 11:00
+Letztes Update: 19.10.2020 20:10
 
 <hr>
 
