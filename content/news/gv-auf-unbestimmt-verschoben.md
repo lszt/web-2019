@@ -13,7 +13,7 @@ buttons:
     cta: true
     title: flyer BAG
     url: >-
-      https://drive.google.com/file/d/1lw2g8XIA9TxAh4oYS8WngyX2BgVkokv-/view?usp=sharing
+      https://drive.google.com/file/d/1fbiOcnEV6MErRHniGt4p0Re7Ytr1JC0-/view?usp=sharing
 ---
 **Flug- und Flugplatz-Betrieb in Lommis**
 
