@@ -9,6 +9,6 @@ description: >-
   Die notwendigen Fertigkeiten werden in diesem Kurs vermittelt.
 buttons:
   - title: mehr
-    url: /flugschule-nachste-schritte/entries/pinch-hitter
+    url: /flugschule/naechste-schritte/pinch-hitter/
 ---
 
