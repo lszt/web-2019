@@ -12,6 +12,10 @@ buttons:
   - title: kursprogramm
     url: >-
       https://drive.google.com/file/d/1eTpCSaORA0WAuzCItSd74ISC02X-qwC8/view?usp=sharing
+  - cta: true
+    title: anmelden
+    url: >-
+      https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform
 ---
 Ein **Pinch Hitter**, abgekürzt PH (de.: Einwechsel-Batter), ist im Baseball ein Reservespieler, der nicht von Anfang an in der Schlagreihenfolge eingeteilt ist, aber einen Mitspieler ersetzt, der eigentlich laut Reihenfolge als nächster Batter vorgesehen wäre.
 
