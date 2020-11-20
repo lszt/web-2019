@@ -2,10 +2,8 @@
 title: Refresherkurse
 date: '2019-05-09T16:55:53+02:00'
 draft: false
-weight: '7'
+weight: '8'
 image: /img/uploads/club_refresher.jpg
-positionx: 50
-positiony: 50
 description: >-
   Nutze die Gelegenheit und besuche unsere Refresherkurse zu diversen Themen wie
   Safety, Zollformalitäten, Rechtliches usw.\
@@ -13,7 +11,6 @@ description: >-
   Infos jeweils per Newsletter oder in der Agenda.
 buttons:
   - title: agenda
-    url: '/club/club/agenda/'
-    blank: false
+    url: /club/club/agenda/
 ---
 
