@@ -10,6 +10,9 @@ description: >-
 buttons:
   - title: mehr
     url: /flugschule/naechste-schritte/pinch-hitter/
+  - title: kursprogramm
+    url: >-
+      https://drive.google.com/file/d/1eTpCSaORA0WAuzCItSd74ISC02X-qwC8/view?usp=sharing
   - cta: true
     title: anmelden
     url: >-
