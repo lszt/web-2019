@@ -2,7 +2,7 @@
 title: YES-Tag für Jugendliche
 date: '2019-05-09T16:46:49+02:00'
 draft: false
-weight: '8'
+weight: '2'
 image: /img/uploads/club_jugend.jpg
 description: >-
   Aviatikluft schnuppern und das Steuer in die Hand nehmen!\
