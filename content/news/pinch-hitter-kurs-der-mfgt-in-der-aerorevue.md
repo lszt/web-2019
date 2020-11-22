@@ -9,7 +9,7 @@ description: >-
   In der AeroRevue 11/2020 wurde ein Artikel zu unserem Pinch-Hitter-Kurs
   veröffentlicht.
 buttons:
-  - title: bericht
+  - title: mehr
     url: /club/berichte/pinch-hitter-kurs-bei-der-mfgt/
 ---
 
