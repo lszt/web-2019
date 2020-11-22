@@ -1,7 +1,7 @@
 ---
 title: Infovideo für chinesische Touristen
 date: '2020-08-17T15:44:26+02:00'
-draft: false
+draft: true
 image: /img/uploads/werbevideo_chinesisch.jpg
 positionx: 50
 positiony: 50
