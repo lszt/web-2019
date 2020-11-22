@@ -6,5 +6,9 @@ image: /img/uploads/pinch_hitter_01.jpg
 description: >-
   In der AeroRevue 11/2020 wurde ein Bericht zu unserem Pinch-Hitter-Kurs
   veröffentlicht.
+buttons:
+  - title: bericht
+    url: >-
+      https://drive.google.com/file/d/1Ll11EbHfCpLxkJFKmb5bjvwO2QtuEUJ3/view?usp=sharing
 ---
 
