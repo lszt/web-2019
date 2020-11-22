@@ -14,10 +14,6 @@ buttons: []
 
 Rita's Flugplatzbeizli
 
-### 25.12.2020 | 18:30 | Clubhöck
-
-Rita's Flugplatzbeizli
-
 ### 26.03.2021 | 19:00 | Generalversammlung 2021 der MFGT
 
 MZH Lommis
