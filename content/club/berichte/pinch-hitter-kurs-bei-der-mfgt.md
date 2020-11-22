@@ -5,7 +5,7 @@ draft: false
 weight: '1'
 image: /img/uploads/pinch_hitter_01.jpg
 description: >-
-  In der AeroRevue 02/2020 wurde ein Bericht zu unserem Pinch-Hitter-Kurs
+  In der AeroRevue 11/2020 wurde ein Bericht zu unserem Pinch-Hitter-Kurs
   veröffentlicht.
 buttons:
   - title: bericht
