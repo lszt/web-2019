@@ -10,6 +10,6 @@ description: >-
   veröffentlicht.
 buttons:
   - title: bericht
-    url: /club/berichte/
+    url: /club/
 ---
 
