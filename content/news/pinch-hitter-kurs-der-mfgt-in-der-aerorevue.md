@@ -10,6 +10,6 @@ description: >-
   veröffentlicht.
 buttons:
   - title: bericht
-    url: /club/
+    url: /club/berichte/pinch-hitter-kurs-bei-der-mfgt/
 ---
 
