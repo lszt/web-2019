@@ -29,4 +29,4 @@ Erleichterung nach der erfolgreich absolvierten Landung.
 
 Zum Schluss erhält die/der TeilnehmerIn ein Zertifikat mit Bestätigung des Absolvierten Kurses.
 
-Bei Interesse sind weitere Information [hier] () zu finden.
+Bei Interesse sind weitere Information [hier] (/flugschule/naechste-schritte/pinch-hitter/) zu finden.
