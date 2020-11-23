@@ -3,7 +3,7 @@ title: Pinch Hitter
 date: '2020-08-17T15:20:31+02:00'
 draft: false
 weight: '3'
-image: /img/uploads/ausbildung_aquila.jpg
+image: /img/uploads/pinch_hitter_03.jpg
 description: >-
   Es ist schon ein gutes Gefühl, wenn Frau/Mann im Flugzeug mitfliegt und weiss,
   dass Sie/Er im Notfall das Steuer übernehmen und das Flugzeug landen könnte.
@@ -35,4 +35,4 @@ Die notwendigen Fertigkeiten werden dem Kursteilnehmer in kurzen theoretischen B
 
 **Ansprechpartner:**
 
-Markus Schnyder, <mailto:markus.schnyder@mfgt.ch> +41 76 680 19 38
+Markus Schnyder, <mailto:markus.schnyder@mfgt.ch> +41 79 680 19 38
