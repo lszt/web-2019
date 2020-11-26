@@ -8,6 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 26.11.2020 | HB-SGT/HB-SGU/Checklist | [Checkliste Aquila] (https://drive.google.com/file/d/167KZCNrE-QkCMhoGO7Bx5vYNTcZQPoPv/view?usp=sharing) | aktualisiert
 * 04.11.2020 | Allgemein/Charter | [Fliegen über die Wintermonate](https://drive.google.com/file/d/1DtWNfvKCjlgSmEfxhlReC2Gcr6wHW0tk/view?usp=sharing) | aktualisiert
 * 06.10.2020 | Allgemein/Charter | [Reservation Clubflugzeuge für mehrtägige Reisen](https://drive.google.com/file/d/1auVVBVUwb5MCmHcez_vhsS8L_wqkmunK/view?usp=sharing) | aktualisiert
 * 30.09.2020 | Allgemein/Charter | [Anleitung Digitales Flugreisebuch](https://drive.google.com/file/d/1QcQCY2CFnFM9alrLb4cUAPESsGtXf80D/view?usp=sharing) | hinzugefügt
