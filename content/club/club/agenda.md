@@ -6,14 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 11.2020 | Fondue-Plausch
-
-### <font color=red>Abgesagt!</font>
-
-### 27.11.2020 | 18:30 | Clubhöck
-
-Rita's Flugplatzbeizli
-
 ### 29.01.2021 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
