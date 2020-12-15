@@ -8,12 +8,7 @@ positiony: 50
 description: >-
   Seit letzter Woche hat das Clubhaus ein neues Türschliess-System. Der alte
   Fingerprintleser ist Geschichte.
-buttons:
-  - blank: true
-    cta: true
-    title: anleitung
-    url: >-
-      https://drive.google.com/file/d/1QCJZ6XB4pD8S1LdTvkm8mzXTcEC4-mLo/view?usp=sharing
+buttons: []
 ---
 Liebe MFGT-Mitglieder 
 
