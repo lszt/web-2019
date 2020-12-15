@@ -8,11 +8,7 @@ positiony: 50
 description: >-
   Der Testbetrieb des elektronischen Flugreisebuch wird per 01.10. auf allen
   Flugzeugen aktiviert.
-buttons:
-  - blank: true
-    cta: true
-    title: flugreisebuch
-    url: 'https://app.vuela.aero/organizations/mfgt'
+buttons: []
 ---
 Was bedeutet das:
 
