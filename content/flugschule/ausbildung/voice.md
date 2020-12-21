@@ -9,10 +9,6 @@ description: >-
   ausweisen. Dafür bieten wir über den Winter Kurse an. Voraussetzung sind
   Basiskenntnisse in englischer Sprache.
 buttons:
-  - cta: false
-    title: kursprogramm 2020
-    url: >-
-      https://drive.google.com/file/d/1ITLeBcIrEKwVYTbDet8xNAvWyAsLLG1L/view?usp=sharing
   - title: kursprogramm 2021
     url: >-
       https://drive.google.com/file/d/1jT7r_ENipSmGRkWBNxhsue7TQBE4YOhB/view?usp=sharing
@@ -27,7 +23,7 @@ Der Besuch der ersten beiden Kursdaten ist oligatorisch (im Kursprogamm lila dar
 
 Bei mehr als 5 Teilnehmern finden die Praxisblöcke jeweils in zwei Gruppen am gleichen Tag zu unterschiedlichen Zeiten statt (im Kursprogamm rot und rosa dargetellt). Die Gruppeneinteilung wird am ersten Kurstag festgelegt.
 
-Weitere Details siehe [Kursprogramm 2020](https://drive.google.com/file/d/1ITLeBcIrEKwVYTbDet8xNAvWyAsLLG1L/view?usp=sharing) oder [Kursprogramm 2021](https://drive.google.com/file/d/1jT7r_ENipSmGRkWBNxhsue7TQBE4YOhB/view?usp=sharing).
+[Kursprogramm 2021](https://drive.google.com/file/d/1jT7r_ENipSmGRkWBNxhsue7TQBE4YOhB/view?usp=sharing).
 
 **Kursleiterin**
 
