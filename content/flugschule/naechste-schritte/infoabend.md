@@ -20,12 +20,12 @@ Wir zeigen Dir, wie die Ausbildung aufgebaut ist, welche Voraussetzungen Du mitb
 
 Die nächsten Anlässe finden statt am:
 
-Samstag, 13.06.2020, 09:00
+Samstag, 15.05.2021, 09:00
 
-Samstag, 12.09.2020, 09:00
+Samstag, 04.09.2021, 09:00
 
 Theoriesaal Flugplatz Lommis
 
 Für Weitere Informationen wende dich bitte an <mailto:info@mfgt.ch>
 
-[Hier Flyer downloaden](https://drive.google.com/file/d/1NBcj1HdWNTPM8CtDNkUZJFhcafFhPpsD/view?usp=sharing)
+[Hier Flyer downloaden](https://drive.google.com/file/d/1wCFMoeZ4gytqnxossTqMpaid1Vq6-xX4/view?usp=sharing)
