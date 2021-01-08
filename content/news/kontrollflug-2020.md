@@ -1,12 +1,12 @@
 ---
-title: Kontrollflug 2020
+title: Kontrollflug 2021
 date: '2020-05-18T09:48:53+02:00'
 draft: false
 image: /img/uploads/ausbildung_praktische_ausbildung.jpg
 positionx: 50
 positiony: 50
 description: >-
-  Die aktuellen Dokumente für den Kontrollflug 2020 sind nun online. Bitte
+  Die aktuellen Dokumente für den Kontrollflug 2021 sind nun online. Bitte
   verwendet die aktuellen Unterlagen zur Vorbereitung und Durchführung eurer
   Flüge.
 ---
