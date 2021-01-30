@@ -12,17 +12,21 @@ buttons:
 Simulator
 
 Software
+
 * Windows 10
 * Prepar3D v5 (für Geländedarstellung)
 * ELITE XTS v9 (Flugzeug/Aerodynamik, Ansteuerung Avionics/Bedienelemente)
 
 Avionics
+
 * Module von Elite und RealSimGear
 
 Yoke
+
 * Force Feedback, Brunner Innovation
 
 Geländedarstellung
+
 * alle Landschaften, Flugplätze und Navigationseinrichtungen Europas
 * die Schweiz und Schweizer Flugplätze sind mit zusätzlichen Addons detailreich und realistisch eingebunden
 * Bodenoperation möglich
