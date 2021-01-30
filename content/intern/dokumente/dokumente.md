@@ -8,6 +8,8 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 30.01.2021 | VFR-Simulator | [Handbuch] (https://drive.google.com/file/d/11Ew3q8-Peim0IYKEKpJYUfL4uB_n1KOz/view?usp=sharing) | hinzugefügt
+* 30.01.2021 | VFR-Simulator | [Betriebskonzept] (https://drive.google.com/file/d/1ny5bcvHlCNwoFvoq-7rP2PWuG1qgL4uX/view?usp=sharing) | hinzugefügt
 * 26.11.2020 | HB-SGT/HB-SGU/Checklist | [Checkliste Aquila] (https://drive.google.com/file/d/167KZCNrE-QkCMhoGO7Bx5vYNTcZQPoPv/view?usp=sharing) | aktualisiert
 * 04.11.2020 | Allgemein/Charter | [Fliegen über die Wintermonate](https://drive.google.com/file/d/1DtWNfvKCjlgSmEfxhlReC2Gcr6wHW0tk/view?usp=sharing) | aktualisiert
 * 06.10.2020 | Allgemein/Charter | [Reservation Clubflugzeuge für mehrtägige Reisen](https://drive.google.com/file/d/1auVVBVUwb5MCmHcez_vhsS8L_wqkmunK/view?usp=sharing) | aktualisiert
