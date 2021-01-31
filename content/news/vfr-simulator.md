@@ -2,7 +2,7 @@
 title: VFR-Simulator
 date: '2021-01-30T17:36:05+01:00'
 draft: false
-image: /img/uploads/pinch_hitter_01.jpg
+image: /img/uploads/sim_1.jpg
 positionx: 50
 positiony: 50
 description: VFR-Simulator nimmt Betrieb auf
