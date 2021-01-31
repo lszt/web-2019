@@ -2,7 +2,7 @@
 title: HB-SIM
 date: '2021-01-30T17:56:16+01:00'
 draft: false
-image: /img/uploads/flotte_dummy.jpg
+image: /img/uploads/sim_1.jpg
 description: '**VFR-Simulator**'
 buttons:
   - cta: true
