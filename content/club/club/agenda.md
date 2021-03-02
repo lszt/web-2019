@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 26.02.2021 | 18:30 | Clubhöck
-
-Rita's Flugplatzbeizli
-
 ### 26.03.2021 | 19:00 | Generalversammlung 2021 der MFGT
 
 MZH Lommis
