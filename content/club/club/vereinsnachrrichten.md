@@ -14,6 +14,11 @@ buttons:
     url: >-
       https://drive.google.com/file/d/1oKwUh7uUmhBRYASxc06x7KOEwNLdE28J/view?usp=sharing
 ---
+**KONTAKT 174 - 2021**
+
+![](/img/uploads/bild_kontakt_2021.jpg)
+[Download 174 - 2020](https://drive.google.com/file/d/1uIgxggjtdrgSnbXxJwRuMLaxWy255I1q/view?usp=sharing)
+
 **KONTAKT 173 - 2020**
 
 ![](/img/uploads/bild_kontakt_2020.jpg)
