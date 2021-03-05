@@ -5,9 +5,9 @@ draft: false
 weight: '1'
 image: /img/uploads/bild_wasser.jpg
 description: |-
-  **Daniel Lutz**
+  **Jean-Claude Wasser**
 
   T +41 52 366 33 33\
-  [jean-claude.wasser@mfgt.ch](mailto:jean-claude.wasser@mfgt.ch)
+  <mailto:jean-claude.wasser@mfgt.ch>
 ---
 
