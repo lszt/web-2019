@@ -1,5 +1,5 @@
 ---
-title: Flugplatzleiter
+title: Flugplatzleitung
 date: '2019-05-10T15:48:56+02:00'
 draft: false
 weight: '1'
