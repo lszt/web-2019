@@ -8,9 +8,13 @@ buttons: []
 ---
 ### 26.03.2021 | 19:00 | Generalversammlung 2021 der MFGT
 
-MZH Lommis
+virtuell über ZOOM | [Anmeldung] (https://doodle.com/poll/wdfneyk67cu48byt?utm_source=poll&utm_medium=link)
 
 ### 27.03.2021 | 08:00 | Flugplatzputzete
+
+Flugplatz Lommis | [Anmeldung] (https://doodle.com/poll/dgh64yduqh2uyveh?utm_source=poll&utm_medium=link)
+
+### 04. - 17.04.2021 | SPHAIR Kurs 1 (Aquila)
 
 Flugplatz Lommis
 
@@ -20,21 +24,41 @@ Rita's Flugplatzbeizli
 
 ### 15.05.2021 | 09:00 | Infoanlass Flugschule
 
-Theoriesaal Flugplatz Lommis
+Theorieraum Flugplatz Lommis
 
 ### 28.05.2021 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
 
+### 08.06.2021 | 19:00 | Briefing Fly Away
+
+Theorieraum Flugplatz Lommis
+
+### 12. - 13.06.2021 | Fly Away Flugschle MFGT
+
+nach Wroclaw, Polen
+
+### 20.06. - 03.07.2021 | SPHAIR Kurs 2 (Aquila)
+
+Flugplatz Lommis
+
 ### 25.06.2021 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
+
+### 10. - 11.07.2021 | 10 Jahre Rita's Flugplatzbeizli
+
+Rita's Flugplatzbeizli
+
+### 18. - 31.07.2021 | SPHAIR Kurs 3 (Robin)
+
+Flugplatz Lommis
 
 ### 30.07.2021 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
 
-### 14./15.08.2021 | 75 Jahre MFGT
+### 13. - 15.08.2021 | Air Festival "75 Jahre MFGT"
 
 Flugplatz Lommis
 
@@ -42,13 +66,25 @@ Flugplatz Lommis
 
 Rita's Flugplatzbeizli
 
+### 28.08.2021 | Jungbürgerfeier Lommis
+
+Flugplatz Lommis
+
 ### 04.09.2021 | 09:00 | Infoanlass Flugschule
 
-Theoriesaal Flugplatz Lommis
+Theorieraum Flugplatz Lommis
+
+### 04. - 05.09.2021 | Flugfest Schmerlat
+
+Flugplatz Schmerlat
 
 ### 24.09.2021 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
+
+### 10. - 23.10.2021 | SPHAIR Kurs 4 (Aquila)
+
+Flugplatz Lommis
 
 ### 29.10.2021 | 18:30 | Clubhöck
 
