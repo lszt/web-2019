@@ -1,7 +1,7 @@
 ---
 title: Pinch-Hitter-Kurs der MFGT in der AeroRevue
 date: '2020-11-22T15:43:01+01:00'
-draft: false
+draft: true
 image: /img/uploads/pinch_hitter_01.jpg
 positionx: 50
 positiony: 50
