@@ -29,17 +29,12 @@ buttons:
 ![](/img/uploads/bild_kontakt_2019.jpg)
 [Download 172 - 2019](https://drive.google.com/a/mfgt.ch/file/d/1fFxHhohEl0UZIoJxo6pzYQk11M4gHPmi/view?usp=sharing)
 
-**KONTAKT 171 – 2018**
-
-![](/img/uploads/bild_kontakt_2018.jpg)
-[Download 171 - 2018](https://drive.google.com/a/mfgt.ch/file/d/1MowdujVOWUDSffqqXNsobCI31XhxrqOz/view?usp=sharing)
-
-**KONTAKT 170 – 2017**
-
-![](/img/uploads/bild_kontakt_2017.jpg)
-[Download 170 - 2017](https://drive.google.com/a/mfgt.ch/file/d/1ysmsMVpPK8_L2kfXvxtPNcOod8AbwA6J/view?usp=sharing)
 
 **ältere Ausgaben**
+
+[Download 171 - 2018](https://drive.google.com/a/mfgt.ch/file/d/1MowdujVOWUDSffqqXNsobCI31XhxrqOz/view?usp=sharing)
+
+[Download 170 - 2017](https://drive.google.com/a/mfgt.ch/file/d/1ysmsMVpPK8_L2kfXvxtPNcOod8AbwA6J/view?usp=sharing)
 
 [Download 169 - 2016](https://drive.google.com/file/d/1jeyKcIwEaoY6AAAprE6SWzCLk3GtwTAM/view?usp=sharing)
 
