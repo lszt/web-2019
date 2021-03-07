@@ -10,7 +10,7 @@ buttons: []
 
 virtuell über ZOOM | [Anmeldung] (https://doodle.com/poll/wdfneyk67cu48byt?utm_source=poll&utm_medium=link)
 
-### 27.03.2021 | 08:00 | Flugplatzputzete
+### 27.03.2021 | 08:30 | Flugplatzputzete
 
 Flugplatz Lommis | [Anmeldung] (https://doodle.com/poll/dgh64yduqh2uyveh?utm_source=poll&utm_medium=link)
 
