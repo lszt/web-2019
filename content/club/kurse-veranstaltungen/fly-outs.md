@@ -11,11 +11,11 @@ buttons:
   - title: agenda
     url: /club/club/agenda/
 ---
-### Fly Away am 4./5. Juli 2020
+### Fly Away am 12./13. Juni 2021
 
 **Witamy w polsce!** (Willlkommen in Polen)
 
-Die Details stehen fest: das diesjährige offizielle Fly Away der Flugschule der MFGT bringt uns nach Wroclaw EPWR in Polen. Die Route führt auf dem Hinweg über Karlovy Vary/Karlsbad LKKV (Tschechien) und auf dem Rückweg über Linz LOWL (Österreich). Selbstverständlich ist es den einzelnen Crews überlassen, welche Route sie fliegen oder ob sie die Gelegenheit für ein Flugplatz-Hopping nutzen. Die definierten Zwischenlandungen sollen in erster Linie dem Pilotenwechsel, dem gemeinsamen Mittagessen und ggfls. Fuel Stop dienen.
+Nach der coronabedingten Pause im letzten Jahr unternehmen wir nochmals einen Versuch: das diesjährige offizielle Fly Away der Flugschule der MFGT bringt uns nach Wroclaw EPWR in Polen. Die Route führt auf dem Hinweg über Karlovy Vary/Karlsbad LKKV (Tschechien) und auf dem Rückweg über Linz LOWL (Österreich). Selbstverständlich ist es den einzelnen Crews überlassen, welche Route sie fliegen oder ob sie die Gelegenheit für ein Flugplatz-Hopping nutzen. Die definierten Zwischenlandungen sollen in erster Linie dem Pilotenwechsel, dem gemeinsamen Mittagessen und ggfls. Fuel Stop dienen.
 
 Das Fly Away wird von 1-2 Fluglehrern begleitet und ist somit für alle Piloten geeignet, die die den Auslandflug mit all seinen Facetten erlernen oder auffrischen möchten. Oder aber einfach für all jene, die gerne wieder mal eine neue Destination kennenlernen und/oder mit Pilotenkollegen zwei gemütliche Tage verbringen möchten.
 
@@ -25,11 +25,13 @@ Das Fly Away wird von 1-2 Fluglehrern begleitet und ist somit für alle Piloten 
 * Flugpläne
 * Zollformalitäten und Airports of Entry (Tschechien, Polen, Österreich)
 * Anfliegen kontrollierte Flugplätze (Karlovy Vary, Wroclaw, Linz)
-* Sprechfunk
+* Sprechfunk (ATC, FIS)
 
 **Selbstverständlich kommt das Gemütliche nicht zu kurz!**
 
-Breslau an der Oder ist nicht nur eine wunderschöne Stadt mit vielen Sehenswürdigkeiten – die gemütliche Altstadt bietet für jeden etwas: viele leckere Restaurants mit lokaler und internationaler Küche und – wer mag – ein pulsierendes Nachtleben. Es sind alle 5 Clubmaschinen für das Fly Away reserviert: Alle drei Robins und die beiden Aquilas. Selbstverständlich können auch Piloten mit eigenen Flugzeugen teilnehmen.
+Breslau an der Oder ist nicht nur eine wunderschöne Stadt mit vielen Sehenswürdigkeiten – die gemütliche Altstadt bietet für jeden etwas: viele leckere Restaurants mit lokaler und internationaler Küche und – wer mag – ein pulsierendes Nachtleben. COVID-Lockerungen in der Gastronomie vorausgesetzt ...
+
+Es sind alle Clubmaschinen für das Fly Away reserviert: Alle drei Robins und die beiden Aquilas. Selbstverständlich können auch Piloten mit eigenen Flugzeugen teilnehmen.
 
 **Bist du noch Flugschüler?**
 
@@ -37,11 +39,14 @@ Es ist auch Flugschülern möglich mitzufliegen. Kontaktiere hierzu deinen Flugl
 
 **Obligatorisches Briefing**
 
-Am Mittwoch, 1. Juli findet im Theoriesaal in Lommis ab 19 Uhr das Briefing statt (unterstützt durch einen FI). Dieses ist für alle Teilnehmer obligatorisch und dauert erfahrungsgemäss ca. 2 Stunden. Bitte bereitet euch entsprechend vor. Für alle Fragen stehen der oder die Fluglehrer vor Ort zur Verfügung.
+Am Mittwoch, 8. Juni findet im Theorieraum in Lommis ab 19 Uhr das Briefing statt (unterstützt durch einen FI). Dieses ist für alle Teilnehmer obligatorisch und dauert erfahrungsgemäss ca. 2 Stunden. Bitte bereitet euch entsprechend vor. Für alle Fragen stehen der oder die Fluglehrer vor Ort zur Verfügung.
 
 **Anmeldung**
 
-Für die Planung bitten wir euch, bis spätestens 15. Juni 2020 via diesen [Link](https://doodle.com/poll/z4by2mfubv34ne72) anzumelden. 
+Für die Planung bitten wir euch, bis spätestens 30. April 2020 via diesen [Link] (https://doodle.com/poll/42ns3vkzy5bx4a7m?utm_source=poll&utm_medium=link) anzumelden. 
 Bitte um Angabe von Flugzeugpräferenz, Zimmerwahl und ob ein Bedarf an einem FI als "Safety Pilot" vorhanden ist (dies ist kostenlos, der FI muss dafür nicht bezahlt werden).
 
 Wir freuen uns auf eine rege Teilnahme!
+
+**Ansprechpartner**
+André Heinzelmann
