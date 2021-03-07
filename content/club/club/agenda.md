@@ -60,7 +60,7 @@ Rita's Flugplatzbeizli
 
 ### 13. - 15.08.2021 | Air Festival "75 Jahre MFGT"
 
-Flugplatz Lommis
+Flugplatz Lommis | [Info's] (https://www.airfestival21.ch)
 
 ### 27.08.2021 | 18:30 | Clubhöck
 
