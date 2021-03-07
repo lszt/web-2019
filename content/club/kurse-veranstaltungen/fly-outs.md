@@ -49,4 +49,4 @@ Bitte um Angabe von Flugzeugpräferenz, Zimmerwahl und ob ein Bedarf an einem FI
 Wir freuen uns auf eine rege Teilnahme!
 
 **Ansprechpartner**
-André Heinzelmann
+André Heinzelmann, <mailto:andre.heinzelmann@mfgt.ch>
