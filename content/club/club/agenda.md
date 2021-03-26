@@ -8,7 +8,7 @@ buttons: []
 ---
 ### 27.03.2021 | 08:30 | Flugplatzputzete
 
-Flugplatz Lommis | [Anmeldung](https://doodle.com/poll/dgh64yduqh2uyveh?utm_source=poll&utm_medium=link)
+<font color=red>**ABGESAGT!**</font>
 
 ### 04. - 17.04.2021 | SPHAIR Kurs 1 (Aquila)
 
