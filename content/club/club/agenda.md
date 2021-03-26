@@ -6,13 +6,9 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 26.03.2021 | 19:00 | Generalversammlung 2021 der MFGT
-
-virtuell über ZOOM | [Anmeldung] (https://doodle.com/poll/wdfneyk67cu48byt?utm_source=poll&utm_medium=link)
-
 ### 27.03.2021 | 08:30 | Flugplatzputzete
 
-Flugplatz Lommis | [Anmeldung] (https://doodle.com/poll/dgh64yduqh2uyveh?utm_source=poll&utm_medium=link)
+Flugplatz Lommis | [Anmeldung](https://doodle.com/poll/dgh64yduqh2uyveh?utm_source=poll&utm_medium=link)
 
 ### 04. - 17.04.2021 | SPHAIR Kurs 1 (Aquila)
 
@@ -60,7 +56,7 @@ Rita's Flugplatzbeizli
 
 ### 13. - 15.08.2021 | Air Festival "75 Jahre MFGT"
 
-Flugplatz Lommis | [Info's] (https://www.airfestival21.ch)
+Flugplatz Lommis | [Info's](https://www.airfestival21.ch)
 
 ### 27.08.2021 | 18:30 | Clubhöck
 
