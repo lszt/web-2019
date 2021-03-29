@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 27.03.2021 | 08:30 | Flugplatzputzete
-
-<font color=red>**ABGESAGT!**</font>
-
 ### 04. - 17.04.2021 | SPHAIR Kurs 1 (Aquila)
 
 Flugplatz Lommis
