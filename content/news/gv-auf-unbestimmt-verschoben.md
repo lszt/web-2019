@@ -21,11 +21,9 @@ Der Flugplatz ist unter Einhaltung der nachfolgenden Schutzmassnahmen für Passa
 
 Der aktuelle Betrieb ist aber an Bedingungen geknüpft. Die entsprechenden Unterlagen sind unter folgenden Links zu finden:
 
-[Massnahmenplan]
-(https://drive.google.com/file/d/1WrGfwP2haw55HeVnTko1A5x2hy_0q2kF/view?usp=sharing)
+[Massnahmenplan](https://drive.google.com/file/d/1WrGfwP2haw55HeVnTko1A5x2hy_0q2kF/view?usp=sharing)
 
-[Schulungs-Schutzkonzept]
-(https://drive.google.com/file/d/178PiOszPaZQrBvS-6jVMFfo8hnYZcsNg/view?usp=sharing)
+[Schulungs-Schutzkonzept](https://drive.google.com/file/d/178PiOszPaZQrBvS-6jVMFfo8hnYZcsNg/view?usp=sharing)
 
 Darin werden für alle Benutzer des Platzes folgende Punkte geregelt:
 
@@ -36,7 +34,7 @@ Darin werden für alle Benutzer des Platzes folgende Punkte geregelt:
 
 Die Erfassung von Start und Landung können die Piloten über folgenden [Link](https://flights.lszt.ch) auch ausserhalb des Clubhauses erledigen.
 
-Der FDL Dienst wurde am 16.05.2020 aufgenommen. Rundflüge werden wieder angeboten.
+Rundflüge werden wieder angeboten.
 
 Für Kontakt bitte E-Mail an:
 
@@ -55,14 +53,13 @@ Für Kontakt bitte E-Mail an:
 * bitte mit den Mitteln effizient und effektiv umgehen
 * wir bitten euch, Personenansammlungen zu vermeiden und auch unsere Mitarbeiter nur wenn nötig persönlich zu treffen
 * den Spielplatz halten wir weiterhinauf zusehen offen. Sollten sich zu viele Menschen dort aufhalten, werden wir ihn wieder schliessen
-* das Restaurant bleibt offen, auch hier gilt Maskenpflicht, sofern nicht am Tisch sitzend und konsumierend
 * weiter Informationen sind auf der Homepage des [BAG](https://bag-coronavirus.ch/) zu finden
 
 Besten Dank.
 
 Wir wünschen euch allem voran gute Gesundheit!
 
-Letztes Update: 19.10.2020 20:10
+Letztes Update: 30.03.2021 20:45
 
 <hr>
 
