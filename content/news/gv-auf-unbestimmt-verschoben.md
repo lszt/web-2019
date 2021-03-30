@@ -73,4 +73,4 @@ Informationen [Kanton Thurgau](https://www.tg.ch/news/fachdossier-coronavirus.ht
 
 Informationen des [BAZL](https://www.bazl.admin.ch/bazl/de/home/fachleute/corona_update.html)
 
-[Q&A](https://www.aeroclub.ch/fragen-und-antworten-qa-zur-situation-covid-2019-fuer-die-leicht-und-sportaviatik/) AeroClub
+[Q&A](https://www.aeroclub.ch/kein-corona-test-vorgeschrieben-bei-der-einreise-in-die-schweiz-mit-privatflugzeug/) AeroClub
