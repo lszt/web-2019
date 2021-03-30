@@ -4,6 +4,6 @@ date: '2020-08-04T11:45:42+02:00'
 draft: false
 weight: '7'
 image: /img/uploads/bild_meierhoefer.jpg
-description: Fluglehrer (FI)
+description: Cheffluglehrer (CFI)
 ---
 
