@@ -1,7 +1,7 @@
 ---
 title: GV und Flugplatzputzete 2021
 date: '2021-03-07T19:45:00+01:00'
-draft: false
+draft: true
 image: /img/uploads/ausbildung_luftaufnahme.jpg
 positionx: 50
 positiony: 50
