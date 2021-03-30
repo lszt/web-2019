@@ -2,13 +2,11 @@
 title: Präsident
 date: 2017-01-04T15:04:10.000Z
 weight: '1'
-image: /img/uploads/schafferer.jpg
-positionx: 50
-positiony: 50
+image: /img/uploads/bild_wasser.jpg
 description: |-
-  **Peter Schafferer**
+  **Jean-Claude Wasser**
 
-  T +41 79 404 06 14\
+  T +41\
   <mailto:praesident@mfgt.ch>
 ---
 
