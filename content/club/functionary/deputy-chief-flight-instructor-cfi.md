@@ -8,6 +8,6 @@ description: |-
   Ramon Meierhöfer
 
   T +41\
-  <mailto:ramon.meierhöfer@mfgt.ch>
+  <mailto:ramon.meierhoefer@mfgt.ch>
 ---
 
