@@ -2,10 +2,8 @@
 title: Jürg Walliser
 date: '2019-04-30T17:00:52+02:00'
 draft: false
-weight: '9'
+weight: '8'
 image: /img/uploads/walliser.jpg
-positionx: 50
-positiony: 50
 description: Fluglehrer (FI)
 ---
 
