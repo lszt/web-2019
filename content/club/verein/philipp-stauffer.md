@@ -7,7 +7,7 @@ image: /img/uploads/fluglehrer_blanco.jpg
 description: |-
   **Philipp Stauffer**
 
-  T +41\
+  T +41 79 652 80 18\
   <mailto:philipp.stauffer@mfgt.ch>
 ---
 
