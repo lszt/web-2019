@@ -6,7 +6,7 @@ image: /img/uploads/kurath.jpg
 description: |-
   **Josef Kurath**
 
-  T +41\
+  T +41 78 810 45 49\
   <mailto:josef.kurath@mfgt.ch>
 ---
 
