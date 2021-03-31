@@ -5,9 +5,9 @@ draft: false
 weight: '3'
 image: /img/uploads/bild_meierhoefer.jpg
 description: |-
-  Ramon Meierhöfer
+  **Ramon Meierhöfer**
 
-  T +41\
+  T +41 79 635 67 03\
   <mailto:ramon.meierhoefer@mfgt.ch>
 ---
 
