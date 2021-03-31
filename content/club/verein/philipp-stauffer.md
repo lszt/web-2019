@@ -1,5 +1,5 @@
 ---
-title: Leiter Infrastruktur
+title: Infrastruktur
 date: '2021-03-30T21:13:07+02:00'
 draft: false
 weight: '7'
