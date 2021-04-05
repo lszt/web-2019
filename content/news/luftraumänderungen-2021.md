@@ -2,7 +2,7 @@
 title: Luftraumänderungen 2021
 date: '2021-04-05T20:16:41+02:00'
 draft: false
-image: /img/uploads/drohnenkarte.jpg
+image: /img/uploads/luftraum.jpg
 positionx: 50
 positiony: 50
 description: >-
