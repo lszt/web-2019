@@ -20,7 +20,7 @@ Wir zeigen Dir, wie die Ausbildung aufgebaut ist, welche Voraussetzungen Du mitb
 
 Die nächsten Anlässe finden statt am:
 
-Samstag, 15.05.2021, 09:00
+Samstag, 29.05.2021, 09:00
 
 Samstag, 04.09.2021, 09:00
 
