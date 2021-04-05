@@ -15,6 +15,6 @@ Weitere Informationen findet ihr hier:
 
 [BAZL] (https://www.bazl.admin.ch/bazl/de/home/sicherheit/infrastruktur/flugsicherung-und-luftraum.html)
 
-[Präsentation] (https://www.bazl.admin.ch/bazl/de/home/sicherheit/infrastruktur/flugsicherung-und-luftraum.html)
+[Präsentation] (https://staysafe.admin.ch/wp-content/uploads/2021/03/BAZL_Luftraumaenderungen_2021_de.pdf)
 
 [AeCS](https://www.aeroclub.ch/aecs-luftraumseminar-2021-online/)
