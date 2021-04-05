@@ -11,4 +11,10 @@ description: >-
   zehn minütigen [Video-Podcast] (https://www.youtube.com/watch?v=4BIK5vgY0Po)
   erläutert das BAZL die Neuerungen im Detail.
 ---
+Weitere Informationen findet ihr hier:
 
+[BAZL] (https://www.bazl.admin.ch/bazl/de/home/sicherheit/infrastruktur/flugsicherung-und-luftraum.html)
+
+[Präsentation] (https://www.bazl.admin.ch/bazl/de/home/sicherheit/infrastruktur/flugsicherung-und-luftraum.html)
+
+[AeCS](https://www.aeroclub.ch/aecs-luftraumseminar-2021-online/)
