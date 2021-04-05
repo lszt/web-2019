@@ -14,13 +14,13 @@ Flugplatz Lommis
 
 Rita's Flugplatzbeizli
 
-### 15.05.2021 | 09:00 | Infoanlass Flugschule
-
-Theorieraum Flugplatz Lommis
-
 ### 28.05.2021 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
+
+### 15.05.2021 | 09:00 | Infoanlass Flugschule
+
+Theorieraum Flugplatz Lommis
 
 ### 08.06.2021 | 19:00 | Briefing Fly Away
 
