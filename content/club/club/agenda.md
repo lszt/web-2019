@@ -18,7 +18,7 @@ Rita's Flugplatzbeizli
 
 Rita's Flugplatzbeizli
 
-### 15.05.2021 | 09:00 | Infoanlass Flugschule
+### 29.05.2021 | 09:00 | Infoanlass Flugschule
 
 Theorieraum Flugplatz Lommis
 
