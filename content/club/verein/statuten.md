@@ -1,7 +1,7 @@
 ---
-title: 'events, kommunikation'
+title: 'Events, Kommunikation'
 date: 2017-01-04T15:04:10.000Z
-weight: '4'
+weight: '6'
 image: /img/uploads/stuber.jpg
 description: |-
   **Fabian Stuber**
