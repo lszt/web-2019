@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 04. - 17.04.2021 | SPHAIR Kurs 1 (Aquila)
-
-Flugplatz Lommis
-
 ### 30.04.2021 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
