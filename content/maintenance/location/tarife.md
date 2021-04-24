@@ -12,7 +12,7 @@ buttons:
   - blank: true
     title: Preisliste
     url: >-
-      https://drive.google.com/file/d/1ObcWwB3kzKhttwNuVWJAwsxs3a6hjgCC/view?usp=sharing
+      https://drive.google.com/file/d/1me56envWaDm1NwK2bQL3kY7Tk95iVdUn/view?usp=sharing
   - blank: true
     cta: false
     title: AGB
