@@ -12,14 +12,13 @@ description: |-
   \
   Stellvertreter:
 
-  Philipp Hug
+  * Philipp Hug
 
+  \
   Aufgaben:
 
-  Finanzen
-
-  Steuern
-
-  Versicherungen
+  * Finanzen
+  * Steuern
+  * Versicherungen
 ---
 
