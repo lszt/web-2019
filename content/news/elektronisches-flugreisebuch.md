@@ -1,7 +1,7 @@
 ---
 title: Elektronisches Flugreisebuch
 date: '2020-10-01T14:25:55+02:00'
-draft: false
+draft: true
 image: /img/uploads/elektronisches_flugreisebuch.jpg
 positionx: 50
 positiony: 50
