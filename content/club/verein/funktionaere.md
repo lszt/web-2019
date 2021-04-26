@@ -10,10 +10,12 @@ description: |-
 
   <mailto:andre.heinzelmann@mfgt.ch>
 
+  \
   Stellvertreter:
 
   * Thomas Füllemann
 
+  \
   Aufgaben:
 
   * Strategie
