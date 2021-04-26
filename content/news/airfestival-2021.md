@@ -1,14 +1,11 @@
 ---
-title: AIRFESTIVAL 2021
+title: air festival 2021 – 75 jahre mfgt
 date: '2021-04-26T11:18:40+02:00'
 draft: false
 image: /img/uploads/news_mfgt_75jahre.jpg
 positionx: 50
 positiony: 50
 description: >-
-  # air festival 2021 – 75 jahre mfgt
-
-
   **Freitag – Sonntag, 13. – 15. August 2021  |  Flugplatz Lommis LSZT**
 
 
