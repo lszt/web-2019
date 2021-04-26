@@ -47,7 +47,7 @@ André Heinzelmann, <mailto:andre.heinzelmann@mfgt.ch>
 **Anmeldung**\
 [Hier über Doodle](https://doodle.com/poll/42ns3vkzy5bx4a7m?utm_campaign=poll_added_participant_admin&utm_medium=email&utm_source=poll_transactional&utm_content=gotopoll-cta#table)
 
-Für die Planung bitten wir euch, bis spätestens 30. April 2020 via diesen [Link](https://doodle.com/poll/42ns3vkzy5bx4a7m?utm_source=poll&utm_medium=link) anzumelden. 
+Für die Planung bitten wir euch, euch bis spätestens 30. April 2020 anzumelden. 
 Bitte um Angabe von Flugzeugpräferenz, Zimmerwahl und ob ein Bedarf an einem FI als "Safety Pilot" vorhanden ist (dies ist kostenlos, der FI muss dafür nicht bezahlt werden).
 
 Wir freuen uns auf eine rege Teilnahme!
