@@ -8,5 +8,18 @@ description: |-
 
   T +41 78 611 44 98\
   <mailto:fabian.stuber@mfgt.ch>
+
+  \
+  Stellvertreter:
+
+  * Philipp Stauffer
+
+  \
+  Aufgaben:
+
+  * Events, 
+  * Aktivitäten
+  * Interne Kommunikation
+  * Aktuariat
 ---
 
