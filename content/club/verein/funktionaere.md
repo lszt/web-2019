@@ -8,7 +8,17 @@ description: |-
 
   T +41 79 429 76 41
 
-
   <mailto:andre.heinzelmann@mfgt.ch>
+
+  Stellvertreter:
+
+  * Thomas Füllemann
+
+  Aufgaben:
+
+  * Strategie
+  * Verbände, Behörden
+  * Marketing, Werbung
+  * Personal
 ---
 
