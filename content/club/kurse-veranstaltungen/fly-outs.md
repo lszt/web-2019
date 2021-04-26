@@ -10,6 +10,10 @@ description: >-
 buttons:
   - title: agenda
     url: /club/club/agenda/
+  - cta: true
+    title: anmelden
+    url: >-
+      https://doodle.com/poll/42ns3vkzy5bx4a7m?utm_campaign=poll_added_participant_admin&utm_medium=email&utm_source=poll_transactional&utm_content=gotopoll-cta#table
 ---
 ### Fly Away am 12./13. Juni 2021
 
