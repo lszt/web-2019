@@ -9,5 +9,18 @@ description: |-
 
   T +41 76 370 22 54\
   <mailto:philipp.hug@mfgt.ch>
+
+  \
+  Stellvertreter:
+
+  * Josef Kurath
+
+  \
+  Aufgaben:
+
+  * Flugzeuge 
+  * Charter, Rundflug
+  * IT
+  * Maintenance (Technik)
 ---
 
