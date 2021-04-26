@@ -12,5 +12,10 @@ description: |-
 buttons:
   - title: mehr
     url: /club/kurse-veranstaltungen/fly-outs/
+  - blank: true
+    cta: true
+    title: anmelden
+    url: >-
+      https://doodle.com/poll/42ns3vkzy5bx4a7m?utm_campaign=poll_added_participant_admin&utm_medium=email&utm_source=poll_transactional&utm_content=gotopoll-cta#table
 ---
 
