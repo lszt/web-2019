@@ -1,7 +1,7 @@
 ---
 title: AIRFESTIVAL 2021
 date: '2021-04-26T11:18:40+02:00'
-draft: true
+draft: false
 image: /img/uploads/news_mfgt_75jahre.jpg
 positionx: 50
 positiony: 50
