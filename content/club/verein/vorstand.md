@@ -10,21 +10,17 @@ description: |-
   <mailto:josef.kurath@mfgt.ch>
 
 
-
+  \
   Stellvertreter:
 
-  André Heinzelmann
+  * André Heinzelmann
 
-
-
+  \
   Aufgaben:
 
-  DCFI
-
-  SwissPSA
-
-  SPHAIR
-
-  Theoriekurse
+  * DCFI
+  * SwissPSA
+  * SPHAIR
+  * Theoriekurse
 ---
 
