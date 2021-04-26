@@ -8,5 +8,21 @@ description: |-
 
   T +41 78 810 45 49\
   <mailto:josef.kurath@mfgt.ch>
+
+  \
+  Stellvertreter:
+
+  André Heinzelmann\
+  \
+  \
+  Aufgaben:
+
+  DCFI
+
+  SwissPSA
+
+  SPHAIR
+
+  Theoriekurse
 ---
 
