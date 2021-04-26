@@ -20,7 +20,7 @@ description: |-
 
   * Flugzeuge 
   * Charter, Rundflug
-  * IT
-  * Maintenance (Technik)
+  * IT, Web
+  * Maintenance, CAMO/CAE
 ---
 
