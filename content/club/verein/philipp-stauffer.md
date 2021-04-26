@@ -9,5 +9,18 @@ description: |-
 
   T +41 79 652 80 18\
   <mailto:philipp.stauffer@mfgt.ch>
+
+  \
+  Stellvertreter:
+
+  * Fabian Stuber
+
+  \
+  Aufgaben:
+
+  * Flugplatz
+  * Hangar
+  * Rasenmäher
+  * Restaurant/Kiosk
 ---
 
