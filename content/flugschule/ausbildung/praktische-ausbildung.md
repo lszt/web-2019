@@ -8,6 +8,9 @@ description: >-
   Im praktischen Teil der Ausbildung bestimmst Du, wieviel Zeit Du für die
   Ausbildung in Anspruch nehmen willst. Bei einer intensiven Schulung, auch
   unter der Woche, kann man die Lizenz in einer Saison erlangen.
+buttons:
+  - title: Bericht Tele Top
+    url: /club/berichte/lernfahrer-der-andern-art
 ---
 Unsere erfahrenen Fluglehrer stehen dir unter der Woche wie auch an den Wochenenden zur Verfügung.
 
