@@ -10,7 +10,7 @@ description: >-
   unter der Woche, kann man die Lizenz in einer Saison erlangen.
 buttons:
   - title: Bericht Tele Top
-    url: /club/berichte/lernfahrer-der-andern-art
+    url: /club/berichte/lernfahrer-der-anderen-art/
 ---
 Unsere erfahrenen Fluglehrer stehen dir unter der Woche wie auch an den Wochenenden zur Verfügung.
 
