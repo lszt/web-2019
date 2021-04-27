@@ -3,7 +3,7 @@ title: Lernfahrer der anderen Art
 date: '2021-04-27T08:59:22+02:00'
 draft: false
 weight: '1'
-image: /img/uploads/slider_flugschule_2.jpg
+image: /img/uploads/tele_top_schnyder.jpg
 description: >-
   Tele Top hat einen Bericht zum Thema Flugausbildung mit Tobias Fristknecht
   erstellt und ausgestrahlt.
