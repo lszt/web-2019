@@ -8,6 +8,6 @@ positiony: 50
 description: Tele Top hat einen Clip zum Thema "Lernfahrer der anderen Art" erstellt.
 buttons:
   - title: mehr
-    url: /club
+    url: /club/lernfahrer-der-anderen-art
 ---
 
