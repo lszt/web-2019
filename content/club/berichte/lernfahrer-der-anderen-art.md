@@ -7,5 +7,10 @@ image: /img/uploads/slider_flugschule_2.jpg
 description: >-
   Tele Top hat einen Bericht zum Thema Flugausbildung mit Tobias Fristknecht
   erstellt und ausgestrahlt.
+buttons:
+  - cta: true
+    title: Video
+    url: >-
+      https://drive.google.com/file/d/1C3lruoiv3mb_yg7MjOX6TNgDeFNBdSbc/view?usp=sharing
 ---
-[Zum Video] (https://drive.google.com/file/d/1C3lruoiv3mb_yg7MjOX6TNgDeFNBdSbc/view?usp=sharing)
+
