@@ -2,11 +2,10 @@
 title: Mathias Hänseler
 date: '2019-05-15T19:13:08+02:00'
 draft: false
-weight: '3'
+weight: '1'
 image: /img/uploads/haenseler.jpg
-positionx: 50
-positiony: 50
 description: |-
+  Accountable Manager Maintenance / CAMO \
   Certifying Staff EASA \
   Lizenzierter Flugzeugmechaniker
 
