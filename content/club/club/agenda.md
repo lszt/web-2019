@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 30.04.2021 | 18:30 | Clubhöck
-
-Rita's Flugplatzbeizli
-
 ### 28.05.2021 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
