@@ -1,7 +1,7 @@
 ---
 title: Accountable Manager CAMO Maintenance
 date: '2019-05-10T15:54:44+02:00'
-draft: false
+draft: true
 weight: '4'
 image: /img/uploads/mueller.jpg
 description: |-
