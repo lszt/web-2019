@@ -28,4 +28,4 @@ Theoriesaal Flugplatz Lommis
 
 Für Weitere Informationen wende dich bitte an <mailto:info@mfgt.ch>
 
-[Hier Flyer downloaden](https://drive.google.com/file/d/15WajZU10clh-yWRWeEY7df6qQf4eHgL8/view?usp=sharing)
+[Hier Flyer downloaden](https://drive.google.com/file/d/1H5UowI8kbxFuj_rT9enziis0Yk99kMgy/view?usp=sharing)
