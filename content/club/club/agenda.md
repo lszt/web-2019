@@ -10,10 +10,6 @@ buttons: []
 
 Rita's Flugplatzbeizli
 
-### 29.05.2021 | 09:00 | Infoanlass Flugschule
-
-Theorieraum Flugplatz Lommis
-
 ### 08.06.2021 | 19:00 | Briefing Fly Away
 
 Theorieraum Flugplatz Lommis
@@ -21,6 +17,10 @@ Theorieraum Flugplatz Lommis
 ### 12. - 13.06.2021 | Fly Away Flugschle MFGT
 
 nach Wroclaw, Polen
+
+### 19.06.2021 | 09:00 | Infoanlass Flugschule
+
+Theorieraum Flugplatz Lommis
 
 ### 20.06. - 03.07.2021 | SPHAIR Kurs 2 (Aquila)
 
