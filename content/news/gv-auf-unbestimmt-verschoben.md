@@ -1,6 +1,6 @@
 ---
 title: Covid-19 Informationen Flugplatz Lommis
-date: '2020-10-18T20:00:00+02:00'
+date: '2021-04-25T20:00:00+02:00'
 draft: false
 image: /img/uploads/covid_19.jpg
 positionx: 50
