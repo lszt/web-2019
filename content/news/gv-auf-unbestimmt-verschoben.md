@@ -13,7 +13,7 @@ buttons:
     cta: true
     title: flyer BAG
     url: >-
-      https://drive.google.com/file/d/11VEBRa38_YBn_D0QnQScWpdXB11If9nT/view?usp=sharing
+      https://drive.google.com/file/d/12Bz7ZD64mHhx7avfQLikHQc1hk9udhGW/view?usp=sharing
 ---
 **Flug- und Flugplatz-Betrieb in Lommis**
 
@@ -59,7 +59,7 @@ Besten Dank.
 
 Wir wünschen euch allem voran gute Gesundheit!
 
-Letztes Update: 21.04.2021 21:15
+Letztes Update: 03.06.2021 23:15
 
 <hr>
 
