@@ -22,6 +22,10 @@ Theorieraum Flugplatz Lommis
 
 Flugplatz Lommis
 
+### 25.06.2021 | 18:00 | Flugzeugtaufe und Verabschiedung
+
+Flugplatz Lommis | [Anmeldung für Mitglieder](https://doodle.com/poll/m7er8c38ps4wqui2)
+
 ### 25.06.2021 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
