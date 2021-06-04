@@ -12,7 +12,7 @@ Theorieraum Flugplatz Lommis
 
 ### 12. - 13.06.2021 | Fly Away Flugschle MFGT
 
-nach Wroclaw, Polen
+nach Wroclaw, Polen | [Info's](https://www.mfgt.ch/club/kurse-veranstaltungen/fly-outs/)
 
 ### 19.06.2021 | 09:00 | Infoanlass Flugschule
 
