@@ -21,6 +21,6 @@ description: |-
   * Flugzeuge 
   * Charter, Rundflug
   * IT, Web
-  * Maintenance, CAMO/CAE
+  * Maintenance, CAE
 ---
 
