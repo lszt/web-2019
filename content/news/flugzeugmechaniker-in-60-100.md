@@ -35,13 +35,13 @@ in der Funktion als
 - Komponentenwechsel von Motoren, Propellern, usw.
 - Durchführung der Prüfungen der Lufttüchtigkeit
 
-**Anforderungen**
+**Anforderungen** \
 - EASA Part 66 B1.2 Lizenz
 - Erfahrung in der Instandhaltung von Kolbenmotor-Flugzeugen
 - selbständiges Arbeiten mit hohem Verantwortungsbewusstsein
 - gute Deutsch- und Englischkenntnisse, mündlich/schriftlich
 
-**Wir bieten**
+**Wir bieten** \
 - kleines, aufgestelltes Team
 - topmoderne Werkstatt
 - familiärer Betrieb/Flugplatz
