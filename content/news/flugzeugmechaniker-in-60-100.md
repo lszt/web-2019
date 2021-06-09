@@ -23,7 +23,7 @@ Per sofort oder nach Absprache suchen wir ein/e
 
 in der Funktion als
 
-**Certifying Staff (CS)** und **Airworthiness Review Staf (ARS)**
+**Certifying Staff (CS)** und **Airworthiness Review Staff (ARS)**
 
 **Aufgaben**
 - Planung und Arbeitsvorbereitung der Aufträge
