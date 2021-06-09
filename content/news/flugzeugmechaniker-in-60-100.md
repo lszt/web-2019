@@ -19,7 +19,7 @@ Die Motorfluggruppe Thurgau betreibt in Lommis einen eigenen, sowohl nach EASA, 
 
 Per sofort oder nach Absprache suchen wir ein/e
 
-# Flugzeugmechaniker/in, 60-100% #
+## Flugzeugmechaniker/in, 60-100% ##
 
 in der Funktion als
 
