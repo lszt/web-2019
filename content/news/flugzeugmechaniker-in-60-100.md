@@ -25,7 +25,7 @@ in der Funktion als
 
 **Certifying Staff (CS)** und **Airworthiness Review Staff (ARS)**
 
-**Aufgaben** \
+**Aufgaben**
 
 * Planung und Arbeitsvorbereitung der Aufträge
 * Erstellen von Kostenschätzungen, Offerten und Abrechnungen
@@ -36,7 +36,7 @@ in der Funktion als
 * Komponentenwechsel von Motoren, Propellern, usw.
 * Durchführung der Prüfungen der Lufttüchtigkeit
 
-**Anforderungen** \
+**Anforderungen**
 
 * EASA Part 66 B1.2 Lizenz
 * Erfahrung in der Instandhaltung von Kolbenmotor-Flugzeugen
