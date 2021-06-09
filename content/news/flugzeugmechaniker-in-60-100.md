@@ -59,4 +59,4 @@ Frau Corinna Brüllmann \
 Flugplatz \
 9506 Lommis TG \
 052 366 33 33 \
-corinna.bruelmann@mfgt.ch
+<mailto:corinna.bruellmann@mfgt.ch>
