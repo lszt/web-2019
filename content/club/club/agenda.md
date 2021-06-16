@@ -6,14 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 08.06.2021 | 19:00 | Briefing Fly Away
-
-Theorieraum Flugplatz Lommis
-
-### 12. - 13.06.2021 | Fly Away Flugschle MFGT
-
-nach Wroclaw, Polen | [Info's](https://www.mfgt.ch/club/kurse-veranstaltungen/fly-outs/)
-
 ### 19.06.2021 | 09:00 | Infoanlass Flugschule
 
 Theorieraum Flugplatz Lommis
