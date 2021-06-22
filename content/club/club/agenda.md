@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 19.06.2021 | 09:00 | Infoanlass Flugschule
-
-Theorieraum Flugplatz Lommis
-
 ### 20.06. - 03.07.2021 | SPHAIR Kurs 2 (Aquila)
 
 Flugplatz Lommis
