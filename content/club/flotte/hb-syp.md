@@ -6,6 +6,8 @@ weight: '6'
 image: /img/uploads/velis_electro_01.jpg
 description: '**Pipistrel Velis Electro**'
 buttons:
+  - title: preise
+    url: /flugschule/naechste-schritte/das-elektroflug-testzeitalter-hat-begonnen/
   - cta: true
     title: reservation
     url: 'https://www.flightnet.aero/default.aspx?company=mfgt'
