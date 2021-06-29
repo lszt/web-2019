@@ -1,7 +1,7 @@
 ---
 title: Fly Away nach Wroclaw
 date: '2021-04-25T14:26:50+02:00'
-draft: false
+draft: true
 image: /img/uploads/club_flyaway.jpg
 positionx: 50
 positiony: 50
