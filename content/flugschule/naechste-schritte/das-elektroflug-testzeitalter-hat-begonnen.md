@@ -2,7 +2,7 @@
 title: Das Elektroflug-Testzeitalter hat begonnen!
 date: '2021-06-29T20:35:32+02:00'
 draft: false
-image: /img/uploads/aquila_sunrise.jpeg
+image: /img/uploads/velis_electro_01.jpg
 description: >-
   Für alle interessierten Piloten steht die Pipistrel Velis Electro bereit.
   Vielleicht willst du nur schnuppern und danach über eine Einweisung
