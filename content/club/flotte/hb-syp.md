@@ -5,6 +5,10 @@ draft: false
 weight: '6'
 image: /img/uploads/velis_electro_01.jpg
 description: '**Pipistrel Velis Electro**'
+buttons:
+  - cta: true
+    title: reservation
+    url: 'https://www.flightnet.aero/default.aspx?company=mfgt'
 ---
 Elektroflugzeug
 
