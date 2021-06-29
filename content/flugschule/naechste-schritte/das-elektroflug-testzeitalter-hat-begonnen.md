@@ -9,5 +9,9 @@ description: >-
   entscheiden oder gleich mit der Einweisung ins Elektrozeitalter starten? Auf
   alle Fälle wird dir der erste Flug mit Fluglehrer als Einweisungsflug
   angerechnet.
+buttons:
+  - cta: true
+    title: reservation
+    url: 'https://www.flightnet.aero/default.aspx?company=mfgt'
 ---
 Buche direkt im Reservationssystem die HB-SYP und einen Einweisungsberechtigten. Im Moment ist das Ramon Meierhöfer und Markus Schnyder. Weitere FI und CRI kommen hinzu und werden im Resi entsprechend aufgeführt. Der Charterpreis beträgt CHF 149.-/h zusätzlich Instruktionszeit.
