@@ -8,7 +8,8 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
-* 25.03.2021 | Allgemein/Charter | [Charterpreise 2021] (https://drive.google.com/file/d/1-sEQ5dfVikwHC0v7pn7V4ZGNiYnLyaBF/view?usp=sharing) | aktualisiert
+* 30.06.2021 | 30 Flugschule/30-60 Flugschule TKI & RTF | [RTF-Kommunikation] (https://drive.google.com/file/d/1tIbRU546ARk6ORjvwwh3Sd3GYss0qvgo/view?usp=sharing) | hinzugefügt
+* 25.03.2021 | Allgemein/Charter | [Charterpreise 2021](https://drive.google.com/file/d/1-sEQ5dfVikwHC0v7pn7V4ZGNiYnLyaBF/view?usp=sharing) | aktualisiert
 * 30.01.2021 | VFR-Simulator | [Handbuch](https://drive.google.com/file/d/11Ew3q8-Peim0IYKEKpJYUfL4uB_n1KOz/view?usp=sharing) | hinzugefügt
 * 30.01.2021 | VFR-Simulator | [Betriebskonzept](https://drive.google.com/file/d/1ny5bcvHlCNwoFvoq-7rP2PWuG1qgL4uX/view?usp=sharing) | hinzugefügt
 * 26.11.2020 | HB-SGT/HB-SGU/Checklist | [Checkliste Aquila](https://drive.google.com/file/d/167KZCNrE-QkCMhoGO7Bx5vYNTcZQPoPv/view?usp=sharing) | aktualisiert
