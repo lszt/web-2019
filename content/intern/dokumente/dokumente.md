@@ -19,17 +19,6 @@ description: >-
 * 06.10.2020 | Allgemein/Charter | [Reservation Clubflugzeuge für mehrtägige Reisen](https://drive.google.com/file/d/1auVVBVUwb5MCmHcez_vhsS8L_wqkmunK/view?usp=sharing) | aktualisiert
 * 30.09.2020 | Allgemein/Charter | [Anleitung Digitales Flugreisebuch](https://drive.google.com/file/d/1QcQCY2CFnFM9alrLb4cUAPESsGtXf80D/view?usp=sharing) | hinzugefügt
 * 15.07.2020 | HB-KLA/AFM | [Flughandbuch](https://drive.google.com/file/d/1BgttF0evePCDUFokpiqq4GCM6H9rD1FM/view?usp=sharing) | aktualisiert
-* 18.05.2020 | Allgemein/Flugschule/Kontrollflug | [Kontrollflugprogramm](https://drive.google.com/open?id=1Wqz-KxUWY42l8eUYv19BnBu1uk8E_w3O) | aktualisiert
-* 18.05.2020 | Allgemein/Flugschule/Kontrollflug | [Kontrollflug-Formular](https://drive.google.com/open?id=1MHBDEtrOsLJOpcDxQ--de1Yp4qYYLZ6x) | aktualisiert
-* 18.05.2020 | Allgemein/Flugschule/Kontrollflug | [Documents on Board](https://drive.google.com/open?id=1nJmiKO2kE_L6WmRN-Z4AW8r3Z_MxseAd) | hinzugefügt
-* 18.05.2020 | Allgemein/Flugschule/Kontrollflug | [Checkliste Flugvorbereitung](https://drive.google.com/open?id=1kPE09PU6CejpbW10cDk-4C9V2F9SZOYQ) | aktualisiert
-* 18.05.2020 | Allgemein/Flugschule/Kontrollflug | [Briefing](https://drive.google.com/open?id=1N2Bz6ekPiA2cpb2IJvybuINgUFF2afkn) | hinzugefügt
-* 17.04.2020 | Allgemein/Flugplatz | [Anleitung Schliess-System](https://drive.google.com/open?id=1QCJZ6XB4pD8S1LdTvkm8mzXTcEC4-mLo) | hinzugefügt
-* 16.04.2020 | Allgemein/Flugplatz | [Hangarreglement](https://drive.google.com/drive/folders/13UnVyZG353Me2nlmGVcZbBYqkYfq7xoL) | aktualisiert
-* 19.02.2020 | Allgemein/Flugschule/Refresher | [Refresher 2020](https://drive.google.com/drive/folders/1B8KKpyXobT5EtVs_EjN66zEPiEZzNTCG) | hinzugefügt
-* 06.02.2020 | HB-KLA/Instruction | [Anleitung digitales Flugreisebuch](https://drive.google.com/open?id=1YmHBOazKpcg07U0iBTl50-q_EFemyaTc) | hinzugefügt
-* 28.01.2020 | Allgemein/Charter | [Preis-/Kostenübersicht](https://drive.google.com/open?id=1ObcWwB3kzKhttwNuVWJAwsxs3a6hjgCC) | aktualisiert
-* 28.01.2020 | Allgemein/Charter | [Charterpreise](https://drive.google.com/open?id=1MIxz36JIStEgBr11ccatpX3kfDepbUc1) | aktualisiert
 
 <hr>
 
