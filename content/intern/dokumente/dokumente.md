@@ -8,8 +8,8 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
-* 02.07.2021 | 30 Flugschule/30-10-10 Pre-Flight | [W&B DR40](https://drive.google.com/file/d/1zGspYrrvaRJce-UFmudhsOJkk4eGgvB7/view?usp=sharing) | aktualisiert
-* 30.06.2021 | 30 Flugschule/30-10-10 Pre-Flight | [Unterlagen Pipistrel](https://drive.google.com/drive/folders/1pU0ddjTRmQUX7f2CCeyTC-X5BlE_QUYY) | hinzugefügt 
+* 02.07.2021 | 30 Flugschule/30-10-10 Pre-Flight/Mass & Balance | [W&B DR40](https://drive.google.com/file/d/1zGspYrrvaRJce-UFmudhsOJkk4eGgvB7/view?usp=sharing) | aktualisiert
+* 30.06.2021 | 30 Flugschule/30-10-10 Pre-Flight/Familiarisation & Difference TRNG/Pipistrel PIVE | [Unterlagen Pipistrel](https://drive.google.com/drive/folders/1pU0ddjTRmQUX7f2CCeyTC-X5BlE_QUYY) | hinzugefügt 
 * 30.06.2021 | 30 Flugschule/30-60 Flugschule TKI & RTF | [RTF-Kommunikation](https://drive.google.com/file/d/1tIbRU546ARk6ORjvwwh3Sd3GYss0qvgo/view?usp=sharing) | hinzugefügt
 * 25.03.2021 | Allgemein/Charter | [Charterpreise 2021](https://drive.google.com/file/d/1-sEQ5dfVikwHC0v7pn7V4ZGNiYnLyaBF/view?usp=sharing) | aktualisiert
 * 30.01.2021 | VFR-Simulator | [Handbuch](https://drive.google.com/file/d/11Ew3q8-Peim0IYKEKpJYUfL4uB_n1KOz/view?usp=sharing) | hinzugefügt
