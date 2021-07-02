@@ -17,7 +17,7 @@ description: >-
 * 26.11.2020 | 30-10-20 Flight OPS/Checklisten/MFGT Working Checklist | [Checkliste Aquila](https://drive.google.com/file/d/167KZCNrE-QkCMhoGO7Bx5vYNTcZQPoPv/view?usp=sharing) | aktualisiert
 * 04.11.2020 | 40 Flugbetrieb/Charter | [Fliegen über die Wintermonate](https://drive.google.com/file/d/1DtWNfvKCjlgSmEfxhlReC2Gcr6wHW0tk/view?usp=sharing) | aktualisiert
 * 06.10.2020 | 40 Flugbetrieb/Charter | [Reservation Clubflugzeuge für mehrtägige Reisen](https://drive.google.com/file/d/1auVVBVUwb5MCmHcez_vhsS8L_wqkmunK/view?usp=sharing) | aktualisiert
-* 30.09.2020 | 40 Flugbetrieb/Charter | [Anleitung Digitales Flugreisebuch](https://drive.google.com/file/d/1QcQCY2CFnFM9alrLb4cUAPESsGtXf80D/view?usp=sharing) | hinzugefügt
+* 30.09.2020 | 40 Flugbetrieb/Charter | [Anleitung Digitales Flugreisebuch](https://drive.google.com/file/d/1vVqRyNROSc_pzuQqnVUy4mka-3yVGpfy/view?usp=sharing) | hinzugefügt
 * 15.07.2020 | 40 Flugbetrieb/Flugzeuge/HB-KLA/AFM | [Flughandbuch](https://drive.google.com/file/d/1BgttF0evePCDUFokpiqq4GCM6H9rD1FM/view?usp=sharing) | aktualisiert
 
 <hr>
