@@ -8,6 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 06.07.2021 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG/Volllast Einweisung | [Volllasteinweisung] (https://drive.google.com/file/d/1l4RKRJ2nQZWQ9yXne5unLhCKEuuMMbSe/view?usp=sharing) | hinzugefügt
 * 02.07.2021 | .../.../30-10-10 Pre-Flight/Mass & Balance | [W&B DR40](https://drive.google.com/file/d/1zGspYrrvaRJce-UFmudhsOJkk4eGgvB7/view?usp=sharing) | aktualisiert
 * 30.06.2021 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG/Pipistrel PIVE | [Unterlagen Pipistrel](https://drive.google.com/drive/folders/1pU0ddjTRmQUX7f2CCeyTC-X5BlE_QUYY) | hinzugefügt 
 * 30.06.2021 | .../30-60 Flugschule TKI & RTF | [RTF-Kommunikation](https://drive.google.com/file/d/1tIbRU546ARk6ORjvwwh3Sd3GYss0qvgo/view?usp=sharing) | hinzugefügt
