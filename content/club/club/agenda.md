@@ -42,10 +42,6 @@ Rita's Flugplatzbeizli
 
 Flugplatz Lommis
 
-### 04.09.2021 | 09:00 | Infoanlass Flugschule
-
-Theorieraum Flugplatz Lommis
-
 ### 04. - 05.09.2021 | Flugfest Schmerlat
 
 Flugplatz Schmerlat
@@ -53,6 +49,10 @@ Flugplatz Schmerlat
 ### 24.09.2021 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
+
+### 09.10.2021 | 09:00 | Infoanlass Flugschule
+
+Theorieraum Flugplatz Lommis
 
 ### 10. - 23.10.2021 | SPHAIR Kurs 4 (Aquila)
 
