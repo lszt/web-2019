@@ -18,11 +18,9 @@ buttons:
 ---
 Wir zeigen Dir, wie die Ausbildung aufgebaut ist, welche Voraussetzungen Du mitbringen solltest und mit welchen Kosten Du rechnen musst. Das Wichtigste aber: Wir wollen Dich fürs Fliegen begeistern!
 
-Die nächsten Anlässe finden statt am:
+Der nächste Anlass finden statt am:
 
-Samstag, 19.06.2021, 09:00
-
-Samstag, 04.09.2021, 09:00
+Samstag, 09.10.2021, 09:00
 
 Theoriesaal Flugplatz Lommis
 
