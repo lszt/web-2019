@@ -34,6 +34,10 @@ Flugplatz Schmerlat
 
 Rita's Flugplatzbeizli
 
+### 02. - 03.10.2021 | Fly-Away
+
+Wroclaw Polen | [Anmeldung](https://doodle.com/poll/isw85svm86b7fh9r)
+
 ### 09.10.2021 | 09:00 | Infoanlass Flugschule
 
 Theorieraum Flugplatz Lommis
