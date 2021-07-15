@@ -6,22 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 20.06. - 03.07.2021 | SPHAIR Kurs 2 (Aquila)
-
-Flugplatz Lommis
-
-### 25.06.2021 | 18:00 | Flugzeugtaufe und Verabschiedung
-
-Flugplatz Lommis | [Anmeldung für Mitglieder](https://doodle.com/poll/m7er8c38ps4wqui2)
-
-### 25.06.2021 | 18:30 | Clubhöck
-
-Rita's Flugplatzbeizli
-
-### 10. - 11.07.2021 | 10 Jahre Rita's Flugplatzbeizli
-
-Rita's Flugplatzbeizli
-
 ### 18. - 31.07.2021 | SPHAIR Kurs 3 (Robin)
 
 Flugplatz Lommis
