@@ -1,7 +1,7 @@
 ---
 title: 'Flugzeugmechaniker/in, 60-100%'
 date: '2021-06-09T15:35:00+02:00'
-draft: false
+draft: true
 image: /img/uploads/maintenance_1.jpg
 positionx: 50
 positiony: 50
