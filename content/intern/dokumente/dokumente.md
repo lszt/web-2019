@@ -8,6 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 17.07.2021 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG/Pipistrel PIVE | [Dokumentstruktur](https://drive.google.com/drive/folders/1pU0ddjTRmQUX7f2CCeyTC-X5BlE_QUYY) | aktualisiert
 * 07.07.2021 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG | [Familiarisation and Difference Training](https://drive.google.com/file/d/1vdwqTvfX290SYWCNW-PJRjaLL_vrTIRE/view?usp=sharing) | aktualisiert
 * 06.07.2021 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG/Volllast Einweisung | [Volllasteinweisung] (https://drive.google.com/file/d/1l4RKRJ2nQZWQ9yXne5unLhCKEuuMMbSe/view?usp=sharing) | hinzugefügt
 * 02.07.2021 | .../.../30-10-10 Pre-Flight/Mass & Balance | [W&B DR40](https://drive.google.com/file/d/1zGspYrrvaRJce-UFmudhsOJkk4eGgvB7/view?usp=sharing) | aktualisiert
