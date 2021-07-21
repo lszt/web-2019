@@ -34,6 +34,10 @@ Flugplatz Saanen | [Anmeldung](https://www.aecos.ch/component/icagenda/73-aecos-
 
 Flugplatz Schmerlat
 
+### 11.09.2021 | Verschiebedatum AeCOS Fly-In Saanen
+
+Flugplatz Saanen
+
 ### 24.09.2021 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
