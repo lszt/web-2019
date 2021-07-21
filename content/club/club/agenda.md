@@ -26,6 +26,10 @@ Rita's Flugplatzbeizli
 
 Flugplatz Lommis
 
+### 04.09.2021 | AeCOS Fly-In Saanen
+
+Flugplatz Saanen | [Anmeldung](https://www.aecos.ch/component/icagenda/73-aecos-fly-in-flugplatz-saanen?Itemid=1992?date=2021-09-04-00-00)
+
 ### 04. - 05.09.2021 | Flugfest Schmerlat
 
 Flugplatz Schmerlat
