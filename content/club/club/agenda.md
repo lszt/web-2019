@@ -26,6 +26,10 @@ Flugplatz Schmerlat
 
 Flugplatz Saanen
 
+### 11. - 12.09.2021 | ElectriFLY-In Switzerland 2021
+
+Flugplatz Grenchen | [Info's] (https://electrifly-in.ch/de/mission-2/)
+
 ### 24.09.2021 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
