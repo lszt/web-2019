@@ -1,21 +1,19 @@
 ---
-title: air festival 2021 – 75 jahre mfgt
-date: '2021-04-26T11:18:40+02:00'
+title: Neuer Flugplatzchef gesucht
+date: '2021-08-25T11:18:40+02:00'
 draft: false
-image: /img/uploads/news_mfgt_75jahre.jpg
+image: /img/uploads/bild_flugplatzchef.png
 positionx: 50
 positiony: 50
-description: >-
-  **Freitag – Sonntag, 13. – 15. August 2021  |  Flugplatz Lommis LSZT**
+description: |-
+  Spätestens zur neuen Saison 2022 suchen wir eine/n
 
-
-  Die Motorfluggruppe Thurgau MFGT feiert 2021 ihr 75-jähriges Bestehen und
-  zelebriert dies mit einem fulminanten AIR FESTIVAL am Himmel und am Boden von
-  Lommis TG.
+  **Flugplatzchef/-in, 30 – 40%**
 buttons:
   - blank: true
     cta: true
     title: MEHR
-    url: 'https://airfestival21.ch/'
+    url: >-
+      https://drive.google.com/file/d/1bprfsmSSTBhYYDLxizxjqvNw7l1X-ye8/view?usp=sharing
 ---
 
