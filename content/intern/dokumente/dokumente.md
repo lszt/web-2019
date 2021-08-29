@@ -8,6 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 29.08.2021 | .../.../30-10-20 Flight OPS/Briefing | [DEP & APR Briefing] (https://drive.google.com/file/d/1E8g_fQcVtKMKfImrLKOq1O1gjiJT-YFL/view?usp=sharing) | aktualisiert
 * 29.08.2021 | .../.../30-10-20 Flight OPS/Procedures | [MFGT Procedures Pipistrel PIVE] (https://drive.google.com/file/d/1s3_2FN_pCdQUgj5zSP6-V1L0_vpMirvH/view?usp=sharing) | aktualisiert
 * 26.07.2021 | .../.../30-10-10 Pre-Flight/FS Notice | [MFGT eLearning Plattform](https://drive.google.com/file/d/1w-NlEoa8HkYLbBdloShdrlpFPpq8eGKw/view?usp=sharing) | hinzugefügt
 * 26.07.2021 | .../.../30-10-10 Pre-Flight/FS Notice | [List of effective Notice](https://drive.google.com/file/d/1tVSvQNFSVGfpGLmCCFc6RFrzdSAO_4RI/view?usp=sharing) | aktualisiert
