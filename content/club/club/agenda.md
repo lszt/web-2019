@@ -6,14 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 27.08.2021 | 18:30 | Clubhöck
-
-Rita's Flugplatzbeizli
-
-### 28.08.2021 | Jungbürgerfeier Lommis
-
-Flugplatz Lommis
-
 ### 04.09.2021 | AeCOS Fly-In Saanen
 
 Flugplatz Saanen | [Anmeldung](https://www.aecos.ch/component/icagenda/73-aecos-fly-in-flugplatz-saanen?Itemid=1992?date=2021-09-04-00-00)
@@ -28,7 +20,7 @@ Flugplatz Saanen
 
 ### 11. - 12.09.2021 | ElectriFLY-In Switzerland 2021
 
-Flugplatz Grenchen | [Info's] (https://electrifly-in.ch/de/mission-2/)
+Flugplatz Grenchen | [Info's](https://electrifly-in.ch/de/mission-2/)
 
 ### 24.09.2021 | 18:30 | Clubhöck
 
