@@ -8,12 +8,12 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 01.09.2021 | .../.../30-10-10 Familiarisation & Difference TRNG | [Familiarisation and Difference Training] (https://drive.google.com/file/d/16CDobQaCxboYomrWvJ4p9hniRX5yU1mp/view?usp=sharing) | aktualisiert
 * 29.08.2021 | .../.../30-10-20 Flight OPS/Briefing | [DEP & APR Briefing] (https://drive.google.com/file/d/1E8g_fQcVtKMKfImrLKOq1O1gjiJT-YFL/view?usp=sharing) | aktualisiert
 * 29.08.2021 | .../.../30-10-20 Flight OPS/Procedures | [MFGT Procedures Pipistrel PIVE] (https://drive.google.com/file/d/1s3_2FN_pCdQUgj5zSP6-V1L0_vpMirvH/view?usp=sharing) | aktualisiert
 * 26.07.2021 | .../.../30-10-10 Pre-Flight/FS Notice | [MFGT eLearning Plattform](https://drive.google.com/file/d/1w-NlEoa8HkYLbBdloShdrlpFPpq8eGKw/view?usp=sharing) | hinzugefügt
 * 26.07.2021 | .../.../30-10-10 Pre-Flight/FS Notice | [List of effective Notice](https://drive.google.com/file/d/1tVSvQNFSVGfpGLmCCFc6RFrzdSAO_4RI/view?usp=sharing) | aktualisiert
 * 17.07.2021 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG/Pipistrel PIVE | [Dokumentstruktur](https://drive.google.com/drive/folders/1pU0ddjTRmQUX7f2CCeyTC-X5BlE_QUYY) | aktualisiert
-* 07.07.2021 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG | [Familiarisation and Difference Training](https://drive.google.com/file/d/1vdwqTvfX290SYWCNW-PJRjaLL_vrTIRE/view?usp=sharing) | aktualisiert
 * 06.07.2021 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG/Volllast Einweisung | [Volllasteinweisung] (https://drive.google.com/file/d/1l4RKRJ2nQZWQ9yXne5unLhCKEuuMMbSe/view?usp=sharing) | hinzugefügt
 * 02.07.2021 | .../.../30-10-10 Pre-Flight/Mass & Balance | [W&B DR40](https://drive.google.com/file/d/1zGspYrrvaRJce-UFmudhsOJkk4eGgvB7/view?usp=sharing) | aktualisiert
 * 30.06.2021 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG/Pipistrel PIVE | [Unterlagen Pipistrel](https://drive.google.com/drive/folders/1pU0ddjTRmQUX7f2CCeyTC-X5BlE_QUYY) | hinzugefügt 
