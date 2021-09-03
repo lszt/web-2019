@@ -10,7 +10,6 @@ description: Geschichte der Motorfluggruppe Thurgau MFGT
 Vereinsgründung am 25. Juni 1946.
 
 
-
 **1946 – 1961**
 
 Die Gründung der Motorfluggruppe Thurgau erfolgte aus einer Zwangslage heraus: Zwei begeisterte Jungpiloten, Bruno Schmitt und Hans Muhl – beide noch Studenten – versuchten mit Passagierflügen ihren dreiplätzigen Hochdecker Coudron «Frégatte» abzuzahlen und zu unterhalten.
