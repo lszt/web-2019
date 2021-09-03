@@ -7,7 +7,7 @@ description: Geschichte der Motorfluggruppe Thurgau MFGT
 ---
 **1946**
 
-25. Juni 1946 Vereinsgründung
+Vereinsgründung am 25. Juni 1946.
 
 
 
