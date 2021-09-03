@@ -88,3 +88,5 @@ Die Piper Archer HB-PGM wird verkauft und stattdessen eine weitere Diesel-Robin 
 **2021**
 
 Die neue Diesel-Robin HB-KLD wird eingeführt und die MFGT startet ein Projekt im Elektroflug mit der Pipistrel Velis Electro. Ein weiteres Projekt ist die Einführung des neuen VFR-Simulators für die Flugschule.
+
+Im August feiert die MFGT ihr "75 Jahr Jubiläum" mit einem grossen Air Festival.
