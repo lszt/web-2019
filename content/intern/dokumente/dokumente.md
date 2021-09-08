@@ -8,7 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
-* 08.09.2021 | .../.../30-10-10 Pre-Flight/Mass & Balance | [Pipistrel M&B Performance] (https://drive.google.com/file/d/1hAj-3h5xeWSjKT6X2kUKn4nEn6HZrdYi/view?usp=sharing) | hinzugefügt
+* 08.09.2021 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG/Pipistrel PIVE/M&B Performance | [Pipistrel M&B Performance] (https://drive.google.com/file/d/1hAj-3h5xeWSjKT6X2kUKn4nEn6HZrdYi/view?usp=sharing) | hinzugefügt
 * 01.09.2021 | .../.../30-10-10 Familiarisation & Difference TRNG | [Familiarisation and Difference Training] (https://drive.google.com/file/d/16CDobQaCxboYomrWvJ4p9hniRX5yU1mp/view?usp=sharing) | aktualisiert
 * 29.08.2021 | .../.../30-10-20 Flight OPS/Briefing | [DEP & APR Briefing] (https://drive.google.com/file/d/1E8g_fQcVtKMKfImrLKOq1O1gjiJT-YFL/view?usp=sharing) | aktualisiert
 * 29.08.2021 | .../.../30-10-20 Flight OPS/Procedures | [MFGT Procedures Pipistrel PIVE] (https://drive.google.com/file/d/1s3_2FN_pCdQUgj5zSP6-V1L0_vpMirvH/view?usp=sharing) | aktualisiert
