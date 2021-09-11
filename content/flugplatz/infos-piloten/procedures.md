@@ -28,6 +28,11 @@ Alle anderen Flugzeuge (inkl. MwSt): CHF 20.–
 MTOM > 1500 kg\
 Alle anderen Flugzeuge (inkl. MwSt): CHF 50.–
 
+**Treibstoffpreise**
+
+MOGAS (inkl. MwSt): 1.80 CHF/Ltr.\
+AVGAS (inkl. MwSt): 2.20 CHF/Ltr.
+
 **Abstellplatz im Freien**\
 pro Übernachtung (inkl. MwSt): CHF 15.–
 
@@ -36,11 +41,11 @@ pro Übernachtung (inkl. MwSt): CHF 30.–
 
 **AD Info**
 
-![](/img/uploads/bild_piloteninfos_vac.jpg)
+![null](/img/uploads/bild_piloteninfos_vac.jpg)
 
 [Download VAC](https://drive.google.com/a/mfgt.ch/file/d/1jEGnBAYojDRh-UdCEI4TGfauzU7eSCtn/view?usp=sharing)
 
-![](/img/uploads/bild_piloteninfos_ad-info.jpg)
+![null](/img/uploads/bild_piloteninfos_ad-info.jpg)
 
 [Download AD Info](https://drive.google.com/a/mfgt.ch/file/d/1iQBUCZ45rKlyD6w3_GW4NHezcb4X2PJy/view?usp=sharing)
 Angaben ohne Gewähr. Massgebend sind die offiziellen Publikationen (VFR Manual CH)\
