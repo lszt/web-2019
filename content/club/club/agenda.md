@@ -6,14 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 11.09.2021 | Verschiebedatum AeCOS Fly-In Saanen
-
-Flugplatz Saanen
-
-### 11. - 12.09.2021 | ElectriFLY-In Switzerland 2021
-
-Flugplatz Grenchen | [Info's](https://electrifly-in.ch/de/mission-2/)
-
 ### 24.09.2021 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
