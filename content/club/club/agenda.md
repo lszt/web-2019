@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 24.09.2021 | 18:30 | Clubhöck
-
-Rita's Flugplatzbeizli
-
 ### 02. - 03.10.2021 | Fly-Away
 
 Wroclaw Polen | [Anmeldung](https://doodle.com/poll/isw85svm86b7fh9r)
