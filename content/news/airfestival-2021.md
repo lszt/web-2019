@@ -1,7 +1,7 @@
 ---
 title: Neuer Flugplatzwart gesucht
 date: '2021-08-25T11:18:40+02:00'
-draft: true
+draft: false
 image: /img/uploads/bild_flugplatzchef.png
 positionx: 50
 positiony: 50
