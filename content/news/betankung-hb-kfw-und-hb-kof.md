@@ -1,7 +1,7 @@
 ---
 title: Betankung HB-KFW und HB-KOF
 date: '2020-01-28T17:19:13+01:00'
-draft: false
+draft: true
 image: /img/uploads/flotte_kfw.jpg
 positionx: 50
 positiony: 50
