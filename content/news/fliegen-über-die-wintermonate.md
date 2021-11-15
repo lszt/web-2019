@@ -1,7 +1,7 @@
 ---
 title: Fliegen über die Wintermonate
 date: '2020-11-04T13:25:14+01:00'
-draft: true
+draft: false
 image: /img/uploads/fliegen_winter.jpg
 positionx: 50
 positiony: 50
