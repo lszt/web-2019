@@ -10,7 +10,103 @@ buttons: []
 
 Rita's Flugplatzbeizli
 
+### 22.01.2022 | Infoanlass Flugschule
+
+Flugplatz Lommis
+
 ### 28.01.2022 | 18:30 | Clubhöck
+
+Rita's Flugplatzbeizli
+
+### 29.01. - 19.03.2022 | RTF Praxis Englisch
+
+Theoriesaal Flugplatz Lommis
+
+### 11.02.2022 | Racletteplausch
+
+Rita's Flugplatzbeizli
+
+### 25.02.2022 | 18:30| Clubhöck
+
+Rita's Flugplatzbeizli
+
+### 05.03.2022 | MFGT Refresher
+
+MZH Lommis
+
+### 25.03.2022 | GV MFGT
+
+MZH Lommis
+
+### 26.03.2022 | Flugplatzputzete
+
+Flugplatz Lommis
+
+### 26.03.2022 | Voice-Refresher
+
+Theoriesaal Flugplatz Lommis
+
+### 02.04.2022 | Voice-Refresher
+
+Theoriesaal Flugplatz Lommis
+
+### 03.04. - 16.04.2022 | Sphairkurs 1/22
+
+Flugplatz Lommis
+
+### 23.04.2022 | Infoanlass Flugschule
+
+Flugplatz Lommis
+
+### 29.04.2022 | 18:30 | Clubhöck
+
+Rita's Flugplatzbeizli
+
+### 27.05.2022 | 18:30  Clubhöck
+
+Rita's Flugplatzbeizli
+
+### 17.06. - 19.06.2022 | Fly Away 1/2022 Flugschule
+
+noch offen
+
+### 24.06.2022 | 18:30 | Clubhöck
+
+Rita's Flugplatzbeizli
+
+### 10.07. - 23.07.2022 | Sphairkurs 2/22
+
+Flugplatz Lommis
+
+### 24.06.2022 | 18:30 | Clubhöck
+
+Rita's Flugplatzbeizli
+
+### 31.07. - 13.08.2022 | Sphairkurs 3/22
+
+Flugplatz Lommis
+
+### 26.08.2022 | 18:30 | Clubhöck
+
+Rita's Flugplatzbeizli
+
+### 30.09.2022 | 18:30 | Clubhöck
+
+Rita's Flugplatzbeizli
+
+### 02.10. - 19.11.2022 | RTF Praxis Englisch
+
+Theoriesaal Flugplatz Lommis
+
+### 09.10. - 22.10.2022 | Sphairkurs 4/22
+
+Flugplatz Lommis
+
+### 28.10.2022 | 18:30 | Clubhöck
+
+Rita's Flugplatzbeizli
+
+### 25.11.2022 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
 
