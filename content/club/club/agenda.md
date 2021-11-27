@@ -50,7 +50,7 @@ Theoriesaal Flugplatz Lommis
 
 Theoriesaal Flugplatz Lommis
 
-### 03.04. - 16.04.2022 | Sphairkurs 1/22
+### 03.04. - 16.04.2022 | Sphairkurs 1 / 22
 
 Flugplatz Lommis
 
@@ -66,7 +66,7 @@ Rita's Flugplatzbeizli
 
 Rita's Flugplatzbeizli
 
-### 17.06. - 19.06.2022 | Fly Away 1/2022 Flugschule
+### 17.06. - 19.06.2022 | Fly Away 1 / 2022 Flugschule
 
 noch offen
 
@@ -74,7 +74,7 @@ noch offen
 
 Rita's Flugplatzbeizli
 
-### 10.07. - 23.07.2022 | Sphairkurs 2/22
+### 10.07. - 23.07.2022 | Sphairkurs 2 / 22
 
 Flugplatz Lommis
 
@@ -82,7 +82,7 @@ Flugplatz Lommis
 
 Rita's Flugplatzbeizli
 
-### 31.07. - 13.08.2022 | Sphairkurs 3/22
+### 31.07. - 13.08.2022 | Sphairkurs 3 / 22
 
 Flugplatz Lommis
 
@@ -98,7 +98,7 @@ Rita's Flugplatzbeizli
 
 Theoriesaal Flugplatz Lommis
 
-### 09.10. - 22.10.2022 | Sphairkurs 4/22
+### 09.10. - 22.10.2022 | Sphairkurs 4 / 22
 
 Flugplatz Lommis
 
