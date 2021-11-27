@@ -62,7 +62,7 @@ Flugplatz Lommis
 
 Rita's Flugplatzbeizli
 
-### 27.05.2022 | 18:30  Clubhöck
+### 27.05.2022 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
 
@@ -78,7 +78,7 @@ Rita's Flugplatzbeizli
 
 Flugplatz Lommis
 
-### 24.06.2022 | 18:30 | Clubhöck
+### 29.07.2022 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
 
