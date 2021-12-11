@@ -8,7 +8,7 @@ buttons: []
 ---
 ### 22.01.2022 | Infoanlass Flugschule
 
-Flugplatz Lommis | \[Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
+Flugplatz Lommis | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
 ### 28.01.2022 | 18:30 | Clubhöck
 
@@ -52,7 +52,7 @@ Flugplatz Lommis
 
 ### 23.04.2022 | Infoanlass Flugschule
 
-Flugplatz Lommis | \[Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
+Flugplatz Lommis | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
 ### 29.04.2022 | 18:30 | Clubhöck
 
