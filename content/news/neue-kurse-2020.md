@@ -1,6 +1,6 @@
 ---
 title: Neue Kurse 2022
-date: '2021-12-11T13:37:57+01:00'
+date: '2021-12-11T11:37:57+01:00'
 draft: false
 image: /img/uploads/ausbildung_praktische_ausbildung.jpg
 positionx: 50
