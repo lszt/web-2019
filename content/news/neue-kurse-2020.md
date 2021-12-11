@@ -11,7 +11,7 @@ description: >-
 ---
 Folgende Kurse wurden hinzugefügt:
 
-* [PP Theoriekurs] (/flugschule/ausbildung/theorie/)
+* [PP Theoriekurs] (/flugschule/ausbildung/theorie/) (auch Heli Allgemeine Fächer und TMG)
 * [Radiotelefonie Englisch] (/flugschule/ausbildung/voice/)
 * [Infoanlässe der Flugschule] (/flugschule/naechste-schritte/infoabend/)
 
