@@ -6,7 +6,7 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 22.01.2022 | Infoanlass Flugschule
+### 22.01.2022 | 09:00 | Infoanlass Flugschule
 
 Flugplatz Lommis | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
@@ -50,7 +50,7 @@ Theoriesaal Flugplatz Lommis
 
 Flugplatz Lommis
 
-### 23.04.2022 | Infoanlass Flugschule
+### 23.04.2022 | 09:00 | Infoanlass Flugschule
 
 Flugplatz Lommis | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
