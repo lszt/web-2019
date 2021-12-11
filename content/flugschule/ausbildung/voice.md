@@ -17,7 +17,7 @@ buttons:
     url: >-
       https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform
 ---
-Der Radiotelefonie-Kurs wird von professionellen Voice-Instruktorinnen und Instruktoren durchgeführt und mit der Prüfung durch das BAZL abgeschlossen. 
+Der Radiotelefonie-Kurs (auch als Funkkurs, Voice Kurs oder RTF Kurs bezeichnet) wird von professionellen Voice-Instruktorinnen und Instruktoren durchgeführt und mit der Prüfung durch das BAZL abgeschlossen. 
 
 Der Besuch der ersten beiden Kursdaten ist oligatorisch (im Kursprogamm lila dargestellt). Selbstverständlich kann bei Bedarf eine verpasste Lektion auf privater Basis nachgeholt werden.
 
