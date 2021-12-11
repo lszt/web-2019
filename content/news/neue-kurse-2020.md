@@ -12,7 +12,7 @@ description: >-
 Folgende Kurse wurden hinzugefügt:
 
 * [PP Theoriekurs] (/flugschule/ausbildung/theorie/)
-* [Radiotelefonie Englisch] (/flugschule/ausbildung/radiotelefonie/)
+* [Radiotelefonie Englisch] (/flugschule/ausbildung/voice/)
 * [Infoanlässe der Flugschule] (/flugschule/naechste-schritte/infoabend/)
 
 Eine Anmeldung kann direkt auf der Seite des jeweiligen Kurses oder über die [Agenda] (/club/club/agenda/) erfolgen.
