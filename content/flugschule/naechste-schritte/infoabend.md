@@ -20,7 +20,8 @@ Wir zeigen Dir, wie die Ausbildung aufgebaut ist, welche Voraussetzungen Du mitb
 
 Der nächste Anlass finden statt am:
 
-Samstag, 09.10.2021, 09:00
+Samstag, 22.01.2022, 09:00
+Samstag, 23.04.2022, 09:00
 
 Theoriesaal Flugplatz Lommis
 
