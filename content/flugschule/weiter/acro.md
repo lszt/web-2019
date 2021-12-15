@@ -5,8 +5,6 @@ draft: false
 weight: '1'
 image: /img/uploads/bild_akro.jpg
 description: >-
-  ### <font color="red">Das Sicherheitstraining 2020 wurde abgesagt!</font>
-
   Die Flugschule der Motorfluggruppe Thurgau organisiert einmal im Jahr ein
   Sicherheitstraining mit einem Kunstfluglehrer. Zur Verwendung kommt eine voll
   kunstflugtaugliche FFA AS202 BRAVO.
