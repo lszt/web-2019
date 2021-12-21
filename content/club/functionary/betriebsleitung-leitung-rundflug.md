@@ -3,11 +3,11 @@ title: Flugplatzleiter
 date: '2019-05-10T15:48:56+02:00'
 draft: false
 weight: '2'
-image: /img/uploads/bild_wasser.jpg
+image: /img/uploads/heinzelmann.jpg
 description: |-
-  **Jean-Claude Wasser**
+  **André Heinzelmann**
 
-  T +41 52 366 33 33\
-  <mailto:jean-claude.wasser@mfgt.ch>
+  T +41 79 429 76 41\
+  <mailto:andre.heinzelmann@mfgt.ch>
 ---
 
