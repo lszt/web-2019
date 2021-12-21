@@ -2,7 +2,7 @@
 title: MFGT testet Elektroflugzeug
 date: '2021-07-27T14:28:42+02:00'
 draft: false
-image: /img/uploads/velis_electro_02.jpeg
+image: /img/uploads/velis_electro_01.jpg
 positionx: 50
 positiony: 50
 description: >-
