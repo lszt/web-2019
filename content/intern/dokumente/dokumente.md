@@ -16,7 +16,7 @@ description: >-
 * 09.11.2021 | .../.../30-10-10 Pre-Flight/Pre-Flight Briefing | [Flight-Preperation & Briefing Structure] (https://drive.google.com/file/d/1w2qIYL4p9LwY_ynV1tobh2jBd8LmP5OD/view?usp=sharing) | aktualisiert
 * 22.09.2021 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Working Checklist | [Checkliste Pipistrel] (https://drive.google.com/file/d/1jgtSaPsznstY4GWudLK0jwPe4lCbbz8b/view?usp=sharing) | aktualisiert
 * 08.09.2021 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG/Pipistrel PIVE/M&B Performance | [Pipistrel M&B Performance] (https://drive.google.com/file/d/1hAj-3h5xeWSjKT6X2kUKn4nEn6HZrdYi/view?usp=sharing) | hinzugefügt
-* 01.09.2021 | .../.../30-10-10 Familiarisation & Difference TRNG | [Familiarisation and Difference Training] (https://drive.google.com/file/d/16CDobQaCxboYomrWvJ4p9hniRX5yU1mp/view?usp=sharing) | aktualisiert
+* 01.09.2021 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG | [Familiarisation and Difference Training] (https://drive.google.com/file/d/16CDobQaCxboYomrWvJ4p9hniRX5yU1mp/view?usp=sharing) | aktualisiert
 * 29.08.2021 | .../.../30-10-20 Flight OPS/Briefing | [DEP & APR Briefing] (https://drive.google.com/file/d/1E8g_fQcVtKMKfImrLKOq1O1gjiJT-YFL/view?usp=sharing) | aktualisiert
 * 29.08.2021 | .../.../30-10-20 Flight OPS/Procedures | [MFGT Procedures Pipistrel PIVE] (https://drive.google.com/file/d/1s3_2FN_pCdQUgj5zSP6-V1L0_vpMirvH/view?usp=sharing) | aktualisiert
 * 26.07.2021 | .../.../30-10-10 Pre-Flight/FS Notice | [MFGT eLearning Plattform](https://drive.google.com/file/d/1w-NlEoa8HkYLbBdloShdrlpFPpq8eGKw/view?usp=sharing) | hinzugefügt
