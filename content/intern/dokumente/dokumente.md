@@ -8,6 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 22.12.2021 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG/Glascockpit EFIS | Trainingsvideos Garmin | hinzugefügt 
 * 15.12.2021 | .../.../30-10-30 Post Flight/Prozesse | [License Revalidation] (https://drive.google.com/file/d/1WipMtcUIOKIOjC63IvC7PLuJj8jyHTga/view?usp=sharing) | aktualisiert
 * 08.12.2021 | .../.../30-40-30 Refresher/Refresher 22_23 | Diverse Unterlagen | hinzugefügt
 * 08.12.2021 | .../.../30-10-10 Pre-Flight/To Do_MFGT Admin | [MFGT "To-Do" Prozesse] (https://drive.google.com/file/d/1QCBSs10QP6IVlPmLAsM3vs1X9h2AQnWg/view?usp=sharing) | hinzugefügt
