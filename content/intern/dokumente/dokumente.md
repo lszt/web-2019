@@ -8,7 +8,8 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
-* 08.01.2022 | .../.../30-10-10 Pre-Flight/FS Notice | [MFGT eLearning Login](https://drive.google.com/file/d/1YDwAk34taowXnqUAN1mgabda9gLcY8zq/view?usp=sharing) | hinzugefügt
+* 10.01.2022 | .../.../30-10-10 Pre-Flight/FS Notice | [MFGT eLearning Plattform](https://drive.google.com/file/d/16w6jxkMimHdyc2lFnzkZcbO-uZHQ-Fwt/view?usp=sharing) | aktualisiert
+* 10.01.2022 | .../.../30-10-10 Pre-Flight/FS Notice | [MFGT eLearning Login](https://drive.google.com/file/d/1hweVUYqgyILEsHtiElrfvI-1j8jSUxr0/view?usp=sharing) | aktualisiert
 * 08.01.2022 | .../.../30-10-10 Pre-Flight/FS Notice | [List of effective Notice](https://drive.google.com/file/d/1qePsGB5dn2JEDXeJ9aamC-nQY5GDKdNv/view?usp=sharing) | aktualisiert
 * 22.12.2021 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG/Glascockpit EFIS | Trainingsvideos Garmin | hinzugefügt 
 * 15.12.2021 | .../.../30-10-30 Post Flight/Prozesse | [License Revalidation] (https://drive.google.com/file/d/1WipMtcUIOKIOjC63IvC7PLuJj8jyHTga/view?usp=sharing) | aktualisiert
@@ -21,7 +22,6 @@ description: >-
 * 01.09.2021 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG | [Familiarisation and Difference Training] (https://drive.google.com/file/d/16CDobQaCxboYomrWvJ4p9hniRX5yU1mp/view?usp=sharing) | aktualisiert
 * 29.08.2021 | .../.../30-10-20 Flight OPS/Briefing | [DEP & APR Briefing] (https://drive.google.com/file/d/1E8g_fQcVtKMKfImrLKOq1O1gjiJT-YFL/view?usp=sharing) | aktualisiert
 * 29.08.2021 | .../.../30-10-20 Flight OPS/Procedures | [MFGT Procedures Pipistrel PIVE] (https://drive.google.com/file/d/1s3_2FN_pCdQUgj5zSP6-V1L0_vpMirvH/view?usp=sharing) | aktualisiert
-* 26.07.2021 | .../.../30-10-10 Pre-Flight/FS Notice | [MFGT eLearning Plattform](https://drive.google.com/file/d/1w-NlEoa8HkYLbBdloShdrlpFPpq8eGKw/view?usp=sharing) | hinzugefügt
 * 17.07.2021 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG/Pipistrel PIVE | [Dokumentstruktur](https://drive.google.com/drive/folders/1pU0ddjTRmQUX7f2CCeyTC-X5BlE_QUYY) | aktualisiert
 * 06.07.2021 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG/Volllast Einweisung | [Volllasteinweisung] (https://drive.google.com/file/d/1l4RKRJ2nQZWQ9yXne5unLhCKEuuMMbSe/view?usp=sharing) | hinzugefügt
 * 02.07.2021 | .../.../30-10-10 Pre-Flight/Mass & Balance | [W&B DR40](https://drive.google.com/file/d/1zGspYrrvaRJce-UFmudhsOJkk4eGgvB7/view?usp=sharing) | aktualisiert
