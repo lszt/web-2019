@@ -25,6 +25,4 @@ Samstag, 23.04.2022, 09:00
 
 Theoriesaal Flugplatz Lommis
 
-Für Weitere Informationen wende dich bitte an <mailto:info@mfgt.ch>
-
-[Hier Flyer downloaden](https://drive.google.com/file/d/1nad-NdKCy5PJA21WvRDpCSOLJMGIRSpC/view?usp=sharing)
+Für weitere Informationen wende dich bitte an <mailto:info@mfgt.ch>
