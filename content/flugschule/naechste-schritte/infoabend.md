@@ -16,14 +16,15 @@ buttons:
     url: >-
       https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform
 ---
-Wir zeigen Dir, wie die Ausbildung aufgebaut ist, welche Voraussetzungen Du mitbringen solltest und mit welchen Kosten Du rechnen musst. Das Wichtigste aber: Wir wollen Dich fürs Fliegen begeistern!
+Wir zeigen dir, wie die Ausbildung aufgebaut ist, welche Voraussetzungen du mitbringen solltest und mit welchen Kosten du rechnen musst. Das Wichtigste aber: Wir wollen dich fürs Fliegen begeistern!
 
-Die nächsten Anlässe finden statt am:
+**Die nächsten Anlässe finden statt am:**
 
-Samstag, 22.01.2022, 09.00 Uhr
-Samstag, 23.04.2022, 09.00 Uhr
+**Samstag, 22.01.2022, 09.00 Uhr**
 
-Flugplatz Lommis
+**Samstag, 23.04.2022, 09.00 Uhr**
+
+Treffpunkt: Vor dem Clubhaus, Flugplatz Lommis
 
 Für weitere Informationen wende dich bitte an <mailto:andre.heinzelmann@mfgt.ch>
 
