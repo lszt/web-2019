@@ -18,11 +18,13 @@ buttons:
 ---
 Wir zeigen Dir, wie die Ausbildung aufgebaut ist, welche Voraussetzungen Du mitbringen solltest und mit welchen Kosten Du rechnen musst. Das Wichtigste aber: Wir wollen Dich fürs Fliegen begeistern!
 
-Der nächste Anlass finden statt am:
+Die nächsten Anlässe finden statt am:
 
-Samstag, 22.01.2022, 09:00
-Samstag, 23.04.2022, 09:00
+Samstag, 22.01.2022, 09.00 Uhr
+Samstag, 23.04.2022, 09.00 Uhr
 
-Theoriesaal Flugplatz Lommis
+Flugplatz Lommis
 
-Für weitere Informationen wende dich bitte an <mailto:info@mfgt.ch>
+Für weitere Informationen wende dich bitte an <mailto:andre.heinzelmann@mfgt.ch>
+
+\> [Download Infoflyer](https://drive.google.com/file/d/1qY5f8h5upaYt8NcdoV6MlGH7CY5JXCgV/view?usp=sharing)
