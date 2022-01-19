@@ -30,10 +30,6 @@ Rita's Flugplatzbeizli
 
 MZH Lommis
 
-### 25.03.2022 | GV MFGT
-
-MZH Lommis
-
 ### 26.03.2022 | Flugplatzputzete
 
 Flugplatz Lommis
@@ -41,6 +37,10 @@ Flugplatz Lommis
 ### 26.03.2022 | Voice-Refresher
 
 Theoriesaal Flugplatz Lommis
+
+### 01.04.2022 | GV MFGT
+
+Flugplatz Lommis
 
 ### 02.04.2022 | Voice-Refresher
 
