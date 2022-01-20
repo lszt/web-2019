@@ -8,6 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 20.01.2022 | Intern/Dokumente | [Preis- und Kostenübersicht 2022] (https://drive.google.com/file/d/10hU81LUrOLthxxJ9Z8m8XQE4zQzOr4L-/view?usp=sharing) | aktualisiert
 * 10.01.2022 | .../.../30-10-10 Pre-Flight/FS Notice | [MFGT eLearning Plattform](https://drive.google.com/file/d/16w6jxkMimHdyc2lFnzkZcbO-uZHQ-Fwt/view?usp=sharing) | aktualisiert
 * 10.01.2022 | .../.../30-10-10 Pre-Flight/FS Notice | [MFGT eLearning Login](https://drive.google.com/file/d/1hweVUYqgyILEsHtiElrfvI-1j8jSUxr0/view?usp=sharing) | aktualisiert
 * 08.01.2022 | .../.../30-10-10 Pre-Flight/FS Notice | [List of effective Notice](https://drive.google.com/file/d/1qePsGB5dn2JEDXeJ9aamC-nQY5GDKdNv/view?usp=sharing) | aktualisiert
