@@ -2,7 +2,7 @@
 title: Fondue-Plausch wird zum Raclette-Plausch
 date: '2022-01-23T10:50:37+01:00'
 draft: false
-image: /img/uploads/fondue.jpg
+image: /img/uploads/raclette.jpg
 positionx: 50
 positiony: 50
 description: 'Raclette-Plausch der MFGT am Freitag, 11.02.2022'
