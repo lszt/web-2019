@@ -1,6 +1,6 @@
 ---
-title: GV und Flugplatzputzete 2021
-date: '2022-01-23T23:45:00+01:00'
+title: GV und Flugplatzputzete 2022
+date: '2022-01-23T17:30:00+01:00'
 draft: false
 image: /img/uploads/ausbildung_luftaufnahme.jpg
 positionx: 50
