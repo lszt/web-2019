@@ -12,6 +12,15 @@ buttons:
   - title: agenda
     url: /club/club/agenda/
 ---
-Für die GV sind nur Aktiv-, Passiv-, U25- und Ehrenmitglieder zugelassen. Die Durchführung hängt von den dann gültigen Corona-Massnahmen ab. Allenfalls wird auf ein Zelt auf dem Flugplatz ausgewichen. 
+Für die GV sind nur Aktiv-, Passiv-, U25- und Ehrenmitglieder zugelassen. 
+
+Die Durchführung hängt von den dann gültigen Corona-Massnahmen ab. 
+Allenfalls wird auf ein Zelt auf dem Flugplatz ausgewichen. 
+
 Die Anmeldung für beide Anlässe erfolgt wie immer über einen Doodle.
-[Anmeldung GV] (https://doodle.com/meeting/participate/id/YaO8vRRb) und [Anmeldung Flugplatzputzete] (https://doodle.com/meeting/participate/id/1aKQoRGd )
+
+[Anmeldung GV] (https://doodle.com/meeting/participate/id/YaO8vRRb) 
+
+und 
+
+[Anmeldung Flugplatzputzete] (https://doodle.com/meeting/participate/id/1aKQoRGd )
