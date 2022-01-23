@@ -40,7 +40,7 @@ Theoriesaal Flugplatz Lommis
 
 ### 01.04.2022 | GV MFGT
 
-Flugplatz Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/YaO8vRRb)
+MZH Lommis oder Flugplatz Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/YaO8vRRb)
 
 ### 02.04.2022 | Voice-Refresher
 
