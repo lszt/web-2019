@@ -18,7 +18,7 @@ Rita's Flugplatzbeizli
 
 Theoriesaal Flugplatz Lommis
 
-### 11.02.2022 | Racletteplausch
+### 11.02.2022 | 18:30 | Racletteplausch
 
 Rita's Flugplatzbeizli | [Anmeldung] (https://doodle.com/poll/n2x48y95w47uvs84?utm_source=poll&utm_medium=link)
 
