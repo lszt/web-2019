@@ -32,7 +32,7 @@ MZH Lommis
 
 ### 26.03.2022 | Flugplatzputzete
 
-Flugplatz Lommis
+Flugplatz Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/1aKQoRGd )
 
 ### 26.03.2022 | Voice-Refresher
 
@@ -40,7 +40,7 @@ Theoriesaal Flugplatz Lommis
 
 ### 01.04.2022 | GV MFGT
 
-Flugplatz Lommis
+Flugplatz Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/YaO8vRRb)
 
 ### 02.04.2022 | Voice-Refresher
 
