@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 22.01.2022 | 09:00 | Infoanlass Flugschule
-
-Flugplatz Lommis | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
-
 ### 28.01.2022 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
@@ -20,7 +16,7 @@ Theoriesaal Flugplatz Lommis
 
 ### 11.02.2022 | 18:30 | Racletteplausch
 
-Rita's Flugplatzbeizli | [Anmeldung] (https://doodle.com/poll/n2x48y95w47uvs84?utm_source=poll&utm_medium=link)
+Rita's Flugplatzbeizli | [Anmeldung](https://doodle.com/poll/n2x48y95w47uvs84?utm_source=poll&utm_medium=link)
 
 ### 25.02.2022 | 18:30| Clubhöck
 
@@ -32,7 +28,7 @@ MZH Lommis
 
 ### 26.03.2022 | Flugplatzputzete
 
-Flugplatz Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/1aKQoRGd )
+Flugplatz Lommis | [Anmeldung](https://doodle.com/meeting/participate/id/1aKQoRGd)
 
 ### 26.03.2022 | Voice-Refresher
 
@@ -40,7 +36,7 @@ Theoriesaal Flugplatz Lommis
 
 ### 01.04.2022 | GV MFGT
 
-MZH Lommis oder Flugplatz Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/YaO8vRRb)
+MZH Lommis oder Flugplatz Lommis | [Anmeldung](https://doodle.com/meeting/participate/id/YaO8vRRb)
 
 ### 02.04.2022 | Voice-Refresher
 
@@ -52,7 +48,7 @@ Flugplatz Lommis
 
 ### 23.04.2022 | 09:00 | Infoanlass Flugschule
 
-Flugplatz Lommis | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
+Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
 ### 29.04.2022 | 18:30 | Clubhöck
 
