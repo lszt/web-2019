@@ -8,6 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 29.01.2022 | .../.../30-10-20 Flight OPS/Briefing | [DEP & APCH Briefing] (https://drive.google.com/file/d/15fwD8dQbjkCe1HISNSV5Z6ieOv-DbEPN/view?usp=sharing) | aktualisiert
 * 20.01.2022 | 40 Flugbetrieb/Charter | [Charterpreise 2022] (https://drive.google.com/file/d/1V8cQkz94Xbt12lgZexgS5dB-qjZ7XcRj/view?usp=sharing) | aktualisiert
 * 10.01.2022 | .../.../30-10-10 Pre-Flight/FS Notice | [MFGT eLearning Plattform](https://drive.google.com/file/d/16w6jxkMimHdyc2lFnzkZcbO-uZHQ-Fwt/view?usp=sharing) | aktualisiert
 * 10.01.2022 | .../.../30-10-10 Pre-Flight/FS Notice | [MFGT eLearning Login](https://drive.google.com/file/d/1hweVUYqgyILEsHtiElrfvI-1j8jSUxr0/view?usp=sharing) | aktualisiert
