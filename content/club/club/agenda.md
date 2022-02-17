@@ -46,6 +46,10 @@ Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXr
 
 Rita's Flugplatzbeizli
 
+### 06.05.2022 | 18:00 | Neumitglieder-Event
+
+Flugplatz Lommis
+
 ### 27.05.2022 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
