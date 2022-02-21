@@ -1,7 +1,7 @@
 ---
 title: Fondue-Plausch wird zum Raclette-Plausch
 date: '2022-01-23T10:50:37+01:00'
-draft: false
+draft: true
 image: /img/uploads/raclette.jpg
 positionx: 50
 positiony: 50
