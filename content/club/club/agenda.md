@@ -10,7 +10,7 @@ buttons: []
 
 Theoriesaal Flugplatz Lommis
 
-### 25.02.2022 | 18:30| Clubhöck
+### 25.02.2022 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
 
@@ -22,19 +22,23 @@ MZH Lommis
 
 Flugplatz Lommis | [Anmeldung](https://doodle.com/meeting/participate/id/1aKQoRGd)
 
-### 26.03.2022 | Voice-Refresher
+### 27.03.2022 | 09:00 | Voice-Refresher
+
+Theoriesaal Flugplatz Lommis
+
+### 27.03.2022 | 13:00 | Voice-Refresher
 
 Theoriesaal Flugplatz Lommis
 
 ### 01.04.2022 | GV MFGT
 
-MZH Lommis oder Flugplatz Lommis | [Anmeldung](https://doodle.com/meeting/participate/id/YaO8vRRb)
+MZH Lommis | [Anmeldung](https://doodle.com/meeting/participate/id/YaO8vRRb)
 
-### 02.04.2022 | Voice-Refresher
+### 02.04.2022 | 13:30 | Voice-Refresher
 
 Theoriesaal Flugplatz Lommis
 
-### 03.04. - 16.04.2022 | Sphairkurs 1 / 22
+### 03.04. - 16.04.2022 | SPHAIR Kurs 1 / 22
 
 Flugplatz Lommis
 
@@ -54,15 +58,19 @@ Flugplatz Lommis
 
 Rita's Flugplatzbeizli
 
-### 17.06. - 19.06.2022 | Fly Away 1 / 2022 Flugschule
+### 15.06.2022 | 19:00 | Briefing Fly Away
 
-noch offen
+Theoriesaal Flugplatz Lommis
+
+### 17.06. - 19.06.2022 | Fly Away 1 / 2022 Flugschule MFGT
+
+nach Budapest (H)
 
 ### 24.06.2022 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
 
-### 10.07. - 23.07.2022 | Sphairkurs 2 / 22
+### 10.07. - 23.07.2022 | SPHAIR Kurs 2 / 22
 
 Flugplatz Lommis
 
@@ -70,13 +78,21 @@ Flugplatz Lommis
 
 Rita's Flugplatzbeizli
 
-### 31.07. - 13.08.2022 | Sphairkurs 3 / 22
+### 31.07. - 13.08.2022 | SPHAIR Kurs 3 / 22
 
 Flugplatz Lommis
 
 ### 26.08.2022 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
+
+### 17.09.2022 | 09:00 | Infoanlass Flugschule
+
+Flugplatz Lommis | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
+
+### 22. - 25.09.2022 | Flay Away 2 / 2022 Flugschule MFGT
+
+für Fortgeschrittene
 
 ### 30.09.2022 | 18:30 | Clubhöck
 
@@ -86,7 +102,7 @@ Rita's Flugplatzbeizli
 
 Theoriesaal Flugplatz Lommis
 
-### 09.10. - 22.10.2022 | Sphairkurs 4 / 22
+### 09.10. - 22.10.2022 | SPHAIR Kurs 4 / 22
 
 Flugplatz Lommis
 
@@ -97,6 +113,10 @@ Rita's Flugplatzbeizli
 ### 25.11.2022 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
+
+### 26.11.2022 | 09:00 | Infoanlass Flugschule
+
+Flugplatz Lommis | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
 <hr>
 
