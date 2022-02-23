@@ -18,7 +18,7 @@ Rita's Flugplatzbeizli
 
 MZH Lommis
 
-### 26.03.2022 | Flugplatzputzete
+### 26.03.2022 | 08:30 | Flugplatzputzete
 
 Flugplatz Lommis | [Anmeldung](https://doodle.com/meeting/participate/id/1aKQoRGd)
 
