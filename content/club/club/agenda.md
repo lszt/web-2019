@@ -64,7 +64,7 @@ Theoriesaal Flugplatz Lommis
 
 ### 17.06. - 19.06.2022 | Fly Away 1 / 2022 Flugschule MFGT
 
-nach Budapest (H)
+nach Budapest (H) | [Anmeldung] (https://doodle.com/poll/pu6udbk4yzxb6v6s)
 
 ### 24.06.2022 | 18:30 | Clubhöck
 
