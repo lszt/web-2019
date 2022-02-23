@@ -10,7 +10,6 @@ description: >-
 ---
 * 23.02.2022 | 40 Flugbetrieb/Charter | [Daten Flugzeuge MFGT] (https://drive.google.com/file/d/1hqofasezyOjHe8L9gaOFmz6ABI72uvfz/view?usp=sharing) | aktualisiert
 * 23.02.2022 | 40 Flugbetrieb/Charter | [Fliegen über die Wintermonate] (https://drive.google.com/file/d/1MZETDBAAUTEDpWmxBbCAgrl_taUurrwQ/view?usp=sharing) | aktualisiert
-
 * 14.02.2022 | 40 Flugbetrieb | [Link zur digitalen Startliste] (https://drive.google.com/file/d/1rHxNzCT_KRWYzxVm0PAVhnGdyo_KxwT3/view?usp=sharing) | hinzugefügt
 * 29.01.2022 | .../.../30-10-20 Flight OPS/Briefing | [DEP & APCH Briefing] (https://drive.google.com/file/d/15fwD8dQbjkCe1HISNSV5Z6ieOv-DbEPN/view?usp=sharing) | aktualisiert
 * 20.01.2022 | 40 Flugbetrieb/Charter | [Charterpreise 2022] (https://drive.google.com/file/d/1V8cQkz94Xbt12lgZexgS5dB-qjZ7XcRj/view?usp=sharing) | aktualisiert
