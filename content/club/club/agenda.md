@@ -14,10 +14,6 @@ Theoriesaal Flugplatz Lommis
 
 Rita's Flugplatzbeizli
 
-### 05.03.2022 | MFGT Refresher
-
-MZH Lommis
-
 ### 26.03.2022 | 08:30 | Flugplatzputzete
 
 Flugplatz Lommis | [Anmeldung](https://doodle.com/meeting/participate/id/1aKQoRGd)
@@ -64,7 +60,7 @@ Theoriesaal Flugplatz Lommis
 
 ### 17.06. - 19.06.2022 | Fly Away 1 / 2022 Flugschule MFGT
 
-nach Budapest (H) | [Anmeldung] (https://doodle.com/poll/pu6udbk4yzxb6v6s)
+nach Budapest (H) | [Anmeldung](https://doodle.com/poll/pu6udbk4yzxb6v6s)
 
 ### 24.06.2022 | 18:30 | Clubhöck
 
@@ -88,7 +84,7 @@ Rita's Flugplatzbeizli
 
 ### 17.09.2022 | 09:00 | Infoanlass Flugschule
 
-Flugplatz Lommis | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
+Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
 ### 22. - 25.09.2022 | Flay Away 2 / 2022 Flugschule MFGT
 
@@ -116,7 +112,7 @@ Rita's Flugplatzbeizli
 
 ### 26.11.2022 | 09:00 | Infoanlass Flugschule
 
-Flugplatz Lommis | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
+Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
 <hr>
 
