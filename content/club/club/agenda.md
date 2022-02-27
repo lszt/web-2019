@@ -18,11 +18,11 @@ Rita's Flugplatzbeizli
 
 Flugplatz Lommis | [Anmeldung](https://doodle.com/meeting/participate/id/1aKQoRGd)
 
-### 27.03.2022 | 09:00 | Voice-Refresher
+### 27.03.2022 | 09:00 | Voice-Refresher 1
 
 Theoriesaal Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
-### 27.03.2022 | 13:00 | Voice-Refresher
+### 27.03.2022 | 13:00 | Voice-Refresher 2
 
 Theoriesaal Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
@@ -30,7 +30,11 @@ Theoriesaal Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FA
 
 MZH Lommis | [Anmeldung](https://doodle.com/meeting/participate/id/YaO8vRRb)
 
-### 02.04.2022 | 13:30 | Voice-Refresher
+### 02.04.2022 | 09:00 | Voice-Refresher 3
+
+Theoriesaal Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
+
+### 02.04.2022 | 13:00 | Voice-Refresher 4
 
 Theoriesaal Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
