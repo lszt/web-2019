@@ -7,8 +7,7 @@ image: /img/uploads/heinzelmann.jpg
 description: |-
   **André Heinzelmann**
 
-  T +41 79 429 76 41
-
+  T +41 79 429 76 41/
   <mailto:andre.heinzelmann@mfgt.ch>
 ---
 
