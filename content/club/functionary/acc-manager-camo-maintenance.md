@@ -2,7 +2,7 @@
 title: Maintenance Manager
 date: '2021-05-01T02:00:48+02:00'
 draft: false
-weight: '4'
+weight: '5'
 image: /img/uploads/bild_klassen.jpg
 description: |-
   **Markus Klassen**
