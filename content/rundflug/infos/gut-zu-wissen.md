@@ -12,10 +12,11 @@ description: |-
 
   An allen übrigen Tagen sind Rundflüge auf Voranmeldung möglich.
 buttons:
-  - cta: true
+  - blank: true
+    cta: true
     title: Flyer
-    url: 'https://drive.google.com/a/mfgt.ch/file/d/1rLLlwYhoBN-2E7XHrSDpKiGsotK4wFob/view'
-    blank: true
+    url: >-
+      https://drive.google.com/a/mfgt.ch/file/d/1rLLlwYhoBN-2E7XHrSDpKiGsotK4wFob/view
 ---
 **Ein Rundflug ist ab einer Buchung für 2 Passagiere möglich.**\
 Jeder Passagier erhält für diesen gemeinsamen Flug einen separaten Gutschein.
@@ -24,3 +25,6 @@ Jeder Passagier erhält für diesen gemeinsamen Flug einen separaten Gutschein.
 Rufen Sie uns bitte in jedem Fall kurz vor Ihrem Flug nochmals an. So können wir Ihren Flug optimal terminieren. Für weitere Auskünfte und Informationen über die Durchführung der Flüge steht Ihnen das Sekretariat gerne zur Verfügung:
 
 Telefon +41 52 366 33 33 oder <mailto:sekretariat@mfgt.ch>
+
+**Ausschluss:**\
+US-amerikanische Staatsbürger sind aus rechtlichen Gründen von der Beförderung ausgeschlossen.
