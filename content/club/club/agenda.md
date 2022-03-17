@@ -10,10 +10,6 @@ buttons: []
 
 Theoriesaal Flugplatz Lommis
 
-### 25.02.2022 | 18:30 | Clubhöck
-
-Rita's Flugplatzbeizli
-
 ### 26.03.2022 | 08:30 | Flugplatzputzete
 
 Flugplatz Lommis | [Anmeldung](https://doodle.com/meeting/participate/id/1aKQoRGd)
