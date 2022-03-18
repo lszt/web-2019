@@ -19,4 +19,4 @@ buttons:
     title: infos
     url: 'https://www.gletscherflug.ch/'
 ---
-
+Weiterführende Informationen zum Thema Gebirgs-/Gletscherflug sind [hier] (https://www.gletscherflug.ch/) zu finden.
