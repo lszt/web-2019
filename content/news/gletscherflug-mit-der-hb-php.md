@@ -14,9 +14,5 @@ buttons:
     title: bericht
     url: >-
       https://drive.google.com/file/d/1DAp134MucmNAdEaekca2SqKOZ_RVAnv2/view?usp=sharing
-  - blank: true
-    cta: true
-    title: infos
-    url: 'https://www.gletscherflug.ch/'
 ---
 Weiterführende Informationen zum Thema Gebirgs-/Gletscherflug sind [hier] (https://www.gletscherflug.ch/) zu finden.
