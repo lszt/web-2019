@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 29.01. - 19.03.2022 | RTF Praxis Englisch
-
-Theoriesaal Flugplatz Lommis
-
 ### 26.03.2022 | 08:30 | Flugplatzputzete
 
 Flugplatz Lommis | [Anmeldung](https://doodle.com/meeting/participate/id/1aKQoRGd)
