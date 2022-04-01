@@ -1,6 +1,6 @@
 ---
 title: GV und Flugplatzputzete 2022
-date: '2022-01-23T17:30:00+01:00'
+date: '2022-04-01T13:30:00+02:00'
 draft: false
 image: /img/uploads/ausbildung_luftaufnahme.jpg
 positionx: 50
@@ -24,3 +24,5 @@ Die Anmeldung für beide Anlässe erfolgt wie immer über einen Doodle.
 und 
 
 [Anmeldung Flugplatzputzete] (https://doodle.com/meeting/participate/id/1aKQoRGd )
+
+Die Dokumente zur GV findet ihr [hier] (https://drive.google.com/drive/folders/1WvO9x27PF0WoQ3aLF_h0DqEZy8PkxYdI)
