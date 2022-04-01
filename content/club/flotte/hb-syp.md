@@ -6,7 +6,8 @@ weight: '6'
 image: /img/uploads/velis_electro_01.jpg
 description: '**Pipistrel Velis Electro**'
 buttons:
-  - title: preise
+  - blank: true
+    title: preise
     url: >-
       https://drive.google.com/file/d/1nZSObLX8MCdFYk_uBXo-KqGvhzcD8ckW/view?usp=sharing
   - cta: true
