@@ -86,6 +86,10 @@ Rita's Flugplatzbeizli
 
 Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
+### 24.03.2023 | 19:00 | GV MFGT
+
+MZH Lommis
+
 <hr>
 
 Fehlen Anlässe oder sind Termine falsch?
