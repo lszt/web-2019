@@ -4,8 +4,6 @@ date: 2019-04-14T10:51:24.000Z
 draft: false
 weight: '2'
 image: /img/uploads/bild_nit.jpg
-positionx: 50
-positiony: 50
 description: >-
   Die Nachtflug-Ausblidung (NIT) ist auf der Stufe Privatpilot eine Erweiterung
   auf freiwilliger Basis. Zur Erlangung der Instrumentenflugberechtigung ist sie
@@ -38,5 +36,5 @@ Nach abgeschlossener Ausbildung erfolgt nach Einreichung der Formulare der entsp
 \
 **Kosten und weitere Informationen**
 
-Unser CFI Markus Schnyder steht Dir für detaillierte Auskünfte zur Verfügung\
-Telefon +41 79 680 19 38 oder <mailto:markus.schnyder@mfgt.ch>
+Unser CFI Ramon Meierhöfer steht Dir für detaillierte Auskünfte zur Verfügung\
+Telefon +41 79 635 67 03 oder <mailto:ramon.meienhoefer@mfgt.ch>
