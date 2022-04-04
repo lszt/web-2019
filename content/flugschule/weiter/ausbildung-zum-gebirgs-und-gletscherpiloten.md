@@ -1,7 +1,9 @@
 ---
 title: MOU
 date: '2022-04-04T12:31:01+02:00'
-draft: true
+draft: false
+weight: '5'
+image: /img/uploads/gletscher_hbphp.jpg
 description: >-
   Diese Erweiterung zur PPL- oder CPL-Lizenz macht es dir möglich, auf allen in
   der Schweiz offiziell definierten Gebirgslandeplätzen zu landen.
