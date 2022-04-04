@@ -4,8 +4,6 @@ date: 2019-04-14T10:51:24.000Z
 draft: false
 weight: '3'
 image: /img/uploads/bild_ir.jpg
-positionx: 50
-positiony: 50
 description: >-
   Möchtest Du unabhängig vom Wetter jederzeit von A nach B fliegen können? Beim
   Instrumentenflug (IR) wird die Fluglage ausschliesslich durch Interpretation
@@ -30,5 +28,5 @@ Die theoretische Ausbildung erfolgt bei einem externen Anbieter wie [Safety Wing
  \
 **Kosten und weitere Informationen**
 
-Unser CFI Markus Schnyder steht Dir für detaillierte Auskünfte zur Verfügung\
-Telefon +41 79 680 19 38 oder <mailto:markus.schnyder@mfgt.ch>
+Unser CFI Ramon Meienhöfer steht Dir für detaillierte Auskünfte zur Verfügung\
+Telefon +41 79 635 67 03 oder <mailto:ramon.meienhoefer@mfgt.ch>
