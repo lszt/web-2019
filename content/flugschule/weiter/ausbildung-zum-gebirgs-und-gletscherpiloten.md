@@ -1,7 +1,7 @@
 ---
 title: MOU
 date: '2022-04-04T12:31:01+02:00'
-draft: false
+draft: true
 weight: '5'
 image: /img/uploads/gletscher_hbphp.jpg
 description: >-
