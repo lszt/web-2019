@@ -4,8 +4,6 @@ date: 2019-04-14T10:51:24.000Z
 draft: false
 weight: '4'
 image: /img/uploads/bild_cpl.jpg
-positionx: 50
-positiony: 50
 description: >-
   Die Commercial Pilot License (CPL) berechtigt Dich, für ein Unternehmen
   kommerziell zu fliegen. Es geht auch darum, die Kenntnisse aus dem PPL zu
@@ -34,5 +32,5 @@ Inhabern einer gültigen IR(A)-Lizenz werden die 10 h nach Instrumenten angerech
 
 ### Kosten und weitere Informationen
 
-Unser CFI Markus Schnyder steht Dir für detaillierte Auskünfte zur Verfügung\
-Telefon +41 79 680 19 38 oder <mailto:markus.schnyder@mfgt.ch>
+Unser CFI Ramon Meierhöfer steht Dir für detaillierte Auskünfte zur Verfügung\
+Telefon +41 79 635 67 03 oder <mailto:ramon.meienhoefer@mfgt.ch>
