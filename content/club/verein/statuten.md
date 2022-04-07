@@ -2,12 +2,12 @@
 title: 'Events, Kommunikation'
 date: 2017-01-04T15:04:10.000Z
 weight: '6'
-image: /img/uploads/stuber.jpg
+image: /img/uploads/fluglehrer_blanco.jpg
 description: |-
-  **Fabian Stuber**
+  **Michael Bolliger**
 
-  T +41 78 611 44 98\
-  <mailto:fabian.stuber@mfgt.ch>
+  T +41 52 366 33 33\
+  <mailto:michael.bolliger@mfgt.ch>
 
   \
   Stellvertreter:
