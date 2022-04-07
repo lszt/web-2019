@@ -2,12 +2,12 @@
 title: Finanzen
 date: 2017-01-04T15:04:10.000Z
 weight: '2'
-image: /img/uploads/fuellemann.jpg
+image: /img/uploads/fluglehrer_blanco.jpg
 description: |-
-  **Thomas Füllemann**
+  **Alois Sauter**
 
-  T +41 79 665 60 01\
-  <mailto:thomas.fuellemann@mfgt.ch>
+  T +41 52 366 33 33\
+  <mailto:alois.sauter@mfgt.ch>
 
   \
   Stellvertreter:
