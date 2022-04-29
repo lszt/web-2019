@@ -54,7 +54,9 @@ _Informations provided without guarantee. Use official publications (VFR Manual 
 **Procedures**
 
 ![](/img/uploads/bild_piloteninfos_procedures.jpg)
-[Approach and Departure LSZT](https://drive.google.com/file/d/1fZ593dDIfP-kWTG5w8HeBJWeR4ctBSFF/view?usp=sharing)
+[Inbound Routes LSZT](https://drive.google.com/file/d/1d8UVHCGiqjMR2tMUOBpgCl7uYSXp3uGa/view?usp=sharing)
+
+[Outbound Routes LSZT](https://drive.google.com/file/d/1NTJTW3UWWaIlhc71hVdiJDP64bapPgJw/view?usp=sharing)
 
 Rollverfahren\
 [Taxi Procedure LSZT](https://drive.google.com/file/d/1rWDYeAsZXxdyQ9J7Eitw-9UjbS6IOofc/view?usp=sharing)
