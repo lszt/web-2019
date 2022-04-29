@@ -8,6 +8,8 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 29.04.2022 | .../.../30-10-20 Flight OPS/Procedures | [LSZT Outbound Routes] (https://drive.google.com/file/d/1NTJTW3UWWaIlhc71hVdiJDP64bapPgJw/view?usp=sharing) | hinzugefügt
+* 29.04.2022 | .../.../30-10-20 Flight OPS/Procedures | [LSZT Inbound Routes] (https://drive.google.com/file/d/1d8UVHCGiqjMR2tMUOBpgCl7uYSXp3uGa/view?usp=sharing) | hinzugefügt
 * 11.04.2022 | .../.../30-10-20 Flight OPS/Procedures | [Procedures DR401] (https://drive.google.com/file/d/14ZOYNKWwpGUxNxtJjZ9bniI5brULG6cG/view?usp=sharing) | aktualisiert
 * 11.04.2022 | .../.../30-40-20 Kontrollflug/Kontrollflug 22_23 | [Kontrollflug-Programm] (https://drive.google.com/file/d/1KtBtba5c13QpAr5WJVbGuHSMtg4aCQp1/view?usp=sharing) | hinzugefügt
 * 04.04.2022 | 40 Flugbetrieb/Charter | [Charterpreise 2022] (https://drive.google.com/file/d/1PSPi7B0c6NurMAtv8evU5Zqrr1gOHUIX/view?usp=sharing) | aktualisiert
