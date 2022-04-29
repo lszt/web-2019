@@ -52,7 +52,9 @@ Angaben ohne Gewähr. Massgebend sind die offiziellen Publikationen (VFR Manual 
 _Informations provided without guarantee. Use official publications (VFR Manual CH) for planning and navigation._
 
 **Procedures**
+
+[Inbound Routes LSZT](https://drive.google.com/file/d/1d8UVHCGiqjMR2tMUOBpgCl7uYSXp3uGa/view?usp=sharing)
+
 [Outbound Routes LSZT](https://drive.google.com/file/d/1NTJTW3UWWaIlhc71hVdiJDP64bapPgJw/view?usp=sharing)
 
-Rollverfahren\
 [Taxi Procedure LSZT](https://drive.google.com/file/d/1rWDYeAsZXxdyQ9J7Eitw-9UjbS6IOofc/view?usp=sharing)
