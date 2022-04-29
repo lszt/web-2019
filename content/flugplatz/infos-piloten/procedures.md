@@ -57,4 +57,4 @@ _Informations provided without guarantee. Use official publications (VFR Manual 
 [Approach and Departure LSZT](https://drive.google.com/file/d/1fZ593dDIfP-kWTG5w8HeBJWeR4ctBSFF/view?usp=sharing)
 
 Rollverfahren\
-[Taxi Procedure LSZT](https://drive.google.com/a/mfgt.ch/file/d/18r-c7mhr2uByscznI4l5UEozjh_7qC-X/view?usp=sharing)
+[Taxi Procedure LSZT](https://drive.google.com/file/d/1rWDYeAsZXxdyQ9J7Eitw-9UjbS6IOofc/view?usp=sharing)
