@@ -55,7 +55,10 @@ _Informations provided without guarantee. Use official publications (VFR Manual 
 
 ![](/img/uploads/procedures_lszt.jpg)
 
-[Inbound Routes LSZT](https://drive.google.com/file/d/1d8UVHCGiqjMR2tMUOBpgCl7uYSXp3uGa/view?usp=sharing)
+[Inbound Routes LSZT](https://drive.google.com/file/d/1d8UVHCGiqjMR2tMUOBpgCl7uYSXp3uGa/view?usp=sharing)\
+Videos:
+[Sektor North] (https://drive.google.com/file/d/1hPCCLCv8gBJ-oLOXbhF69GODDj6vPkf8/view?usp=sharing)
+[Sektor South] (https://drive.google.com/file/d/1QVaf1NUijdmwt42uUGaiZr3wXK0CsUo_/view?usp=sharing)
 
 [Outbound Routes LSZT](https://drive.google.com/file/d/1NTJTW3UWWaIlhc71hVdiJDP64bapPgJw/view?usp=sharing)
 
