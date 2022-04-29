@@ -52,10 +52,6 @@ Angaben ohne Gewähr. Massgebend sind die offiziellen Publikationen (VFR Manual 
 _Informations provided without guarantee. Use official publications (VFR Manual CH) for planning and navigation._
 
 **Procedures**
-
-![](/img/uploads/bild_piloteninfos_procedures.jpg)
-[Inbound Routes LSZT](https://drive.google.com/file/d/1d8UVHCGiqjMR2tMUOBpgCl7uYSXp3uGa/view?usp=sharing)
-
 [Outbound Routes LSZT](https://drive.google.com/file/d/1NTJTW3UWWaIlhc71hVdiJDP64bapPgJw/view?usp=sharing)
 
 Rollverfahren\
