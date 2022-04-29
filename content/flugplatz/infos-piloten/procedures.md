@@ -57,9 +57,13 @@ _Informations provided without guarantee. Use official publications (VFR Manual 
 
 [Inbound Routes LSZT](https://drive.google.com/file/d/1d8UVHCGiqjMR2tMUOBpgCl7uYSXp3uGa/view?usp=sharing)\
 Lehrfilme:
-[Sektor North] (https://drive.google.com/file/d/1hPCCLCv8gBJ-oLOXbhF69GODDj6vPkf8/view?usp=sharing)
+[Sektor North] (https://drive.google.com/file/d/1hPCCLCv8gBJ-oLOXbhF69GODDj6vPkf8/view?usp=sharing) /
 [Sektor South] (https://drive.google.com/file/d/1QVaf1NUijdmwt42uUGaiZr3wXK0CsUo_/view?usp=sharing)
 
-[Outbound Routes LSZT](https://drive.google.com/file/d/1NTJTW3UWWaIlhc71hVdiJDP64bapPgJw/view?usp=sharing)
+[Outbound Routes LSZT](https://drive.google.com/file/d/1NTJTW3UWWaIlhc71hVdiJDP64bapPgJw/view?usp=sharing)\
+Lehrfilme:
+[Sektor South RWY06] (https://drive.google.com/file/d/1rnr9KmxPWUzdw3u7MkxcJCEwyWVuls6q/view?usp=sharing) /
+[Sektor South RWY24] (https://drive.google.com/file/d/14jiC7B3A7sZcU2GoDo8SPKDtyO0vmdQU/view?usp=sharing) /
+[Ausflug West RWY 06/24] (https://drive.google.com/file/d/1AwCBsBpA9Q942CKjkTKs7boMmhBfV-9I/view?usp=sharing)
 
 [Taxi Procedure LSZT](https://drive.google.com/file/d/1rWDYeAsZXxdyQ9J7Eitw-9UjbS6IOofc/view?usp=sharing)
