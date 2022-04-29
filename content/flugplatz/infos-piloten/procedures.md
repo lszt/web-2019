@@ -53,6 +53,8 @@ _Informations provided without guarantee. Use official publications (VFR Manual 
 
 **Procedures**
 
+![](/img/uploads/procedures.jpg)
+
 [Inbound Routes LSZT](https://drive.google.com/file/d/1d8UVHCGiqjMR2tMUOBpgCl7uYSXp3uGa/view?usp=sharing)
 
 [Outbound Routes LSZT](https://drive.google.com/file/d/1NTJTW3UWWaIlhc71hVdiJDP64bapPgJw/view?usp=sharing)
