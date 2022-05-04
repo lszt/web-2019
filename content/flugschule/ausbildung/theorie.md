@@ -46,4 +46,4 @@ Weitere Details sowie Kosten siehe [AGB](https://drive.google.com/file/d/1iF-XZ-
 
 **Kursleiterin:**
 
-Dagmar Hollerer, Fluglehrerin, <mailto:hollerer@bluemail.ch>, +41 78 684 30 60
+Dagmar Hollerer, Fluglehrerin, <mailto:info@mfgt.ch>, +41 52 366 33 33

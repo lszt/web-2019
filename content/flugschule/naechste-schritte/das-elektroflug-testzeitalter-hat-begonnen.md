@@ -13,7 +13,7 @@ buttons:
     url: 'https://www.flightnet.aero/default.aspx?company=mfgt'
 ---
 Auf alle Fälle wird dir der erste Flug mit Fluglehrer als Einweisungsflug angerechnet.
-Buche direkt im Reservationssystem die HB-SYP und einen Einweisungsberechtigten. Im Moment ist das Ramon Meierhöfer und Markus Schnyder. Weitere FI und CRI kommen hinzu und werden im Reservationssystem entsprechend aufgeführt. Der Charterpreis beträgt CHF 149.-/h zusätzlich Instruktionszeit.
+Buche direkt im Reservationssystem die HB-SYP und einen Einweisungsberechtigten. Im Moment ist das Ramon Meierhöfer und Markus Schnyder. Weitere FI und CRI kommen hinzu und werden im Reservationssystem entsprechend aufgeführt. Der Charterpreis beträgt CHF 180.-/h zusätzlich Instruktionszeit.
 
 ![](/img/uploads/velis_electro.jpg)
 

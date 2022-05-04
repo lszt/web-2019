@@ -35,4 +35,4 @@ Die notwendigen Fertigkeiten werden dem Kursteilnehmer in kurzen theoretischen B
 
 **Ansprechpartner:**
 
-Markus Schnyder, <mailto:markus.schnyder@mfgt.ch> +41 79 680 19 38
+Sekretariat, <mailto:sekretariat@mfgt.ch> +41 52 366 33 33
