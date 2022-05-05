@@ -17,9 +17,9 @@ description: |-
   \
   Aufgaben:
 
-  * Events 
-  * Aktivitäten
+  * Events, Aktivitäten 
   * Interne Kommunikation
+  * Social Media
   * Aktuariat
 ---
 
