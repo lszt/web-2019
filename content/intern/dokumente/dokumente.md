@@ -8,6 +8,12 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 05.05.2022 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Expanded Checklist | [Expanded Checklist Robin DR401] (https://drive.google.com/file/d/1RrRkZ-7CUbQoE3ZVnZ1bYYnPvQhEdNrx/view?usp=sharing) | hinzugefügt
+* 05.05.2022 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Expanded Checklist | [Expanded Checklist Robin DR40] (https://drive.google.com/file/d/1_WfYRGUJ0zpLGD6qZ272hq6JWLzxZN_V/view?usp=sharing) | hinzugefügt
+* 05.05.2022 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Expanded Checklist | [Expanded Checklist Aquila] (https://drive.google.com/file/d/1j2nhR28F2qsuNDjH79exD_OAqngT0MYH/view?usp=sharing) | hinzugefügt
+* 05.05.2022 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Checklist Robin DR401] (https://drive.google.com/file/d/18fikRWDsmalKkFegGzaxdmQWN0E-rEKP/view?usp=sharing) | hinzugefügt
+* 05.05.2022 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Checklist Robin DR40] (https://drive.google.com/file/d/1gCO6ourfrvERnyilXwfd9qFPtVYllAYP/view?usp=sharing) | hinzugefügt
+* 05.05.2022 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Checklist Aquila] (https://drive.google.com/file/d/1A98j1Hg3-U0xfrGNP0xHPadlKlX4Vskr/view?usp=sharing) | hinzugefügt
 * 29.04.2022 | .../.../30-10-10 Pre-Flight/FS Notice | [List of Effective Notices] (https://drive.google.com/file/d/1Xl5KIpB9Kxr_Nvf3UbZTwNHfkTaEWMUs/view?usp=sharing) | aktualisiert
 * 29.04.2022 | .../.../30-10-10 Pre-Flight/FS Notice | [MFGT Checklisten] (https://drive.google.com/file/d/1C9RO2MgoOlKCEyWlWm3h74NgQZ_8-zwQ/view?usp=sharing) | hinzugefügt
 * 29.04.2022 | .../.../30-10-20 Flight OPS/Procedures | [LSZT Outbound Routes] (https://drive.google.com/file/d/1NTJTW3UWWaIlhc71hVdiJDP64bapPgJw/view?usp=sharing) | hinzugefügt
@@ -48,7 +54,6 @@ description: >-
 * 02.07.2021 | .../.../30-10-10 Pre-Flight/Mass & Balance | [W&B DR40](https://drive.google.com/file/d/1zGspYrrvaRJce-UFmudhsOJkk4eGgvB7/view?usp=sharing) | aktualisiert
 * 30.06.2021 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG/Pipistrel PIVE | [Unterlagen Pipistrel](https://drive.google.com/drive/folders/1pU0ddjTRmQUX7f2CCeyTC-X5BlE_QUYY) | hinzugefügt 
 * 30.06.2021 | .../30-60 Flugschule TKI & RTF | [RTF-Kommunikation](https://drive.google.com/file/d/1tIbRU546ARk6ORjvwwh3Sd3GYss0qvgo/view?usp=sharing) | hinzugefügt
-* 25.03.2021 | 40 Flugbetrieb/Charter | [Charterpreise 2021](https://drive.google.com/file/d/1-sEQ5dfVikwHC0v7pn7V4ZGNiYnLyaBF/view?usp=sharing) | aktualisiert
 * 30.01.2021 | 40 Flugbetrieb/Flugzeuge/HB-SIM | [Handbuch](https://drive.google.com/file/d/11Ew3q8-Peim0IYKEKpJYUfL4uB_n1KOz/view?usp=sharing) | hinzugefügt
 * 30.01.2021 | 40 Flugbetrieb/Flugzeuge/HB-SIM | [Betriebskonzept](https://drive.google.com/file/d/1ny5bcvHlCNwoFvoq-7rP2PWuG1qgL4uX/view?usp=sharing) | hinzugefügt
 
