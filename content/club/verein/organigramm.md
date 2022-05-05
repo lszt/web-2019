@@ -5,6 +5,6 @@ draft: false
 weight: '7'
 image: /img/uploads/organigramm_vorstand.jpg
 description: >-
-  [Organigramm](https://drive.google.com/file/d/1Dhe-VL2Ze8LVBNnxxMD3LShcJNANx-gj/view?usp=sharing)
+  [Organigramm](https://drive.google.com/file/d/1mnyZojgh-ixeQ3N-Lu-QPQoHuoLzN3Sh/view?usp=sharing)
 ---
 
