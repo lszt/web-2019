@@ -18,9 +18,10 @@ description: |-
   \
   Aufgaben:
 
-  * DCFI
-  * SwissPSA
+  * Strategie Flugschule
+  * MFGT Refresher
   * SPHAIR
-  * Theoriekurse
+  * Mitarbeit DCFI/SwissPSA
+  * Delegierter SwissPSA
 ---
 
