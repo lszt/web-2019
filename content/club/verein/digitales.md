@@ -19,9 +19,9 @@ description: |-
   Aufgaben:
 
   * Flugzeuge 
+  * Versicherungen (FLZG)
   * Charter, Rundflug
-  * IT, Web
-  * Maintenance, CAE
-  * Accountable Manager Maintenance / CAMO
+  * IT
+  * Maintenance (Technik)
 ---
 
