@@ -8,6 +8,8 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 05.05.2022 | 10 Allgemein/Club | [Vorstand MFGT] (https://drive.google.com/file/d/1mnyZojgh-ixeQ3N-Lu-QPQoHuoLzN3Sh/view?usp=sharing) | aktualisiert
+* 05.05.2022 | 10 Allgemein/Club | [Organigramm MFGT] (https://drive.google.com/file/d/1-WpT4B57H_IC3m163_VyycmRm_mSoapE/view?usp=sharing) | aktualisiert
 * 05.05.2022 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Expanded Checklist | [Expanded Checklist Robin DR401] (https://drive.google.com/file/d/1RrRkZ-7CUbQoE3ZVnZ1bYYnPvQhEdNrx/view?usp=sharing) | hinzugefügt
 * 05.05.2022 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Expanded Checklist | [Expanded Checklist Robin DR40] (https://drive.google.com/file/d/1_WfYRGUJ0zpLGD6qZ272hq6JWLzxZN_V/view?usp=sharing) | hinzugefügt
 * 05.05.2022 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Expanded Checklist | [Expanded Checklist Aquila] (https://drive.google.com/file/d/1j2nhR28F2qsuNDjH79exD_OAqngT0MYH/view?usp=sharing) | hinzugefügt
