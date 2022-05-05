@@ -17,8 +17,8 @@ description: |-
   \
   Aufgaben:
 
-  * Finanzen
-  * Steuern
-  * Versicherungen
+  * FiBu
+  * Versicherungen (Rest)
+  * Personal
 ---
 
