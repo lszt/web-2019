@@ -13,14 +13,14 @@ description: |-
   \
   Stellvertreter:
 
-  * Fabian Stuber
+  * Alois Sauter
 
   \
   Aufgaben:
 
+  * Rasenmäher
   * Flugplatz
   * Hangar
-  * Rasenmäher
   * Restaurant/Kiosk
 ---
 
