@@ -13,7 +13,7 @@ description: |-
   \
   Stellvertreter:
 
-  * Thomas Füllemann
+  * Philipp Hug
 
   \
   Aufgaben:
@@ -21,6 +21,5 @@ description: |-
   * Strategie
   * Verbände, Behörden
   * Marketing, Werbung
-  * Personal
 ---
 
