@@ -2,7 +2,7 @@
 title: Finanzen
 date: 2017-01-04T15:04:10.000Z
 weight: '2'
-image: /img/uploads/fluglehrer_blanco.jpg
+image: /img/uploads/sauter.jpg
 description: |-
   **Alois Sauter**
 
