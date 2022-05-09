@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 06.05.2022 | 18:00 | Neumitglieder-Event
-
-Flugplatz Lommis
-
 ### 27.05.2022 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
