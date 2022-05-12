@@ -8,6 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 12.05.2022 | .../.../30-10-20 Flight OPS/Procedures | [Taxi Procedures Lommis] (https://drive.google.com/file/d/1-DD5lA7RSftR7GBi-QoAdtt0EmQtadMU/view?usp=sharing) | aktualisiert
 * 05.05.2022 | 10 Allgemein/Club | [Vorstand MFGT] (https://drive.google.com/file/d/1mnyZojgh-ixeQ3N-Lu-QPQoHuoLzN3Sh/view?usp=sharing) | aktualisiert
 * 05.05.2022 | 10 Allgemein/Club | [Organigramm MFGT] (https://drive.google.com/file/d/1-WpT4B57H_IC3m163_VyycmRm_mSoapE/view?usp=sharing) | aktualisiert
 * 05.05.2022 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Expanded Checklist | [Expanded Checklist Robin DR401] (https://drive.google.com/file/d/1RrRkZ-7CUbQoE3ZVnZ1bYYnPvQhEdNrx/view?usp=sharing) | hinzugefügt
@@ -44,7 +45,6 @@ description: >-
 * 15.12.2021 | .../.../30-10-30 Post Flight/Prozesse | [License Revalidation] (https://drive.google.com/file/d/1WipMtcUIOKIOjC63IvC7PLuJj8jyHTga/view?usp=sharing) | aktualisiert
 * 08.12.2021 | .../.../30-40-30 Refresher/Refresher 22_23 | Diverse Unterlagen | hinzugefügt
 * 08.12.2021 | .../.../30-10-10 Pre-Flight/To Do_MFGT Admin | [MFGT "To-Do" Prozesse] (https://drive.google.com/file/d/1QCBSs10QP6IVlPmLAsM3vs1X9h2AQnWg/view?usp=sharing) | hinzugefügt
-* 22.11.2021 | .../.../30-10-20 Flight OPS/Procedures | [Taxi Procedures Lommis] (https://drive.google.com/file/d/1rWDYeAsZXxdyQ9J7Eitw-9UjbS6IOofc/view?usp=sharing) | aktualisiert
 * 09.11.2021 | .../.../30-10-10 Pre-Flight/Pre-Flight Briefing | [Flight-Preperation & Briefing Structure] (https://drive.google.com/file/d/1w2qIYL4p9LwY_ynV1tobh2jBd8LmP5OD/view?usp=sharing) | aktualisiert
 * 22.09.2021 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Working Checklist | [Checkliste Pipistrel] (https://drive.google.com/file/d/1jgtSaPsznstY4GWudLK0jwPe4lCbbz8b/view?usp=sharing) | aktualisiert
 * 08.09.2021 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG/Pipistrel PIVE/M&B Performance | [Pipistrel M&B Performance] (https://drive.google.com/file/d/1hAj-3h5xeWSjKT6X2kUKn4nEn6HZrdYi/view?usp=sharing) | hinzugefügt
