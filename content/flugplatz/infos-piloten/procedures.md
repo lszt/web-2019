@@ -70,4 +70,4 @@ Volten:\
 [RWY 06] (https://drive.google.com/file/d/1CB-NzlNmIwdyF3GkBOH6sgqt60_Efdyr/view?usp=sharing) /
 [RWY24] (https://drive.google.com/file/d/1xPOXha2yLNa9EA2fXSSd8FACPaKvbaRx/view?usp=sharing)
 
-[Taxi Procedure LSZT](https://drive.google.com/file/d/1rWDYeAsZXxdyQ9J7Eitw-9UjbS6IOofc/view?usp=sharing)
+[Taxi Procedure LSZT](https://drive.google.com/file/d/1-DD5lA7RSftR7GBi-QoAdtt0EmQtadMU/view?usp=sharing)
