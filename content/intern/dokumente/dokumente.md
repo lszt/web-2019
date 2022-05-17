@@ -8,6 +8,8 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 17.05.2022 | .../.../30-10-20 Flight OPS/Procedures/Out- and Inbound Routes | [Outbound Routes LSZT] (https://drive.google.com/file/d/1Hnvg-abZRccDYahu_udqg3kQt0p629Y2/view?usp=sharing) | aktualisiert
+* 17.05.2022 | .../.../30-10-20 Flight OPS/Procedures/Out- and Inbound Routes | [Inbound Routes LSZT] (https://drive.google.com/file/d/1bdeOlb4hrduCsIKg1SUZ_qwDIMU9HMDp/view?usp=sharing) | aktualisiert
 * 17.05.2022 | .../.../30-10-20 Flight OPS/Procedures/Taxi Procedures | [Taxi Procedures Lommis] (https://drive.google.com/file/d/1Pt7ygMe8LV08fdrnCMXK35IT7diBDzQH/view?usp=sharing) | aktualisiert
 * 17.05.2022 | .../.../30-30-60 ADS-B/ADS-B/Dokumente | Dokumente | hinzugefügt
 * 14.05.2022 | .../.../30-30-60 ADS-B/ADS-B/Filme | Lehrfilme | hinzugefügt
