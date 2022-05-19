@@ -2,7 +2,7 @@
 title: Infoanlass Flugschule
 date: '2022-05-19T14:15:38+02:00'
 draft: false
-image: /img/uploads/bild_infoanlass.jpg
+image: /img/uploads/aquila_sunrise.jpeg
 positionx: 50
 positiony: 50
 description: >-
