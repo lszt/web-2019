@@ -1,12 +1,14 @@
 ---
 title: Infoanlass Flugschule
-date: '2019-08-27T16:46:38+02:00'
-draft: true
+date: '2022-05-19T14:15:38+02:00'
+draft: false
 image: /img/uploads/bild_infoanlass.jpg
 positionx: 50
 positiony: 50
 description: >-
-  **Samstag, 21. September 2019, 9 – 12 Uhr**\
+  **Samstag, 17. September 2022, 9 – 12 Uhr**\
+
+  **Samstag, 26. November 2022, 9 – 12 Uhr**\
 
   **Theorielokal, Flugplatz Lommis**
 
