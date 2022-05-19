@@ -4,13 +4,11 @@ date: 2019-04-14T10:51:24.000Z
 draft: false
 weight: 1
 image: /img/uploads/bild_flugpruefung.jpg
-positionx: 50
-positiony: 50
 description: >-
-  Als Mitglied der Swiss Pilot School Association [SwissPSA](http://www.swisspsa.ch)
-  bieten wir die Ausbildung vom LAPL
-  (Light Aircraft Pilot Licence) über das PPL (Private Pilot Licence) bis hin
-  zum CPL (Commercial Pilot Licence) an.
+  Als Mitglied der Swiss Pilot School Association
+  [SwissPSA](http://www.swisspsa.ch) bieten wir die Ausbildung vom LAPL (Light
+  Aircraft Pilot Licence) über das PPL (Private Pilot Licence) bis hin zum CPL
+  (Commercial Pilot Licence) an.
 ---
 Die MFGT operiert ab dem Flugplatz Lommis TG. Der Flugplatz besticht durch seine ländliche Lage, fernab der verkehrsreichen Kontrollzonen und bietet gerade für Flugschüler ein ideales und stressfreies Umfeld.
 
