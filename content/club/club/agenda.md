@@ -6,14 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 15.06.2022 | 19:00 | Briefing Fly Away
-
-Theoriesaal Flugplatz Lommis
-
-### 17.06. - 19.06.2022 | Fly Away 1 / 2022 Flugschule MFGT
-
-nach Budapest (H) | [Anmeldung](https://doodle.com/poll/pu6udbk4yzxb6v6s)
-
 ### 24.06.2022 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
