@@ -1,7 +1,7 @@
 ---
 title: Gletscherflug mit der HB-PHP
 date: '2022-03-18T22:06:34+01:00'
-draft: false
+draft: true
 image: /img/uploads/gletscher_hbphp.jpg
 positionx: 50
 positiony: 50
