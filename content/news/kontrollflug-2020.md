@@ -1,7 +1,7 @@
 ---
 title: Kontrollflug 2022
 date: '2022-03-21T09:48:53+01:00'
-draft: false
+draft: true
 image: /img/uploads/ausbildung_praktische_ausbildung.jpg
 positionx: 50
 positiony: 50
