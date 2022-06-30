@@ -8,6 +8,8 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 30.06.2022 | 40 Flugbetrieb/Charter | [Treibstoffzuschlag] (https://drive.google.com/file/d/1iEwCiHUs8AlkYCmMzC62zQu-vTH9MZ2g/view?usp=sharing) | hinzugefügt
+* 30.06.2022 | 40 Flugbetrieb/Charter | [Charterpreise 2022] (https://drive.google.com/file/d/1PSPi7B0c6NurMAtv8evU5Zqrr1gOHUIX/view?usp=sharing) | aktualisiert
 * 24.06.2022 | 40 Flugbetrieb/Charter | [Daten Flugzeuge MFGT] (https://drive.google.com/file/d/1LGg9Go7ZY_BRS6nVErLGOY5RdmV_FC0f/view?usp=sharing) | aktualisiert
 * 08.06.2022 | .../.../30-10-10 Pre-Flight/Mass & Balance | [W&B DR40](https://drive.google.com/file/d/1e_UrN_YxxrFkxRk7sOxaw7IKZZOilMBk/view?usp=sharing) | aktualisiert
 * 08.06.2022 | .../.../30-10-10 Pre-Flight/Mass & Balance | [W&B DR401](https://drive.google.com/file/d/1dqbWQ5g6PNRMNhCXLJo7ZXGqRbMCh_Nt/view?usp=sharing) | aktualisiert
@@ -36,7 +38,6 @@ description: >-
 * 29.04.2022 | .../.../30-10-20 Flight OPS/Procedures | [LSZT Inbound Routes] (https://drive.google.com/file/d/1d8UVHCGiqjMR2tMUOBpgCl7uYSXp3uGa/view?usp=sharing) | hinzugefügt
 * 11.04.2022 | .../.../30-10-20 Flight OPS/Procedures | [Procedures DR401] (https://drive.google.com/file/d/14ZOYNKWwpGUxNxtJjZ9bniI5brULG6cG/view?usp=sharing) | aktualisiert
 * 11.04.2022 | .../.../30-40-20 Kontrollflug/Kontrollflug 22_23 | [Kontrollflug-Programm] (https://drive.google.com/file/d/1KtBtba5c13QpAr5WJVbGuHSMtg4aCQp1/view?usp=sharing) | hinzugefügt
-* 04.04.2022 | 40 Flugbetrieb/Charter | [Charterpreise 2022] (https://drive.google.com/file/d/1PSPi7B0c6NurMAtv8evU5Zqrr1gOHUIX/view?usp=sharing) | aktualisiert
 * 03.04.2022 | 20 Infrastruktur / Flugplatz | [Einweisung Neumitglieder] (https://drive.google.com/file/d/1Q-NjyZS5MppwR1wl4qlI7BjtWdnLNPnj/view?usp=sharing) | aktualisiert
 * 21.03.2022 | .../.../30-40-20 Kontrollflug/Kontrollflug 22_23 | [Kontrollflug-Programm RFP] (https://drive.google.com/file/d/1xPWUD5nt1TrnTZYkr4Cp49LDyfVdoyre/view?usp=sharing) | hinzugefügt
 * 21.03.2022 | .../.../30-40-20 Kontrollflug/Kontrollflug 22_23 | [Kontrollflug-Formular] (https://drive.google.com/file/d/12FAaab09wtZod47cSrBiBFWQRf6q6Xpi/view?usp=sharing) | hinzugefügt
