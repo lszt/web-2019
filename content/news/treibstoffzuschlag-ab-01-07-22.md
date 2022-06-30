@@ -17,3 +17,6 @@ Den Zuschlag werden wir jeweils anpassen, wenn sich die Preise an der Tankstelle
 Dies gilt ab dem 01.07.2022 bis auf weiteres.
 
 Das entsprechende Dokument mit den gültigen Zuschlägen findet ihr im Internen Bereich unter 40 Flugbetrieb/Charter oder direkt [hier] (https://drive.google.com/file/d/1iEwCiHUs8AlkYCmMzC62zQu-vTH9MZ2g/view?usp=sharing).
+
+
+An dieser Stelle noch einmal der Hinweis auf unsere Pipistrel Velis Electro.
