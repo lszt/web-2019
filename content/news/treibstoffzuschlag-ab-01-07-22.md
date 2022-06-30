@@ -2,7 +2,7 @@
 title: Treibstoffzuschlag ab 01.07.22
 date: '2022-06-30T09:12:25+02:00'
 draft: false
-image: /img/uploads/ausbildung_luftaufnahme.jpg
+image: /img/uploads/lszt_tankstelle.jpg
 positionx: 50
 positiony: 50
 description: >-
