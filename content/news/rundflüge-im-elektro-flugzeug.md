@@ -1,7 +1,7 @@
 ---
 title: Rundflüge im Elektro-Flugzeug
 date: '2021-04-25T21:05:43+02:00'
-draft: false
+draft: true
 image: /img/uploads/velis_electro_02.jpg
 positionx: 50
 positiony: 50
