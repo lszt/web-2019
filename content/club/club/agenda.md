@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 24.06.2022 | 18:30 | Clubhöck
-
-Rita's Flugplatzbeizli
-
 ### 10.07. - 23.07.2022 | SPHAIR Kurs 2 / 22
 
 Flugplatz Lommis
@@ -25,6 +21,14 @@ Flugplatz Lommis
 ### 26.08.2022 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
+
+### 10.09.2022 | Summergrill '22
+
+Flugplatz Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/e98yo38d)
+
+### 16.09.2022 | FDL & RFP Apéro
+
+Flugplatz Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/e1jnOA3a)
 
 ### 17.09.2022 | 09:00 | Infoanlass Flugschule
 
