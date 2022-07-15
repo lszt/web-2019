@@ -10,7 +10,7 @@ description: >-
 ---
 **Betriebszeiten:**\
 MON – SAT: \
-0800 – 1200, 1330 – 1900 LT
+0730 – 1200, 1330 – 1900 LT
 
 SUN/HOL: \
 1100 – 1200, 1330 – 1900 LT
