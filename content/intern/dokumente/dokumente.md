@@ -8,6 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 23.07.2022 | .../.../30-30-70 SUST | [Jahresberichte SUST] (https://drive.google.com/file/d/1WQlKZHkxcE2IoxBN7rNwptVQjisXYvzG/view?usp=sharing) | hinzugefügt
 * 15.07.2022 | 40 Flugbetrieb | [Prozess Sonderbewilligung späte Rückkehr] (https://drive.google.com/file/d/1QnOdlhkogs2slQmlH-gIz1jL4qYZW7-f/view?usp=sharing) | hinzugefügt
 * 30.06.2022 | 40 Flugbetrieb/Charter | [Treibstoffzuschlag] (https://drive.google.com/file/d/1iEwCiHUs8AlkYCmMzC62zQu-vTH9MZ2g/view?usp=sharing) | hinzugefügt
 * 30.06.2022 | 40 Flugbetrieb/Charter | [Charterpreise 2022] (https://drive.google.com/file/d/1PSPi7B0c6NurMAtv8evU5Zqrr1gOHUIX/view?usp=sharing) | aktualisiert
