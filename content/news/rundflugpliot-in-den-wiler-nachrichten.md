@@ -1,5 +1,5 @@
 ---
-title: Rundflugpliot in den Wiler Nachrichten
+title: Rundflugpilot in den Wiler Nachrichten
 date: '2022-07-23T12:02:04+02:00'
 draft: false
 image: /img/uploads/fuellemann_rundflug_wn.jpg
