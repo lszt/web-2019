@@ -8,6 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 14.08.2022 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG/Pipistrel PIVE/Fragesammlung | [Technische Einweisung] (https://drive.google.com/file/d/1BeVrXo3IcVkMkWD4sGnqAJC1ahgU5pa0/view?usp=sharing) | aktualisiert
 * 23.07.2022 | .../.../30-30-70 SUST | [Jahresberichte SUST] (https://drive.google.com/file/d/1WQlKZHkxcE2IoxBN7rNwptVQjisXYvzG/view?usp=sharing) | hinzugefügt
 * 15.07.2022 | 40 Flugbetrieb | [Prozess Sonderbewilligung späte Rückkehr] (https://drive.google.com/file/d/1QnOdlhkogs2slQmlH-gIz1jL4qYZW7-f/view?usp=sharing) | hinzugefügt
 * 30.06.2022 | 40 Flugbetrieb/Charter | [Treibstoffzuschlag] (https://drive.google.com/file/d/1iEwCiHUs8AlkYCmMzC62zQu-vTH9MZ2g/view?usp=sharing) | hinzugefügt
