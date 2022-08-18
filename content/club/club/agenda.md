@@ -6,6 +6,9 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
+### 20.08.2022 | Motorflug-Fly-In AeCOS
+Flugplatz St. Stephan | [Anmeldung und Info's] (https://www.aecos.ch/component/icagenda/95-motorflug-fly-in-flugplatzfest-st-stephan?Itemid=1992)
+
 ### 26.08.2022 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
