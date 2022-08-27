@@ -22,9 +22,9 @@ Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXr
 
 Flugplatz Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/egLLVrDa)
 
-### 22. - 25.09.2022 | Flay Away 2 / 2022 Flugschule MFGT
+### 22. - 25.09.2022 | Flay Away 2 / 2022 nach Cornwall
 
-für Fortgeschrittene
+für Fortgeschrittene | [Anmeldung] (https://xoyondo.com/dp/1emH6HZap2aV3Lg)
 
 ### 30.09.2022 | 18:30 | Clubhöck
 
