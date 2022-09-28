@@ -1,7 +1,7 @@
 ---
 title: Impressionen GV und Flugplatzputzete 2022
 date: '2022-04-05T17:43:23+02:00'
-draft: false
+draft: true
 image: /img/uploads/gv_2022_001.jpeg
 positionx: 50
 positiony: 50
