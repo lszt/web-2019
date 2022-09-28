@@ -6,26 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 10.09.2022 | Summergrill '22
-
-Flugplatz Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/e98yo38d)
-
-### 16.09.2022 | FDL & RFP Apéro
-
-Flugplatz Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/e1jnOA3a)
-
-### 17.09.2022 | 09:00 | Infoanlass Flugschule
-
-Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
-
-### 19.09.2022 | 19:00 | Ausserordentliche GV MFGT
-
-Flugplatz Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/egLLVrDa)
-
-### 22. - 25.09.2022 | Flay Away 2 / 2022 nach Cornwall
-
-für Fortgeschrittene | [Anmeldung] (https://xoyondo.com/dp/1emH6HZap2aV3Lg)
-
 ### 30.09.2022 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
