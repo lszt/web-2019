@@ -1,7 +1,7 @@
 ---
 title: Ausserordentliche GV MFGT
 date: '2022-08-27T08:41:33+02:00'
-draft: false
+draft: true
 image: /img/uploads/ausbildung_luftaufnahme.jpg
 positionx: 50
 positiony: 50
