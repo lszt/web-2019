@@ -20,9 +20,10 @@ Reiseflugzeug
 * 4 Sitzplätze
 * Engine: Thielert Centurion 2.0S – TAE125-02-114
 * Leistung: 155 PS
-* Zulassung: VFR
+* Zulassung: IFR
 * 2-Achsen-Autopilot
-* Garmin GPS 500
+* Garmin G500 TXi
+* Garmin GTN 650Xi
 * PowerFLARM
 * Haupttank: 110 Liter Jet A1
 * Zusatztank: 50 Liter Jet A1
