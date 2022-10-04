@@ -2,7 +2,7 @@
 title: HB-SYP
 date: '2021-06-29T20:54:08+02:00'
 draft: false
-weight: '6'
+weight: '7'
 image: /img/uploads/velis_electro_01.jpg
 description: '**Pipistrel Velis Electro**'
 buttons:
