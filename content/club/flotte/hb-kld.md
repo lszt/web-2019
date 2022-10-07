@@ -3,8 +3,8 @@ title: HB-KLD
 date: '2022-10-04T17:54:56+02:00'
 draft: false
 weight: '6'
-image: /img/uploads/flotte_dummy.jpg
-description: '**Robin DR401 – 155CDI**'
+image: /img/uploads/img_0386.jpg
+description: '> **Robin DR401 – 155CDI**'
 buttons:
   - blank: true
     title: preise
