@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 30.09.2022 | 18:30 | Clubhöck
-
-Rita's Flugplatzbeizli
-
 ### 02.10. - 19.11.2022 | RTF Praxis Englisch
 
 Theoriesaal Flugplatz Lommis
@@ -21,6 +17,10 @@ Flugplatz Lommis
 ### 28.10.2022 | 18:30 | Clubhöck
 
 Rita's Flugplatzbeizli
+
+### 18.11.2022 | 18:30 | Fondue-Abend '22
+
+Maintenance Hangar | [Anmeldung] (https://doodle.com/meeting/participate/id/erR35JBe/vote)
 
 ### 25.11.2022 | 18:30 | Clubhöck
 
