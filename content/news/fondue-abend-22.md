@@ -18,9 +18,12 @@ Es ist also an der Zeit, diese schöne Tradition wieder aufleben zu lassen.
 In diesem Sinne laden wir euch herzlich zum diesjährigen Fondue-Abend in unserem Maintenance Hangar ein.
 
 
-Folgend die Details:
+** Folgend die Details: **
+
 Datum: Freitag, 18. November 2022
+
 Start: 18:30 Uhr mit Apéro - Getränke gesponsert durch Rita
+
 Kosten: CHF 25.00, beinhaltet Fondue und Dessert. Die restlichen Getränke werden wie immer bar bei Rita bezogen.
 
 Anmeldung: Bis zum 11.11.2022 via [Doodlelink] (https://doodle.com/meeting/participate/id/erR35JBe)
