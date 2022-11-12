@@ -10,14 +10,6 @@ buttons: []
 
 Theoriesaal Flugplatz Lommis
 
-### 09.10. - 22.10.2022 | SPHAIR Kurs 4 / 22
-
-Flugplatz Lommis
-
-### 28.10.2022 | 18:30 | Clubhöck
-
-Rita's Flugplatzbeizli
-
 ### 18.11.2022 | 18:30 | Fondue-Abend '22
 
 Maintenance Hangar | [Anmeldung] (https://doodle.com/meeting/participate/id/erR35JBe/vote)
