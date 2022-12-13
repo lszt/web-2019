@@ -6,6 +6,10 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
+### 18.02.2023 | 08:30 | Refresh your Meteo with Oli
+
+Theorieraum MFGT | [Anmeldung] (https://doodle.com/meeting/participate/id/azv8A8Za/vote)
+
 ### 24.03.2023 | 19:00 | GV MFGT
 
 MZH Lommis
