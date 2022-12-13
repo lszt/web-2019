@@ -14,7 +14,7 @@ buttons:
 ---
 Unser FI, Oliver Baer, wird uns drei Vorträge zum Thema Meteo präsentieren. Ziel dabei ist es, einst gelerntes, wieder mal ein bisschen aufzufrischen und fit für die neue Saison zu sein.
 
-Folgende Vorträge werden durchgeführt:
+#### Folgende Vorträge werden durchgeführt:
 
 
 * Grenzen der Prognostik und Wissenswertes zu Flugwetterprodukten (TAF, GAFOR, LLSWC, usw.)
@@ -25,7 +25,7 @@ Folgende Vorträge werden durchgeführt:
 
 
 
-Wann und Wo:
+#### Wann und Wo:
 
 * Samstag 18. Februar 2023
 
