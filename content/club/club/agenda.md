@@ -14,6 +14,10 @@ Theorieraum MFGT | [Anmeldung] (https://doodle.com/meeting/participate/id/azv8A8
 
 MZH Lommis
 
+### 19. - 22.04.2023 | AERO 2023
+
+Friedrichshafen | [Tickets] (https://tickets.messe-friedrichshafen.de/webshop/162/tickets)
+
 <hr>
 
 Fehlen Anlässe oder sind Termine falsch?
