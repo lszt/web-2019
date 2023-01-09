@@ -10,6 +10,9 @@ description: >-
 ---
 * 09.01.2023 | 40 Flugbetrieb/Charter | [Treibstoffzuschlag] (https://drive.google.com/file/d/1gLfjMAPSYR0AA55S6dvxwPLmE4KMASXN/view?usp=share_link) | hinzugefügt
 * 09.01.2023 | 40 Flugbetrieb/Charter | [Charterpreise 2023] (https://drive.google.com/file/d/12a_DW_aEazmzKQu2yQ1pJtUyv49Vdwvt/view?usp=share_link) | aktualisiert 
+
+<hr>
+
 * 13.12.2022 | 10 Allgemein/Club | [Organigramm MFGT] (https://drive.google.com/file/d/1N_tWyIiS3uxvWXp55BPHxmiqQ3sfIMn1/view?usp=share_link) | aktualisiert
 * 09.12.2022 | .../.../30-10-10 Pre-Flight/CRZ Performance | [Cruise Performance Robin DR401](https://drive.google.com/file/d/1qObBIReEzWyY1OMrTgQOUcFWcg2VyBiy/view?usp=share_link) | hinzugefügt
 * 09.12.2022 | .../.../30-10-10 Pre-Flight/CRZ Performance | [Cruise Performance Robin DR40](https://drive.google.com/file/d/11zjtZ1Aas76Hc3nTQ38laohe6xlxpwVA/view?usp=share_link) | hinzugefügt
