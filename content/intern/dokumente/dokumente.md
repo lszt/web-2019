@@ -8,6 +8,8 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 09.01.2023 | 40 Flugbetrieb/Charter | [Treibstoffzuschlag] (https://drive.google.com/file/d/1gLfjMAPSYR0AA55S6dvxwPLmE4KMASXN/view?usp=share_link) | hinzugefügt
+* 09.01.2023 | 40 Flugbetrieb/Charter | [Charterpreise 2023] (https://drive.google.com/file/d/12a_DW_aEazmzKQu2yQ1pJtUyv49Vdwvt/view?usp=share_link) | aktualisiert 
 * 13.12.2022 | 10 Allgemein/Club | [Organigramm MFGT] (https://drive.google.com/file/d/1N_tWyIiS3uxvWXp55BPHxmiqQ3sfIMn1/view?usp=share_link) | aktualisiert
 * 09.12.2022 | .../.../30-10-10 Pre-Flight/CRZ Performance | [Cruise Performance Robin DR401](https://drive.google.com/file/d/1qObBIReEzWyY1OMrTgQOUcFWcg2VyBiy/view?usp=share_link) | hinzugefügt
 * 09.12.2022 | .../.../30-10-10 Pre-Flight/CRZ Performance | [Cruise Performance Robin DR40](https://drive.google.com/file/d/11zjtZ1Aas76Hc3nTQ38laohe6xlxpwVA/view?usp=share_link) | hinzugefügt
@@ -15,8 +17,6 @@ description: >-
 * 14.08.2022 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG/Pipistrel PIVE/Fragesammlung | [Technische Einweisung] (https://drive.google.com/file/d/1BeVrXo3IcVkMkWD4sGnqAJC1ahgU5pa0/view?usp=sharing) | aktualisiert
 * 23.07.2022 | .../.../30-30-70 SUST | [Jahresberichte SUST] (https://drive.google.com/file/d/1WQlKZHkxcE2IoxBN7rNwptVQjisXYvzG/view?usp=sharing) | hinzugefügt
 * 15.07.2022 | 40 Flugbetrieb | [Prozess Sonderbewilligung späte Rückkehr] (https://drive.google.com/file/d/1QnOdlhkogs2slQmlH-gIz1jL4qYZW7-f/view?usp=sharing) | hinzugefügt
-* 30.06.2022 | 40 Flugbetrieb/Charter | [Treibstoffzuschlag] (https://drive.google.com/file/d/1iEwCiHUs8AlkYCmMzC62zQu-vTH9MZ2g/view?usp=sharing) | hinzugefügt
-* 30.06.2022 | 40 Flugbetrieb/Charter | [Charterpreise 2022] (https://drive.google.com/file/d/1PSPi7B0c6NurMAtv8evU5Zqrr1gOHUIX/view?usp=sharing) | aktualisiert
 * 24.06.2022 | 40 Flugbetrieb/Charter | [Daten Flugzeuge MFGT] (https://drive.google.com/file/d/1LGg9Go7ZY_BRS6nVErLGOY5RdmV_FC0f/view?usp=sharing) | aktualisiert
 * 08.06.2022 | .../.../30-10-10 Pre-Flight/Mass & Balance | [W&B DR40](https://drive.google.com/file/d/1e_UrN_YxxrFkxRk7sOxaw7IKZZOilMBk/view?usp=sharing) | aktualisiert
 * 08.06.2022 | .../.../30-10-10 Pre-Flight/Mass & Balance | [W&B DR401](https://drive.google.com/file/d/1dqbWQ5g6PNRMNhCXLJo7ZXGqRbMCh_Nt/view?usp=sharing) | aktualisiert
