@@ -8,7 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
-* 09.01.2023 | 40 Flugbetrieb/Charter | [Treibstoffzuschlag] (https://drive.google.com/file/d/1gLfjMAPSYR0AA55S6dvxwPLmE4KMASXN/view?usp=share_link) | hinzugefügt
+* 09.01.2023 | 40 Flugbetrieb/Charter | [Treibstoffzuschlag] (https://drive.google.com/file/d/1gLfjMAPSYR0AA55S6dvxwPLmE4KMASXN/view?usp=share_link) | aktualisiert
 * 09.01.2023 | 40 Flugbetrieb/Charter | [Charterpreise 2023] (https://drive.google.com/file/d/12a_DW_aEazmzKQu2yQ1pJtUyv49Vdwvt/view?usp=share_link) | aktualisiert 
 
 <hr>
@@ -60,23 +60,6 @@ description: >-
 * 10.01.2022 | .../.../30-10-10 Pre-Flight/FS Notice | [MFGT eLearning Plattform](https://drive.google.com/file/d/16w6jxkMimHdyc2lFnzkZcbO-uZHQ-Fwt/view?usp=sharing) | aktualisiert
 * 10.01.2022 | .../.../30-10-10 Pre-Flight/FS Notice | [MFGT eLearning Login](https://drive.google.com/file/d/1hweVUYqgyILEsHtiElrfvI-1j8jSUxr0/view?usp=sharing) | aktualisiert
 * 08.01.2022 | .../.../30-10-10 Pre-Flight/FS Notice | [List of effective Notice](https://drive.google.com/file/d/1qePsGB5dn2JEDXeJ9aamC-nQY5GDKdNv/view?usp=sharing) | aktualisiert
-
-<hr>
-
-* 22.12.2021 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG/Glascockpit EFIS | Trainingsvideos Garmin | hinzugefügt 
-* 15.12.2021 | .../.../30-10-30 Post Flight/Prozesse | [License Revalidation] (https://drive.google.com/file/d/1WipMtcUIOKIOjC63IvC7PLuJj8jyHTga/view?usp=sharing) | aktualisiert
-* 08.12.2021 | .../.../30-40-30 Refresher/Refresher 22_23 | Diverse Unterlagen | hinzugefügt
-* 08.12.2021 | .../.../30-10-10 Pre-Flight/To Do_MFGT Admin | [MFGT "To-Do" Prozesse] (https://drive.google.com/file/d/1QCBSs10QP6IVlPmLAsM3vs1X9h2AQnWg/view?usp=sharing) | hinzugefügt
-* 09.11.2021 | .../.../30-10-10 Pre-Flight/Pre-Flight Briefing | [Flight-Preperation & Briefing Structure] (https://drive.google.com/file/d/1w2qIYL4p9LwY_ynV1tobh2jBd8LmP5OD/view?usp=sharing) | aktualisiert
-* 22.09.2021 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Working Checklist | [Checkliste Pipistrel] (https://drive.google.com/file/d/1jgtSaPsznstY4GWudLK0jwPe4lCbbz8b/view?usp=sharing) | aktualisiert
-* 08.09.2021 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG/Pipistrel PIVE/M&B Performance | [Pipistrel M&B Performance] (https://drive.google.com/file/d/1hAj-3h5xeWSjKT6X2kUKn4nEn6HZrdYi/view?usp=sharing) | hinzugefügt
-* 01.09.2021 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG | [Familiarisation and Difference Training] (https://drive.google.com/file/d/16CDobQaCxboYomrWvJ4p9hniRX5yU1mp/view?usp=sharing) | aktualisiert
-* 29.08.2021 | .../.../30-10-20 Flight OPS/Briefing | [DEP & APR Briefing] (https://drive.google.com/file/d/1E8g_fQcVtKMKfImrLKOq1O1gjiJT-YFL/view?usp=sharing) | aktualisiert
-* 29.08.2021 | .../.../30-10-20 Flight OPS/Procedures | [MFGT Procedures Pipistrel PIVE] (https://drive.google.com/file/d/1s3_2FN_pCdQUgj5zSP6-V1L0_vpMirvH/view?usp=sharing) | aktualisiert
-* 17.07.2021 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG/Pipistrel PIVE | [Dokumentstruktur](https://drive.google.com/drive/folders/1pU0ddjTRmQUX7f2CCeyTC-X5BlE_QUYY) | aktualisiert
-* 06.07.2021 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG/Volllast Einweisung | [Volllasteinweisung] (https://drive.google.com/file/d/1l4RKRJ2nQZWQ9yXne5unLhCKEuuMMbSe/view?usp=sharing) | hinzugefügt
-* 30.06.2021 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG/Pipistrel PIVE | [Unterlagen Pipistrel](https://drive.google.com/drive/folders/1pU0ddjTRmQUX7f2CCeyTC-X5BlE_QUYY) | hinzugefügt 
-* 30.06.2021 | .../30-60 Flugschule TKI & RTF | [RTF-Kommunikation](https://drive.google.com/file/d/1tIbRU546ARk6ORjvwwh3Sd3GYss0qvgo/view?usp=sharing) | hinzugefügt
 
 <hr>
 
