@@ -6,6 +6,9 @@ weight: '8'
 image: /img/uploads/sim_1.jpg
 description: '**VFR-Simulator**'
 buttons:
+  - title: preise
+    url: >-
+      https://drive.google.com/file/d/12a_DW_aEazmzKQu2yQ1pJtUyv49Vdwvt/view?usp=share_link
   - cta: true
     title: Reservation
     url: 'https://www.flightnet.aero/default.aspx?company=mfgt'
