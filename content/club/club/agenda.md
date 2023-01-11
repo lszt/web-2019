@@ -12,7 +12,7 @@ Flugplatzbeizli
 
 ### 18.02.2023 | 08:30 | Refresh your Meteo with Oli
 
-Theorieraum MFGT | [Anmeldung] (https://doodle.com/meeting/participate/id/azv8A8Za/vote)
+Griesser AG, Tänikonerstrasse 3, 8355 Aadorf | [Anmeldung] (https://doodle.com/meeting/participate/id/azv8A8Za/vote)
 
 ### 24.02.2023 | 18:30 | Clubhöck
 
