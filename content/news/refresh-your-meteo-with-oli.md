@@ -23,7 +23,8 @@ Unser FI, Oliver Baer, wird uns drei Vorträge zum Thema Meteo präsentieren. Zi
 **Wann und Wo:**
 
 * Samstag 18. Februar 2023
-* Theorieraum MFGT
+* Griesser AG, Tänikonerstrasse 3, 8355 Aadorf
+
 * 08:30 LT
 * 3-4h
 * 35 CHF pro Person
