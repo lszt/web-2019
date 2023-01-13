@@ -1,14 +1,19 @@
 ---
 title: Infoanlass Flugschule
-date: '2022-05-19T14:15:38+02:00'
-draft: true
+date: '2023-01-13T12:30:00+01:00'
+draft: false
 image: /img/uploads/aquila_sunrise.jpeg
 positionx: 50
 positiony: 50
 description: >-
-  **Samstag, 17. September 2022, 9 – 12 Uhr**\
+  **Samstag, 4. Februar 2023, 9 - 12 Uhr**\
 
-  **Samstag, 26. November 2022, 9 – 12 Uhr**\
+  **Samstag, 22. April 2023, 9 - 12 Uhr**\
+
+  **Samstag, 16. September 2023, 9 – 12 Uhr**\
+
+  **Samstag, 25. November 2022, 9 – 12 Uhr**\
+
 
   **Theorielokal, Flugplatz Lommis**
 
