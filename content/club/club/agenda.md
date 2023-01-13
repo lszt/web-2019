@@ -12,7 +12,7 @@ Flugplatzbeizli
 
 ### 04.02.2023 | 09:00 - 12:00 | Infoanlass Flugschule
 
-Flugplatz Lommis | [Anmeldung] ()
+Flugplatz Lommis | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
 ### 18.02.2023 | 08:30 | Refresh your Meteo with Oli
 
@@ -34,6 +34,10 @@ Flugplatzbeizli
 
 Friedrichshafen | [Tickets] (https://tickets.messe-friedrichshafen.de/webshop/162/tickets)
 
+### 22.04.2023 | 09:00 - 12:00 | Infoanlass Flugschule
+
+Flugplatz Lommis | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
+
 ### 28.04.2023 | 18:30 | Clubhöck
 
 Flugplatzbeizli
@@ -54,6 +58,10 @@ Flugplatzbeizli
 
 Flugplatzbeizli
 
+### 16.09.2023 | 09:00 - 12:00 | Infoanlass Flugschule
+
+Flugplatz Lommis | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
+
 ### 29.09.2023 | 18:30 | Clubhöck
 
 Flugplatzbeizli
@@ -65,6 +73,10 @@ Flugplatzbeizli
 ### 24.11.2023 | 18:30 | Clubhöck
 
 Flugplatzbeizli
+
+### 25.11.2023 | 09:00 - 12:00 | Infoanlass Flugschule
+
+Flugplatz Lommis | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
 ### 29.12.2023 | 18:30 | Clubhöck
 
