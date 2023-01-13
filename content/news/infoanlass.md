@@ -9,9 +9,6 @@ description: >-
   **Samstag, 4. Februar 2023, 9 - 12 Uhr**
 
 
-  **Theorielokal, Flugplatz Lommis**
-
-
   Interessierst Du Dich für eine Ausbildung zum Privatpiloten und für eine
   Mitgliedschaft bei der Motorfluggruppe Thurgau? Dann ist der Infoanlass der
   Flugschule genau das Richtige für Dich!
