@@ -6,13 +6,7 @@ image: /img/uploads/aquila_sunrise.jpeg
 positionx: 50
 positiony: 50
 description: >-
-  **Samstag, 4. Februar 2023, 9 - 12 Uhr**\
-
-  **Samstag, 22. April 2023, 9 - 12 Uhr**\
-
-  **Samstag, 16. September 2023, 9 – 12 Uhr**\
-
-  **Samstag, 25. November 2022, 9 – 12 Uhr**\
+  **Samstag, 4. Februar 2023, 9 - 12 Uhr**
 
 
   **Theorielokal, Flugplatz Lommis**
