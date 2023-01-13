@@ -10,6 +10,10 @@ buttons: []
 
 Flugplatzbeizli
 
+### 04.02.2023 | 09:00 - 12:00 | Infoanlass Flugschule
+
+Flugplatz Lommis | [Anmeldung] ()
+
 ### 18.02.2023 | 08:30 | Refresh your Meteo with Oli
 
 Griesser AG, Tänikonerstrasse 3, 8355 Aadorf | [Anmeldung] (https://doodle.com/meeting/participate/id/azv8A8Za/vote)
