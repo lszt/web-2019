@@ -2,10 +2,13 @@
 title: PÄCHTER/-IN GESUCHT
 date: '2022-09-05T11:22:40+02:00'
 draft: false
-image: /img/uploads/bild_flugplatzbeizli_2.jpg
+image: /img/uploads/bild_flugplatzbeizli_res.jpg
 positionx: 50
 positiony: 50
 description: >-
+  <b><i><font color="red">RESERVIERT</font></i></b>
+
+
   Die Motorfluggruppe Thurgau sucht ab 2023 einen Nachfolger oder eine
   Nachfolgerin für den Flugplatz-Kiosk und die Gartenwirtschaft. \
 
