@@ -6,7 +6,7 @@ image: /img/uploads/bild_flugplatzbeizli_res.jpg
 positionx: 50
 positiony: 50
 description: >-
-  ## _**<b><i><font color="red">RESERVIERT</font></i></b>**_
+  ### _**<font color="red">RESERVIERT</font>**_
 
 
   Die Motorfluggruppe Thurgau sucht ab 2023 einen Nachfolger oder eine
