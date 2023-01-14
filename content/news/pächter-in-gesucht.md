@@ -8,6 +8,7 @@ positiony: 50
 description: >-
   ### _**<font color="red">RESERVIERT</font>**_
 
+  \
 
   Die Motorfluggruppe Thurgau sucht ab 2023 einen Nachfolger oder eine
   Nachfolgerin für den Flugplatz-Kiosk und die Gartenwirtschaft. \
