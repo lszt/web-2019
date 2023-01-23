@@ -12,7 +12,7 @@ buttons:
   - cta: false
     title: kursprogramm
     url: >-
-      https://drive.google.com/file/d/1xEMd6eGZ0sCz_ei049yZW4FJIEqEts_Z/view?usp=sharing
+      https://drive.google.com/file/d/1EzIPKrHzWRhWf1gfJB14wbD-lva9M65F/view?usp=share_link
   - title: unterrichtsmaterial
     url: >-
       https://drive.google.com/file/d/15c-BKYYfnnfWia_LFuQ9kFtpWjY4PwJu/view?usp=sharing
@@ -42,7 +42,7 @@ Diese können auch separat bei der MFGT absolviert werden.
 Du kannst dir das theoretische Wissen auch online erwerben. Du wirst von Spezialisten betreut und in einem abschliessenden Präsenzkurs optimal auf die Prüfung vorbereitet. \
 [Weitere Informationen zum Distance Learning](https://www.swisspsa.ch/index.php/fernunterricht-neu/einleitung-mobile)
 
-Weitere Details sowie Kosten siehe [AGB](https://drive.google.com/file/d/1iF-XZ-CfMZVE1tXJXf4WRGbm4CRAZv92/view?usp=sharing), [Kursprogramm](https://drive.google.com/file/d/1xEMd6eGZ0sCz_ei049yZW4FJIEqEts_Z/view?usp=sharing) und [Unterrichtsmaterial](https://drive.google.com/file/d/15c-BKYYfnnfWia_LFuQ9kFtpWjY4PwJu/view?usp=sharing).
+Weitere Details sowie Kosten siehe [AGB](https://drive.google.com/file/d/1iF-XZ-CfMZVE1tXJXf4WRGbm4CRAZv92/view?usp=sharing), [Kursprogramm](https://drive.google.com/file/d/1EzIPKrHzWRhWf1gfJB14wbD-lva9M65F/view?usp=share_link) und [Unterrichtsmaterial](https://drive.google.com/file/d/15c-BKYYfnnfWia_LFuQ9kFtpWjY4PwJu/view?usp=sharing).
 
 **Kursleiterin:**
 
