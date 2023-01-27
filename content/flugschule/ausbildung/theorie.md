@@ -23,20 +23,20 @@ buttons:
 ---
 Die Ausbildung besteht aus 9 Theoriefächern und der Radiotelefonie Praxis:
 
-* Luftrecht _(allgemeines Fach auch für Heli und TMG)_
-* Allgemeine Luftfahrzeugkenntnis
-* Flugleistung und Flugplanung
-* Menschliches Leistungsvermögen _(allgemeines Fach auch für Heli und TMG)_
-* Meteorologie _(allgemeines Fach auch für Heli und TMG)_
-* Navigation _(allgemeines Fach auch für Heli und TMG)_
-* Betriebsverfahren
-* Grundlagen des Fluges
-* Radiotelefonie Theorie
+* 10 Luftrecht _(allgemeines Fach auch für Heli und TMG)_
+* 20 Allgemeine Luftfahrzeugkenntnis
+* 30 Flugleistung und Flugplanung
+* 40 Menschliches Leistungsvermögen _(allgemeines Fach auch für Heli und TMG)_
+* 50 Meteorologie _(allgemeines Fach auch für Heli und TMG)_
+* 60 Navigation _(allgemeines Fach auch für Heli und TMG)_
+* 70 Betriebsverfahren
+* 80 Grundlagen des Fluges
+* 90 Radiotelefonie Theorie
 * Radiotelefonie Praxis
 
 Die 9 Theorieprüfungen können auf maximal 6 Sessionen aufgeteilt werden. Im Kursprogramm sind bereits Prüfungstermine vorgegeben, an denen mehrere Fächer geprüft werden. Alle 9 Theoriefächer plus die praktische Prüfung Radiotelefonie müssen innerhalb einer Frist von 18 Monaten bestanden sein. Sobald die letzte dieser Prüfungen bestanden wurde (9 Theoriefächer + Radiotelefonie Praxis) muss die praktische Flugprüfung innerhalb einer Frist von 24 Monaten absolviert werden.
 
-Die allgemeinen Fächer Navigation, Meteorologie, Luftrecht und Menschliches Leistungsvermögen gelten ebenfalls für die Heli und TMG Ausbildung.
+Die allgemeinen Fächer 10 Luftrecht, 40 Menschliches Leistungsvermögen, 50 Meteorologie und 60 Navigation gelten ebenfalls für die Heli und TMG Ausbildung.
 Diese können auch separat bei der MFGT absolviert werden.
 
 Du kannst dir das theoretische Wissen auch online erwerben. Du wirst von Spezialisten betreut und in einem abschliessenden Präsenzkurs optimal auf die Prüfung vorbereitet. \
