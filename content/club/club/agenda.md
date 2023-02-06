@@ -37,6 +37,10 @@ Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXr
 
 Flugplatzbeizli
 
+### 05.05.2023 | Neumitglieder Apéro 2023
+
+Flugplatz Lommis
+
 ### 26.05.2023 | 18:30 | Clubhöck
 
 Flugplatzbeizli
