@@ -20,8 +20,6 @@ Wir zeigen dir, wie die Ausbildung aufgebaut ist, welche Voraussetzungen du mitb
 
 **Die nächsten Anlässe finden statt am:**
 
-**Samstag, 04.02.2023, 09:00 - 12:00 Uhr**
-
 **Samstag, 22.04.2023, 09:00 - 12:00 Uhr**
 
 **Samstag, 16.09.2022, 09:00 - 12:00 Uhr**
