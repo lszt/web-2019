@@ -1,5 +1,5 @@
 ---
-title: 'Theorie für PPL, TMG, Helikopter und Ballon'
+title: Theorie für PPL
 date: 2019-04-14T10:51:24.000Z
 draft: false
 weight: '2'
@@ -21,6 +21,12 @@ buttons:
     url: >-
       https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform
 ---
+#### Theorie für PPL / TMG
+#### Allgemeine Fächer für Heli und Ballon
+#### Funkausbildung für TMG und Heli
+
+
+
 Die Ausbildung besteht aus 9 Theoriefächern und der Radiotelefonie Praxis:
 
 * 10 Luftrecht _(allgemeines Fach auch für Heli und TMG)_
