@@ -25,8 +25,6 @@ Theorie für PPL / TMG
 Allgemeine Fächer für Heli und Ballon
 Funkausbildung für TMG und Heli
 
-
-
 Die Ausbildung besteht aus 9 Theoriefächern und der Radiotelefonie Praxis:
 
 * 10 Luftrecht _(allgemeines Fach auch für Heli und TMG)_
