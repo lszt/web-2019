@@ -25,6 +25,8 @@ Theorie für PPL / TMG
 Allgemeine Fächer für Heli und Ballon
 Funkausbildung für TMG und Heli
 
+
+
 Die Ausbildung besteht aus 9 Theoriefächern und der Radiotelefonie Praxis:
 
 * 10 Luftrecht _(allgemeines Fach auch für Heli und TMG)_
@@ -43,6 +45,7 @@ Alle schriftlichen Theorieprüfungen (10 bis 90) sind innerhalb einer Frist von 
 Seit dem 8. April 2020 wird die mündliche Radiotelefonie-Tischprüfung nicht mehr als Bestandteil der schriftlichen Theorieprüfung betrachtet. Dies hat zur Folge, dass die Theorieprüfung nach Abschluss des schriftlichen Teils (Fächer 10 bis 90) als bestanden gilt. Für den Erwerb einer PPL(A), PPL(H) und BPL Lizenz muss die mündliche Tischprüfung vor dem praktischen Prüfungsflug bestanden sein. Der Erwerb einer SPL Lizenz ist auch ohne Radiotelefoine-Rechte möglich. In diesem Fall darf jedoch nicht in kontrollierten Luftraum (ATS) eingeflogen werden.
 
 Die folgenden "allgemeinen Fächer" können von Heli- und Ballonpiloten als Paket oder als Einzelfach separat absolviert werden.
+
 * 10 Luftrecht
 * 40 Menschliches Leistungsvermögen
 * 50 Meteorologie
