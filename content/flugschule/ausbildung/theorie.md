@@ -13,7 +13,7 @@ buttons:
     title: kursprogramm
     url: >-
       https://drive.google.com/file/d/1EzIPKrHzWRhWf1gfJB14wbD-lva9M65F/view?usp=share_link
-  - title: unterrichtsmaterial
+  - title: unterrichtsmaterial/kosten
     url: >-
       https://drive.google.com/file/d/1Qvpb5FmPIjzZkFI6OVZaJW3h8SU9gIqX/view?usp=share_link
   - cta: true
