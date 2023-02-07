@@ -21,20 +21,18 @@ buttons:
     url: >-
       https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform
 ---
-## Theorie für PPL / TMG
-
+Theorie für PPL / TMG
 Allgemeine Fächer für Heli und Ballon
-
 Funkausbildung für TMG und Heli
 
 Die Ausbildung besteht aus 9 Theoriefächern und der Radiotelefonie Praxis:
 
-* 10 Luftrecht_ (allgemeines Fach auch für Heli und TMG)_
+* 10 Luftrecht (allgemeines Fach auch für Heli und TMG)
 * 20 Allgemeine Luftfahrzeugkenntnis
 * 30 Flugleistung und Flugplanung
-* 40 Menschliches Leistungsvermögen_ (allgemeines Fach auch für Heli und TMG)_
-* 50 Meteorologie _(allgemeines Fach auch für Heli und TMG)_
-* 60 Navigation _(allgemeines Fach auch für Heli und TMG)_
+* 40 Menschliches Leistungsvermögen (allgemeines Fach auch für Heli und TMG)
+* 50 Meteorologie (allgemeines Fach auch für Heli und TMG)
+* 60 Navigation (allgemeines Fach auch für Heli und TMG)
 * 70 Betriebsverfahren
 * 80 Grundlagen des Fluges
 * 90 Radiotelefonie Theorie
