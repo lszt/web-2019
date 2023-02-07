@@ -44,6 +44,15 @@ Alle schriftlichen Theorieprüfungen (10 bis 90) sind innerhalb einer Frist von 
 
 Seit dem 8. April 2020 wird die mündliche Radiotelefonie-Tischprüfung nicht mehr als Bestandteil der schriftlichen Theorieprüfung betrachtet. Dies hat zur Folge, dass die Theorieprüfung nach Abschluss des schriftlichen Teils (Fächer 10 bis 90) als bestanden gilt. Für den Erwerb einer PPL(A), PPL(H) und BPL Lizenz muss die mündliche Tischprüfung vor dem praktischen Prüfungsflug bestanden sein. Der Erwerb einer SPL Lizenz ist auch ohne Radiotelefoine-Rechte möglich. In diesem Fall darf jedoch nicht in kontrollierten Luftraum (ATS) eingeflogen werden.
 
+Die folgenden "allgemeinen Fächer" können von Heli- und Ballonpiloten als Paket oder als Einzelfach separat absolviert werden.
+* 10 Luftrecht
+* 40 Menschliches Leistungsvermögen
+* 50 Meteorologie
+* 60 Navigation (dises Fach wird für Ballonfahrer vom SBAV unterrichtet)
+* 90 Kommunikation
+
+TMG Piloten können die Fächer 20, 30, 60 und 70 einzeln oder als Paket absolvieren.
+
 Du kannst dir das theoretische Wissen auch online erwerben. Du wirst von Spezialisten betreut und in einem abschliessenden Präsenzkurs optimal auf die Prüfung vorbereitet. \
 [Weitere Informationen zum Distance Learning](https://www.swisspsa.ch/index.php/fernunterricht-neu/einleitung-mobile)
 
