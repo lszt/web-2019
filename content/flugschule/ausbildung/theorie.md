@@ -55,7 +55,7 @@ TMG Piloten können die Fächer 20, 30, 60 und 70 einzeln oder als Paket absolvi
 Du kannst dir das theoretische Wissen auch online erwerben. Du wirst von Spezialisten betreut und in einem abschliessenden Präsenzkurs optimal auf die Prüfung vorbereitet. \
 [Weitere Informationen zum Distance Learning](https://www.swisspsa.ch/index.php/fernunterricht-neu/einleitung-mobile)
 
-Weitere Details sowie Kosten siehe [AGB](https://drive.google.com/file/d/1iF-XZ-CfMZVE1tXJXf4WRGbm4CRAZv92/view?usp=sharing), [Kursprogramm](https://drive.google.com/file/d/1EzIPKrHzWRhWf1gfJB14wbD-lva9M65F/view?usp=share_link) und [Unterrichtsmaterial und Kosten](https://drive.google.com/file/d/1Qvpb5FmPIjzZkFI6OVZaJW3h8SU9gIqX/view?usp=share_link).
+Weitere Details sowie Kosten siehe [AGB](https://drive.google.com/file/d/1iF-XZ-CfMZVE1tXJXf4WRGbm4CRAZv92/view?usp=sharing), [Kursprogramm](https://drive.google.com/file/d/1EzIPKrHzWRhWf1gfJB14wbD-lva9M65F/view?usp=share_link) und [Unterrichtsmaterial (Kosten)](https://drive.google.com/file/d/1Qvpb5FmPIjzZkFI6OVZaJW3h8SU9gIqX/view?usp=share_link).
 
 **Kursleiterin:**
 
