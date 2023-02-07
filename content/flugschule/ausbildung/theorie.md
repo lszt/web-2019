@@ -29,10 +29,10 @@ Funkausbildung für TMG und Heli
 
 Die Ausbildung besteht aus 9 Theoriefächern und der Radiotelefonie Praxis:
 
-* 10 Luftrecht _(allgemeines Fach auch für Heli und TMG)_
+* 10 Luftrecht_ (allgemeines Fach auch für Heli und TMG)_
 * 20 Allgemeine Luftfahrzeugkenntnis
 * 30 Flugleistung und Flugplanung
-* 40 Menschliches Leistungsvermögen _(allgemeines Fach auch für Heli und TMG)_
+* 40 Menschliches Leistungsvermögen_ (allgemeines Fach auch für Heli und TMG)_
 * 50 Meteorologie _(allgemeines Fach auch für Heli und TMG)_
 * 60 Navigation _(allgemeines Fach auch für Heli und TMG)_
 * 70 Betriebsverfahren
