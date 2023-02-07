@@ -40,7 +40,9 @@ Die Ausbildung besteht aus 9 Theoriefächern und der Radiotelefonie Praxis:
 * 90 Radiotelefonie Theorie
 * Radiotelefonie Praxis
 
-Die 9 Theorieprüfungen können auf maximal 6 Sessionen aufgeteilt werden. Im Kursprogramm sind bereits Prüfungstermine vorgegeben, an denen mehrere Fächer geprüft werden. Alle 9 Theoriefächer plus die praktische Prüfung Radiotelefonie müssen innerhalb einer Frist von 18 Monaten bestanden sein. Sobald die letzte dieser Prüfungen bestanden wurde (9 Theoriefächer + Radiotelefonie Praxis) muss die praktische Flugprüfung innerhalb einer Frist von 24 Monaten absolviert werden.
+Alle schriftlichen Theorieprüfungen (10 bis 90) sind innerhalb einer Frist von 18 Monaten zu bestehen, gerechnet ab dem Ende des Kalendermonates, in dem der Bewerber erstmals zu einer Prüfung angetreten ist. Für jedes Theoriefach sind maximal vier Versuche zulässig.
+
+Seit dem 8. April 2020 wird die mündliche Radiotelefonie-Tischprüfung nicht mehr als Bestandteil der schriftlichen Theorieprüfung betrachtet. Dies hat zur Folge, dass die Theorieprüfung nach Abschluss des schriftlichen Teils (Fächer 10 bis 90) als bestanden gilt. Für den Erwerb einer PPL(A), PPL(H) und BPL Lizenz muss die mündliche Tischprüfung vor dem praktischen Prüfungsflug bestanden sein. Der Erwerb einer SPL Lizenz ist auch ohne Radiotelefoine-Rechte möglich. In diesem Fall darf jedoch nicht in kontrollierten Luftraum (ATS) eingeflogen werden.
 
 Die allgemeinen Fächer 10 Luftrecht, 40 Menschliches Leistungsvermögen, 50 Meteorologie und 60 Navigation gelten ebenfalls für die Heli und TMG Ausbildung.
 Diese können auch separat bei der MFGT absolviert werden.
