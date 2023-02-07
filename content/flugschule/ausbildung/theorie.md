@@ -57,7 +57,7 @@ Du kannst dir das theoretische Wissen auch online erwerben. Du wirst von Spezial
 
 Weitere Details sowie Kosten siehe [AGB](https://drive.google.com/file/d/1iF-XZ-CfMZVE1tXJXf4WRGbm4CRAZv92/view?usp=sharing), [Kursprogramm](https://drive.google.com/file/d/1EzIPKrHzWRhWf1gfJB14wbD-lva9M65F/view?usp=share_link) und [Unterrichtsmaterial (Kosten)](https://drive.google.com/file/d/1Qvpb5FmPIjzZkFI6OVZaJW3h8SU9gIqX/view?usp=share_link).
 
-[BAZL GM/INFO] (https://drive.google.com/file/d/1DBXhjkG0RpJVqXFAOQV2O2dlgqf2GFPN/view?usp=share_link)
+[Richtlinien des BAZL für die Theorieprüfung] (https://drive.google.com/file/d/1DBXhjkG0RpJVqXFAOQV2O2dlgqf2GFPN/view?usp=share_link)
 
 **Kursleiterin:**
 
