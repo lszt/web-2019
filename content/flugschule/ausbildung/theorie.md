@@ -35,7 +35,7 @@ Die Ausbildung besteht aus 9 Theoriefächern und der Radiotelefonie Praxis:
 * 60 Navigation (auch für Heli und TMG)
 * 70 Betriebsverfahren (auch für TMG)
 * 80 Grundlagen des Fluges
-* 90 Radiotelefonie Theorie (auch für Heli und Ballon
+* 90 Radiotelefonie Theorie (auch für Heli und Ballon)
 * Radiotelefonie Praxis (auch für Heli und TMG)
 
 Alle schriftlichen Theorieprüfungen (10 bis 90) sind innerhalb einer Frist von 18 Monaten zu bestehen, gerechnet ab dem Ende des Kalendermonates, in dem der Bewerber erstmals zu einer Prüfung angetreten ist. Für jedes Theoriefach sind maximal vier Versuche zulässig.
@@ -47,7 +47,7 @@ Die folgenden "allgemeinen Fächer" können von Heli- und Ballonpiloten als Pake
 * 10 Luftrecht
 * 40 Menschliches Leistungsvermögen
 * 50 Meteorologie
-* 60 Navigation (dises Fach wird für Ballonfahrer vom SBAV unterrichtet)
+* 60 Navigation (dieses Fach wird für Ballonfahrer vom SBAV unterrichtet)
 * 90 Kommunikation
 
 TMG Piloten können die Fächer 20, 30, 60 und 70 einzeln oder als Paket absolvieren.
