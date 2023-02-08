@@ -27,16 +27,16 @@ buttons:
 
 Die Ausbildung besteht aus 9 Theoriefächern und der Radiotelefonie Praxis:
 
-* 10 Luftrecht (allgemeines Fach auch für Heli und TMG)
-* 20 Allgemeine Luftfahrzeugkenntnis
-* 30 Flugleistung und Flugplanung
-* 40 Menschliches Leistungsvermögen (allgemeines Fach auch für Heli und TMG)
-* 50 Meteorologie (allgemeines Fach auch für Heli und TMG)
-* 60 Navigation (allgemeines Fach auch für Heli und TMG)
-* 70 Betriebsverfahren
+* 10 Luftrecht (auch für Heli und Ballon)
+* 20 Allgemeine Luftfahrzeugkenntnis (auch für TMG)
+* 30 Flugleistung und Flugplanung (auch für TMG)
+* 40 Menschliches Leistungsvermögen (auch für Heli und Ballon)
+* 50 Meteorologie (auch für Heli und Ballon)
+* 60 Navigation (auch für Heli und TMG)
+* 70 Betriebsverfahren (auch für TMG)
 * 80 Grundlagen des Fluges
-* 90 Radiotelefonie Theorie
-* Radiotelefonie Praxis
+* 90 Radiotelefonie Theorie (auch für Heli und Ballon
+* Radiotelefonie Praxis (auch für Heli und TMG)
 
 Alle schriftlichen Theorieprüfungen (10 bis 90) sind innerhalb einer Frist von 18 Monaten zu bestehen, gerechnet ab dem Ende des Kalendermonates, in dem der Bewerber erstmals zu einer Prüfung angetreten ist. Für jedes Theoriefach sind maximal vier Versuche zulässig.
 
@@ -57,7 +57,7 @@ Du kannst dir das theoretische Wissen auch online erwerben. Du wirst von Spezial
 
 Weitere Details sowie Kosten siehe [AGB](https://drive.google.com/file/d/1iF-XZ-CfMZVE1tXJXf4WRGbm4CRAZv92/view?usp=sharing), [Kursprogramm](https://drive.google.com/file/d/1EzIPKrHzWRhWf1gfJB14wbD-lva9M65F/view?usp=share_link) und [Unterrichtsmaterial (Kosten)](https://drive.google.com/file/d/1Qvpb5FmPIjzZkFI6OVZaJW3h8SU9gIqX/view?usp=share_link).
 
-[Richtlinien des BAZL für die Theorieprüfung] (https://drive.google.com/file/d/1DBXhjkG0RpJVqXFAOQV2O2dlgqf2GFPN/view?usp=share_link)
+[Richtlinien des BAZL für die Theorieprüfung](https://drive.google.com/file/d/1DBXhjkG0RpJVqXFAOQV2O2dlgqf2GFPN/view?usp=share_link)
 
 **Kursleiterin:**
 
