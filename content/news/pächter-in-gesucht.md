@@ -1,7 +1,7 @@
 ---
 title: PÄCHTER/-IN GESUCHT
 date: '2022-09-05T11:22:40+02:00'
-draft: false
+draft: true
 image: /img/uploads/bild_flugplatzbeizli_res.jpg
 positionx: 50
 positiony: 50
