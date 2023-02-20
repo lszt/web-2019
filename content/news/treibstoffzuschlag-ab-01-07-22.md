@@ -1,7 +1,7 @@
 ---
 title: Treibstoffzuschlag ab 01.07.22
 date: '2022-06-30T09:12:25+02:00'
-draft: false
+draft: true
 image: /img/uploads/lszt_tankstelle.jpg
 positionx: 50
 positiony: 50
