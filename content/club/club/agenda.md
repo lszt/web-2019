@@ -6,13 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 18.02.2023 | 08:30 | Refresh your Meteo with Oli
-
-Griesser AG
-, Tänikonerstrasse 3
-, 8355 Aadorf
- | [Anmeldung](https://doodle.com/meeting/participate/id/azv8A8Za/vote)
-
 ### 24.02.2023 | 18:30 | Clubhöck
 
 Flugplatzbeizli
