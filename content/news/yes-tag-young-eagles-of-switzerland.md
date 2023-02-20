@@ -6,6 +6,14 @@ image: /img/uploads/bild-yes-tag.jpg
 positionx: 50
 positiony: 50
 description: "Aviatikluft schnuppern und das Steuer in die Hand nehmen!\r\nDie MFGT (Motorfluggruppe Thurgau) und der AeCS (Aeroclub der Schweiz) ermöglichen dir einen packenden Einstieg in den Motorflug."
+buttons:
+  - title: mehr
+    url: 'https://www.mfgt.ch/flugschule/naechste-schritte/infoabend/'
+  - blank: true
+    cta: true
+    title: flyer
+    url: >-
+      https://drive.google.com/file/d/1aFIfwsokAO7gJfeIDrNhay1cPNDpMfzn/view?usp=share_link
+  - title: anmeldung
 ---
-Aviatikluft schnuppern und das Steuer in die Hand nehmen!
-Die MFGT (Motorfluggruppe Thurgau) und der AeCS (Aeroclub der Schweiz) ermöglichen dir einen packenden Einstieg in den Motorflug.
+
