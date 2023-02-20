@@ -8,7 +8,7 @@ positiony: 50
 description: "Aviatikluft schnuppern und das Steuer in die Hand nehmen!\r\nDie MFGT (Motorfluggruppe Thurgau) und der AeCS (Aeroclub der Schweiz) ermöglichen dir einen packenden Einstieg in den Motorflug."
 buttons:
   - title: mehr
-    url: 'https://www.mfgt.ch/flugschule/naechste-schritte/infoabend/'
+    url: 'https://www.mfgt.ch/club/kurse-veranstaltungen/yes-tag/'
   - blank: true
     cta: true
     title: flyer
