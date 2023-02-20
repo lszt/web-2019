@@ -57,6 +57,10 @@ Flugplatzbeizli
 
 Flugplatzbeizli
 
+### 26.08.2023 | 09:00 - 16:30 | YES Tag
+
+Flugplatz Lommis | [Anmeldung] () 
+
 ### 16.09.2023 | 09:00 - 12:00 | Infoanlass Flugschule
 
 Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
