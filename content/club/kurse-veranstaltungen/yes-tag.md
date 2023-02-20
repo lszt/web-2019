@@ -36,12 +36,12 @@ buttons:
 \
 **Kosten**
 
-Die MFGT (Motorfluggruppe Thurgau) und der AeCS (Aeroclub der Schweiz) übernehmen Flugkosten und Landetaxen.
+Die MFGT (Motorfluggruppe Thurgau) und der AeCS (Aeroclub der Schweiz) übernehmen Flugkosten und Landetaxen. Es entstehen an diesem Tag keine Kosten ausser den Getränken.
 
 \
 **Verpflegung**
 
-Du kannst dich in Rita's Flugplatzbeizli verpflegen oder auch Etwas mitbringen.
+Du kannst dich im Flugplatzbeizli verpflegen oder auch Etwas mitbringen.
 
 \
 **Kleidung**
@@ -56,4 +56,9 @@ Damit du im YES fliegen darfst, brauchen wir eine Bestätigung mit der Unterschr
 
 Sekretariat, <mailto:info@mfgt.ch>, +41 71 366 33 33 
 
-[Hier Flyer downloaden](https://drive.google.com/file/d/1PcHwsKJWUf_dd5ge7uj_0uFqXEqHEgeg/view?usp=sharing)
+**Anmeldung**
+
+Anmeldeschluss ist der 18. August 2023
+[Anmeldung] ()
+
+[Hier Flyer downloaden](https://drive.google.com/file/d/1aFIfwsokAO7gJfeIDrNhay1cPNDpMfzn/view?usp=share_link)
