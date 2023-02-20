@@ -5,7 +5,7 @@ draft: false
 image: /img/uploads/bild-yes-tag.jpg
 positionx: 50
 positiony: 50
-description: "Aviatikluft schnuppern und das Steuer in die Hand nehmen!\r\nDie MFGT (Motorfluggruppe Thurgau) und der AeCS (Aeroclub der Schweiz) ermöglichen dir einen packenden Einstieg in den Motorflug."
+description: "Aviatikluft schnuppern und das Steuer in die Hand nehmen!\r\nDer diesjährige YES Tag in Lommis findet am 26.08.2023 statt. "
 buttons:
   - title: mehr
     url: 'https://www.mfgt.ch/club/kurse-veranstaltungen/yes-tag/'
