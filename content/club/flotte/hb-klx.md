@@ -11,3 +11,5 @@ Reiseflugzeug
 
 * 4 Sitzplätze
 
+
+Eine weitere DR401 wird auf Ende dieser Saison zu unserer Flotte stossen.
