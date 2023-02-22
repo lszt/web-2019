@@ -1,28 +1,27 @@
 ---
-title: GV und Flugplatzputzete 2022
-date: '2022-04-01T13:30:00+02:00'
-draft: true
+title: GV und Flugplatzputzete 2023
+date: '2023-02-21T13:30:00+01:00'
+draft: false
 image: /img/uploads/ausbildung_luftaufnahme.jpg
 positionx: 50
 positiony: 50
 description: >-
-  Die diesjährige GV der MFGT findet am 01.04.2022 und die Flugplatzputzete am
-  26.03.2022 statt.
+  Die diesjährige GV der MFGT findet am 24.03.2023 und die Flugplatzputzete am
+  25.03.2022 statt.
 buttons:
   - title: agenda
     url: /club/club/agenda/
 ---
 Für die GV sind nur Aktiv-, Passiv-, U25- und Ehrenmitglieder zugelassen. 
 
-Die Durchführung hängt von den dann gültigen Corona-Massnahmen ab. 
-Allenfalls wird auf ein Zelt auf dem Flugplatz ausgewichen. 
+Die GV findet in der Mehrzweckhalle in Lommis statt.
 
 Die Anmeldung für beide Anlässe erfolgt wie immer über einen Doodle.
 
-[Anmeldung GV] (https://doodle.com/meeting/participate/id/YaO8vRRb) 
+[Anmeldung GV] (https://doodle.com/meeting/participate/id/ejYMwx5d/vote) 
 
 und 
 
-[Anmeldung Flugplatzputzete] (https://doodle.com/meeting/participate/id/1aKQoRGd )
+[Anmeldung Flugplatzputzete] (https://doodle.com/meeting/participate/id/bqQ5Ew3b/vote)
 
-Die Dokumente zur GV findet ihr [hier] (https://drive.google.com/drive/folders/1WvO9x27PF0WoQ3aLF_h0DqEZy8PkxYdI)
+Die Dokumente zur GV findet ihr [hier] (https://drive.google.com/drive/folders/1iPvSKD60FKbxyMvvE5-efJeCAXfBYbTc)
