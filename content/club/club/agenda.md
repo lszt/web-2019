@@ -12,7 +12,11 @@ Flugplatzbeizli
 
 ### 24.03.2023 | 19:00 | GV MFGT
 
-MZH Lommis
+MZH Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/ejYMwx5d/vote)
+
+### 25.03.2023 | 08:30 | Flugplatzputzete
+
+Flugplatz Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/bqQ5Ew3b/vote)
 
 ### 31.03.2023 | 18:30 | Clubhöck
 
