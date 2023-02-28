@@ -11,8 +11,7 @@ description: >-
 buttons:
   - cta: true
     title: Zoll-Formular
-    url: >-
-      https://www.zollairport.ch/Fluganmeldung/ZollAnmeldung/ZollForm.php?ad=LSZT&la=DE
+    url: 'https://customs.lszt.ch/?ad=lszt'
 ---
 Personenabfertigungen für Direktflüge ins Ausland (Ausflug-Zoll in den Schengen-Raum) bzw. für Direkteinflüge aus dem Ausland (Einflug-Zoll aus dem Schengen-Raum).
 
@@ -25,4 +24,4 @@ Verfahrensanweisung:
 * Die gemeldete Start- bzw. Landezeit ist nach Möglichkeit einzuhalten. Ein vorzeitiger Abflug ist ausgeschlossen. Der verantwortliche Pilot meldet eine grössere Start- bzw. Landeverzögerung (> 30 Min.) oder eine Flugstornierung möglichst frühzeitig dem Betriebsleiter/FDL, welcher die Änderung umgehend per Mail (in dringenden Fällen zusätzlich per Telefon) an die Zoll- und Polizeiorgane übermittelt.
 * Nach der Landung in Lommis lassen Pilot und Passagiere ihr Gepäck vorerst im Flugzeug und begeben sich auf direktem Weg zum C-Büro. Sie halten sich dort für die Weiterbehandlung durch Flugplatz-, Zoll- oder Polizeiorgane zur Verfügung.
 
-Für die Zollabfertigung wird keine Gebühr für MFGT-Mitglieder und auswärtige Piloten erhoben.
+Für die Zollabfertigung wird keine Gebühr erhoben.
