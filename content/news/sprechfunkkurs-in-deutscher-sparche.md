@@ -1,5 +1,5 @@
 ---
-title: Sprechfunkkurs in deutscher Sparche
+title: Sprechfunkkurs in deutscher Sprache
 date: '2023-03-02T08:49:36+01:00'
 draft: false
 image: /img/uploads/ausbildung_voice.jpg
@@ -21,7 +21,8 @@ buttons:
       https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform
 coverImages: []
 ---
-Damit du Flugplätze in Deutschland und Österreich, die nur Deutsch für den Flugfunk akzeptieren, legal und ohne rechtliche Probleme anfliegen kannst, organisieren wir im März / April 2023 einen Sprechfunkkurs in Deutscher Sprache inkl. LPC Deutsch Level 6, nach den Richtlinien des Bundesamtes für Zivilluftfahrt BAZL.
+Damit du Flugplätze in Deutschland und Österreich, die nur Deutsch für den Flugfunk akzeptieren, legal und ohne rechtliche Probleme anfliegen kannst, organisieren wir im März / April 2023 einen
+ Sprechfunkkurs in deutscher Sprache inkl. LPC Deutsch Level 6, nach den Richtlinien des Bundesamtes für Zivilluftfahrt BAZL.
 
 **Kursdauer:** 26. März - 23. April 2023
 
@@ -29,4 +30,4 @@ Damit du Flugplätze in Deutschland und Österreich, die nur Deutsch für den Fl
 
 **BAZL Prüfung:** Ende April 2023 (in KW 17)
 
-Weitere Details findest du im angehängten [Flyer] (https://drive.google.com/file/d/1qm0PjXfYMajA-SkK67X_KfWtF1EbGdLt/view?usp=share_link).
+Weitere Details findest du im angehängten [Flyer](https://drive.google.com/file/d/1qm0PjXfYMajA-SkK67X_KfWtF1EbGdLt/view?usp=share_link).
