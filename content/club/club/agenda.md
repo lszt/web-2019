@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 24.02.2023 | 18:30 | Clubhöck
-
-Flugplatzbeizli
-
 ### 24.03.2023 | 19:00 | GV MFGT
 
 MZH Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/ejYMwx5d/vote)
