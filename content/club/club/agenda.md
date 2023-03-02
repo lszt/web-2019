@@ -18,6 +18,10 @@ MZH Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/ejYMwx5d/vot
 
 Flugplatz Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/bqQ5Ew3b/vote)
 
+### 26.03. - 23.04.2023 | Sprechfunkkurs in Deutscher Sprache
+
+Theorieraum MFGT und per Conference Call | [Anmeldung] ()
+
 ### 31.03.2023 | 18:30 | Clubhöck
 
 Flugplatzbeizli
