@@ -8,6 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 03.03.2023 | 40 Flugbetrieb/Flugzeuge/HB-KLD/AFM | [W&B KLD] (https://drive.google.com/file/d/1-rJ22S8SVFS8cyIsHW5QGyAdemKn9JzO/view?usp=share_link) | aktualisiert
 * 09.01.2023 | 40 Flugbetrieb/Charter | [Treibstoffzuschlag] (https://drive.google.com/file/d/1gLfjMAPSYR0AA55S6dvxwPLmE4KMASXN/view?usp=share_link) | aktualisiert
 * 09.01.2023 | 40 Flugbetrieb/Charter | [Charterpreise 2023] (https://drive.google.com/file/d/12a_DW_aEazmzKQu2yQ1pJtUyv49Vdwvt/view?usp=share_link) | aktualisiert 
 
