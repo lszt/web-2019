@@ -10,14 +10,14 @@ description: |-
 buttons:
   - blank: true
     cta: true
-    title: Kontakt 2022
+    title: Kontakt 2023
     url: >-
-      https://drive.google.com/file/d/1qGFv7WJHdteE21Eccr5GLjeapEhvY49f/view?usp=sharing
+      https://drive.google.com/file/d/1OCxuLNlVZUE8FSTWJeebC9PKn3dWSzY_/view?usp=share_link
 ---
 **KONTAKT 176 – 2023**
 
 ![](/img/uploads/bild_kontakt_2023.jpg)
-[Download 176 – 2023](https://drive.google.com/file/d/1qGFv7WJHdteE21Eccr5GLjeapEhvY49f/view?usp=sharing)
+[Download 176 – 2023](https://drive.google.com/file/d/1OCxuLNlVZUE8FSTWJeebC9PKn3dWSzY_/view?usp=sharing)
 
 **KONTAKT 175 – 2022**
 
