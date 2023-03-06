@@ -3,10 +3,10 @@ title: Club-Nachrichten
 date: '2019-05-09T12:34:38+02:00'
 draft: false
 weight: '4'
-image: /img/uploads/bild_kontakt_2022.jpg
+image: /img/uploads/bild_kontakt_2023.jpg
 description: |-
   KONTAKT – Das Mitteilungsblatt der MFGT.\
-  Die Ausgabe 2022 gibts hier zum Downloaden.
+  Die Ausgabe 2023 gibts hier zum Downloaden.
 buttons:
   - blank: true
     cta: true
@@ -14,6 +14,11 @@ buttons:
     url: >-
       https://drive.google.com/file/d/1qGFv7WJHdteE21Eccr5GLjeapEhvY49f/view?usp=sharing
 ---
+**KONTAKT 176 – 2023**
+
+![](/img/uploads/bild_kontakt_2023.jpg)
+[Download 176 – 2023](https://drive.google.com/file/d/1qGFv7WJHdteE21Eccr5GLjeapEhvY49f/view?usp=sharing)
+
 **KONTAKT 175 – 2022**
 
 ![](/img/uploads/bild_kontakt_2022.jpg)
