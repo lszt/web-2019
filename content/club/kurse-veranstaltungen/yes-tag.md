@@ -49,11 +49,6 @@ Du kannst dich im Flugplatzbeizli verpflegen oder auch Etwas mitbringen.
 Sonnenbrille, Sonnenschutz, Jacke, Turnschuhe
 
 \
-**Wichtig**
-
-Damit du im YES fliegen darfst, brauchen wir eine Bestätigung mit der Unterschrift deiner Eltern.
-
-\
 **Ansprechpartner**
 
 Sekretariat, <mailto:info@mfgt.ch>, +41 52 366 33 33 
