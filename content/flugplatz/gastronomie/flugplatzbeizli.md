@@ -5,9 +5,9 @@ draft: false
 weight: '4'
 image: /img/uploads/bild_flugplatzbeizli.jpg
 description: >-
-  Um das Wohl unserer Gäste sorgten sich Stefanie Hunziker und Claudio Gähler
-  mit Team. Vom Restaurant aus haben sie die Möglichkeit, das fliegerische
-  Treiben auf dem Rollfeld und der Piste zu beobachten.
+  Um das Wohl unserer Gäste sorgen sich Stefanie Hunziker und Claudio Gähler mit
+  Team. Vom Restaurant aus haben sie die Möglichkeit, das fliegerische Treiben
+  auf dem Rollfeld und der Piste zu beobachten.
 buttons:
   - cta: true
     title: zur Webseite
