@@ -14,7 +14,7 @@ buttons:
     cta: true
     title: Kursdetails
     url: >-
-      https://drive.google.com/file/d/1qm0PjXfYMajA-SkK67X_KfWtF1EbGdLt/view?usp=share_link
+      https://drive.google.com/file/d/1EvotQz6XnCTZ0snPlXUwtnNwtsohFsg6/view?usp=sharing
   - cta: true
     title: anmelden
     url: >-
@@ -30,4 +30,4 @@ Damit du Flugplätze in Deutschland und Österreich, die nur Deutsch für den Fl
 
 **BAZL Prüfung:** Ende April 2023 (in KW 17)
 
-Weitere Details findest du im angehängten [Flyer](https://drive.google.com/file/d/1qm0PjXfYMajA-SkK67X_KfWtF1EbGdLt/view?usp=share_link).
+Weitere Details findest du im angehängten [Flyer](https://drive.google.com/file/d/1EvotQz6XnCTZ0snPlXUwtnNwtsohFsg6/view?usp=sharing).
