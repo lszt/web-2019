@@ -12,6 +12,6 @@ buttons:
   - cta: false
     title: mehr
     url: >-
-      https://www.bazl.admin.ch/bazl/de/home/fachleute/ausbildung-und-lizenzen/flugmedizinischer-dienst.html
+      https://www.bazl.admin.ch/bazl/de/home/personal/flugmedizinischer-dienst.html
 ---
 
