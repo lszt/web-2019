@@ -42,7 +42,7 @@ Flugplatzbeizli
 
 Prag (CZ)
 
-### 18.06.-01.07.2023 | SPHAIR Kurs 2 (Aquila)
+### 18.06. - 01.07.2023 | SPHAIR Kurs 2 (Aquila)
 
 Flugplatz Lommis
 
