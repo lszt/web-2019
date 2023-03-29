@@ -78,7 +78,7 @@ noch offen
 
 Flugplatzbeizli
 
-### 08-21.10.2023 | SPHAIR Kurs 4 (Aquila)
+### 08. - 21.10.2023 | SPHAIR Kurs 4 (Aquila)
 
 Flugplatz Lommis
 
