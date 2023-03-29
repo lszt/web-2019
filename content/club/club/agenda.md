@@ -40,7 +40,7 @@ Flugplatzbeizli
 
 ### 16. - 18.06.2023 | Fly-Away 1-2023
 
-Prag (CZ) | [Anmeldung] (https://xoyondo.com/dp/1emH6HZap2aV3Lg/ZZ7PIS6iOo)
+Prag (CZ) | [Info's] (club-kurse-veranstaltungne/entries/fly-outs) | [Anmeldung] (https://xoyondo.com/dp/1emH6HZap2aV3Lg/ZZ7PIS6iOo)
 
 ### 18.06. - 01.07.2023 | SPHAIR Kurs 2 (Aquila)
 
