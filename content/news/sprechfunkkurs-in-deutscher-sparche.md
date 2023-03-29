@@ -1,7 +1,7 @@
 ---
 title: Sprechfunkkurs in deutscher Sprache
 date: '2023-03-02T08:49:36+01:00'
-draft: false
+draft: true
 image: /img/uploads/ausbildung_voice.jpg
 positionx: 50
 positiony: 50
