@@ -50,7 +50,7 @@ Flugplatz Lommis
 
 Flugplatzbeizli
 
-### 23.07.-05.08.2023 | SPHAIR Kurs 3 (Robin)
+### 23.07. - 05.08.2023 | SPHAIR Kurs 3 (Robin)
 
 Flugplatz Lommis
 
