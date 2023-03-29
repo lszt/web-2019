@@ -38,11 +38,11 @@ Flugplatz Lommis
 
 Flugplatzbeizli
 
-### 16.-18.0.6.2023 | Fly-Away 1/2023
+### 16. - 18.06.2023 | Fly-Away 1/2023
 
 Prag (CZ)
 
-### 18.06.-01.07.2023 | SPHAIR-Kurs 2 (Aquila)
+### 18.06.-01.07.2023 | SPHAIR Kurs 2 (Aquila)
 
 Flugplatz Lommis
 
