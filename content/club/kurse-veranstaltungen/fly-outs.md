@@ -15,8 +15,7 @@ buttons:
     url: >-
       https://doodle.com/poll/42ns3vkzy5bx4a7m?utm_campaign=poll_added_participant_admin&utm_medium=email&utm_source=poll_transactional&utm_content=gotopoll-cta#table
 ---
-### Fly Away am 12./13. Juni 2021
-
+### Fly Away am 16. - 18. Juni 2023
 **Witamy w polsce!** (Willlkommen in Polen)
 
 Nach der coronabedingten Pause im letzten Jahr unternehmen wir nochmals einen Versuch: das diesjährige offizielle Fly Away der Flugschule der MFGT bringt uns nach Wroclaw EPWR in Polen. Die Route führt auf dem Hinweg über Karlovy Vary/Karlsbad LKKV (Tschechien) und auf dem Rückweg über Linz LOWL (Österreich). Selbstverständlich ist es den einzelnen Crews überlassen, welche Route sie fliegen oder ob sie die Gelegenheit für ein Flugplatz-Hopping nutzen. Die definierten Zwischenlandungen sollen in erster Linie dem Pilotenwechsel, dem gemeinsamen Mittagessen und ggfls. Fuel Stop dienen.
