@@ -17,7 +17,6 @@ buttons:
   - blank: true
     cta: true
     title: anmelden
-    url: >-
-      https://doodle.com/poll/42ns3vkzy5bx4a7m?utm_campaign=poll_added_participant_admin&utm_medium=email&utm_source=poll_transactional&utm_content=gotopoll-cta#table
+    url: 'https://xoyondo.com/dp/1emH6HZap2aV3Lg/ZZ7PIS6iOo'
 ---
 
