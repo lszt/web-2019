@@ -1,7 +1,7 @@
 ---
 title: GV und Flugplatzputzete 2023
 date: '2023-02-21T13:30:00+01:00'
-draft: false
+draft: true
 image: /img/uploads/ausbildung_luftaufnahme.jpg
 positionx: 50
 positiony: 50
