@@ -1,14 +1,16 @@
 ---
-title: Fly Away nach Wroclaw
-date: '2021-04-25T14:26:50+02:00'
-draft: true
+title: Fly Away nach Prag
+date: '2023-03-29T10:28:50+02:00'
+draft: false
 image: /img/uploads/club_flyaway.jpg
 positionx: 50
 positiony: 50
-description: |-
+description: >-
   **Jetzt anmelden!**
 
-  Das nächste Fly Away findet am 12./13. Juni 2021 nach Polen statt.
+
+  Das nächste Fly Away findet am 16. - 18. Juni 2023 nach Prag in Tschechien
+  statt.
 buttons:
   - title: mehr
     url: /club/kurse-veranstaltungen/fly-outs/
