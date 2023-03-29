@@ -6,18 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 24.03.2023 | 19:00 | GV MFGT
-
-MZH Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/ejYMwx5d/vote)
-
-### 25.03.2023 | 08:30 | Flugplatzputzete
-
-Flugplatz Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/bqQ5Ew3b/vote)
-
-### 26.03. - 23.04.2023 | Sprechfunkkurs in Deutscher Sprache
-
-Theorieraum MFGT und per Conference Call | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
-
 ### 31.03.2023 | 18:30 | Clubhöck
 
 Flugplatzbeizli
