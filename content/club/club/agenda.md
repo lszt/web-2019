@@ -38,7 +38,7 @@ Flugplatz Lommis
 
 Flugplatzbeizli
 
-### 16. - 18.06.2023 | Fly-Away 1/2023
+### 16. - 18.06.2023 | Fly-Away 1-2023
 
 Prag (CZ)
 
@@ -70,7 +70,7 @@ Flugplatz Lommis | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxX
 
 Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
-### 21. - 24.09.2023 | Fly-Away 2/2023
+### 21. - 24.09.2023 | Fly-Away 2-2023
 
 noch offen
 
