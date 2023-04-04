@@ -1,6 +1,6 @@
 ---
 title: Ausserordentliche GV MFGT
-date: '2023-04-04T14:05:33+02:00'
+date: '2023-04-04T02:05:33+02:00'
 draft: false
 image: /img/uploads/ausbildung_luftaufnahme.jpg
 positionx: 50
