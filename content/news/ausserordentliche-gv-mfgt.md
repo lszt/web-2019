@@ -1,13 +1,13 @@
 ---
 title: Ausserordentliche GV MFGT
-date: '2022-08-27T08:41:33+02:00'
-draft: true
+date: '2023-04-04T14:05:33+02:00'
+draft: false
 image: /img/uploads/ausbildung_luftaufnahme.jpg
 positionx: 50
 positiony: 50
 description: |
-  Am 19. September 2022 findet eine ausserordentliche GV der MFTG statt.
+  Am Freitag, 12. Mai 2023 findet eine ausserordentliche GV der MFTG statt.
 ---
-Treffpunkt um 19:00 auf dem Flugplatz Lommis.
+Treffpunkt um 19:00 im Hangar auf dem Flugplatz Lommis.
 
-[Anmeldung] (https://doodle.com/meeting/participate/id/egLLVrDa)
+[Anmeldung] (https://doodle.com/meeting/participate/id/eV77QM9a)
