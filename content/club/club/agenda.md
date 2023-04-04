@@ -34,6 +34,10 @@ Flugplatzbeizli
 
 Flugplatz Lommis
 
+### 12.05.2023 | 19:00 | Ausserordentliche GV MFGT
+
+Hangar Flugplatz Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/eV77QM9a)
+
 ### 26.05.2023 | 18:30 | Clubhöck
 
 Flugplatzbeizli
