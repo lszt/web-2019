@@ -6,7 +6,9 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 positionx: 50
 positiony: 50
 description: |
-  Am Freitag, 12. Mai 2023 findet eine ausserordentliche GV der MFTG statt.
+  **Freitag, 12. Mai 2023**
+
+  Im Mai findet eine ausserordentliche GV der MFTG statt.
 ---
 Treffpunkt um 19:00 im Hangar auf dem Flugplatz Lommis.
 
