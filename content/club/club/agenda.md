@@ -6,18 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 26.03. - 08.04.2023 | SPHAIR Kurs 1 (Aquila)
-
-Flugplatz Lommis
-
-### 31.03.2023 | 18:30 | Clubhöck
-
-Flugplatzbeizli
-
-### 05.04.2023 | 19:00 | Seminar Risikomanagement
-
-Griesser AG, Tänikonerstrasse 3, 8355 Aadorf | [Anmeldung] (https://doodle.com/meeting/participate/id/aQkxZV5d)
-
 ### 19. - 22.04.2023 | AERO 2023
 
 Friedrichshafen | [Tickets](https://tickets.messe-friedrichshafen.de/webshop/162/tickets)
