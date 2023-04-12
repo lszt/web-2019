@@ -1,7 +1,7 @@
 ---
 title: Seminar Risikomanagement
 date: '2023-02-22T14:41:38+01:00'
-draft: false
+draft: true
 image: /img/uploads/ausbildung_theorie.jpg
 positionx: 50
 positiony: 50
