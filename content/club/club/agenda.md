@@ -6,14 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 19. - 22.04.2023 | AERO 2023
-
-Friedrichshafen | [Tickets](https://tickets.messe-friedrichshafen.de/webshop/162/tickets)
-
-### 22.04.2023 | 09:00 - 12:00 | Infoanlass Flugschule
-
-Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
-
 ### 28.04.2023 | 18:30 | Clubhöck
 
 Flugplatzbeizli
@@ -24,7 +16,7 @@ Flugplatz Lommis
 
 ### 12.05.2023 | 19:00 | Ausserordentliche GV MFGT
 
-Hangar Flugplatz Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/eV77QM9a)
+Hangar Flugplatz Lommis | [Anmeldung](https://doodle.com/meeting/participate/id/eV77QM9a)
 
 ### 26.05.2023 | 18:30 | Clubhöck
 
@@ -32,7 +24,7 @@ Flugplatzbeizli
 
 ### 16. - 18.06.2023 | Fly-Away 1-2023
 
-Prag (CZ) | [Info's] (/club/kurse-veranstaltungen/fly-outs/) | [Anmeldung] (https://xoyondo.com/dp/1emH6HZap2aV3Lg/ZZ7PIS6iOo)
+Prag (CZ) | [Info's](/club/kurse-veranstaltungen/fly-outs/) | [Anmeldung](https://xoyondo.com/dp/1emH6HZap2aV3Lg/ZZ7PIS6iOo)
 
 ### 18.06. - 01.07.2023 | SPHAIR Kurs 2 (Aquila)
 
@@ -56,7 +48,7 @@ Flugplatzbeizli
 
 ### 26.08.2023 | 09:00 - 16:30 | YES Tag
 
-Flugplatz Lommis | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform) 
+Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform) 
 
 ### 16.09.2023 | 09:00 - 12:00 | Infoanlass Flugschule
 
