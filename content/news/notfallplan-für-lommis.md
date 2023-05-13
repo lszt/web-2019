@@ -2,7 +2,7 @@
 title: Notfallplan für Lommis
 date: '2023-05-11T16:35:32+02:00'
 draft: false
-image: /img/uploads/notfallkonzept.jpg
+image: /img/uploads/notfall_mfgt.jpg
 positionx: 50
 positiony: 50
 description: >-
@@ -10,4 +10,6 @@ description: >-
   Feuerwehr- und Rettungswesen auf CH Flugplätzen ein neuer Notfallplan
   erstellt.
 ---
-Ein neuer Notfallplan für Lommis LSZT liegt an diversen Orten am Flugplatz auf. Die MFGT bittet die Mitglieder, den Notfallplan zu studieren.
+Notfälle und Ereignisse wie beispielsweise sicherheitsrelevanter Vorfall, schwerer Vorfall, Unfall, Treibstoff Unfall, Hochwasser und Brand werden im Detail beschrieben. Im Notfallplan ist unter anderem erklärt, wie die Kommunikation ablaufen muss, wo sich Feuerlöschgeräte befinden, etc. Ein umfangreiches Dokument, das als Leitfaden im Notfall genutzt werden muss.
+
+Der Notfallplan liegt an diversen Orten am Flugplatz auf. Die MFGT bittet die Mitglieder, den Notfallplan zu studieren.
