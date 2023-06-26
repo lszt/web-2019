@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 16. - 18.06.2023 | Fly-Away 1-2023
-
-Prag (CZ) | [Info's](/club/kurse-veranstaltungen/fly-outs/) | [Anmeldung](https://xoyondo.com/dp/1emH6HZap2aV3Lg/ZZ7PIS6iOo)
-
 ### 18.06. - 01.07.2023 | SPHAIR Kurs 2 (Aquila)
 
 Flugplatz Lommis
