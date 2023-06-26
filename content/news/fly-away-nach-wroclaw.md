@@ -1,7 +1,7 @@
 ---
 title: Fly Away nach Prag
 date: '2023-03-29T10:28:50+02:00'
-draft: false
+draft: true
 image: /img/uploads/club_flyaway.jpg
 positionx: 50
 positiony: 50
