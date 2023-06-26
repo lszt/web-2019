@@ -16,6 +16,6 @@ buttons:
     cta: true
     title: mehr
     url: >-
-      https://71532.seu1.cleverreach.com/m/8138927/660972-a48cf3c650ad214e0ea10e94dfded1e4f85896195da83fee704517b56656029dcb92a0178ad9f3244a9fe86842d30ec2
+      https://staysafe.admin.ch/de/temporaere-luftraumeinschraenkung-im-raum-brienz-tiefencastel-gr/
 ---
 
