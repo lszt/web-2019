@@ -11,7 +11,7 @@ description: >-
 buttons:
   - blank: true
     cta: true
-    title: mehr
+    title: bericht
     url: >-
       https://drive.google.com/file/d/1fcjLR2zKWLL72HQiOKztGGncHKKLKwib/view?usp=sharing
 ---
