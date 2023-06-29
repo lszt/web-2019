@@ -9,6 +9,10 @@ description: >-
   Herzliche Gratulation der RTF Klasse 1/2023! Auftrag erledigt, well done. Und
   wieder eine Stufe in Richtung PP Lizenz geschafft. BRAVO!
 buttons:
-  - title: mehr
+  - blank: true
+    cta: true
+    title: mehr
+    url: >-
+      https://drive.google.com/file/d/1fcjLR2zKWLL72HQiOKztGGncHKKLKwib/view?usp=sharing
 ---
 
