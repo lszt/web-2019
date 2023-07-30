@@ -3,6 +3,7 @@ title: Drohnenflüge in der Flugplatzzone Lommis
 date: '2023-07-30T17:14:42+02:00'
 draft: false
 weight: '1'
+image: /img/uploads/drohnenkarte.jpg
 description: >-
   Drohnenflüge innerhalb von 5km um den Flugplatz Lommis benötigen eine
   Bewilligung und müssen über folgendes Formular beantragt werden.
