@@ -6,6 +6,10 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
+### 23.07. - 05.08.2023 | SPHAIR Kurs 3 (Robin)
+
+Flugplatz Lommis
+
 ### 25.08.2023 | 18:30 | Clubhöck
 
 Flugplatzbeizli
