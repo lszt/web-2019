@@ -57,6 +57,6 @@ Sekretariat, <mailto:info@mfgt.ch>, +41 52 366 33 33
 **Anmeldung**
 
 Anmeldeschluss ist der 18. August 2023
-[Leider bereits ausgebucht!]
+<font color="red">Leider bereits ausgebucht!</font>
 
 [Hier Flyer downloaden](https://drive.google.com/file/d/1aFIfwsokAO7gJfeIDrNhay1cPNDpMfzn/view?usp=share_link)
