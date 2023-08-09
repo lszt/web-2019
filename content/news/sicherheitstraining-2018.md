@@ -17,6 +17,6 @@ buttons:
       https://drive.google.com/file/d/1Es_ZDNnYMJkiNO7RUwSpgaqFOhBAri0f/view?usp=sharing
   - cta: true
     title: anmelden
-    url: 'mailto:j.hasler@swissonline.ch">Jürg Hasler'
+    url: 'mailto:j.hasler@swissonline.ch'
 ---
 
