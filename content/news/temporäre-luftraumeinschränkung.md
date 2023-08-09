@@ -1,7 +1,7 @@
 ---
 title: Temporäre Luftraumeinschränkung
 date: '2023-05-11T16:33:36+02:00'
-draft: false
+draft: true
 image: /img/uploads/restricted_area.jpg
 positionx: 50
 positiony: 50
