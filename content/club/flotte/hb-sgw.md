@@ -1,7 +1,7 @@
 ---
 title: HB-SGW
 date: '2023-08-09T13:32:15+02:00'
-draft: true
+draft: false
 weight: '2'
 image: /img/uploads/flotte_dummy.jpg
 description: '**Aquila A211 GX**'
