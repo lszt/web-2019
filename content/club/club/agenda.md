@@ -20,7 +20,11 @@ Flugplatz Lommis | <font color="red">Leider bereits ausgebucht!</font>
 
 ### 28.08.2023 | Sicherheitstraining 2023 (Vrillentraining)
 
-Flugplatz Amlikon | [Anmeldung] ("mailto:j.hasler@swissonline.ch">) 
+Flugplatz Amlikon | [Anmeldung] (mailto:j.hasler@swissonline.ch?subject=Vrillentraining) 
+
+### 30.08.2023 | Sicherheitstraining 2023 (Vrillentraining) Verschiebedatum
+
+Flugplatz Amlikon
 
 ### 16.09.2023 | 09:00 - 12:00 | Infoanlass Flugschule
 
