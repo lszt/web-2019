@@ -12,11 +12,11 @@ description: >-
 buttons:
   - blank: true
     cta: true
-    title: mehr
+    title: Flyer
     url: >-
       https://drive.google.com/file/d/1Es_ZDNnYMJkiNO7RUwSpgaqFOhBAri0f/view?usp=sharing
   - cta: true
     title: anmelden
-    url: 'href="mailto:j.hasler@swissonline.ch">Jürg Hasler'
+    url: 'mailto:j.hasler@swissonline.ch">Jürg Hasler'
 ---
 
