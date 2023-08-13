@@ -22,6 +22,10 @@ Flugplatz Amlikon | [Anmeldung] (mailto:j.hasler@swissonline.ch?subject=Vrillent
 
 Flugplatz Amlikon
 
+### 09.09.2023 | ILS Sternflug 2023
+
+Flugplatz Raron | [Anmeldung] (https://www.flightforum.ch/board/sternflug-2023/ )
+
 ### 16.09.2023 | 09:00 - 12:00 | Infoanlass Flugschule
 
 Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
