@@ -9,7 +9,7 @@ description: >-
   **Jetzt anmelden!**
 
 
-  Das nächste Fly Away findet vom 28.09. - 01.10.2023 nach Vilnius in Littauen
+  Das nächste Fly Away findet vom 28.09. - 01.10.2023 nach Vilnius in Litauen
   und Riga in Lettland statt.
 buttons:
   - title: mehr
