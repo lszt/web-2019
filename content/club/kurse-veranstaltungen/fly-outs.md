@@ -16,7 +16,7 @@ buttons:
 ---
 ### Fly-Away vom 28. September - 01. Oktober 2023
 
-Unser 2. Fly-Away bringt uns an die Finale Destination Vilnius in Lituaen. Je nach Wetter, Zeit, Lust und Laune können wir auch bis nach Riga (Lettland) weiterfliegen.
+Unser 2. Fly-Away bringt uns an die Finale Destination Vilnius in Litauen. Je nach Wetter, Zeit, Lust und Laune können wir auch bis nach Riga (Lettland) weiterfliegen.
 
 Unterwegs bieten sich an: Danzig (Nordpolen), Masurische Seenplatte, Besuch von Hitler's Wolfschanze und und und...
 
