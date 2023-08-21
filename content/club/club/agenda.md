@@ -42,9 +42,17 @@ Flugplatzbeizli
 
 Flugplatz Lommis
 
+### 27.10.2023 | 18:00 | Flugzeugtaufe HB-SGW/HB-KLR
+
+Hangar Flugplatz Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/b69lY7Ra)
+
 ### 27.10.2023 | 18:30 | Clubhöck
 
 Flugplatzbeizli
+
+### 17.11.2023 | 18:30 | Fondue-Abend'23
+
+Maintenance Hangar | [Anmeldung] (https://doodle.com/meeting/participate/id/ep2p9Lyb)
 
 ### 24.11.2023 | 18:30 | Clubhöck
 
