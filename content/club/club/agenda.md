@@ -32,7 +32,7 @@ Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXr
 
 ### 28.09. - 01.10.2023 | Fly-Away 2-2023
 
-Vilnius (Littauen) und Riga (Lettland) | \[Anmeldung] (https://xoyondo.com/dp/1emH6HZap2aV3Lg)
+Vilnius (Littauen) und Riga (Lettland) | [Anmeldung] (https://xoyondo.com/dp/1emH6HZap2aV3Lg)
 
 ### 29.09.2023 | 18:30 | Clubhöck
 
