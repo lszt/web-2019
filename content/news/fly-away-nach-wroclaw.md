@@ -1,5 +1,5 @@
 ---
-title: Fly Away nach Prag
+title: Fly Away nach Vilnius
 date: '2023-08-21T10:28:50+02:00'
 draft: false
 image: /img/uploads/club_flyaway.jpg
