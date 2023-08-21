@@ -18,7 +18,7 @@ buttons:
 
 Unser 2. Fly-Away bringt uns an die Finale Destination Vilnius in Litauen. Je nach Wetter, Zeit, Lust und Laune können wir auch bis nach Riga (Lettland) weiterfliegen.
 
-Unterwegs bieten sich an: Danzig (Nordpolen), Masurische Seenplatte, Besuch von Hitler's Wolfschanze und und und...
+Unterwegs bieten sich an: Danzig (Nordpolen), Masurische Seenplatte, Besuch von Hitler's Wolfsschanze und und und...
 
 Da es sich hierbei um mehrere Stunden Flug handelt, nehmen wir nur die Robins mit. Was aber nicht heisst, das die Aquila-Piloten nicht dabei sein können.
 Das wäre doch DIE Gelegenheit grad gleichzeitig die Umschulung auf die Robin zu machen!
