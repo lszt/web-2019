@@ -16,7 +16,7 @@ Flugplatz Lommis | <font color="red">Leider bereits ausgebucht!</font>
 
 ### 28.08.2023 | Sicherheitstraining 2023 (Vrillentraining)
 
-Flugplatz Amlikon | [Anmeldung] (mailto:j.hasler@swissonline.ch?subject=Vrillentraining) 
+Flugplatz Amlikon | [Anmeldung](mailto:j.hasler@swissonline.ch?subject=Vrillentraining) 
 
 ### 30.08.2023 | Sicherheitstraining 2023 (Vrillentraining) Verschiebedatum
 
@@ -24,7 +24,7 @@ Flugplatz Amlikon
 
 ### 09.09.2023 | ILS Sternflug 2023
 
-Flugplatz Raron | [Anmeldung] (https://www.flightforum.ch/board/sternflug-2023/ )
+Flugplatz Raron | [Anmeldung](https://www.flightforum.ch/board/sternflug-2023/)
 
 ### 16.09.2023 | 09:00 - 12:00 | Infoanlass Flugschule
 
@@ -32,7 +32,7 @@ Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXr
 
 ### 28.09. - 01.10.2023 | Fly-Away 2-2023
 
-noch offen
+Vilnius (Littauen) und Riga (Lettland) | \[Anmeldung] (https://xoyondo.com/dp/1emH6HZap2aV3Lg)
 
 ### 29.09.2023 | 18:30 | Clubhöck
 
