@@ -14,7 +14,7 @@ buttons:
     title: anmelden
     url: 'https://xoyondo.com/dp/1emH6HZap2aV3Lg'
 ---
-### Fly Away vom 28. September - 01. Oktober 2023
+### Fly-Away vom 28. September - 01. Oktober 2023
 
 Unser 2. Fly-Away bringt uns an die Finale Destination Vilnius in Lituaen. Je nach Wetter, Zeit, Lust und Laune können wir auch bis nach Riga (Lettland) weiterfliegen.
 
