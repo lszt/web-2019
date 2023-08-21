@@ -23,7 +23,7 @@ Unterwegs bieten sich an: Danzig (Nordpolen), Masurische Seenplatte, Besuch von 
 Da es sich hierbei um mehrere Stunden Flug handelt, nehmen wir nur die Robins mit. Was aber nicht heisst, das die Aquila-Piloten nicht dabei sein können.
 Das wäre doch DIE Gelegenheit grad gleichzeitig die Umschulung auf die Robin zu machen!
 
-Das Fly-Away wird von 1-2 Fluglehrern begleitet und ist somit für alle Piloten geeignet, die den Auslandflug mit all seinen Facetten erlernen oder auffrischen möchten. Oder aber einfach für all jene, die gerne wieder mal eine neue Destination kennenlernen und/oder mit Pilotenkollegen drei gemütliche Tage verbringen möchten.
+Das Fly-Away wird von 1-2 Fluglehrern begleitet und ist somit für alle Piloten geeignet, die den Auslandflug mit all seinen Facetten erlernen oder auffrischen möchten. Oder aber einfach für all jene, die gerne wieder mal eine neue Destination kennenlernen und/oder mit Pilotenkollegen vier gemütliche Tage verbringen möchten.
 
 **Ansprechpartner**
 André Heinzelmann, <mailto:andre.heinzelmann@mfgt.ch>
