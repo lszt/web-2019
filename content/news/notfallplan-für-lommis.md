@@ -1,7 +1,7 @@
 ---
 title: Notfallplan für Lommis
 date: '2023-05-11T16:35:32+02:00'
-draft: false
+draft: true
 image: /img/uploads/notfall_mfgt.jpg
 positionx: 50
 positiony: 50
