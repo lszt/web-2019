@@ -26,6 +26,10 @@ Flugplatz Amlikon
 
 Flugplatz Raron | [Anmeldung](https://www.flightforum.ch/board/sternflug-2023/)
 
+### 09.-10.09.2023 | Electrifly-In Switzerland
+
+Flugplatz Bern | [Info's] (https://electrifly-in.ch/de/mission-2/)
+
 ### 16.09.2023 | 09:00 - 12:00 | Infoanlass Flugschule
 
 Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
