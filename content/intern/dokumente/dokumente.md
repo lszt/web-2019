@@ -8,7 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
-* 20.04.2023 | 40 Flugbetrieb/Charter | [Daten Flugzeuge MFGT] (https://drive.google.com/file/d/1S6pwGBa6k5_QYhlw_cNRmSrIC6A_-mP3/view?usp=sharing) | aktualisiert
+* 25.08.2023 | 40 Flugbetrieb/Charter | [Daten Flugzeuge MFGT] (https://drive.google.com/file/d/1oWmobZ81f3liemM7AvbpvnCrTPQS8QYC/view?usp=sharing) | aktualisiert
 * 01.04.2023 | 40 Flugbetrieb/Charter | [Charterpreise 2023] (https://drive.google.com/file/d/1tghUpCImlGuRX779DgmkS4Ea4dwVA2Xv/view?usp=share_link) | aktualisiert 
 * 30.03.2023 | 40 Flugbetrieb/Flugzeuge/HB-KFW/AFM | [W&B KFW] (https://drive.google.com/file/d/19B76r0-ThgnaChAFos7ioiFEooARyBbk/view?usp=share_link) | hinzugefügt
 * 30.03.2023 | 40 Flugbetrieb/Flugzeuge/HB-KLA/AFM | [W&B KLA] (https://drive.google.com/file/d/1N7Ugs_DhfbbJ6qaqQfU7bDgvxg34kgq0/view?usp=sharing) | hinzugefügt
