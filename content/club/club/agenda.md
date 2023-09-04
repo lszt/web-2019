@@ -6,29 +6,13 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 25.08.2023 | 18:30 | Clubhöck
-
-Flugplatzbeizli
-
-### 26.08.2023 | 09:00 - 16:30 | YES Tag
-
-Flugplatz Lommis | <font color="red">Leider bereits ausgebucht!</font>
-
-### 28.08.2023 | Sicherheitstraining 2023 (Vrillentraining)
-
-Flugplatz Amlikon | [Anmeldung](mailto:j.hasler@swissonline.ch?subject=Vrillentraining) 
-
-### 30.08.2023 | Sicherheitstraining 2023 (Vrillentraining) Verschiebedatum
-
-Flugplatz Amlikon
-
 ### 09.09.2023 | ILS Sternflug 2023
 
 Flugplatz Raron | [Anmeldung](https://www.flightforum.ch/board/sternflug-2023/)
 
 ### 09.-10.09.2023 | Electrifly-In Switzerland
 
-Flugplatz Bern | [Info's] (https://electrifly-in.ch/de/mission-2/)
+Flugplatz Bern | [Info's](https://electrifly-in.ch/de/mission-2/)
 
 ### 16.09.2023 | 09:00 - 12:00 | Infoanlass Flugschule
 
@@ -36,7 +20,7 @@ Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXr
 
 ### 28.09. - 01.10.2023 | Fly-Away 2-2023
 
-Vilnius (Littauen) und Riga (Lettland) | [Anmeldung] (https://xoyondo.com/dp/1emH6HZap2aV3Lg)
+Vilnius (Littauen) und Riga (Lettland) | [Anmeldung](https://xoyondo.com/dp/1emH6HZap2aV3Lg)
 
 ### 29.09.2023 | 18:30 | Clubhöck
 
@@ -48,7 +32,7 @@ Flugplatz Lommis
 
 ### 27.10.2023 | 18:00 | Flugzeugtaufe HB-SGW/HB-KLR
 
-Hangar Flugplatz Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/b69lY7Ra)
+Hangar Flugplatz Lommis | [Anmeldung](https://doodle.com/meeting/participate/id/b69lY7Ra)
 
 ### 27.10.2023 | 18:30 | Clubhöck
 
@@ -56,7 +40,7 @@ Flugplatzbeizli
 
 ### 17.11.2023 | 18:30 | Fondue-Abend'23
 
-Maintenance Hangar | [Anmeldung] (https://doodle.com/meeting/participate/id/ep2p9Lyb)
+Maintenance Hangar | [Anmeldung](https://doodle.com/meeting/participate/id/ep2p9Lyb)
 
 ### 24.11.2023 | 18:30 | Clubhöck
 
