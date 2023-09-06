@@ -2,6 +2,7 @@
 title: YES-Tag 2023
 date: '2023-09-06T09:00:49+02:00'
 draft: false
+weight: '1'
 image: /img/uploads/yes_tag_2023.jpg
 description: |-
   YES-Tag 2023
