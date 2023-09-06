@@ -5,7 +5,7 @@ draft: false
 image: /img/uploads/yes_tag_2023.jpg
 positionx: 50
 positiony: 50
-description: Bericht zu den diesjähreigen YES-Tagen bei der MFGT in Lommis
+description: Bericht zu den diesjähreigen YES-Tagen bei der MFGT in Lommis.
 buttons:
   - blank: true
     cta: true
