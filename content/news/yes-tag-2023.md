@@ -11,6 +11,6 @@ buttons:
     cta: true
     title: bericht
     url: >-
-      https://www.mfgt.ch/admin/#/collections/index-news/entries/yes-tag-young-eagles-of-switzerland
+      https://drive.google.com/file/d/1182vX8ODOELXqh2Ap6F1Ob6qGySCB9tz/view?usp=drive_link
 ---
 
