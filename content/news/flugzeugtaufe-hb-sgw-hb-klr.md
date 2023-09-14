@@ -10,3 +10,13 @@ description: >-
   Maschienen statt.
 ---
 Ein schöner geselliger Anlass, bei dem man sich wieder bei einem guten Glas Wein über die neuesten Abenteuer austauschen kann.
+
+_**Folgend die Details:**_
+
+Datum: Freitag, 27. Oktober 2023
+
+Start: 18:00 Uhr
+
+Ort: Hangar Flugplatz Lommmis
+
+Anmeldung: Bis zum 19.10.2023 via [Doodlelink](https://doodle.com/meeting/participate/id/b69lY7Ra)
