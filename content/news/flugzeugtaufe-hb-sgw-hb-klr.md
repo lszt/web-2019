@@ -7,9 +7,9 @@ positionx: 50
 positiony: 50
 description: >-
   Am Freitag, 27. Oktober 2023 findet die Flugzeugtaufe unserer beiden neusten
-  Maschienen statt.
+  Maschinen statt.
 ---
-Ein schöner geselliger Anlass, bei dem man sich wieder bei einem guten Glas Wein über die neuesten Abenteuer austauschen kann.
+Die meisten von euch haben die neue Aquila schon gesehen und die neue Robin ist auch schon bald bei uns. Daher wird es wieder einmal Zeit, eine Flugzeugtaufe durchzuführen.
 
 _**Folgend die Details:**_
 
