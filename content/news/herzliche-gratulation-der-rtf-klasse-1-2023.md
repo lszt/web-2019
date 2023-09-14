@@ -1,7 +1,7 @@
 ---
 title: Herzliche Gratulation der RTF Klasse 1/2023
 date: '2023-06-29T16:20:09+02:00'
-draft: false
+draft: true
 image: /img/uploads/rtf_kursabschluss.jpg
 positionx: 50
 positiony: 50
