@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 16.09.2023 | 09:00 - 12:00 | Infoanlass Flugschule
-
-Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
-
 ### 28.09. - 01.10.2023 | Fly-Away 2-2023
 
 Vilnius (Littauen) und Riga (Lettland) | [Anmeldung](https://xoyondo.com/dp/1emH6HZap2aV3Lg)
@@ -45,6 +41,13 @@ Flugplatz Lommis | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXr
 ### 29.12.2023 | 18:30 | Clubhöck
 
 Flugplatzbeizli
+
+<hr>
+
+### 22.03.2024 | GV MFGT 2024
+
+MZH Stettfurt
+
 
 <hr>
 
