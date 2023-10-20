@@ -40,6 +40,9 @@ Flugplatzbeizli
 
 MZH Stettfurt
 
+### 31.08. - 01.09.2024 | Flugplatzfest "IceMan'24"
+
+Flugplatz Lommis
 
 <hr>
 
