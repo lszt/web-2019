@@ -6,14 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 28.09. - 01.10.2023 | Fly-Away 2-2023
-
-Vilnius (Littauen) und Riga (Lettland) | [Anmeldung](https://xoyondo.com/dp/1emH6HZap2aV3Lg)
-
-### 29.09.2023 | 18:30 | Clubhöck
-
-Flugplatzbeizli
-
 ### 08. - 21.10.2023 | SPHAIR Kurs 4 (Aquila)
 
 Flugplatz Lommis
