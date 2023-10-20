@@ -1,7 +1,7 @@
 ---
 title: Fly Away nach Vilnius
 date: '2023-08-21T10:28:50+02:00'
-draft: false
+draft: true
 image: /img/uploads/club_flyaway.jpg
 positionx: 50
 positiony: 50
