@@ -6,18 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 08. - 21.10.2023 | SPHAIR Kurs 4 (Aquila)
-
-Flugplatz Lommis
-
-### 27.10.2023 | 18:00 | Flugzeugtaufe HB-SGW/HB-KLR
-
-Hangar Flugplatz Lommis | [Anmeldung](https://doodle.com/meeting/participate/id/b69lY7Ra)
-
-### 27.10.2023 | 18:30 | Clubhöck
-
-Flugplatzbeizli
-
 ### 17.11.2023 | 18:30 | Fondue-Abend'23
 
 Maintenance Hangar | [Anmeldung](https://doodle.com/meeting/participate/id/ep2p9Lyb)
