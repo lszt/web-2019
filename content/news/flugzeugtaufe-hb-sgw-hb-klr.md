@@ -1,7 +1,7 @@
 ---
 title: Flugzeugtaufe HB-SGW
 date: '2023-09-14T17:04:48+02:00'
-draft: false
+draft: true
 image: /img/uploads/flotte_sgw.jpg
 positionx: 50
 positiony: 50
