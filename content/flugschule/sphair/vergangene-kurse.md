@@ -7,6 +7,10 @@ description: Hier findest Du Fotos und Berichte vergangener SPHAIR-Kurse
 ---
 ### 2023
 
+S-148 [Bericht](https://drive.google.com/file/d/10mm5bCU2HL1MfF2mx0PRlxzuIBK4g5Ug/view?usp=sharing)
+
+![](/img/uploads/sphair_148_2023.jpg)
+
 S-131 [Bericht](https://drive.google.com/file/d/1hLeAeEFnyZfe6u9r4zUUlsAgWtZnZoLI/view?usp=sharing)
 
 ![null](/img/uploads/sphair_131_2023.jpg)
