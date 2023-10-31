@@ -11,7 +11,7 @@ description: >-
 buttons:
   - title: kursprogramm 2023 / 2024
     url: >-
-      https://drive.google.com/file/d/1UF3ebCGHifGtN8MMBkcQEWFn23ajvlmx/view?usp=sharing
+      https://drive.google.com/file/d/1ciGvsX58E6X32Hko-mX3Vn3LsAjYXamJ/view?usp=sharing
   - cta: true
     title: anmelden
     url: >-
@@ -23,7 +23,7 @@ Der Besuch der ersten beiden Kursdaten ist oligatorisch (im Kursprogamm lila dar
 
 Bei mehr als 5 Teilnehmern finden die Praxisblöcke jeweils in zwei Gruppen am gleichen Tag zu unterschiedlichen Zeiten statt (im Kursprogamm rot und rosa dargetellt). Die Gruppeneinteilung wird am ersten Kurstag festgelegt.
 
-[Kursprogramm 2023 / 2024](https://drive.google.com/file/d/1UF3ebCGHifGtN8MMBkcQEWFn23ajvlmx/view?usp=sharing).
+[Kursprogramm 2023 / 2024](https://drive.google.com/file/d/1ciGvsX58E6X32Hko-mX3Vn3LsAjYXamJ/view?usp=sharing).
 
 **Kursleiterin**
 
