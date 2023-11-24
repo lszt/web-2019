@@ -1,7 +1,7 @@
 ---
 title: Fondue-Abend '23
 date: '2023-09-14T08:23:33+02:00'
-draft: false
+draft: true
 image: /img/uploads/fondue.jpg
 positionx: 50
 positiony: 50
