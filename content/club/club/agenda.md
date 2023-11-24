@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 17.11.2023 | 18:30 | Fondue-Abend'23
-
-Maintenance Hangar | [Anmeldung](https://doodle.com/meeting/participate/id/ep2p9Lyb)
-
 ### 24.11.2023 | 18:30 | Clubhöck
 
 Flugplatzbeizli
