@@ -28,5 +28,5 @@ Die theoretische Ausbildung erfolgt bei einem externen Anbieter wie [Safety Wing
  \
 **Kosten und weitere Informationen**
 
-Unser CFI Ramon Meienhöfer steht Dir für detaillierte Auskünfte zur Verfügung\
-Telefon +41 79 635 67 03 oder <mailto:ramon.meierhoefer@mfgt.ch>
+Unser CFI Hans Peter Boller steht Dir für detaillierte Auskünfte zur Verfügung\
+Telefon +41 52 366 33 33 oder <mailto:hp.boller@mfgt.ch>
