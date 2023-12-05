@@ -20,6 +20,10 @@ Flugplatzbeizli
 
 <hr>
 
+### 26.01.2024 | 18:30 | Clubhöck
+
+Flugplatzbeizli
+
 ### 22.03.2024 | GV MFGT 2024
 
 MZH Stettfurt
