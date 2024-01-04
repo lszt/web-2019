@@ -5,15 +5,15 @@ draft: false
 image: /img/uploads/club_flyaway.jpg
 positionx: 50
 positiony: 50
-description: "1st Lommis Fly-In\r\n\n\r\n\n2024 wird der Startschuss zu einer schönen neuen Tradition, die eines regelmässig stattfindenden Fly-In in Lommis. Dieses Jahr wird somit die erste Ausgabe dieses Festes gefeiert, dem \"1st Lommis Fly-In\"!"
+description: "### 1st Lommis Fly-In\r\n\n\r\n2024 wird der Startschuss zu einer schönen neuen Tradition, die eines regelmässig stattfindenden Fly-In in Lommis. Dieses Jahr wird somit die erste Ausgabe dieses Festes gefeiert, dem \"1st Lommis Fly-In\"!"
 ---
-Für die Organisation & Leitung dieses Ereignisses sind wir noch auf der Suche nach engagierte Freiwillige im Organisations Komitee. Wir brauchen deine Unterstützung, um es zu einem unvergesslichen Ereignis zu machen! Gemeinsam können wir sicherstellen, dass dieses Fest für alle ein großer Erfolg wird.
+Für das Organisations-Komitee sind wir noch auf der Suche nach engagierten Freiwilligen. Wir brauchen deine Unterstützung, um es zu einem unvergesslichen Ereignis zu machen! Gemeinsam können wir sicherstellen, dass dieses Fest für alle ein großer Erfolg wird.
 
 Hier sind einige Bereiche, in denen wir deine Unterstützung benötigen könnten:
 
-* Gastro Wolltest du schon immer eine Food Truck Party organisieren? Dann ist dies deine Chance.
-* Rahmenprogramm Bist du kreativ und hast du Freude daran, Menschen zu begeistern? Dann bist du genau der richtige für diesen Bereich.
-* Infrastruktur Oder bist du eher der handwerkliche Typ und packst gerne mit an? Dann willkommen bei der Infrastruktur!
+* **Gastro:** Wolltest du schon immer eine Food Truck Party organisieren? Dann ist dies deine Chance.
+* **Rahmenprogramm:** Bist du kreativ und hast du Freude daran, Menschen zu begeistern? Dann bist du genau der richtige für diesen Bereich.
+* **Infrastruktur:** Oder bist du eher der handwerkliche Typ und packst gerne mit an? Dann willkommen bei der Infrastruktur!
 
 Wenn du interessiert bist, bei einem oder mehreren dieser Teams mitzuarbeiten, melde dich bitte bis 31.01.2023 bei Michael Bolliger (michael.bolliger@mfgt.ch).
 
