@@ -1,5 +1,5 @@
 ---
-title: 'Gesucht: Unterstützung Organisationskomitee'
+title: 'Gesucht: Unterstützung OK "1st Lommis Fly-In"'
 date: '2024-01-04T21:41:18+01:00'
 draft: false
 image: /img/uploads/club_flyaway.jpg
