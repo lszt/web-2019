@@ -5,7 +5,10 @@ draft: false
 image: /img/uploads/club_flyaway.jpg
 positionx: 50
 positiony: 50
-description: "#### 1st Lommis Fly-In\r\n\n\r\n2024 wird der Startschuss zu einer schönen neuen Tradition, die eines regelmässig stattfindenden Fly-In in Lommis. Dieses Jahr wird somit die erste Ausgabe dieses Festes gefeiert, dem \"1st Lommis Fly-In\"!"
+description: >-
+  2024 wird der Startschuss zu einer schönen neuen Tradition, die eines
+  regelmässig stattfindenden Fly-In in Lommis. Dieses Jahr wird somit die erste
+  Ausgabe dieses Festes gefeiert, dem "1st Lommis Fly-In"!
 ---
 Für das Organisations-Komitee sind wir noch auf der Suche nach engagierten Freiwilligen. Wir brauchen deine Unterstützung, um es zu einem unvergesslichen Ereignis zu machen! Gemeinsam können wir sicherstellen, dass dieses Fest für alle ein großer Erfolg wird.
 
