@@ -6,12 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 29.12.2023 | 18:30 | Clubhöck
-
-Flugplatzbeizli
-
-<hr>
-
 ### 26.01.2024 | 18:30 | Clubhöck
 
 Flugplatzbeizli
@@ -20,7 +14,7 @@ Flugplatzbeizli
 
 MZH Stettfurt
 
-### 31.08. - 01.09.2024 | Flugplatzfest "IceMan'24"
+### 31.08. - 01.09.2024 | Flugplatzfest "1st Lommis Fly-In"
 
 Flugplatz Lommis
 
