@@ -15,7 +15,7 @@ Hier sind einige Bereiche, in denen wir deine Unterstützung benötigen könnten
 * **Rahmenprogramm:** Bist du kreativ und hast du Freude daran, Menschen zu begeistern? Dann bist du genau der richtige für diesen Bereich.
 * **Infrastruktur:** Oder bist du eher der handwerkliche Typ und packst gerne mit an? Dann willkommen bei der Infrastruktur!
 
-Wenn du interessiert bist, bei einem oder mehreren dieser Teams mitzuarbeiten, melde dich bitte bis 31.01.2023 bei Michael Bolliger (michael.bolliger@mfgt.ch).
+Wenn du interessiert bist, bei einem oder mehreren dieser Teams mitzuarbeiten, melde dich bitte bis 31.01.2023 bei Michael Bolliger <mailto:michael.bolliger@mfgt.ch>.
 
 Für alle, die als Helfer beim Fest unterstützen möchten, wird zu einem späteren Zeitpunkt ein Helferregister zur Anmeldung angelegt.
 
