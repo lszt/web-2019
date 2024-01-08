@@ -1,12 +1,12 @@
 ---
 title: Infoanlass Flugschule
-date: '2023-01-13T12:30:00+01:00'
-draft: true
+date: '2024-01-08T20:30:00+01:00'
+draft: false
 image: /img/uploads/aquila_sunrise.jpeg
 positionx: 50
 positiony: 50
 description: >-
-  **Samstag, 25. November 2023, 9 - 12 Uhr**
+  **Samstag, 10. Februar 2024, 09:00 - 12:00 Uhr**
 
 
   Interessierst Du Dich für eine Ausbildung zum Privatpiloten und für eine
