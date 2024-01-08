@@ -20,10 +20,16 @@ Wir zeigen dir, wie die Ausbildung aufgebaut ist, welche Voraussetzungen du mitb
 
 **Die nächsten Anlässe finden statt am:**
 
-**Samstag, 25.11.2022, 09.00 - 12:00 Uhr**
+**Samstag, 10.02.2024, 09:00 - 12:00 Uhr**
+
+**Samstag, 20.04.2024, 09:00 - 12:00 Uhr**
+
+**Samstag, 14.09.2024, 09:00 - 12:00 Uhr**
+
+**Samstag, 23.11.2024, 09:00 - 12:00 Uhr**
 
 Treffpunkt: Vor dem Clubhaus, Flugplatz Lommis
 
 Für weitere Informationen wende dich bitte an <mailto:andre.heinzelmann@mfgt.ch>
 
-\> [Download Infoflyer](https://drive.google.com/file/d/1RwglvjjOUAV5M3D_GRPVeid3bovrrRqZ/view?usp=sharing)
+\> [Download Infoflyer](https://drive.google.com/file/d/1u49s8Z-HVigrTK_VGD67aANLLksa3OLT/view?usp=sharing)
