@@ -7,8 +7,9 @@ positionx: 50
 positiony: 50
 description: >-
   2024 wird der Startschuss zu einer schönen neuen Tradition, die eines
-  regelmässig stattfindenden Fly-In in Lommis. Dieses Jahr wird somit die erste
-  Ausgabe dieses Festes gefeiert, dem "1st Lommis Fly-In"!
+  regelmässig stattfindenden Fly-In in Lommis. Dieses Jahr wird am 31.08. &
+  01.09. somit die erste Ausgabe dieses Festes gefeiert, dem "1st Lommis
+  Fly-In"!
 ---
 Für das Organisations-Komitee sind wir noch auf der Suche nach engagierten Freiwilligen. Wir brauchen deine Unterstützung, um es zu einem unvergesslichen Ereignis zu machen! Gemeinsam können wir sicherstellen, dass dieses Fest für alle ein großer Erfolg wird.
 
