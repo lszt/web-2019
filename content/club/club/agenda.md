@@ -20,7 +20,7 @@ MZH Stettfurt
 
 ### 20.04.2024 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
-Flugplatz Lommis
+Flugplatz Lommis | [Info's] (/flugschule/naechste-schritte/infoabend/) | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
 ### 14.-16.06.2024 | Fly-Away 1/2024 (Beginner)
 
@@ -32,7 +32,7 @@ Flugplatz Lommis
 
 ### 14.09.2024 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
-Flugplatz Lommis
+Flugplatz Lommis | [Info's] (/flugschule/naechste-schritte/infoabend/) | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
 ### 19.09.-22.09.2024 | Fly-Away 2/2024 (Fortgeschrittene)
 
@@ -40,7 +40,7 @@ Ziele noch offen
 
 ### 23.11.2024 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
-Flugplatz Lommis
+Flugplatz Lommis | [Info's] (/flugschule/naechste-schritte/infoabend/) | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
 <hr>
 
