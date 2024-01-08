@@ -62,7 +62,7 @@ Flugplatz Lommis
 
 Flugplatz Lommis | [Info's] (/flugschule/naechste-schritte/infoabend/) | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
-### 19.09.-22.09.2024 | Fly-Away 2-2024 (Fortgeschrittene)
+### 19.-22.09.2024 | Fly-Away 2-2024 (Fortgeschrittene)
 
 Ziele noch offen
 
