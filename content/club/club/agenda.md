@@ -34,6 +34,10 @@ Flugplatz Lommis | [Info's] (/flugschule/naechste-schritte/infoabend/) | [Anmeld
 
 Flugplatzbeizli
 
+### 03.05.2024 | 18:30 | Neumitglieder-Apéro 2024
+
+Flugplatz Lommis
+
 ### 31.05.2024 | 18:30 | Clubhöck
 
 Flugplatzbeizli
@@ -73,6 +77,10 @@ Flugplatzbeizli
 ### 25.10.2024 | 18:30 | Clubhöck
 
 Flugplatzbeizli
+
+### 15.11.2024 | 18:30 | Fondue-Abend 2024
+
+Flugplatz Lommis
 
 ### 23.11.2024 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
