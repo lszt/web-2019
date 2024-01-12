@@ -14,6 +14,10 @@ Flugplatzbeizli
 
 Flugplatz Lommis | [Info's] (/flugschule/naechste-schritte/infoabend/) | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
+### 17.02.2024 | 09:00-12:00 | Informationsevent Versicherung & Haftung
+
+wird noch bekannt gegeben | [Anmeldung] (https://doodle.com/meeting/participate/id/azq6zxye)
+
 ### 23.02.2024 | 18:30 | Clubhöck
 
 Flugplatzbeizli
