@@ -1,7 +1,7 @@
 ---
 title: video vom intensivcamp biberach
 date: '2023-07-03T14:22:56+02:00'
-draft: false
+draft: true
 image: /img/uploads/biberach.jpg
 positionx: 50
 positiony: 50
