@@ -16,7 +16,7 @@ Flugplatz Lommis | [Info's] (/flugschule/naechste-schritte/infoabend/) | [Anmeld
 
 ### 17.02.2024 | 09:00-12:00 | Informationsevent Versicherung & Haftung
 
-wird noch bekannt gegeben | [Anmeldung] (https://doodle.com/meeting/participate/id/azq6zxye)
+Griesser AG, Tänikonerstrasse 3, 8355 Aadorf | [Anmeldung] (https://doodle.com/meeting/participate/id/azq6zxye)
 
 ### 23.02.2024 | 18:30 | Clubhöck
 
