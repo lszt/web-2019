@@ -24,7 +24,11 @@ Flugplatzbeizli
 
 ### 22.03.2024 | GV MFGT 2024
 
-MZH Stettfurt
+MZH Stettfurt (Primarschulhaus Stettfurt) | [Anmeldung] (https://doodle.com/meeting/participate/id/aKA6D1Md)
+
+### 23.03.2024 | Flugplatzputzete 2024
+
+Flugplatz Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/ergY12Ka)
 
 ### 29.03.2024 | 18:30 | Clubhöck
 
