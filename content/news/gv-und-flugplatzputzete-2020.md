@@ -24,4 +24,4 @@ und
 
 [Anmeldung Flugplatzputzete](https://doodle.com/meeting/participate/id/ergY12Ka)
 
-Die Dokumente zur GV findet ihr [hier](https://drive.google.com/drive/folders/1iPvSKD60FKbxyMvvE5-efJeCAXfBYbTc)
+Die Dokumente zur GV findet ihr [hier](https://drive.google.com/drive/folders/1JJ3BlCvGEPt_6Z_gfKQ_ONgYj3O3pOh_)
