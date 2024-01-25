@@ -9,7 +9,7 @@ description: >-
   Die MFGT-Flugschule bietet am 20.04.2024 die Möglichkeit an, einen begleiteten
   Tagesausflug ins nahe Ausland zu unternehmen.
 ---
-Geschätzte Vereinsmitglieder.
+Geschätzte Vereinsmitglieder,
 
 Die Sportfliegerei bietet neben der Schweiz auch grossartige Erlebnisse im Ausland an. Wer noch nie/selten oder schon lange nicht mehr im Ausland war, fühlt sich oft eventuell unsicher dies allein zu planen. Daher bietet die MFGT-Flugschule am 20.04.2024 die Möglichkeit an, einen begleiteten Tagesausflug ins nahe Ausland zu unternehmen. Diese Veranstaltung bietet die Möglichkeit, mit Kollegen:Innen zu fliegen und von erfahrener Unterstützung zu profitieren.
 
