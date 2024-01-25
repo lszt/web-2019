@@ -38,6 +38,10 @@ Flugplatzbeizli
 
 Flugplatz Lommis | [Info's] (/flugschule/naechste-schritte/infoabend/) | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
+### 20.04.2024 | Einführung/Auffrischung Auslandsflug
+
+Lommis und Flugplätze im süddeutschen Raum | [Anmeldung] (<mailto:mfgt-flugschule@mfgt.ch>)
+
 ### 26.04.2024 | 18:30 | Clubhöck
 
 Flugplatzbeizli
