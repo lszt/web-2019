@@ -40,7 +40,7 @@ Ab diesem Frühjahr startet das neue Refresher Training für 2024 und 2025. Dies
 * Standard Phraseologie ATC Communication (D. Hollerer)
 * Vorstellung Refresher Flug (F. Burkhardt)
 
-Die Veranstaltung wird bis 1200 Uhr dauern. Anschliessend werden wir für Fragen und weitere Themen zur Verfügung stehen.
+Die Veranstaltung wird bis 1230 Uhr dauern. Anschliessend werden wir für Fragen und weitere Themen zur Verfügung stehen.
 
 Falls schon vorab Fragen vorhanden sind, betreffend Refresher Tag & Flug, stehen euch H.P. Boller und Josef Kurath, gerne zur Verfügung.
 
