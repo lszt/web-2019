@@ -18,7 +18,7 @@ Griesser AG, Tänikonerstrasse 3, 8355 Aadorf | [Anmeldung](https://doodle.com/m
 
 Flugplatzbeizli
 
-### 24.02.2024 | 08:30-12:30 | Refresher Tag
+### 24.02.2024 | 09:00-12:00 | Refresher Tag
 
 Griesser AG, Tänikonerstrasse 3, 8355 Aadorf | [Anmeldung] (https://doodle.com/meeting/participate/id/ejAAn7Pd)
 
