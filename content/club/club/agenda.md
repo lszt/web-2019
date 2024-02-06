@@ -6,29 +6,29 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 26.01.2024 | 18:30 | Clubhöck
-
-Flugplatzbeizli
-
 ### 10.02.2024 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
-Flugplatz Lommis | [Info's] (/flugschule/naechste-schritte/infoabend/) | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
+Flugplatz Lommis | [Info's](/flugschule/naechste-schritte/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
 ### 17.02.2024 | 09:00-12:00 | Informationsevent Versicherung & Haftung
 
-Griesser AG, Tänikonerstrasse 3, 8355 Aadorf | [Anmeldung] (https://doodle.com/meeting/participate/id/azq6zxye)
+Griesser AG, Tänikonerstrasse 3, 8355 Aadorf | [Anmeldung](https://doodle.com/meeting/participate/id/azq6zxye)
 
 ### 23.02.2024 | 18:30 | Clubhöck
 
 Flugplatzbeizli
 
+### 24.02.2024 | 09:00-12:00 | Refresher Tag
+
+Griesser AG, Tänikonerstrasse 3, 8355 Aadorf | [Anmeldung] (https://doodle.com/meeting/participate/id/ejAAn7Pd)
+
 ### 22.03.2024 | GV MFGT 2024
 
-MZH Stettfurt (Primarschulhaus Stettfurt) | [Anmeldung] (https://doodle.com/meeting/participate/id/aKA6D1Md)
+MZH Stettfurt (Primarschulhaus Stettfurt) | [Anmeldung](https://doodle.com/meeting/participate/id/aKA6D1Md)
 
 ### 23.03.2024 | Flugplatzputzete 2024
 
-Flugplatz Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/ergY12Ka)
+Flugplatz Lommis | [Anmeldung](https://doodle.com/meeting/participate/id/ergY12Ka)
 
 ### 29.03.2024 | 18:30 | Clubhöck
 
@@ -36,11 +36,11 @@ Flugplatzbeizli
 
 ### 20.04.2024 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
-Flugplatz Lommis | [Info's] (/flugschule/naechste-schritte/infoabend/) | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
+Flugplatz Lommis | [Info's](/flugschule/naechste-schritte/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
 ### 20.04.2024 | Einführung/Auffrischung Auslandsflug
 
-Lommis und Flugplätze im süddeutschen Raum | [Anmeldung] (<mailto:mfgt-flugschule@mfgt.ch>)
+Lommis und Flugplätze im süddeutschen Raum | [Anmeldung](mailto:mfgt-flugschule@mfgt.ch)
 
 ### 26.04.2024 | 18:30 | Clubhöck
 
@@ -76,7 +76,7 @@ Flugplatz Lommis
 
 ### 14.09.2024 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
-Flugplatz Lommis | [Info's] (/flugschule/naechste-schritte/infoabend/) | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
+Flugplatz Lommis | [Info's](/flugschule/naechste-schritte/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
 ### 19.-22.09.2024 | Fly-Away 2-2024 (Fortgeschrittene)
 
@@ -96,7 +96,7 @@ Flugplatz Lommis
 
 ### 23.11.2024 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
-Flugplatz Lommis | [Info's] (/flugschule/naechste-schritte/infoabend/) | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
+Flugplatz Lommis | [Info's](/flugschule/naechste-schritte/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
 ### 29.11.2024 | 18:30 | Clubhöck
 
