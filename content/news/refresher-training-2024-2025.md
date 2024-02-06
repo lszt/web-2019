@@ -24,7 +24,7 @@ Ab diesem Frühjahr startet das neue Refresher Training für 2024 und 2025. Dies
 
 **Datum:** Samstag, 24.02.2024 \
 **Ort:** Griesser AG, Tänikonerstrasse 3, 8355 Aadorf \
-**Zeit:** 0900 – 1200 Uhr \
+**Zeit:** 0830 – 1230 Uhr \
 **Anmeldung:**  https://doodle.com/meeting/participate/id/ejAAn7Pd
 
 **Themen:**
