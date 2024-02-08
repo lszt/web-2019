@@ -6,7 +6,7 @@ image: /img/uploads/aquila_sunrise.jpeg
 positionx: 50
 positiony: 50
 description: >-
-  **Samstag, 10. Februar 2024, 09:00 - 12:00 Uhr**
+  **Samstag, 20. April 2024, 09:00 - 12:00 Uhr**
 
 
   Interessierst Du Dich für eine Ausbildung zum Privatpiloten und für eine
