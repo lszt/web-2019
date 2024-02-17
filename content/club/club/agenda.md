@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 10.02.2024 | <font color="red">Abgesagt!</font> | Infoanlass Flugschule MFGT
-
-Flugplatz Lommis | [Info's](/flugschule/naechste-schritte/infoabend/)
-
 ### 17.02.2024 | 09:00-12:00 | Informationsevent Versicherung & Haftung
 
 Griesser AG, Tänikonerstrasse 3, 8355 Aadorf | [Anmeldung](https://doodle.com/meeting/participate/id/azq6zxye)
@@ -20,7 +16,7 @@ Flugplatzbeizli
 
 ### 24.02.2024 | 09:00-12:00 | Refresher Tag
 
-Griesser AG, Tänikonerstrasse 3, 8355 Aadorf | [Anmeldung] (https://doodle.com/meeting/participate/id/ejAAn7Pd)
+Griesser AG, Tänikonerstrasse 3, 8355 Aadorf | [Anmeldung](https://doodle.com/meeting/participate/id/ejAAn7Pd)
 
 ### 22.03.2024 | GV MFGT 2024
 
