@@ -8,7 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
-* 23.02.2024 | 10 Allgemein / Präsentationen / Versicherungs-&Haftungsenvent | [Unterlagen Event] (https://drive.google.com/drive/folders/1e8CUxw9cf2UX_oceQKVI76IxdU1C36Xa?usp=drive_link) | hinzugefügt
+* 23.02.2024 | 10 Allgemein / Präsentationen / Versicherungs-&Haftungsevent | [Unterlagen Event] (https://drive.google.com/drive/folders/1e8CUxw9cf2UX_oceQKVI76IxdU1C36Xa?usp=drive_link) | hinzugefügt
 * 20.10.2023 | 20 Infrastruktur / Flugplatz | [VAC Chart] (https://drive.google.com/file/d/1FMkoCoEdppvrK2uDdrLcs3ydPEVh97Jp/view?usp=share_link) | aktualisiert
 * 20.10.2023 | 20 Infrastruktur / Flugplatz | [AD Info] (https://drive.google.com/file/d/1ejYV_Kj9czOvveOD8TozP6SmH6hZq517/view?usp=share_link) | aktualisiert
 * 31.08.2023 | 40 Flugbetrieb/Charter | [Treibstoffzuschlag] (https://drive.google.com/file/d/1Ay_HB2UwL5AVvk9BdYZBDwyBWZPlL5Xk/view?usp=sharing) | aktualisiert
