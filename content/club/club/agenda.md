@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 17.02.2024 | 09:00-12:00 | Informationsevent Versicherung & Haftung
-
-Griesser AG, Tänikonerstrasse 3, 8355 Aadorf | [Anmeldung](https://doodle.com/meeting/participate/id/azq6zxye)
-
 ### 23.02.2024 | 18:30 | Clubhöck
 
 Flugplatzbeizli
