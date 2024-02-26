@@ -17,7 +17,7 @@ buttons:
 **KONTAKT 177 – 2024**
 
 ![](/img/uploads/bild_kontakt_2024.jpg)
-[Download 177 – 2024](https://drive.google.com/file/d/1OCxuLNlVZUE8FSTWJeebC9PKn3dWSzY_/view?usp=sharing)
+[Download 177 – 2024](https://drive.google.com/file/d/17xTeDBDtNbmtrI0vTp2O7ZgLQzEGY11p/view?usp=sharing)
 
 **KONTAKT 176 – 2023**
 
