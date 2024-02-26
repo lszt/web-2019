@@ -10,9 +10,9 @@ description: |-
 buttons:
   - blank: true
     cta: true
-    title: Kontakt 2023
+    title: Kontakt 2024
     url: >-
-      https://drive.google.com/file/d/1OCxuLNlVZUE8FSTWJeebC9PKn3dWSzY_/view?usp=share_link
+      https://drive.google.com/file/d/17xTeDBDtNbmtrI0vTp2O7ZgLQzEGY11p/view?usp=sharing
 ---
 **KONTAKT 177 – 2024**
 
