@@ -47,6 +47,6 @@ Am Mittwoch, 12. Juni findet im Theoriesaal in Lommis um 19 Uhr das Briefing sta
 André Heinzelmann, <mailto:andre.heinzelmann@mfgt.ch>
 
 **Anmeldung**\
-[Bis 30 April] (https://xoyondo.com/dp/1emH6HZap2aV3Lg)
+[Bis 30. April] (https://xoyondo.com/dp/1emH6HZap2aV3Lg)
 
 Wir freuen uns auf eine rege Teilnahme!
