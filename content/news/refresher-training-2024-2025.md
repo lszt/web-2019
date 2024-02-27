@@ -1,7 +1,7 @@
 ---
 title: Refresher Training 2024 / 2025
 date: '2024-02-06T08:33:37+01:00'
-draft: false
+draft: true
 image: /img/uploads/club_refresher.jpg
 positionx: 50
 positiony: 50
