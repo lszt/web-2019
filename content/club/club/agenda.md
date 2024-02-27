@@ -18,7 +18,7 @@ Flugplatz Lommis | [Anmeldung](https://doodle.com/meeting/participate/id/ergY12K
 
 Flugplatzbeizli
 
-### 31.3.-30.04.2024 | SPHAIR Kurs 1 (Aquila)
+### 31.3.-13.04.2024 | SPHAIR Kurs 1 (Aquila)
 
 Flugplatz Lommis
 
