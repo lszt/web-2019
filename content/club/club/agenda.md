@@ -64,7 +64,7 @@ Flugplatzbeizli
 
 ### 31.08. - 01.09.2024 | Flugplatzfest "1st Lommis Fly-In"
 
-Flugplatz Lommis
+Flugplatz Lommis | [Helferanmeldung] (https://t.ly/u9n6t)
 
 ### 14.09.2024 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
