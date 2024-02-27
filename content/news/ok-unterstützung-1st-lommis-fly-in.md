@@ -1,8 +1,8 @@
 ---
-title: 'Gesucht: Unterstützung OK "1st Lommis Fly-In"'
-date: '2024-01-04T21:41:18+01:00'
+title: '"1st Lommis Fly-In" - Helferanmeldung'
+date: '2024-02-27T02:41:18+01:00'
 draft: false
-image: /img/uploads/club_flyaway.jpg
+image: /img/uploads/1st_flyin.jpg
 positionx: 50
 positiony: 50
 description: >-
@@ -11,16 +11,6 @@ description: >-
   01.09. somit die erste Ausgabe dieses Festes gefeiert, dem "1st Lommis
   Fly-In"!
 ---
-Für das Organisations-Komitee sind wir noch auf der Suche nach engagierten Freiwilligen. Wir brauchen deine Unterstützung, um es zu einem unvergesslichen Ereignis zu machen! Gemeinsam können wir sicherstellen, dass dieses Fest für alle ein großer Erfolg wird.
+Wie im Kontakt 2024 vorgestellt, suchen wir nach tatkräftiger Unterstützung in Form von Helfer während unserem diesjährigen Flugplatzfest.
 
-Hier sind einige Bereiche, in denen wir deine Unterstützung benötigen könnten:
-
-* **Gastro:** Wolltest du schon immer eine Food Truck Party organisieren? Dann ist dies deine Chance.
-* **Rahmenprogramm:** Bist du kreativ und hast du Freude daran, Menschen zu begeistern? Dann bist du genau der richtige für diesen Bereich.
-* **Infrastruktur:** Oder bist du eher der handwerkliche Typ und packst gerne mit an? Dann willkommen bei der Infrastruktur!
-
-Wenn du interessiert bist, bei einem oder mehreren dieser Teams mitzuarbeiten, melde dich bitte bis 31.01.2023 bei Michael Bolliger <mailto:michael.bolliger@mfgt.ch>.
-
-Für alle, die als Helfer beim Fest unterstützen möchten, wird zu einem späteren Zeitpunkt ein Helferregister zur Anmeldung angelegt.
-
-Vielen Dank!
+Möchtest du auch ein Teil dieses wunderbaren Festes sein? Dann freuen wir uns auf deine Anmeldung unter folgendem [Link] (https://t.ly/u9n6t) oder direkt an Michael Bolliger <mailto:michael.bolliger@mfgt.ch>
