@@ -42,7 +42,7 @@ Flugplatz Lommis
 
 Flugplatzbeizli
 
-### 12.06.2024 | 19:30 | Briefing Flay-Away 1-2024
+### 12.06.2024 | 19:30 | Briefing Fly-Away 1-2024
 
 Flugplatz Lommis
 
