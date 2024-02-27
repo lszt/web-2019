@@ -50,7 +50,7 @@ Flugplatz Lommis
 
 Brügge (B)
 
-16.-29.06.2024 | SPHAIR Kurs 2 (Aquila)
+### 16.-29.06.2024 | SPHAIR Kurs 2 (Aquila)
 
 Flugplatz Lommis
 
