@@ -48,7 +48,7 @@ Flugplatz Lommis
 
 ### 14.-16.06.2024 | Fly-Away 1-2024 (Beginner)
 
-Brügge (B)
+Brügge (B) | [Anmeldung] (https://xoyondo.com/dp/1emH6HZap2aV3Lg)
 
 ### 16.-29.06.2024 | SPHAIR Kurs 2 (Aquila)
 
