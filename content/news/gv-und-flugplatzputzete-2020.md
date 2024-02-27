@@ -1,6 +1,6 @@
 ---
 title: GV und Flugplatzputzete 2024
-date: '2024-01-19T13:00:00+01:00'
+date: '2024-02-27T13:00:00+01:00'
 draft: false
 image: /img/uploads/ausbildung_luftaufnahme.jpg
 positionx: 50
