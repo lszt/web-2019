@@ -88,7 +88,7 @@ Flugplatzbeizli
 
 ### 04.-05.10.2024 | Sicherheitstraining 2024
 
-Flugplatz Lommis | [Info's] (flugschule-weiter/entries/acro)
+Flugplatz Lommis | [Info's] (/flugschule/weiter/acro/)
 
 ### 06.-19.10.2024 | SPHAIR Kurs 4 (Aquila)
 
