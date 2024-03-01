@@ -48,3 +48,8 @@ CHF 380.– vor dem Flug per Twint oder Bar (exklusive Landetaxen)
 **Kursprogramm**
 
 [Programm] (https://drive.google.com/file/d/1Da_ScTIA5gDzuOefQAZhV3eaJHARbsMw/view?usp=sharing)
+
+\
+**Anmeldung**
+Bis 30. August 2024 an <mailto:mfgt-flugschule@mfgt.ch>
+
