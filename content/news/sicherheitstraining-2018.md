@@ -10,7 +10,7 @@ description: >-
   ein Sicherheitstraining. Zum Einsatz kommt eine Champion Super Decathlon.
 buttons:
   - title: mehr
-    url: flugschule-weiter/entries/acro
+    url: flugschule-weiter/sicherheitstraining
   - blank: true
     cta: true
     title: Flyer
