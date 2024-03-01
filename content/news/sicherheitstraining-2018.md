@@ -1,22 +1,23 @@
 ---
-title: Sicherheitstraining 2023
+title: Sicherheitstraining 2024
 date: '2023-08-09T16:04:10+02:00'
-draft: true
-image: /img/uploads/bild_akro.jpg
+draft: false
+image: /img/uploads/sicherheitstraining_decathlon.jpg
 positionx: 50
 positiony: 50
 description: >-
-  Die Flugschule der Motorfluggruppe Thurgau organisiert dieses Jahr ein etwas
-  anderes Sicherheitstraining zusammen mit der Segelfluggruppe Cumulus in
-  Amlikon.
+  Die Flugschule der Motorfluggruppe Thurgau organisiert auch dieses Jahr wieder
+  ein Sicherheitstraining. Zum Einsatz kommt eine Champion Super Decathlon.
 buttons:
   - blank: true
     cta: true
     title: Flyer
     url: >-
-      https://drive.google.com/file/d/1Es_ZDNnYMJkiNO7RUwSpgaqFOhBAri0f/view?usp=sharing
+      https://drive.google.com/file/d/1Da_ScTIA5gDzuOefQAZhV3eaJHARbsMw/view?usp=sharing
   - cta: true
     title: anmelden
-    url: 'mailto:j.hasler@swissonline.ch?subject=Vrillentraining'
+    url: 'mailto:mfgt-flugschule@mfgt.ch?subject=Vrillentraining'
+  - title: mehr
+    url: flugschule-weiter/entries/acro
 ---
 
