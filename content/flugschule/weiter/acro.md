@@ -56,4 +56,4 @@ Diese Jahr wird das Sicherheitstraining in Zusammenarbeit mit der Pilotenschule 
 \
 **Anmeldung**
 
-Bis 30. August 2024 an <mailto:mfgt-flugschule@mfgt.ch?subject=Sicherheitstraining 2024>
+Bis 30. August 2024 an mailto:mfgt-flugschule@mfgt.ch?subject=Sicherheitstraining 2024
