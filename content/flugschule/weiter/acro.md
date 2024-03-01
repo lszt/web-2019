@@ -13,7 +13,7 @@ buttons:
     url: /club/club/agenda/
   - cta: true
     title: anmelden
-    url: '<mailto:mfgt-flugschule@mfgt.ch>'
+    url: '<mailto:mfgt-flugschule@mfgt.ch?subject=Sicherheitstraining 2024>'
 ---
 **Voraussetzungen**
 
@@ -52,5 +52,5 @@ CHF 380.– vor dem Flug per Twint oder Bar (exklusive Landetaxen)
 \
 **Anmeldung**
 
-Bis 30. August 2024 an <mailto:mfgt-flugschule@mfgt.ch>
+Bis 30. August 2024 an <mailto:mfgt-flugschule@mfgt.ch?subject=Sicherheitstraining 2024>
 
