@@ -13,7 +13,7 @@ buttons:
     url: /club/club/agenda/
   - cta: true
     title: anmelden
-    url: nicht möglich
+    url: '<mailto:mfgt-flugschule@mfgt.ch>'
 ---
 **Voraussetzungen**
 
