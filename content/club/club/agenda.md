@@ -86,6 +86,10 @@ Lettland & Litauen
 
 Flugplatzbeizli
 
+### 04.-05.10.2024 | Sicherheitstraining 2024
+
+Flugplatz Lommis | [Info's] (flugschule-weiter/entries/acro)
+
 ### 06.-19.10.2024 | SPHAIR Kurs 4 (Aquila)
 
 Flugplatz Lommis
