@@ -49,7 +49,11 @@ CHF 380.– vor dem Flug per Twint oder Bar (exklusive Landetaxen)
 
 Diese Jahr wird das Sicherheitstraining in Zusammenarbeit mit der Pilotenschule in St. Gallen von Kunstfluglehrer Roman Ritzmann auf einer Champion Super Decathlon mit 180 PS durchgeführt.
 
-![](/img/uploads/roman_ritzmann_fi.jpg)
+![FI Roman Ritzmann](/img/uploads/roman_ritzmann_fi.jpg)
+
+
+
+![Champion Super Decathlon](/img/uploads/sicherheitstraining_decathlon.jpg)
 
 
 
