@@ -7,7 +7,7 @@ image: /img/uploads/bild_akro.jpg
 description: >-
   Die Flugschule der Motorfluggruppe Thurgau organisiert einmal im Jahr ein
   Sicherheitstraining mit einem Kunstfluglehrer. Zur Verwendung kommt eine voll
-  kunstflugtaugliche FFA AS202 BRAVO.
+  kunstflugtaugliche Maschine.
 buttons:
   - title: agenda
     url: /club/club/agenda/
@@ -17,7 +17,7 @@ buttons:
 ---
 **Voraussetzungen**
 
-* PPL
+* PPL-Ausbildung mindestens Stufe 4 (inkl. Solo) komplett abgeschlossen
 
 \
 **Theoretische Ausbildung**
@@ -42,7 +42,7 @@ Interessierte können ausserdem folgende Grundfiguren miterleben:
  \
 **Kosten**
 
-CHF 350.–
+CHF 380.– vor dem Flug per Twint oder Bar (exklusive Landetaxen)
 
 \
 **Kursprogramm**
