@@ -8,10 +8,10 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
-* 20.03.2024 | 40 Flugbetrieb/Flugzeuge/HB-SGW | [Aircraft-Checklist] (https://drive.google.com/file/d/1dNKlTGwy2MwP9Wd8vXUAHJPIExCKdD-0/view?usp=drive_link) | hinzugefügt (https://drive.google.com/file/d/1ZrPNwD8CS4M1j9q2DkA4VWc6emcZhjL3/view?usp=drive_link) | hinzugefügt
+* 20.03.2024 | 40 Flugbetrieb/Flugzeuge/HB-SGW | [Aircraft-Checklist] (https://drive.google.com/file/d/1dNKlTGwy2MwP9Wd8vXUAHJPIExCKdD-0/view?usp=drive_link) | hinzugefügt 
 * 20.03.2024 | 40 Flugbetrieb/Flugzeuge/HB-SGW | [Checkliste] (https://drive.google.com/file/d/134QFEOQr3mwSqj8chicx071_TCwsfueN/view?usp=drive_link) | hinzugefügt
 * 20.03.2024 | 40 Flugbetrieb/Flugzeuge/HB-SGW | [M&B and Performance Sheet] (https://drive.google.com/file/d/1I1bu_pz-DEz7kCeXIh4dU1CXpBHJmlyW/view?usp=drive_link) | hinzugefügt
-* 20.03.2024 | 40 Flugbetrieb/Flugzeuge/HB-SGT | [Aircraft-Checklist] (https://drive.google.com/file/d/1AFUQJ8sZ7dn3Di2zDqfhfF_dV7LGBXJA/view?usp=drive_link) | hinzugefügt (https://drive.google.com/file/d/1ZrPNwD8CS4M1j9q2DkA4VWc6emcZhjL3/view?usp=drive_link) | hinzugefügt
+* 20.03.2024 | 40 Flugbetrieb/Flugzeuge/HB-SGT | [Aircraft-Checklist] (https://drive.google.com/file/d/1AFUQJ8sZ7dn3Di2zDqfhfF_dV7LGBXJA/view?usp=drive_link) | hinzugefügt 
 * 20.03.2024 | 40 Flugbetrieb/Flugzeuge/HB-SGT | [Checkliste] (https://drive.google.com/file/d/1ZrPNwD8CS4M1j9q2DkA4VWc6emcZhjL3/view?usp=drive_link) | hinzugefügt
 * 20.03.2024 | 40 Flugbetrieb/Flugzeuge/HB-SGT | [M&B and Performance Sheet] (https://drive.google.com/file/d/171Pd-xEb-waf84Ad_4QovfTmZiC0J6v8/view?usp=drive_link) | hinzugefügt
 * 20.03.2024 | 40 Flugbetrieb/Flugzeuge/HB-KLR | [Checkliste] (https://drive.google.com/file/d/13K4_BUyUwWJXIbdFhHv85Yoc4EkOMmIl/view?usp=drive_link) | hinzugefügt
