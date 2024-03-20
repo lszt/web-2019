@@ -32,12 +32,6 @@ description: >-
 * 31.08.2023 | 40 Flugbetrieb/Charter | [Treibstoffzuschlag](https://drive.google.com/file/d/1Ay_HB2UwL5AVvk9BdYZBDwyBWZPlL5Xk/view?usp=sharing) | aktualisiert
 * 25.08.2023 | 40 Flugbetrieb/Charter | [Daten Flugzeuge MFGT](https://drive.google.com/file/d/1oWmobZ81f3liemM7AvbpvnCrTPQS8QYC/view?usp=sharing) | aktualisiert
 * 01.04.2023 | 40 Flugbetrieb/Charter | [Charterpreise 2023](https://drive.google.com/file/d/1tghUpCImlGuRX779DgmkS4Ea4dwVA2Xv/view?usp=share_link) | aktualisiert 
-* 30.03.2023 | 40 Flugbetrieb/Flugzeuge/HB-KFW/AFM | [W&B KFW](https://drive.google.com/file/d/19B76r0-ThgnaChAFos7ioiFEooARyBbk/view?usp=share_link) | hinzugefügt
-* 30.03.2023 | 40 Flugbetrieb/Flugzeuge/HB-KLA/AFM | [W&B KLA](https://drive.google.com/file/d/1N7Ugs_DhfbbJ6qaqQfU7bDgvxg34kgq0/view?usp=sharing) | hinzugefügt
-* 30.03.2023 | 40 Flugbetrieb/Flugzeuge/HB-KOF/AFM | [W&B KOF](https://drive.google.com/file/d/1_wWlWGYcz_5vqM1UwFi02vu3TtrJbs1g/view?usp=share_link) | hinzugefügt
-* 30.03.2023 | 40 Flugbetrieb/Flugzeuge/HB-SGT/HB-SGU/AFM | [W&B SGT](https://drive.google.com/file/d/1r_sW8I0oM82GyGDEN9F3A3EXDcRtUqWn/view?usp=sharing) | hinzugefügt
-* 30.03.2023 | 40 Flugbetrieb/Flugzeuge/HB-SGT/HB-SGU/AFM | [W&B SGU](https://drive.google.com/file/d/1LLib8i2muSQ_ksKvVjl9i3iafuN5VMFV/view?usp=sharing) | hinzugefügt
-* 03.03.2023 | 40 Flugbetrieb/Flugzeuge/HB-KLD/AFM | [W&B KLD](https://drive.google.com/file/d/1-rJ22S8SVFS8cyIsHW5QGyAdemKn9JzO/view?usp=share_link) | aktualisiert
 
 <hr>
 
