@@ -8,6 +8,9 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 21.03.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist HB-SGT] (https://drive.google.com/file/d/18_CGsvRPZqfRCT59ASyWmzGelE_s48BS/view?usp=drive_link) | hinzugefügt
+* 21.03.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist HB-SGW] (https://drive.google.com/file/d/1Sujp9hqv4vHZg8NmDrzsJNXk4ahau6BI/view?usp=drive_link) | hinzugefügt
+
 * 21.03.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Working Checklist | [Working Checklist Aquila] (https://drive.google.com/file/d/12xrDIvrurjGMCvmhirNjUTYQz3rwVPhX/view?usp=drive_link) | hinzugefügt
 * 21.03.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Working Checklist | [Working Checklist DR40] (https://drive.google.com/file/d/1c9pjSSwUuS61fv-E-OMrvGT9Qwks3ctU/view?usp=drive_link) | hinzugefügt
 * 21.03.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Working Checklist | [Working Checklist DR401] (https://drive.google.com/file/d/1_cGuMJ4cwKUfjOs2c5o7Dh8AinJALG1R/view?usp=drive_link) | hinzugefügt
