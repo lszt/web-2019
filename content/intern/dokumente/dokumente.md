@@ -8,21 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
-* 20.03.2024 | 40 Flugbetrieb/Flugzeuge/HB-SGW | [Aircraft-Checklist] (https://drive.google.com/file/d/1dNKlTGwy2MwP9Wd8vXUAHJPIExCKdD-0/view?usp=drive_link) | hinzugefügt 
-* 20.03.2024 | 40 Flugbetrieb/Flugzeuge/HB-SGW | [Checkliste] (https://drive.google.com/file/d/134QFEOQr3mwSqj8chicx071_TCwsfueN/view?usp=drive_link) | hinzugefügt
-* 20.03.2024 | 40 Flugbetrieb/Flugzeuge/HB-SGW | [M&B and Performance Sheet] (https://drive.google.com/file/d/1I1bu_pz-DEz7kCeXIh4dU1CXpBHJmlyW/view?usp=drive_link) | hinzugefügt
-* 20.03.2024 | 40 Flugbetrieb/Flugzeuge/HB-SGT | [Aircraft-Checklist] (https://drive.google.com/file/d/1AFUQJ8sZ7dn3Di2zDqfhfF_dV7LGBXJA/view?usp=drive_link) | hinzugefügt 
-* 20.03.2024 | 40 Flugbetrieb/Flugzeuge/HB-SGT | [Checkliste] (https://drive.google.com/file/d/1ZrPNwD8CS4M1j9q2DkA4VWc6emcZhjL3/view?usp=drive_link) | hinzugefügt
-* 20.03.2024 | 40 Flugbetrieb/Flugzeuge/HB-SGT | [M&B and Performance Sheet] (https://drive.google.com/file/d/171Pd-xEb-waf84Ad_4QovfTmZiC0J6v8/view?usp=drive_link) | hinzugefügt
-* 20.03.2024 | 40 Flugbetrieb/Flugzeuge/HB-KLR | [Checkliste] (https://drive.google.com/file/d/13K4_BUyUwWJXIbdFhHv85Yoc4EkOMmIl/view?usp=drive_link) | hinzugefügt
-* 20.03.2024 | 40 Flugbetrieb/Flugzeuge/HB-KLR | [M&B and Performance Sheet] (https://drive.google.com/file/d/1xJ-whMKM1mAIpiy1j0gxKEG1dqnMpP6K/view?usp=drive_link) | hinzugefügt
-* 20.03.2024 | 40 Flugbetrieb/Flugzeuge/HB-KLD | [Checkliste] (https://drive.google.com/file/d/18Iwue3k9VD2pqQD7HV5qPD7so-8Di-8L/view?usp=drive_link) | hinzugefügt
-* 20.03.2024 | 40 Flugbetrieb/Flugzeuge/HB-KLD | [M&B and Performance Sheet] (https://drive.google.com/file/d/1zPZ_0UETf1C0Wakdhkeb_wazeFJZG2BV/view?usp=drive_link) | hinzugefügt
-* 20.03.2024 | 40 Flugbetrieb/Flugzeuge/HB-KLA | [Checkliste] (https://drive.google.com/file/d/1IqnExdxArSeccztg91d5QjXYGKsPzXe8/view?usp=drive_link) | hinzugefügt
-* 20.03.2024 | 40 Flugbetrieb/Flugzeuge/HB-KLA | [M&B and Performance Sheet] (https://drive.google.com/file/d/1PBC2j3hHarFVlL5TlecU273jwOg0p0nf/view?usp=drive_link) | hinzugefügt
-* 20.03.2024 | 40 Flugbetrieb/Flugzeuge/HB-KFW | [Checkliste] (https://drive.google.com/file/d/141IezWOCyC3xaNxjGqd69IcjLVYDt_jv/view?usp=drive_link) | hinzugefügt
-* 20.03.2024 | 40 Flugbetrieb/Flugzeuge/HB-KFW | [M&B and Performance Sheet] (https://drive.google.com/file/d/1LxbYq2oSIttXFJSVdl8gZB6ApbembuqD/view?usp=drive_link) | hinzugefügt
-* 20.03.2024 | .../.../30-40-20 Refresherflug/Refresherflug 24_25 | [Unterlagen] (https://drive.google.com/drive/folders/1hlxqta_bMQX0aA1FnkVQ6fCow0aJRn6T) | hinzugefügt
+* 20.03.2024 | .../.../30-40-20 Refresherflug/Refresherflug 24_25 | [Unterlagen](https://drive.google.com/drive/folders/1hlxqta_bMQX0aA1FnkVQ6fCow0aJRn6T) | hinzugefügt
 * 19.03.2024 | 10 Allgemein / Präsentationen / Versicherungs-&Haftungsevent | [Unterlagen Event](https://drive.google.com/drive/folders/1e8CUxw9cf2UX_oceQKVI76IxdU1C36Xa?usp=drive_link) | aktualisiert
 
 <hr>
