@@ -10,6 +10,8 @@ description: >-
 ---
 * 21.03.2024 | .../.../30-10-10 Pre-Flight/Pre-Flight Briefing | [Pre-Flight Briefing] (https://drive.google.com/file/d/1lZQGyUpANpn1_UT8uPmIYR-RhXY6xjjj/view?usp=drive_link) | aktualisiert
 * 21.03.2024 | .../.../30-10-10 Pre-Flight/Hilfsmittel | [Diverse Dokumente zur Flugvorbereitung] (https://drive.google.com/drive/folders/1xU4eAr0c4goxVAaCh1eh8A0Rmi_-RWOi) | aktualisiert
+* 21.03.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist DR40](https://drive.google.com/file/d/1QlY9-riqjZpF1S8XuHdEp9-023Z4iX75/view?usp=drive_link) | aktualisiert
+* 21.03.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist DR401](https://drive.google.com/file/d/1KliIawaJTkK-a9-8Wn3tWMtitEpD1VDs/view?usp=drive_link) | aktualisiert
 
 
 * 21.03.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist HB-SGT](https://drive.google.com/file/d/18_CGsvRPZqfRCT59ASyWmzGelE_s48BS/view?usp=drive_link) | hinzugefügt
