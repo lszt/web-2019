@@ -1,7 +1,7 @@
 ---
 title: HB-KOF
 date: '2019-05-10T16:33:00+02:00'
-draft: false
+draft: true
 weight: '4'
 image: /img/uploads/flotte_kof.jpg
 description: '**Robin DR400 – 140B**'
