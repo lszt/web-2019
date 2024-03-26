@@ -1,6 +1,7 @@
 ---
 title: Kurs 'Glascockpit'
 date: 2017-01-04T15:04:10.000Z
+draft: true
 weight: '4'
 image: /img/uploads/club_glascockpit.jpg
 description: >-
