@@ -1,7 +1,7 @@
 ---
 title: HB-SIM
 date: '2021-01-30T17:56:16+01:00'
-draft: false
+draft: true
 weight: '8'
 image: /img/uploads/sim_1.jpg
 description: '**VFR-Simulator**'
@@ -39,6 +39,4 @@ Geländedarstellung
 * Kleinflugplätze der Schweiz
 * nationale Flugplätze der Schweiz (LSZH ist noch in Entwicklung)
 
-
-
-![](/img/uploads/sim_2.jpg)
+![null](/img/uploads/sim_2.jpg)
