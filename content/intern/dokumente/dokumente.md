@@ -8,6 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 27.03.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist DR401](https://drive.google.com/file/d/1dwzkhrBj2n9lhG8tZ3oJ4vwEBeFudLQv/view?usp=sharing) | aktualisiert
 * 27.03.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Working Checklist/ | [Working Checklist DR401] (https://drive.google.com/file/d/14ZY_1CHWS-BWYVbsG5tGsYLMmv3m4rir/view?usp=sharing) | aktualisiert
 * 26.03.2024 | .../.../30-10-10 Pre-Flight/Hilfsmittel |[NAV-Flightplan] (https://drive.google.com/file/d/1QUudSbNXm8rS9ojCTnkRtOkjNuTg5TSY/view?usp=sharing) | aktualisiert
 * 21.03.2024 | .../.../30-10-20 Flight OPS/Procedures | [Procedures DR40] (https://drive.google.com/file/d/1C3VbJWM2jfW8U1sPuEBBznRh_Rv4DsnT/view?usp=drive_link) | aktualisiert
@@ -16,7 +17,6 @@ description: >-
 * 21.03.2024 | .../.../30-10-10 Pre-Flight/Pre-Flight Briefing | [Pre-Flight Briefing] (https://drive.google.com/file/d/1lZQGyUpANpn1_UT8uPmIYR-RhXY6xjjj/view?usp=drive_link) | aktualisiert
 * 21.03.2024 | .../.../30-10-10 Pre-Flight/Hilfsmittel | [Div. Dokumente Flugvorbereitung] (https://drive.google.com/drive/folders/1xU4eAr0c4goxVAaCh1eh8A0Rmi_-RWOi) | aktualisiert
 * 21.03.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist DR40](https://drive.google.com/file/d/1QlY9-riqjZpF1S8XuHdEp9-023Z4iX75/view?usp=drive_link) | aktualisiert
-* 21.03.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist DR401](https://drive.google.com/file/d/1KliIawaJTkK-a9-8Wn3tWMtitEpD1VDs/view?usp=drive_link) | aktualisiert
 * 21.03.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Expanded Checklist | [Expanded Checklist DR401](https://drive.google.com/file/d/1ZNIHCcl6KHhlfkn1sZFuUfWketoD4RzP/view?usp=drive_link) | aktualisiert
 * 21.03.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Expanded Checklist | [Expanded Checklist Aquila](https://drive.google.com/file/d/1PpamoEoUwBITtshnjgrav-YKW_fbUSfq/view?usp=drive_link) | aktualisiert
 * 21.03.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist HB-SGT](https://drive.google.com/file/d/18_CGsvRPZqfRCT59ASyWmzGelE_s48BS/view?usp=drive_link) | hinzugefügt
