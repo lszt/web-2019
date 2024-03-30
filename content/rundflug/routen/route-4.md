@@ -9,7 +9,7 @@ description: |-
 
   Flugzeit ca. 50 Minuten
 
-  Preis pro Person: CHF 170.–
+  Preis pro Person: CHF 200.–
 buttons:
   - cta: true
     title: Gutschein Route 4 bestellen
