@@ -9,7 +9,7 @@ description: |-
 
   Flugzeit ca. 60 Minuten
 
-  Preis pro Person: CHF 200.–
+  Preis pro Person: CHF 240.–
 buttons:
   - cta: true
     title: Gutschein Route 5 bestellen
