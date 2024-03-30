@@ -9,7 +9,7 @@ description: |-
 
   Flugzeit ca. 80 Minuten
 
-  Preis pro Person: CHF 260.–
+  Preis pro Person: CHF 310.–
 buttons:
   - cta: true
     title: Gutschein Route 6 bestellen
