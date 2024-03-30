@@ -9,7 +9,7 @@ description: |-
 
   Flugzeit ca. 20 Minuten
 
-  Preis pro Person: CHF 80.–
+  Preis pro Person: CHF 90.–
 buttons:
   - cta: true
     title: Gutschein Route 1 bestellen
