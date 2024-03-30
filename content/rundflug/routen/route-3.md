@@ -9,7 +9,7 @@ description: |-
 
   Flugzeit ca. 40 Minuten
 
-  Preis pro Person: CHF 140.–
+  Preis pro Person: CHF 160.–
 buttons:
   - cta: true
     title: Gutschein Route 3 bestellen
