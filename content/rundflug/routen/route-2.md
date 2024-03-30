@@ -9,7 +9,7 @@ description: |-
 
   Flugzeit ca. 30 Minuten
 
-  Preis pro Person: CHF 110.–
+  Preis pro Person: CHF 120.–
 buttons:
   - cta: true
     title: Gutschein Route 2 bestellen
