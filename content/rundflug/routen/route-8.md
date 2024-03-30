@@ -9,7 +9,7 @@ description: |-
 
   Flugzeit ca. 2 Std. 15 Minuten
 
-  Preis pro Person: CHF 420.–
+  Preis pro Person: CHF 520.–
 buttons:
   - cta: true
     title: Gutschein Route 8 bestellen
