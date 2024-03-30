@@ -9,7 +9,7 @@ description: |-
 
   Flugzeit ca. 1 Std. 50 Minuten
 
-  Preis pro Person: CHF 350.–
+  Preis pro Person: CHF 430.–
 buttons:
   - cta: true
     title: Gutschein Route 7 bestellen
