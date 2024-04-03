@@ -8,6 +8,9 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+
+* 03.04.2024 | 40 Flugbetrieb/Charter | [Charterpreise 2024](https://drive.google.com/file/d/1hHf7p8hSex2ewwUmTfjG7_UV06tMBCd_/view?usp=drive_link) | aktualisiert 
+* 03.04.2024 | 40 Flugbetrieb/Charter | [Treibstoffzuschlag](https://drive.google.com/file/d/1XqqZhTTAbKbHtx-3WC4zTY0iTgtfOCVY/view?usp=drive_link) | aktualisiert
 * 31.03.2024 | .../.../30-10-20 Flight OPS/Procedures | [Procedures DR401] (https://drive.google.com/file/d/19QEBQP9cizPM6OTvRoVD2xCcVs09Faes/view?usp=sharing) | aktualisiert
 * 31.03.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Expanded Checklist | [Expanded Checklist DR401](https://drive.google.com/file/d/180dpvfHAbuTZR7Cmb7gHy1vlmblwKAXh/view?usp=sharing) | aktualisiert
 * 27.03.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist DR401](https://drive.google.com/file/d/1dwzkhrBj2n9lhG8tZ3oJ4vwEBeFudLQv/view?usp=sharing) | aktualisiert
@@ -39,9 +42,7 @@ description: >-
 
 * 20.10.2023 | 20 Infrastruktur / Flugplatz | [VAC Chart](https://drive.google.com/file/d/1FMkoCoEdppvrK2uDdrLcs3ydPEVh97Jp/view?usp=share_link) | aktualisiert
 * 20.10.2023 | 20 Infrastruktur / Flugplatz | [AD Info](https://drive.google.com/file/d/1ejYV_Kj9czOvveOD8TozP6SmH6hZq517/view?usp=share_link) | aktualisiert
-* 31.08.2023 | 40 Flugbetrieb/Charter | [Treibstoffzuschlag](https://drive.google.com/file/d/1Ay_HB2UwL5AVvk9BdYZBDwyBWZPlL5Xk/view?usp=sharing) | aktualisiert
 * 25.08.2023 | 40 Flugbetrieb/Charter | [Daten Flugzeuge MFGT](https://drive.google.com/file/d/1oWmobZ81f3liemM7AvbpvnCrTPQS8QYC/view?usp=sharing) | aktualisiert
-* 01.04.2023 | 40 Flugbetrieb/Charter | [Charterpreise 2023](https://drive.google.com/file/d/1tghUpCImlGuRX779DgmkS4Ea4dwVA2Xv/view?usp=share_link) | aktualisiert 
 
 <hr>
 
