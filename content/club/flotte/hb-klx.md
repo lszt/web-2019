@@ -9,7 +9,7 @@ buttons:
   - blank: true
     title: preise
     url: >-
-      https://drive.google.com/file/d/1tghUpCImlGuRX779DgmkS4Ea4dwVA2Xv/view?usp=sharing
+      https://drive.google.com/file/d/1hHf7p8hSex2ewwUmTfjG7_UV06tMBCd_/view?usp=drive_link
   - cta: true
     title: reservation
     url: 'https://www.flightnet.aero/default.aspx?company=mfgt'
