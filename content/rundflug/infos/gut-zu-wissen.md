@@ -16,7 +16,7 @@ buttons:
     cta: true
     title: Flyer
     url: >-
-      https://drive.google.com/file/d/13FE9hw04_MNrqkTGpnPl4mzUDBI81Ovs/view?usp=sharing
+      https://drive.google.com/file/d/1OurLgghAcN84-U-OFkP1j75eT7tHDIEm/view?usp=sharing
 ---
 **Ein Rundflug ist ab einer Buchung für 2 Passagiere möglich.**\
 Jeder Passagier erhält für diesen gemeinsamen Flug einen separaten Gutschein.
