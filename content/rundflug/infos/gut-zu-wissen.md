@@ -16,7 +16,7 @@ buttons:
     cta: true
     title: Flyer
     url: >-
-      https://drive.google.com/a/mfgt.ch/file/d/1rLLlwYhoBN-2E7XHrSDpKiGsotK4wFob/view
+      https://drive.google.com/file/d/13FE9hw04_MNrqkTGpnPl4mzUDBI81Ovs/view?usp=sharing
 ---
 **Ein Rundflug ist ab einer Buchung für 2 Passagiere möglich.**\
 Jeder Passagier erhält für diesen gemeinsamen Flug einen separaten Gutschein.
