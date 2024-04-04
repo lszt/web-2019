@@ -7,6 +7,6 @@ image: /img/uploads/boller.jpg
 description: |-
   **Hans Peter Boller**
 
-  <mailto:hanspeter.boller@mfgt.ch>
+  <mailto:hp.boller@mfgt.ch>
 ---
 
