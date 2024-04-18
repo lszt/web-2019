@@ -56,8 +56,10 @@ Sekretariat, <mailto:info@mfgt.ch>, +41 52 366 33 33
 \
 **Anmeldung**
 
-Anmeldeschluss ist der 18. August 2023
+noch nicht möglich
+<!-- Anmeldeschluss ist der 18. August 2023
 <font color="red">Leider bereits ausgebucht!</font>
+-->
 
 \
 **Bericht vom YES-Tag 2023**
