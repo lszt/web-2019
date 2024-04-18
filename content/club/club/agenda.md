@@ -6,22 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 22.03.2024 | 19:00 | GV MFGT 2024
-
-MZH Stettfurt (Primarschulhaus Stettfurt) | [Anmeldung](https://doodle.com/meeting/participate/id/aKA6D1Md)
-
-### 23.03.2024 | 08:30 | Flugplatzputzete 2024
-
-Flugplatz Lommis | [Anmeldung](https://doodle.com/meeting/participate/id/ergY12Ka)
-
-### 29.03.2024 | 18:30 | Clubhöck
-
-Flugplatzbeizli
-
-### 31.3.-13.04.2024 | SPHAIR Kurs 1 (Aquila)
-
-Flugplatz Lommis
-
 ### 20.04.2024 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
 Flugplatz Lommis | [Info's](/flugschule/naechste-schritte/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
@@ -57,6 +41,10 @@ Flugplatz Lommis
 ### 28.06.2024 | 18:30 | Clubhöck
 
 Flugplatzbeizli
+
+### 29.-30.06.2024 | YES-Tage
+
+Flugplatz Lommis
 
 ### 26.07.2024 | 18:30 | Clubhöck
 
