@@ -44,7 +44,7 @@ Flugplatzbeizli
 
 ### 29.-30.06.2024 | YES-Tage
 
-Flugplatz Lommis
+Flugplatz Lommis | [Info's] (/club/kurse-veranstaltungen/yes-tag/)
 
 ### 26.07.2024 | 18:30 | Clubhöck
 
