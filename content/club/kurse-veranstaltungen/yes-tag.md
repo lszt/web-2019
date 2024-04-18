@@ -67,4 +67,4 @@ Sekretariat, <mailto:info@mfgt.ch>, +41 52 366 33 33
 
 
 \
-[Hier Flyer downloaden](https://drive.google.com/file/d/1aFIfwsokAO7gJfeIDrNhay1cPNDpMfzn/view?usp=share_link)
+<!-- [Hier Flyer downloaden](https://drive.google.com/file/d/1aFIfwsokAO7gJfeIDrNhay1cPNDpMfzn/view?usp=share_link) -->
