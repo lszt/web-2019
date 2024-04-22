@@ -41,7 +41,7 @@ Die MFGT (Motorfluggruppe Thurgau) und der AeCS (Aeroclub der Schweiz) übernehm
 \
 **Verpflegung**
 
-Du kannst dich im Flugplatzbeizli verpflegen oder auch Etwas mitbringen.
+Das Mittagessen wird von der Motorfluggruppe Thurgau MFGT gesponsert. Du wirst im Flugplatzbeizli essen. Allergien bitte bei der Anmeldung mitteilen, danke. Wir empfehlen dir, eine Getränkeflasche mitzunehmen.
 
 \
 **Kleidung**
@@ -56,15 +56,18 @@ Sekretariat, <mailto:info@mfgt.ch>, +41 52 366 33 33
 \
 **Anmeldung**
 
+Anmeldeschluss ist der 02. Juni 2024
+
+ 
 [Anmelden] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
-<!-- Anmeldeschluss ist der 18. August 2023
-<font color="red">Leider bereits ausgebucht!</font>
+<!--<font color="red">Leider bereits ausgebucht!</font>
 -->
 
 \
-**Bericht vom YES-Tag 2023**
-[Bericht] (https://drive.google.com/file/d/1182vX8ODOELXqh2Ap6F1Ob6qGySCB9tz/view?usp=sharing)
-
+[Hier Flyer downloaden](https://drive.google.com/file/d/1AC7FBQ_wllu-FtPDRzM6HWIjbmswQXYR/view?usp=sharing)
 
 \
-<!-- [Hier Flyer downloaden](https://drive.google.com/file/d/1aFIfwsokAO7gJfeIDrNhay1cPNDpMfzn/view?usp=share_link) -->
+**Bericht vom YES-Tag 2023**
+
+[Bericht] (https://drive.google.com/file/d/1182vX8ODOELXqh2Ap6F1Ob6qGySCB9tz/view?usp=sharing)
+
