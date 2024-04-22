@@ -1,7 +1,7 @@
 ---
 title: Einführung/Auffrischung Auslandsflug
 date: '2024-01-25T11:38:27+01:00'
-draft: false
+draft: true
 image: /img/uploads/club_flyaway.jpg
 positionx: 50
 positiony: 50
