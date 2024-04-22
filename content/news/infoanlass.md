@@ -1,12 +1,12 @@
 ---
 title: Infoanlass Flugschule
-date: '2024-01-08T20:30:00+01:00'
+date: '2024-07-14T20:30:00+02:00'
 draft: false
 image: /img/uploads/aquila_sunrise.jpeg
 positionx: 50
 positiony: 50
 description: >-
-  **Samstag, 20. April 2024, 09:00 - 12:00 Uhr**
+  **Samstag, 14. September 2024, 09:00 - 12:00 Uhr**
 
 
   Interessierst Du Dich für eine Ausbildung zum Privatpiloten und für eine
