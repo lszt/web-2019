@@ -6,14 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 20.04.2024 | 09:00-12:00 | Infoanlass Flugschule MFGT
-
-Flugplatz Lommis | [Info's](/flugschule/naechste-schritte/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
-
-### 20.04.2024 | Einführung/Auffrischung Auslandsflug
-
-Lommis und Flugplätze im süddeutschen Raum | [Anmeldung](mailto:mfgt-flugschule@mfgt.ch)
-
 ### 26.04.2024 | 18:30 | Clubhöck
 
 Flugplatzbeizli
@@ -42,7 +34,11 @@ Flugplatz Lommis
 
 Flugplatzbeizli
 
-### 29.-30.06.2024 | YES-Tage
+### 29.06.2024 | YES-Tag 1
+
+Flugplatz Lommis | [Info's] (/club/kurse-veranstaltungen/yes-tag/)
+
+### 30.06.2024 | YES-Tag 2
 
 Flugplatz Lommis | [Info's] (/club/kurse-veranstaltungen/yes-tag/)
 
