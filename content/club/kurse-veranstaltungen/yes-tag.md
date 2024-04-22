@@ -59,7 +59,7 @@ Sekretariat, <mailto:info@mfgt.ch>, +41 52 366 33 33
 Anmeldeschluss ist der 02. Juni 2024
 
  
-[Anmelden] (https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
+via Mail an: <mailto:info@mfgt.ch> oder per Telefon an: +41 52 366 33 33
 <!--<font color="red">Leider bereits ausgebucht!</font>
 -->
 
