@@ -8,7 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
-* 03.04.2024 | 40 Flugbetrieb/Charter | [Charterpreise 2024](https://drive.google.com/file/d/1hHf7p8hSex2ewwUmTfjG7_UV06tMBCd_/view?usp=drive_link) | aktualisiert 
+* 25.04.2024 | 40 Flugbetrieb/Charter | [Charterpreise 2024](https://drive.google.com/file/d/1hHf7p8hSex2ewwUmTfjG7_UV06tMBCd_/view?usp=drive_link) | aktualisiert 
 * 03.04.2024 | 40 Flugbetrieb/Charter | [Treibstoffzuschlag](https://drive.google.com/file/d/1XqqZhTTAbKbHtx-3WC4zTY0iTgtfOCVY/view?usp=drive_link) | aktualisiert
 * 31.03.2024 | .../.../30-10-20 Flight OPS/Procedures | [Procedures DR401] (https://drive.google.com/file/d/19QEBQP9cizPM6OTvRoVD2xCcVs09Faes/view?usp=sharing) | aktualisiert
 * 31.03.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Expanded Checklist | [Expanded Checklist DR401](https://drive.google.com/file/d/180dpvfHAbuTZR7Cmb7gHy1vlmblwKAXh/view?usp=sharing) | aktualisiert
