@@ -8,6 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 02.05.2024 | 40 Flugbetrieb/Flugzeuge/HB-ETG | [Manuals BR23] (https://drive.google.com/drive/folders/1AGewzydW2NExha28MJD4n-0_eUlmNkJl) | hinzugefügt
 * 02.05.2024 | .../.../30-10-10 Pre-Flight/Mass & Balance | [M&B and Performance BR23](https://drive.google.com/file/d/1431e8ulzv9KimIJUNQ3zcoSeUEpIGrG1/view?usp=sharing) | hinzugefügt
 * 02.05.2024 | 40 Flugbetrieb/Charter | [Treibstoffzuschlag](https://drive.google.com/file/d/1XqqZhTTAbKbHtx-3WC4zTY0iTgtfOCVY/view?usp=drive_link) | aktualisiert
 * 25.04.2024 | 40 Flugbetrieb/Charter | [Charterpreise 2024](https://drive.google.com/file/d/1hHf7p8hSex2ewwUmTfjG7_UV06tMBCd_/view?usp=drive_link) | aktualisiert 
