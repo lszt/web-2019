@@ -6,8 +6,8 @@ image: /img/uploads/1st_flyin.jpg
 positionx: 50
 positiony: 50
 description: >-
-  Als Auftakt zu einer neuen Tradition laden wir zu unserem Fly-In nach Lommis
-  ein.
+  Als Auftakt zu einer neuen Tradition laden wir am Wochenende vom
+  31.08.-01.09.24 zu unserem Fly-In nach Lommis ein.
 ---
 Die Besucher erwartet ein Hangarfest mit Barbecue, diversen Infoständen, Kids-Zone und einem gemütlichen Kino am Abend.
 Auswärtige Crews können bei Bedarf an ihrem Flugzeug übernachten und am nächsten Morgen ein Piloten-Zmorge mitnehmen.
