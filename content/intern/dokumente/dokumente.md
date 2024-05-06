@@ -8,6 +8,8 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+
+* 06.05.2024 | 40 Flugbetrieb/Flugzeuge/HB-ETG/Insurance | [Versicherungspolice](https://drive.google.com/file/d/1462Nw-XR2FbMMRYGr7-j6SMxitXTUxIq/view?usp=sharing) | hinzugefügt
 * 04.05.2024 | 40 Flugbetrieb/Flugzeuge/HB-ETG/Manuals | [G3X Pilot's Guide] (https://drive.google.com/file/d/15S-_057R43Zke5v2ZPv1BmbShiLq0Ue_/view?usp=drive_link) | hinzugefügt
 * 04.05.2024 | .../.../30-10-20 Flight OPS/Procedures | [Procedures BR23] (https://drive.google.com/file/d/1dcP4a6UQSAbHZ8l_1uuC306S7JwS_zzZ/view?usp=sharing) | hinzugefügt
 * 02.05.2024 | 40 Flugbetrieb/Charter | [Daten Flugzeuge MFGT](https://drive.google.com/file/d/1QaxwHJbYPaQrxLakt8xz7oJVSNfg4ICl/view?usp=sharing) | aktualisiert
