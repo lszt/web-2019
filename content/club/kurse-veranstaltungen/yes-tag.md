@@ -64,7 +64,7 @@ via Mail an: <mailto:info@mfgt.ch> oder per Telefon an: +41 52 366 33 33
 -->
 
 \
-[Hier Flyer downloaden](https://drive.google.com/file/d/1AC7FBQ_wllu-FtPDRzM6HWIjbmswQXYR/view?usp=sharing)
+[Hier Flyer downloaden](https://drive.google.com/file/d/1HpoXFufafIqr31sHIXcheg4b7egVpCYT/view?usp=sharing)
 
 \
 **Bericht vom YES-Tag 2023**
