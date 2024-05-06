@@ -13,6 +13,6 @@ buttons:
     cta: true
     title: flyer
     url: >-
-      https://drive.google.com/file/d/1AC7FBQ_wllu-FtPDRzM6HWIjbmswQXYR/view?usp=drive_link
+      https://drive.google.com/file/d/1HpoXFufafIqr31sHIXcheg4b7egVpCYT/view?usp=sharing
 ---
 
