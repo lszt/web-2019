@@ -8,6 +8,9 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 08.05.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist HB-SGT](https://drive.google.com/file/d/1kTDaRrKd9RrzuZPeKVlr2U89rMcgD1MV/view?usp=drive_link) | aktualisiert
+* 08.05.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist HB-SGW](https://drive.google.com/file/d/1hgwpXUmtjJG-6Q1jgvDAQDPWT-4TbYXx/view?usp=drive_link) | aktualisiert
+
 
 * 06.05.2024 | 40 Flugbetrieb/Flugzeuge/HB-ETG/Insurance | [Versicherungspolice](https://drive.google.com/file/d/1462Nw-XR2FbMMRYGr7-j6SMxitXTUxIq/view?usp=sharing) | hinzugefügt
 * 04.05.2024 | 40 Flugbetrieb/Flugzeuge/HB-ETG/Manuals | [G3X Pilot's Guide] (https://drive.google.com/file/d/15S-_057R43Zke5v2ZPv1BmbShiLq0Ue_/view?usp=drive_link) | hinzugefügt
@@ -28,8 +31,7 @@ description: >-
 * 21.03.2024 | .../.../30-10-10 Pre-Flight/Hilfsmittel | [Div. Dokumente Flugvorbereitung] (https://drive.google.com/drive/folders/1xU4eAr0c4goxVAaCh1eh8A0Rmi_-RWOi) | aktualisiert
 * 21.03.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist DR40](https://drive.google.com/file/d/1QlY9-riqjZpF1S8XuHdEp9-023Z4iX75/view?usp=drive_link) | aktualisiert
 * 21.03.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Expanded Checklist | [Expanded Checklist Aquila](https://drive.google.com/file/d/1PpamoEoUwBITtshnjgrav-YKW_fbUSfq/view?usp=drive_link) | aktualisiert
-* 21.03.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist HB-SGT](https://drive.google.com/file/d/18_CGsvRPZqfRCT59ASyWmzGelE_s48BS/view?usp=drive_link) | hinzugefügt
-* 21.03.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist HB-SGW](https://drive.google.com/file/d/1Sujp9hqv4vHZg8NmDrzsJNXk4ahau6BI/view?usp=drive_link) | hinzugefügt
+
 * 21.03.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Working Checklist | [Working Checklist Aquila](https://drive.google.com/file/d/12xrDIvrurjGMCvmhirNjUTYQz3rwVPhX/view?usp=drive_link) | hinzugefügt
 * 21.03.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Working Checklist | [Working Checklist DR40](https://drive.google.com/file/d/1c9pjSSwUuS61fv-E-OMrvGT9Qwks3ctU/view?usp=drive_link) | hinzugefügt
 * 21.03.2024 | .../.../30-10-10 Pre-Flight/Mass & Balance | [M&B and Performance DR40](https://drive.google.com/file/d/1uK6uftDDeQlF3ckiDjQqQXA_KMStBCCY/view?usp=drive_link) | aktualisiert
