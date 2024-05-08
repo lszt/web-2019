@@ -8,6 +8,8 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+
+* 08.05.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist HB-ETG](https://drive.google.com/file/d/1QlY9-riqjZpF1S8XuHdEp9-023Z4iX75/view?usp=sharing) | hinzugefügt
 * 08.05.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist HB-SGT](https://drive.google.com/file/d/1kTDaRrKd9RrzuZPeKVlr2U89rMcgD1MV/view?usp=drive_link) | aktualisiert
 * 08.05.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist HB-SGW](https://drive.google.com/file/d/1hgwpXUmtjJG-6Q1jgvDAQDPWT-4TbYXx/view?usp=drive_link) | aktualisiert
 
