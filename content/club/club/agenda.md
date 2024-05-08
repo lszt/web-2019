@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 03.05.2024 | 18:30 | Neumitglieder-Apéro 2024
-
-Flugplatz Lommis
-
 ### 31.05.2024 | 18:30 | Clubhöck
 
 Flugplatzbeizli
