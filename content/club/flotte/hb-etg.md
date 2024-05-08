@@ -22,9 +22,9 @@ Schul- und Reiseflugzeug
 * Zulassung: VFR
 * Autopilot
 * Garmin G3X
-* Haupttank: 120 Liter Avgas
+* Haupttank: 112 Liter MOGAS
 * Endurance: 4.5 h
-* Reisegeschwindigkeit: 105 KTS
+* Reisegeschwindigkeit: 120 KTS
 * MTOW: 750 kg
 
 ![null](/img/uploads/flotte_cockpit_kfw-kof.jpg)
