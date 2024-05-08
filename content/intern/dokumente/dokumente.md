@@ -8,18 +8,14 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
-
 * 08.05.2024 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG | [Familiarisation & Difference Training] (https://drive.google.com/file/d/1QkRv6n3yxbIcGrHpMsqJRHJYYHOTkPul/view?usp=sharing) | aktualisiert
 * 08.05.2024 | .../.../30-10-10 Pre-Flight/Forms & Records | [Ausbildungsunterlagen] (https://drive.google.com/drive/folders/1x_heHLTYiy0CU9vp3_TE0z6ncYUYENDp) | aktualisiert
-
 * 08.05.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Working Checklist | [Working Checklist Bristell](https://drive.google.com/file/d/1T1DhXe2RG-y8KP7aegJ1m20a1i1WF5U1/view?usp=sharing) | aktualisiert
 * 08.05.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist HB-ETG](https://drive.google.com/file/d/1puoISnHL1JjLLXVhdHKib8FE0jEsoKT5/view?usp=drive_link) | hinzugefügt
 * 08.05.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Expanded Checklist | [Expanded Checklist Aquila](https://drive.google.com/file/d/1ezMwIFtp96WcuAICQN7o5PTtETEUpu5s/view?usp=sharing) | aktualisiert
 * 08.05.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Working Checklist | [Working Checklist Aquila](https://drive.google.com/file/d/1amdiieXCSXd5bPv4NsKe1qYTRO0et4ch/view?usp=sharing) | aktualisiert
 * 08.05.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist HB-SGT](https://drive.google.com/file/d/1kTDaRrKd9RrzuZPeKVlr2U89rMcgD1MV/view?usp=drive_link) | aktualisiert
 * 08.05.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist HB-SGW](https://drive.google.com/file/d/1hgwpXUmtjJG-6Q1jgvDAQDPWT-4TbYXx/view?usp=drive_link) | aktualisiert
-
-
 * 06.05.2024 | 40 Flugbetrieb/Flugzeuge/HB-ETG/Insurance | [Versicherungspolice](https://drive.google.com/file/d/1462Nw-XR2FbMMRYGr7-j6SMxitXTUxIq/view?usp=sharing) | hinzugefügt
 * 04.05.2024 | 40 Flugbetrieb/Flugzeuge/HB-ETG/Manuals | [G3X Pilot's Guide] (https://drive.google.com/file/d/15S-_057R43Zke5v2ZPv1BmbShiLq0Ue_/view?usp=drive_link) | hinzugefügt
 * 04.05.2024 | .../.../30-10-20 Flight OPS/Procedures | [Procedures BR23] (https://drive.google.com/file/d/1dcP4a6UQSAbHZ8l_1uuC306S7JwS_zzZ/view?usp=sharing) | hinzugefügt
