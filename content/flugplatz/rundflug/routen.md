@@ -18,6 +18,8 @@ Flugzeit ca. 20 Minuten
 
 Preis pro Person: CHF 90.–
 
+[Gutschein Route 1 bestellen] (https://www.gurado.de/mfgt/gutscheine-rundfluge/gutschein-rundflug-route-1.html)
+
 ## Route 2
 
 ![Route 2](/img/uploads/rundflug_route2.jpg)
