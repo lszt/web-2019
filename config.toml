@@ -31,7 +31,7 @@ googleAnalytics = "UA-25486694-1"
 
     [[menu.main]]
     identifier = "rundflug"
-    name       = "Rundflüge"
+    name       = "Gastronomie"
     url        = "/rundflug/"
     weight     = 4
 
