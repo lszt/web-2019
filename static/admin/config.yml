@@ -100,9 +100,9 @@ collections:
           - {label: "Bild", name: "image", widget: "image", required: true}
           - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
           - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
-  - name: "flugplatz-gastronomie-test"
-    label: "Flugplatz - Test"
-    folder: "content/flugplatz/gastronomie-test"
+  - name: "flugplatz-rundflug"
+    label: "Flugplatz - Rundflug"
+    folder: "content/flugplatz/rundflug"
     create: true
     slug: "{{slug}}"
     fields:
