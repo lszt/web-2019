@@ -11,27 +11,33 @@ description: >-
 ![Florian Burkhardt](/img/uploads/bild_burkhardt.jpg)
 
 ### Florian Burkhardt
-
+\
+\
 ![Thomas Füllemann](/img/uploads/fuellemann.jpg)
 
 ### Thomas Füllemann
-
+\
+\
 ![Daniel Schneider](/img/uploads/rfp_dani_schneider.jpg)
 
 ### Daniel Schneider
-
+\
+\
 ![Markus Schnyder](/img/uploads/schnyder.jpg)
 
 ### Markus Schnyder
-
+\
+\
 ![Philipp Stauffer](/img/uploads/stauffer.jpg)
 
 ### Philipp Stauffer
-
+\
+\
 ![Klaus Vogel](/img/uploads/rfp_klausvogel.jpg)
 
 ### Klaus Vogel
-
+\
+\
 ![Markus Wassmer](/img/uploads/wasmer.jpg)
 
 ### Markus Wassmer
