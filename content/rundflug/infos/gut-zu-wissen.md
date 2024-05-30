@@ -1,7 +1,7 @@
 ---
 title: Gut zu wissen
 date: '2019-05-13T11:46:35+02:00'
-draft: true
+draft: false
 weight: '1'
 image: /img/uploads/rundflug.jpg
 description: |-
