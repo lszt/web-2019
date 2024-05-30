@@ -1,7 +1,7 @@
 ---
 title: Die Schweiz aus der Luft
 date: 2019-04-14T15:03:48.000Z
-draft: true
+draft: false
 coverImages:
   - image: /img/uploads/slider_rundflug_1.jpg
     positionx: 50
