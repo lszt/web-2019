@@ -13,11 +13,11 @@ description: >-
 ![Route 1](/img/uploads/ausbildung_luftaufnahme.jpg)
 
 **Lufttaufe, Rundflug in die nähere Umgebung**
-
+\
 Flugzeit ca. 20 Minuten
-
+\
 Preis pro Person: CHF 90.–
-
+\
 [Gutschein Route 1 bestellen](https://www.gurado.de/mfgt/gutscheine-rundfluge/gutschein-rundflug-route-1.html)
 
 ## Route 2
