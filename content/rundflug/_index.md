@@ -3,13 +3,10 @@ title: Flugplatz Beizli
 date: 2019-04-14T15:03:48.000Z
 draft: false
 coverImages:
-  - image: /img/uploads/slider_rundflug_1.jpg
+  - image: /img/uploads/bild_flugplatzbeizli.jpg
     positionx: 50
     positiony: 50
-  - image: /img/uploads/slider_rundflug_2.jpg
-    positionx: 50
-    positiony: 50
-  - image: /img/uploads/slider_rundflug_3.jpg
+  - image: /img/uploads/bild_flugplatzbeizli_2.jpg
     positionx: 50
     positiony: 50
 ---
