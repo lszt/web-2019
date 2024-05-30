@@ -1,7 +1,7 @@
 ---
 title: Flugplatz-Beizli
 date: '2023-03-14T15:44:06+01:00'
-draft: false
+draft: true
 weight: '4'
 image: /img/uploads/bild_flugplatzbeizli.jpg
 description: >-
