@@ -660,7 +660,7 @@ collections:
   - name: "rundflug"
     label: "Rundflug"
     folder: "content/rundflug/"
-    create: false
+    create: true
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
