@@ -8,7 +8,9 @@ description: |-
   Sind Sie auf der Suche nach einem ganz speziellen Geschenk?
   Oder möchten Sie selbst einmal die Welt von oben geniessen?
   Dann sind Sie bei uns genau richtig!
-
-  [Hier finden sie alles rund um die Rundflüge] (/rundflug)
+buttons:
+  - cta: true
+    title: Rundflüge
+    url: /rundflug
 ---
 
