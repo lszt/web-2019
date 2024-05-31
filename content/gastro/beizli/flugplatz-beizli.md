@@ -12,7 +12,8 @@ description: >+
 
 
 buttons:
-  - cta: true
+  - blank: true
+    cta: true
     title: homepage
     url: 'https://www.mimicus.ch/flugplatz-beizli'
 ---
