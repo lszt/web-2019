@@ -4,6 +4,8 @@ date: '2024-05-30T16:11:45+02:00'
 draft: false
 weight: '1'
 image: /img/uploads/rundflug.jpg
+redirect_from:
+  - /mfgt.ch/rundflug/
 description: |-
   Bei schönem Wetter führen wir Rundflüge zu folgenden Zeiten durch:
 
