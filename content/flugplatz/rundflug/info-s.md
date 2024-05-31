@@ -1,5 +1,5 @@
 ---
-title: Info's
+title: Informationen und Rundflüge ab Lommis
 date: '2024-05-31T11:15:05+02:00'
 draft: false
 weight: '1'
