@@ -1,5 +1,5 @@
 ---
-title: Flugplatz Beizli
+title: Gastronomie auf dem Flugplatz Lommis
 date: 2019-04-14T15:03:48.000Z
 draft: false
 coverImages:
