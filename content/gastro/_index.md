@@ -1,5 +1,5 @@
 ---
-title: Gastronomie auf dem Flugplatz Lommis
+title: Essen und Trinken auf dem Flugplatz
 date: 2019-04-14T15:03:48.000Z
 draft: false
 coverImages:
@@ -10,5 +10,5 @@ coverImages:
     positionx: 50
     positiony: 50
 ---
-Unser gemütliches Flugplatz Beizli, das Ihnen eine breite Auswahl an alkoholischen und alkoholfreien Getränken sowie kalten und warmen Speisen bietet, lädt zum Verweilen ein. Für Gruppen sind wir auf Voranmeldung bestens gerüstet. Für unsere Kleinsten steht ein grosser Kinderspielplatz mit verschiedenen Spielgeräten zur Verfügung!
+Das gemütliche Flugplatz Beizli direkt an der Piste, bietet die Möglichkeit, sich zu verpflegen und das treiben auf dem Flugplatz zu beobachten. Für unsere Kleinsten steht ein grosser Kinderspielplatz mit verschiedenen Spielgeräten zur Verfügung!
 
