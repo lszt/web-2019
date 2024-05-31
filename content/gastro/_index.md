@@ -10,5 +10,5 @@ coverImages:
     positionx: 50
     positiony: 50
 ---
-Das gemütliche Flugplatz Beizli direkt an der Piste, bietet die Möglichkeit, sich zu verpflegen und das treiben auf dem Flugplatz zu beobachten. Für unsere Kleinsten steht ein grosser Kinderspielplatz mit verschiedenen Spielgeräten zur Verfügung!
+Das gemütliche Flugplatz Beizli direkt an der Piste bietet die Möglichkeit, sich zu verpflegen und das treiben auf dem Flugplatz zu beobachten. Für unsere Kleinsten steht ein grosser Kinderspielplatz mit verschiedenen Spielgeräten zur Verfügung!
 
