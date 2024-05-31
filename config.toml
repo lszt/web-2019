@@ -29,10 +29,16 @@ googleAnalytics = "UA-25486694-1"
     url        = "/club/"
     weight     = 3
 
+ #   [[menu.main]]
+ #   identifier = "rundflug"
+ #   name       = "Rundflüge"
+ #   url        = "/rundflug/"
+ #   weight     = 4
+
     [[menu.main]]
-    identifier = "rundflug"
-    name       = "Rundflüge"
-    url        = "/rundflug/"
+    identifier = "gastro"
+    name       = "Gastronomie"
+    url        = "/gastro/"
     weight     = 4
 
     [[menu.main]]
