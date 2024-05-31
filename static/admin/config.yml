@@ -604,11 +604,10 @@ collections:
           - {label: "Bild", name: "image", widget: "image", required: true}
           - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
           - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
-  
   - name: "gastro"
     label: "Gastro"
     folder: "content/gastro/"
-    create: true
+    create: false
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
@@ -653,10 +652,6 @@ collections:
           - {label: "Bild", name: "image", widget: "image", required: true}
           - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
           - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
-  
-  
-  
-  
   - name: "rundflug"
     label: "Rundflug"
     folder: "content/rundflug/"
