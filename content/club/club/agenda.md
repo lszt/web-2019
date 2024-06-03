@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 31.05.2024 | 18:30 | Clubhöck
-
-Flugplatzbeizli
-
 ### 12.06.2024 | 19:30 | Briefing Fly-Away 1-2024
 
 Flugplatz Lommis
