@@ -2,7 +2,7 @@
 title: YES Tag - Young Eagles of Switzerland
 date: '2024-04-22T09:27:52+02:00'
 draft: false
-image: /img/uploads/bild-yes-tag.jpg
+image: /img/uploads/bild-yes-tag_res.jpg
 positionx: 50
 positiony: 50
 description: "**Samstag, 29. Juni 2024 oder Sonntag, 30. Juni 2024**\n\nAviatikluft schnuppern und das Steuer in die Hand nehmen! Die Motorfluggruppe Thurgau MFGT und der Aeroclub der Schweiz AeCS ermöglichen dir einen packenden Einstieg in den Motorflug.\r"
