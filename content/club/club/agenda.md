@@ -22,11 +22,11 @@ Flugplatz Lommis
 
 Flugplatzbeizli
 
-### 29.06.2024 | YES-Tag 1 | ausgebucht
+### 29.06.2024 | YES-Tag 1 | <font color="red">Ausgebucht!</font>
 
 Flugplatz Lommis | [Info's] (/club/kurse-veranstaltungen/yes-tag/)
 
-### 30.06.2024 | YES-Tag 2
+### 30.06.2024 | YES-Tag 2 | <font color="red">Ausgebucht!</font>
 
 Flugplatz Lommis | [Info's] (/club/kurse-veranstaltungen/yes-tag/)
 
