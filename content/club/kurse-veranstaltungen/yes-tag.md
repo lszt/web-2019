@@ -56,12 +56,12 @@ Sekretariat, <mailto:info@mfgt.ch>, +41 52 366 33 33
 \
 **Anmeldung**
 
-Anmeldeschluss ist der 02. Juni 2024
+<!-- **Anmeldeschluss ist der 02. Juni 2024
 
- 
-via Mail an: <mailto:info@mfgt.ch> oder per Telefon an: +41 52 366 33 33
-<!--<font color="red">Leider bereits ausgebucht!</font>
--->
+via Mail an: <mailto:info@mfgt.ch> oder per Telefon an: +41 52 366 33 33-->
+
+<font color="red">Leider bereits ausgebucht!</font>
+
 
 \
 [Hier Flyer downloaden](https://drive.google.com/file/d/1HpoXFufafIqr31sHIXcheg4b7egVpCYT/view?usp=sharing)
@@ -69,5 +69,4 @@ via Mail an: <mailto:info@mfgt.ch> oder per Telefon an: +41 52 366 33 33
 \
 **Bericht vom YES-Tag 2023**
 
-[Bericht] (https://drive.google.com/file/d/1182vX8ODOELXqh2Ap6F1Ob6qGySCB9tz/view?usp=sharing)
-
+[Bericht](https://drive.google.com/file/d/1182vX8ODOELXqh2Ap6F1Ob6qGySCB9tz/view?usp=sharing)
