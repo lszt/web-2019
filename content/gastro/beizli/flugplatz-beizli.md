@@ -5,7 +5,8 @@ draft: false
 weight: '1'
 image: /img/uploads/bild_flugplatzbeizli.jpg
 description: >+
-  Für Speis und Trank im Flugplatz Beizli sorgt die mimicus GmbH.
+  Für Speis und Trank im Flugplatz Beizli sorgen Esther, Sina und Gergey, das
+  neue Team von der mimicus GmbH.
 
   Weiter Informationen sowie die Öffnungszeiten finden sie direkt auf der
   Homepage.
