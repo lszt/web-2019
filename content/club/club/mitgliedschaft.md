@@ -9,7 +9,7 @@ description: >-
 buttons:
   - title: mehr
     url: >-
-      https://drive.google.com/a/mfgt.ch/file/d/1i8IqoX6U5-ukg5uy9tT_ffoz0bbJdSo5/view?usp=sharing
+      https://drive.google.com/file/d/1ne7b0jaJgiwDarOysqerpWhum_j-CB8X/view?usp=drive_link
   - cta: true
     title: mitglied werden
     url: 'mailto:sekretariat@mfgt.ch'
