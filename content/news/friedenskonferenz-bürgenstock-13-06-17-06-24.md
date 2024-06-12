@@ -19,5 +19,8 @@ buttons:
       https://drive.google.com/file/d/166SVAqH83OD9luJm1UvKLxTzhQgPMcsZ/view?usp=sharing
 coverImages: []
 ---
+Bitte informiert euch vor eurem Flug genau über die geltenden Einschränkungen (NOTAM/DABS etc.). 
+Das Sperrgebiet ist stärker gesichert als während der Zeit des WEF.
+
 Geschlossene Flugplätze für sämtlichen VFR-Verkehr:
 Kägiswil (LSPG), Haltikon (LSXN), Hausen am Albis (LSZN), Luzern-Beromünster (LSZO), Buttwil (LSZU), Triengen (LSPN), Schattenhalb (LSXC) sowie Schindellegi (LSXS).
