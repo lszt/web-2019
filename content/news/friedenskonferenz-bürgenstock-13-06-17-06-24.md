@@ -1,7 +1,7 @@
 ---
 title: Friedenskonferenz Bürgenstock 13.06. - 17.06.24
 date: '2024-06-12T10:17:27+02:00'
-draft: false
+draft: true
 image: /img/uploads/buergenstock_restricted_area.jpg
 positionx: 50
 positiony: 50
