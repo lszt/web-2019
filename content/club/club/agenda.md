@@ -6,14 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 12.06.2024 | 19:30 | Briefing Fly-Away 1-2024
-
-Flugplatz Lommis
-
-### 14.-16.06.2024 | Fly-Away 1-2024 (Beginner)
-
-Brügge (B) | [Anmeldung] (https://xoyondo.com/dp/1emH6HZap2aV3Lg)
-
 ### 16.-29.06.2024 | SPHAIR Kurs 2 (Aquila)
 
 Flugplatz Lommis
