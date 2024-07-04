@@ -1,7 +1,7 @@
 ---
 title: YES Tag - Young Eagles of Switzerland
 date: '2024-04-22T09:27:52+02:00'
-draft: false
+draft: true
 image: /img/uploads/bild-yes-tag_res.jpg
 positionx: 50
 positiony: 50
