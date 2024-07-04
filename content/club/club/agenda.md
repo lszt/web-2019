@@ -6,22 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 16.-29.06.2024 | SPHAIR Kurs 2 (Aquila)
-
-Flugplatz Lommis
-
-### 28.06.2024 | 18:30 | Clubhöck
-
-Flugplatzbeizli
-
-### 29.06.2024 | YES-Tag 1 | <font color="red">Ausgebucht!</font>
-
-Flugplatz Lommis | [Info's] (/club/kurse-veranstaltungen/yes-tag/)
-
-### 30.06.2024 | YES-Tag 2 | <font color="red">Ausgebucht!</font>
-
-Flugplatz Lommis | [Info's] (/club/kurse-veranstaltungen/yes-tag/)
-
 ### 26.07.2024 | 18:30 | Clubhöck
 
 Flugplatzbeizli
@@ -89,3 +73,5 @@ Biberach a.d. Riss
 Fehlen Anlässe oder sind Termine falsch?
 
 Wir sind dankbar für deine Rückmeldung an <mailto:webmaster@mfgt.ch>
+
+<!-- <font color="red">Ausgebucht!</font> -->
