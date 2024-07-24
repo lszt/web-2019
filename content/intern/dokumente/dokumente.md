@@ -8,7 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
-* 14.06.2024 | 40 Flugbetrieb/Charter | [Daten Flugzeuge MFGT](https://drive.google.com/file/d/1ZqP1jnbm64M_DaFCNCLa46aICq9BhsgS/view?usp=sharing) | aktualisiert
+* 24.07.2024 | 40 Flugbetrieb/Charter | [Daten Flugzeuge MFGT](https://drive.google.com/file/d/1reRcZV7iVZWYXZgqh8VOOoCsSYEylxVh/view?usp=sharing) | aktualisiert
 * 12.06.2024 | 10 Allgemein/Safety | [Safety & OPS Bulletin 01/2024] (https://drive.google.com/file/d/1DXKMMSnKkTG6K7ZWTUpj6TzyIJxNn5Wu/view?usp=sharing) | hinzugefügt
 * 12.06.2024 | 10 Allgemein/Club | [Statuten MFGT] (https://drive.google.com/file/d/1ne7b0jaJgiwDarOysqerpWhum_j-CB8X/view?usp=drive_link) | aktualisiert
 * 12.06.2024 | 40 Flugbetrieb/Charter | [Betriebs- und Haftungsreglement] (https://drive.google.com/file/d/1dGuQyM-VP_kZcQMVAVyT1mwXS7MPKPgG/view?usp=drive_link) | aktualisiert
