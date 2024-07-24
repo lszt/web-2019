@@ -8,6 +8,8 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 24.07.2024 | .../.../30-10-20 Flight OPS/Procedures | [Procedures BR23] (https://drive.google.com/file/d/15l8In4P6HFb04_bbZdv67NMuIBm_VfNR/view?usp=sharing) | aktualisiert
+* 24.07.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Expanded Checklist | [Expanded Checklist Bristell](https://drive.google.com/file/d/1zXTFB4ikorYxxNKkqwTqVRQa-1JxAqCB/view?usp=sharing) | hinzugefügt
 * 24.07.2024 | 40 Flugbetrieb/Charter | [Daten Flugzeuge MFGT](https://drive.google.com/file/d/1reRcZV7iVZWYXZgqh8VOOoCsSYEylxVh/view?usp=sharing) | aktualisiert
 * 12.06.2024 | 10 Allgemein/Safety | [Safety & OPS Bulletin 01/2024] (https://drive.google.com/file/d/1DXKMMSnKkTG6K7ZWTUpj6TzyIJxNn5Wu/view?usp=sharing) | hinzugefügt
 * 12.06.2024 | 10 Allgemein/Club | [Statuten MFGT] (https://drive.google.com/file/d/1ne7b0jaJgiwDarOysqerpWhum_j-CB8X/view?usp=drive_link) | aktualisiert
@@ -22,7 +24,6 @@ description: >-
 * 08.05.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist HB-SGW](https://drive.google.com/file/d/1hgwpXUmtjJG-6Q1jgvDAQDPWT-4TbYXx/view?usp=drive_link) | aktualisiert
 * 06.05.2024 | 40 Flugbetrieb/Flugzeuge/HB-ETG/Insurance | [Versicherungspolice](https://drive.google.com/file/d/1462Nw-XR2FbMMRYGr7-j6SMxitXTUxIq/view?usp=sharing) | hinzugefügt
 * 04.05.2024 | 40 Flugbetrieb/Flugzeuge/HB-ETG/Manuals | [G3X Pilot's Guide] (https://drive.google.com/file/d/15S-_057R43Zke5v2ZPv1BmbShiLq0Ue_/view?usp=drive_link) | hinzugefügt
-* 04.05.2024 | .../.../30-10-20 Flight OPS/Procedures | [Procedures BR23] (https://drive.google.com/file/d/1dcP4a6UQSAbHZ8l_1uuC306S7JwS_zzZ/view?usp=sharing) | hinzugefügt
 * 02.05.2024 | 40 Flugbetrieb/Flugzeuge/HB-ETG | [Manuals BR23] (https://drive.google.com/drive/folders/1AGewzydW2NExha28MJD4n-0_eUlmNkJl) | hinzugefügt
 * 02.05.2024 | .../.../30-10-10 Pre-Flight/Mass & Balance | [M&B and Performance BR23](https://drive.google.com/file/d/1431e8ulzv9KimIJUNQ3zcoSeUEpIGrG1/view?usp=sharing) | hinzugefügt
 * 02.05.2024 | 40 Flugbetrieb/Charter | [Treibstoffzuschlag](https://drive.google.com/file/d/1XqqZhTTAbKbHtx-3WC4zTY0iTgtfOCVY/view?usp=drive_link) | aktualisiert
