@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 26.07.2024 | 18:30 | Clubhöck
-
-Flugplatzbeizli
-
 ### 04.-17.08.2024 | SPHAIR Kurs 3 (Aquila)
 
 Flugplatz Lommis
