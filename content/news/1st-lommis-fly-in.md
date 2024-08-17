@@ -29,7 +29,7 @@ _Sonntag_
 [PPR-Anmeldung](https://forms.gle/JP9fCwmJMQmH8ijM9)
 
 \
-[Pilot-Guide](https://drive.google.com/file/d/1BzepLrTNjL9flO1tnMfaoPf0BIfpjB8h/view?usp=sharing)
+[Pilot-Guide](https://drive.google.com/file/d/1KLncdaEcT5AIDPN951PtmD14DK1tJgtx/view?usp=sharing)
 
 \
 Bis bald in Lommis!
