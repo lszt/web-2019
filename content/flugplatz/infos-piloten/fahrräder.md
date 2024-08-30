@@ -9,7 +9,7 @@ description: |-
 
   Dann haben Sie die Möglichkeit, bei uns zwei Fahrräder zu reservieren.
 ---
-Fahrräder können unter T +41 52 366 33 33 oder info@mfgt.ch reserviert werden.
+Fahrräder können unter T +41 52 366 33 33 oder <mailto:info@mfgt.ch> reserviert werden.
 
 Es stehen je ein Männer- und ein Damenfahrrad kostenlos zur Verfügung. 
 
