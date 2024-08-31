@@ -6,13 +6,9 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 30.08.2024 | 18:30 | Clubhöck
-
-Flugplatzbeizli
-
 ### 31.08. - 01.09.2024 | Flugplatzfest "1st Lommis Fly-In"
 
-Flugplatz Lommis | [Helferanmeldung] (https://t.ly/u9n6t)
+Flugplatz Lommis | [Helferanmeldung](https://t.ly/u9n6t)
 
 ### 14.09.2024 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
@@ -28,7 +24,7 @@ Flugplatzbeizli
 
 ### 04.-05.10.2024 | Sicherheitstraining 2024
 
-Flugplatz Lommis | [Info's] (/flugschule/weiter/acro/)
+Flugplatz Lommis | [Info's](/flugschule/weiter/acro/)
 
 ### 06.-19.10.2024 | SPHAIR Kurs 4 (Aquila)
 
