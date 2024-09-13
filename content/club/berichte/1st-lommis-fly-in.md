@@ -8,7 +8,7 @@ description: >-
   Vom 30.08. - 01.09.24 fand das "1st Lommis Fly-In" statt. Im Anschluss findet
   ihr ein paar Impressionen zu dem gelungenen Anlass.
 buttons:
-  - cta: true
+  - cta: false
     title: Bilder
     url: 'https://drive.google.com/drive/folders/1I6_xGXc14Sxd1jv8L9EsuU6ONul3XG2c'
 ---
