@@ -8,6 +8,6 @@ positiony: 50
 description: Hier findet ihr ein paar Impressionen vom 1st Lommis Fly-In.
 buttons:
   - title: mehr
-    url: /club/berichte
+    url: /club-berichte/entries/1st-lommis-fly-in
 ---
 
