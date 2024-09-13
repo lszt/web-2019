@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 31.08. - 01.09.2024 | Flugplatzfest "1st Lommis Fly-In"
-
-Flugplatz Lommis | [Helferanmeldung](https://t.ly/u9n6t)
-
 ### 14.09.2024 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
 Flugplatz Lommis | [Info's](/flugschule/naechste-schritte/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
