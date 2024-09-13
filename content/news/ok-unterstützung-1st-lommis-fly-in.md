@@ -1,7 +1,7 @@
 ---
 title: '"1st Lommis Fly-In" - Helferanmeldung'
 date: '2024-02-27T02:41:18+01:00'
-draft: false
+draft: true
 image: /img/uploads/1st_flyin.jpg
 positionx: 50
 positiony: 50
