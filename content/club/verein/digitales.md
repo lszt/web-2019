@@ -18,10 +18,8 @@ description: |-
   \
   Aufgaben:
 
-  * Flugzeuge 
-  * Versicherungen (FLZG)
-  * Charter, Rundflug
+  * Accountable Manager Technik
+  * Flugzeuge
   * IT
-  * Maintenance (Technik)
 ---
 
