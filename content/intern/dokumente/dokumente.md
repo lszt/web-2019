@@ -8,7 +8,8 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
-* 17.09.2024 | 40 Flugbetrieb/Charter | [Versicherungsbestimmungen und Deckungslimiten] (https://drive.google.com/file/d/1imuiPhIJ6-opeBsHMu2-sIIC_KBXQtiH/view?usp=sharing) | hinzugefügt
+* 18.09.2024 | 40 Flugbetrieb/Charter | [Versicherungsbestimmungen und Deckungslimiten] (https://drive.google.com/file/d/1imuiPhIJ6-opeBsHMu2-sIIC_KBXQtiH/view?usp=sharing) | aktualisiert
+* 18.09.2024 | 10 Allgemein / Versicherungen / Versicherungs-&Haftungsevent | [Unterlagen Event](https://drive.google.com/drive/folders/1e8CUxw9cf2UX_oceQKVI76IxdU1C36Xa) | aktualisiert
 * 26.08.2024 | 10 Allgemein/Safety | [Safety & OPS Bulletin 02] (https://drive.google.com/file/d/1Wso1SB2AgLfvryTITzGwdW8V2_7hSxIW/view?usp=drive_link) | hinzugefügt
 * 24.07.2024 | .../.../30-10-20 Flight OPS/Procedures | [Procedures BR23 PPL] (https://drive.google.com/file/d/15l8In4P6HFb04_bbZdv67NMuIBm_VfNR/view?usp=sharing) | aktualisiert
 * 24.07.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Expanded Checklist | [Expanded Checklist BR23](https://drive.google.com/file/d/1zXTFB4ikorYxxNKkqwTqVRQa-1JxAqCB/view?usp=sharing) | hinzugefügt
@@ -52,7 +53,6 @@ description: >-
 * 21.03.2024 | 40 Flugbetrieb/Flugzeuge/HB-SGT/Insurance | [Versicherungspolice](https://drive.google.com/file/d/1AXXYpz52XO4QTXCMSi86yHxb53CABwuC/view?usp=drive_link) | aktualisiert
 * 21.03.2024 | 40 Flugbetrieb/Flugzeuge/HB-SGW/Insurance | [Versicherungspolice](https://drive.google.com/file/d/1TV0vpPY37RflY4uywytWpCa5ZP8Djq-L/view?usp=drive_link) | aktualisiert
 * 20.03.2024 | .../.../30-40-20 Refresherflug/Refresherflug 24_25 | [Unterlagen](https://drive.google.com/drive/folders/1hlxqta_bMQX0aA1FnkVQ6fCow0aJRn6T) | hinzugefügt
-* 19.03.2024 | 10 Allgemein / Präsentationen / Versicherungs-&Haftungsevent | [Unterlagen Event](https://drive.google.com/drive/folders/1e8CUxw9cf2UX_oceQKVI76IxdU1C36Xa?usp=drive_link) | aktualisiert
 
 <hr>
 
