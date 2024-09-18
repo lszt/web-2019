@@ -9,7 +9,6 @@ description: |-
   T +41 78 810 45 49\
   <mailto:josef.kurath@mfgt.ch>
 
-
   \
   Stellvertreter:
 
@@ -20,8 +19,7 @@ description: |-
 
   * Strategie Flugschule
   * MFGT Refresher
-  * SPHAIR
-  * Mitarbeit DCFI/SwissPSA
   * Delegierter SwissPSA
+  * SPHAIR
 ---
 
