@@ -18,7 +18,8 @@ description: |-
   Aufgaben:
 
   * FiBu
-  * Versicherungen (Rest)
-  * Personal
+  * Statuten
+  * Verträge/Reglemente
+  * Versicherungen
 ---
 
