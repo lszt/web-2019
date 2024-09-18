@@ -1,5 +1,5 @@
 ---
-title: 'OPS, IT'
+title: 'Technik, IT'
 date: '2019-05-10T15:45:58+02:00'
 draft: false
 weight: '4'
