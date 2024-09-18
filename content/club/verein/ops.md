@@ -2,7 +2,7 @@
 title: OPS
 date: '2024-09-18T12:29:47+02:00'
 draft: false
-weight: '3'
+weight: '4'
 image: /img/uploads/bild_burkhardt.jpg
 description: |-
   **Florian Burkhardt**
