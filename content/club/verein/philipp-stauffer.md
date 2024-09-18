@@ -18,9 +18,9 @@ description: |-
   \
   Aufgaben:
 
-  * Rasenmäher
   * Flugplatz
-  * Hangar
+  * Hangar/Solar
   * Restaurant/Kiosk
+  * Rasenmäher
 ---
 
