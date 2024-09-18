@@ -7,7 +7,7 @@ description: |-
   **Florian Burkhardt**
 
   T +41 79 756 73 85\
-  [florian.burkhardt@mfgt.ch](mailto:philipp.hug@mfgt.ch)
+  [florian.burkhardt@mfgt.ch](mailto:florian.burkhardt@mfgt.ch)
 
   \
   Stellvertreter:
