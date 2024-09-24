@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 19.-22.09.2024 | Fly-Away 2-2024 (Fortgeschrittene)
-
-Lettland & Litauen
-
 ### 27.09.2024 | 18:30 | Clubhöck
 
 Flugplatzbeizli
@@ -47,6 +43,10 @@ Flugplatzbeizli
 ### 03.-15.03-2025 | PPL-Intensivwoche 2025
 
 Biberach a.d. Riss
+
+### 28.-29.06.2025 | YES-Tag 
+
+Flugplatz Lommis
 
 <hr>
 
