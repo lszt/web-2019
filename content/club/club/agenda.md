@@ -44,7 +44,7 @@ Flugplatzbeizli
 
 Biberach a.d. Riss
 
-### 28.-29.06.2025 | YES-Tag 
+### 28.-29.06.2025 | YES-Tag 2025
 
 Flugplatz Lommis
 
