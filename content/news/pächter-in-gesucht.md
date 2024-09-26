@@ -10,7 +10,7 @@ description: >-
 
   \
 
-  Die Motorfluggruppe Thurgau sucht ab 2023 einen Nachfolger oder eine
+  Die Motorfluggruppe Thurgau sucht ab 2025 einen Nachfolger oder eine
   Nachfolgerin für den Flugplatz-Kiosk und die Gartenwirtschaft. \
 
   Während der Saison von April bis Oktober soll der Kiosk und die
