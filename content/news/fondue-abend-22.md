@@ -32,7 +32,7 @@ Ort: Maintenance Hangar
 
 Kosten: CHF 0.00 - beinhaltet Apero, Fondue, Dessert & Kaffee. Die restlichen Getränke (inkl. Alkohol) werden wie immer an der Bar bezogen resp. individuell bezahlt.
 
-Anmeldung: Bis zum 04.11.2024 via [Doodlelink] (https://doodle.com/meeting/participate/id/elD0Z07e) oder direkt bei <a href="mailto:michael.bolliger@mfgt.ch"></a>
+Anmeldung: Bis zum 04.11.2024 via [Doodlelink] (https://doodle.com/meeting/participate/id/elD0Z07e) oder direkt bei <mailto:michael.bolliger@mfgt.ch>
 
 -> Bitte meldet euch innerhalb der Frist an oder ab, da sonst die korrekte Organisation von Essen und Getränken schwierig wird.
 
