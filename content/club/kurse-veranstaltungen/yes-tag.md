@@ -1,5 +1,5 @@
 ---
-title: YES-Tag für Jugendliche
+title: YES-Tag 2025 für Jugendliche
 date: '2019-05-09T16:46:49+02:00'
 draft: false
 weight: '2'
@@ -13,10 +13,6 @@ buttons:
   - cta: false
     title: agenda
     url: /club/club/agenda/
-  - cta: true
-    title: anmelden
-    url: >-
-      https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform
 ---
 **Voraussetzung**
 
@@ -51,16 +47,16 @@ Sonnenbrille, Sonnenschutz, Jacke, Turnschuhe
 \
 **Ansprechpartner**
 
-Sekretariat, <mailto:info@mfgt.ch>, +41 52 366 33 33 
+Dagmar Hollerer (Fluglehrerin), Florian Burkhardt (Fluglehrer), Corinna Brüllmann (Sekretariat)
 
 \
 **Anmeldung**
 
-<!-- **Anmeldeschluss ist der 02. Juni 2024
+<!--**Anmeldeschluss ist der 02. Juni 2024 -->
 
-via Mail an: <mailto:info@mfgt.ch> oder per Telefon an: +41 52 366 33 33-->
+via Mail an: <mailto:info@mfgt.ch> oder per Telefon an: +41 52 366 33 33
 
-<font color="red">Leider bereits ausgebucht!</font>
+<!-- <font color="red">Leider bereits ausgebucht!</font> -->
 
 
 \
