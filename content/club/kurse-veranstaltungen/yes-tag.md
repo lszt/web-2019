@@ -27,7 +27,7 @@ buttons:
 * Warum fliegt eigentlich ein Flugzeug und fällt auch ohne Motor nicht vom Himmel? (Theorie Aerodynamik mit praktischen Versuchen)
 * Wir planen einen Flug rund um Lommis. (Theorie Navigation)
 * Takeoff zum ersten Flug mit Dir als Pilot
-* Diplomierung und Verabschiedung
+* Fragerunde und Verabschiedung
 
 \
 **Kosten**
