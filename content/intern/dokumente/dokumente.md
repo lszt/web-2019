@@ -8,6 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 28.09.2024 | 40 Flugbetrieb/Charter | [Weisung Reservationsregeln] (https://drive.google.com/file/d/1mps33NFewmhXo_Q8aVKUGy1igcbI6BmO/view?usp=sharing) | aktualisiert
 * 18.09.2024 | 40 Flugbetrieb/Charter | [Versicherungsbestimmungen und Deckungslimiten] (https://drive.google.com/file/d/1imuiPhIJ6-opeBsHMu2-sIIC_KBXQtiH/view?usp=sharing) | aktualisiert
 * 18.09.2024 | 10 Allgemein / Versicherungen / Versicherungs-&Haftungsevent | [Unterlagen Event](https://drive.google.com/drive/folders/1e8CUxw9cf2UX_oceQKVI76IxdU1C36Xa) | aktualisiert
 * 26.08.2024 | 10 Allgemein/Safety | [Safety & OPS Bulletin 02] (https://drive.google.com/file/d/1Wso1SB2AgLfvryTITzGwdW8V2_7hSxIW/view?usp=drive_link) | hinzugefügt
