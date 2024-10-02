@@ -8,6 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 02.10.2024 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG | [Familiarisation & Difference Training] (https://drive.google.com/file/d/1jPRwmhdr6azsZYlKsCCtLMt3C6dEOc9g/view?usp=sharing) | aktualisiert
 * 28.09.2024 | 40 Flugbetrieb/Charter | [Weisung Reservationsregeln] (https://drive.google.com/file/d/1mps33NFewmhXo_Q8aVKUGy1igcbI6BmO/view?usp=sharing) | aktualisiert
 * 18.09.2024 | 40 Flugbetrieb/Charter | [Versicherungsbestimmungen und Deckungslimiten] (https://drive.google.com/file/d/1imuiPhIJ6-opeBsHMu2-sIIC_KBXQtiH/view?usp=sharing) | aktualisiert
 * 18.09.2024 | 10 Allgemein / Versicherungen / Versicherungs-&Haftungsevent | [Unterlagen Event](https://drive.google.com/drive/folders/1e8CUxw9cf2UX_oceQKVI76IxdU1C36Xa) | aktualisiert
@@ -18,7 +19,6 @@ description: >-
 * 12.06.2024 | 10 Allgemein/Safety | [Safety & OPS Bulletin 01/2024] (https://drive.google.com/file/d/1DXKMMSnKkTG6K7ZWTUpj6TzyIJxNn5Wu/view?usp=sharing) | hinzugefügt
 * 12.06.2024 | 10 Allgemein/Club | [Statuten MFGT] (https://drive.google.com/file/d/1ne7b0jaJgiwDarOysqerpWhum_j-CB8X/view?usp=drive_link) | aktualisiert
 * 12.06.2024 | 40 Flugbetrieb/Charter | [Betriebs- und Haftungsreglement] (https://drive.google.com/file/d/1dGuQyM-VP_kZcQMVAVyT1mwXS7MPKPgG/view?usp=drive_link) | aktualisiert
-* 08.05.2024 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG | [Familiarisation & Difference Training] (https://drive.google.com/file/d/1QkRv6n3yxbIcGrHpMsqJRHJYYHOTkPul/view?usp=sharing) | aktualisiert
 * 08.05.2024 | .../.../30-10-10 Pre-Flight/Forms & Records | [Ausbildungsunterlagen] (https://drive.google.com/drive/folders/1x_heHLTYiy0CU9vp3_TE0z6ncYUYENDp) | aktualisiert
 * 08.05.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Working Checklist | [Working Checklist BR23](https://drive.google.com/file/d/1T1DhXe2RG-y8KP7aegJ1m20a1i1WF5U1/view?usp=sharing) | aktualisiert
 * 08.05.2024 | .../.../30-10-20 Flight OPS/Procedures | [Procedures BR23] (https://drive.google.com/file/d/1Wdt3fooosbbnqH805gQ3he7h3MMnlFyp/view?usp=drive_link) | hinzugefügt
