@@ -5,12 +5,6 @@ draft: false
 weight: '1'
 image: /img/uploads/bild_flugplatzbeizli.jpg
 description: >-
-
-  ### _**<font color="red">Beizli ab dem 07.10.2024 aufgrund Pächterwechsel
-  geschlossen.</font>**_
-
-
-
   Für Speis und Trank im Flugplatz Beizli sorgen Esther, Sina und Gergey, das
   neue Team von der mimicus GmbH.
 
