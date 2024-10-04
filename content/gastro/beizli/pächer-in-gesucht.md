@@ -11,7 +11,7 @@ description: >-
   Gartenwirtschaft möglichst durchgehend in Betrieb gehalten werden.
 buttons:
   - cta: true
-    title: setails
+    title: details
     url: >-
       https://drive.google.com/file/d/1wy5DMjr5RWvD5JKRjaYOTvsAaYCSXVNh/view?usp=sharing
 ---
