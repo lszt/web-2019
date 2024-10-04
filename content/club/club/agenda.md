@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 27.09.2024 | 18:30 | Clubhöck
-
-Flugplatzbeizli
-
 ### 04.-05.10.2024 | Sicherheitstraining 2024
 
 Flugplatz Lommis | [Info's](/flugschule/weiter/acro/)
