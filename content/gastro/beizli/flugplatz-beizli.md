@@ -1,7 +1,7 @@
 ---
 title: Flugplatz Beizli
 date: '2024-05-31T11:41:19+02:00'
-draft: false
+draft: true
 weight: '1'
 image: /img/uploads/bild_flugplatzbeizli.jpg
 description: >-
