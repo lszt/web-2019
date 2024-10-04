@@ -10,5 +10,7 @@ coverImages:
     positionx: 50
     positiony: 50
 ---
+### _**<font color="red">Beizli ab dem 07.10.2024 aufgrund Pächterwechsel geschlossen.</font>**_
+
 Das gemütliche Flugplatz Beizli direkt an der Piste bietet die Möglichkeit, sich zu verpflegen und das treiben auf dem Flugplatz zu beobachten. Für unsere Kleinsten steht ein grosser Kinderspielplatz mit verschiedenen Spielgeräten zur Verfügung!
 
