@@ -9,9 +9,9 @@ description: >-
   ausweisen. Dafür bieten wir über den Winter Kurse an. Voraussetzung sind
   Basiskenntnisse in englischer Sprache.
 buttons:
-  - title: kursprogramm 2024
+  - title: kursprogramm 2024/2025
     url: >-
-      https://drive.google.com/file/d/1kpboW1EB4nxVilX_67E8PeGac6z_G-fg/view?usp=sharing
+      https://drive.google.com/file/d/1g6pjIfB_acvCXXE8r2O8fCgbTgzMtk5w/view?usp=sharing
   - cta: true
     title: anmelden
     url: >-
@@ -23,7 +23,7 @@ Der Besuch der ersten beiden Kursdaten ist oligatorisch (im Kursprogamm lila dar
 
 Bei mehr als 5 Teilnehmern finden die Praxisblöcke jeweils in zwei Gruppen am gleichen Tag zu unterschiedlichen Zeiten statt (im Kursprogamm rot und rosa dargetellt). Die Gruppeneinteilung wird am ersten Kurstag festgelegt.
 
-[Kursprogramm 2024](https://drive.google.com/file/d/1kpboW1EB4nxVilX_67E8PeGac6z_G-fg/view?usp=sharingg).
+[Kursprogramm 2024/2025](https://drive.google.com/file/d/1g6pjIfB_acvCXXE8r2O8fCgbTgzMtk5w/view?usp=sharing).
 
 **Kursleiterin**
 
