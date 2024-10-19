@@ -2,7 +2,7 @@
 title: Schnupperflug
 date: 2019-04-14T10:51:24.000Z
 draft: false
-weight: '2'
+weight: '3'
 image: /img/uploads/bild_schnupperflug.jpg
 description: >-
   Beim Schnupperflug sitzts Du als Pilot auf der linken Seite und steuerst das
