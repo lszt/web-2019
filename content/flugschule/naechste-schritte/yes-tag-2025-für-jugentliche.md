@@ -1,5 +1,5 @@
 ---
-title: YES-Tag 2025 für Jugentliche
+title: YES-Tag 2025 für Jugendliche
 date: '2024-10-19T12:20:58+02:00'
 draft: false
 weight: '1'
