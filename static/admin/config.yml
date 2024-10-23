@@ -351,10 +351,12 @@ collections:
           - {label: "Bild", name: "image", widget: "image", required: true}
           - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
           - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
-  - name: "flugschule-nachste-schritte"
-    label: "Flugschule - Nächste Schritte"
-    # folder: "content/flugschule/naechste-schritte"
+  - name: "flugschule-schritte-richtung-cockpit"
+    # name: "flugschule-nachste-schritte"
+    label: "Flugschule - Erste Schritte Richtung Cockpit"
+    # label: "Flugschule - Nächste Schritte"
     folder: "content/flugschule/schritte-richtung-cockpit"
+    # folder: "content/flugschule/naechste-schritte"
     create: true
     slug: "{{slug}}"
     fields:
