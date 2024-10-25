@@ -36,6 +36,14 @@ Flugplatzbeizli
 
 Biberach a.d. Riss
 
+### 28.03.2025 | GV MFGT 2025
+
+MZH Lommis
+
+### 29.03.2025 | Flugplatzputzete 2025
+
+Flugplatz Lommis
+
 ### 28.-29.06.2025 | YES-Tag 2025
 
 Flugplatz Lommis
