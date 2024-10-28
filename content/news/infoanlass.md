@@ -14,7 +14,7 @@ description: >-
   Flugschule genau das Richtige für Dich!
 buttons:
   - title: mehr
-    url: 'https://www.mfgt.ch/flugschule/naechste-schritte/infoabend/'
+    url: 'https://www.mfgt.ch/flugschule/schritte-richtung-cockpit/infoabend/'
   - cta: true
     title: Anmelden
     url: >-
