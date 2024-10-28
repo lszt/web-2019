@@ -10,7 +10,7 @@ description: >-
   Beachtung der besonderen Bedingungen WinterOPS geflogen werden.
 buttons:
   - cta: false
-    title: mehr
+    title: Merkblatt
     url: >-
       https://drive.google.com/file/d/1MZETDBAAUTEDpWmxBbCAgrl_taUurrwQ/view?usp=sharing
 ---
