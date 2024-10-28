@@ -29,4 +29,4 @@ Bitte beachtet zudem die folgenden Punkte, wenn ihr den Flugplatz als Letzte(r) 
 * Lichter löschen.
 * Alle Rollläden mit dem Schalter neben der Tür des C-Büros herunterlassen.
 
-Bei Fragen oder Unsicherheiten meldet euch bitte jederzeit per E-Mail an mfgt-ops@mfgt.ch oder in dringenden Fällen unter der Telefonnummer +41 79 756 73 85.
+Bei Fragen oder Unsicherheiten meldet euch bitte jederzeit per E-Mail an <mailto:mfgt-ops@mfgt.ch> oder in dringenden Fällen unter der Telefonnummer +41 79 756 73 85.
