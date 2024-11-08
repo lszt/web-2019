@@ -24,7 +24,7 @@ Flugplatzbeizli
 
 <hr>
 
-### 03.-15.03-2025 | PPL-Intensivwoche 2025
+### 01.-07.03-2025 | PPL-Intensivwoche 2025
 
 Biberach a.d. Riss
 
