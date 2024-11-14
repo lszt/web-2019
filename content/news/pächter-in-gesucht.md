@@ -2,11 +2,12 @@
 title: PÄCHTER/-IN GESUCHT
 date: '2024-09-25T11:22:40+02:00'
 draft: false
-image: /img/uploads/bild_flugplatzbeizli_2.jpg
+image: /img/uploads/bild_flugplatzbeizli_res.jpg
 positionx: 50
 positiony: 50
 description: >-
-  <!--  ### _**<font color="red">RESERVIERT</font>**_ -->
+  ### <font color="red">RESERVIERT</font>
+
 
   \
 
