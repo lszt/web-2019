@@ -8,6 +8,8 @@ positiony: 50
 description: >-
   **Samstag, 23. November 2024, 09:00 - 12:00 Uhr**
 
+  VERSCHOBEN!
+
 
   Interessierst Du Dich für eine Ausbildung zum Privatpiloten und für eine
   Mitgliedschaft bei der Motorfluggruppe Thurgau? Dann ist der Infoanlass der
