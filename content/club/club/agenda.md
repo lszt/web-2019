@@ -50,7 +50,7 @@ Flugplatzbeizli
 
 ### 26.04.2025 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
-Flugplatz Lommis | [Info's](/flugschule/naechste-schritte/infoabend/) | [Anmeldung](https://drive.google.com/file/d/1CUWxwFi0aYr34fw4Wq_9qNh4x3bUTP3Z/view?usp=sharing)
+Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://drive.google.com/file/d/1CUWxwFi0aYr34fw4Wq_9qNh4x3bUTP3Z/view?usp=sharing)
 
 ### 30.05.2025 | 18:30 | Clubhöck
 
@@ -74,7 +74,7 @@ Flugplatzbeizli
 
 ### 13.09.2025 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
-Flugplatz Lommis | [Info's](/flugschule/naechste-schritte/infoabend/) | [Anmeldung](https://drive.google.com/file/d/1CUWxwFi0aYr34fw4Wq_9qNh4x3bUTP3Z/view?usp=sharing)
+Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://drive.google.com/file/d/1CUWxwFi0aYr34fw4Wq_9qNh4x3bUTP3Z/view?usp=sharing)
 
 ### 26.09.2025 | 18:30 | Clubhöck
 
@@ -86,7 +86,7 @@ Flugplatzbeizli
 
 ### 22.11.2025 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
-Flugplatz Lommis | [Info's](/flugschule/naechste-schritte/infoabend/) | [Anmeldung](https://drive.google.com/file/d/1CUWxwFi0aYr34fw4Wq_9qNh4x3bUTP3Z/view?usp=sharing)
+Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://drive.google.com/file/d/1CUWxwFi0aYr34fw4Wq_9qNh4x3bUTP3Z/view?usp=sharing)
 
 ### 28.11.2025 | 18:30 | Clubhöck
 
