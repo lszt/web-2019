@@ -20,9 +20,17 @@ Flugplatzbeizli
 
 <hr>
 
+### 31.01.2025 | 18:30 | Clubhöck
+
+Flugplatzbeizli
+
 ### 08.02.2025 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
 Flugplatz Lommis | [Info's](/flugschule/naechste-schritte/infoabend/) | [Anmeldung](https://drive.google.com/file/d/1CUWxwFi0aYr34fw4Wq_9qNh4x3bUTP3Z/view?usp=sharing)
+
+### 28.02.2025 | 18:30 | Clubhöck
+
+Flugplatzbeizli
 
 ### 01.-07.03-2025 | PPL-Intensivwoche 2025
 
@@ -36,21 +44,57 @@ MZH Lommis
 
 Flugplatz Lommis
 
+### 25.04.2025 | 18:30 | Clubhöck
+
+Flugplatzbeizli
+
 ### 26.04.2025 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
 Flugplatz Lommis | [Info's](/flugschule/naechste-schritte/infoabend/) | [Anmeldung](https://drive.google.com/file/d/1CUWxwFi0aYr34fw4Wq_9qNh4x3bUTP3Z/view?usp=sharing)
+
+### 30.05.2025 | 18:30 | Clubhöck
+
+Flugplatzbeizli
+
+### 27.06.2025 | 18:30 | Clubhöck
+
+Flugplatzbeizli
 
 ### 28.-29.06.2025 | YES-Tag 2025
 
 Flugplatz Lommis
 
+### 25.07.2025 | 18:30 | Clubhöck
+
+Flugplatzbeizli
+
+### 29.08.2025 | 18:30 | Clubhöck
+
+Flugplatzbeizli
+
 ### 13.09.2025 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
 Flugplatz Lommis | [Info's](/flugschule/naechste-schritte/infoabend/) | [Anmeldung](https://drive.google.com/file/d/1CUWxwFi0aYr34fw4Wq_9qNh4x3bUTP3Z/view?usp=sharing)
 
+### 26.09.2025 | 18:30 | Clubhöck
+
+Flugplatzbeizli
+
+### 31.10.2025 | 18:30 | Clubhöck
+
+Flugplatzbeizli
+
 ### 22.11.2025 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
 Flugplatz Lommis | [Info's](/flugschule/naechste-schritte/infoabend/) | [Anmeldung](https://drive.google.com/file/d/1CUWxwFi0aYr34fw4Wq_9qNh4x3bUTP3Z/view?usp=sharing)
+
+### 28.11.2025 | 18:30 | Clubhöck
+
+Flugplatzbeizli
+
+### 26.12.2025 | 18:30 | Clubhöck
+
+Flugplatzbeizli
 
 <hr>
 
