@@ -1,6 +1,6 @@
 ---
 title: Infoanlass Flugschule
-date: '2024-10-14T20:30:00+02:00'
+date: '2024-12-08T08:30:00+01:00'
 draft: false
 image: /img/uploads/aquila_sunrise.jpeg
 positionx: 50
