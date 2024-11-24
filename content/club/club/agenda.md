@@ -26,7 +26,7 @@ Flugplatzbeizli
 
 ### 08.02.2025 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
-Flugplatz Lommis | [Info's](/flugschule/flugschule-schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://drive.google.com/file/d/1CUWxwFi0aYr34fw4Wq_9qNh4x3bUTP3Z/view?usp=sharing)
+Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://drive.google.com/file/d/1CUWxwFi0aYr34fw4Wq_9qNh4x3bUTP3Z/view?usp=sharing)
 
 ### 28.02.2025 | 18:30 | Clubhöck
 
