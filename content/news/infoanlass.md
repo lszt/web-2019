@@ -6,9 +6,7 @@ image: /img/uploads/aquila_sunrise.jpeg
 positionx: 50
 positiony: 50
 description: >-
-  Samstag, 23. November 2024, 09:00 - 12:00 Uhr
-
-  VERSCHOBEN! Neues Datum folgt!
+  Samstag, 08. Februar 2025, 09:00 - 12:00 Uhr
 
 
   Interessierst Du Dich für eine Ausbildung zum Privatpiloten und für eine
