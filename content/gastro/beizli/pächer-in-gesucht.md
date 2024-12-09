@@ -1,7 +1,7 @@
 ---
 title: Pächer/-in Gesucht
 date: '2024-10-04T20:19:02+02:00'
-draft: false
+draft: true
 image: /img/uploads/bild_flugplatzbeizli_2.jpg
 description: >-
   Die Motorfluggruppe Thurgau sucht ab 2025 einen Nachfolger oder eine
