@@ -26,7 +26,7 @@ Flugplatzbeizli
 
 ### 01.-07.03-2025 | PPL-Intensivwoche 2025
 
-Biberach a.d. Riss
+Biberach a.d. Riss | [Info's und Anmeldung] (https://drive.google.com/file/d/15RUYtf904fi5Yo2eP-gZBmrQ2aPkd9nL/view?usp=sharing)
 
 ### 28.03.2025 | GV MFGT 2025
 
