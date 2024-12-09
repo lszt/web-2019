@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 29.11.2024 | 18:30 | Clubhöck
-
-Flugplatzbeizli
-
 ### 27.12.2024 | 18:30 | Clubhöck
 
 Flugplatzbeizli
