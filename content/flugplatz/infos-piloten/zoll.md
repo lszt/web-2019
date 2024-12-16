@@ -17,7 +17,7 @@ Personenabfertigungen für Direktflüge ins Ausland (Ausflug-Zoll in den Schenge
 
 Verfahrensanweisung:
 
-* Frühestens 24 Std., jedoch spätestens 1 Std. vor dem geplanten Start in Lommis, bzw. spätestens 2 Std. vor der geplanten Landung in Lommis muss der verantwortliche Pilot die ‘Zollanmeldung’ komplett ausfüllen und per Internet/Mail an den Flugplatz abschicken.
+* Frühestens 24 Std., jedoch spätestens 2 Std. vor dem geplanten Start bzw. der geplanten Landung in Lommis muss der verantwortliche Pilot die [Zollanmeldung] (https://customs.lszt.ch/?ad=lszt) komplett ausfüllen und per Internet/Mail an den Flugplatz abschicken.
 * In jedem Fall ruft der Pilot direkt anschliessend persönlich unter Telefon +41 52 366 33 33 den Betriebsleiter/FDL auf dem Flugplatz an. Er erkundigt sich über die Verhältnisse auf dem Platz und weist auf das Vorliegen seiner Zollanmeldung hin.
 * Der Betriebsleiter/FDL überprüft das Eintreffen der Zollanmeldung, verifiziert diese und leitet sie umgehend an die Zoll- und Polizeiorgane weiter. Erst mit dem OK des Betriebsleiters/FDLs und seiner Weiterleitung an die Zoll- und Polizeiorgane wird die Zollanmeldung aktiviert.
 * Der verantwortliche Pilot verpflichtet sich, die auf der Anmeldung ersichtlichen Zoll- und Polizeivorschriften strikte einzuhalten sowie Crew und Passagiere über diese in Kenntnis zu setzen. Den Anordnungen der Flugplatz-, Zoll- und Polizeiorgane ist in jedem Fall Folge zu leisten.
