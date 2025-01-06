@@ -6,12 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 27.12.2024 | 18:30 | Clubhöck
-
-Flugplatzbeizli
-
-<hr>
-
 ### 31.01.2025 | 18:30 | Clubhöck
 
 Flugplatzbeizli
@@ -26,7 +20,7 @@ Flugplatzbeizli
 
 ### 01.-07.03-2025 | PPL-Intensivwoche 2025
 
-Biberach a.d. Riss | [Info's und Anmeldung] (https://drive.google.com/file/d/15RUYtf904fi5Yo2eP-gZBmrQ2aPkd9nL/view?usp=sharing)
+Biberach a.d. Riss | [Info's und Anmeldung](https://drive.google.com/file/d/15RUYtf904fi5Yo2eP-gZBmrQ2aPkd9nL/view?usp=sharing)
 
 ### 28.03.2025 | GV MFGT 2025
 
