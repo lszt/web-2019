@@ -78,13 +78,13 @@ Flugplatzbeizli
 
 Flugplatzbeizli
 
-### 22.11.2025 | 09:00-12:00 | Infoanlass Flugschule MFGT
-
-Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
-
 ### 21.11.2025 | Fondue-Abend'25
 
 Flugplatz Lommis
+
+### 22.11.2025 | 09:00-12:00 | Infoanlass Flugschule MFGT
+
+Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
 ### 28.11.2025 | 18:30 | Clubhöck
 
