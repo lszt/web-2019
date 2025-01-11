@@ -1,8 +1,9 @@
 ---
-title: "Rundflüge"
-date: 2019-04-14T17:03:39+02:00
-draft: false
+title: Rundflüge
+date: 2019-04-14T15:03:39.000Z
+draft: true
 weight: 2
+description: '\#'
 ---
 Sind Sie auf der Suche nach einem ganz speziellen Geschenk?\
 Oder möchten Sie selbst einmal die Welt von oben geniessen?
