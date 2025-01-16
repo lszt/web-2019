@@ -50,6 +50,10 @@ Flugplatz Lommis
 
 Flugplatzbeizli
 
+### 13. – 15.06.2025 | MFGT Fly-Away 1/2025
+
+Nordfriesische Inseln
+
 ### 27.06.2025 | 18:30 | Clubhöck
 
 Flugplatzbeizli
@@ -69,6 +73,10 @@ Flugplatzbeizli
 ### 13.09.2025 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
 Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
+
+### 18.–21.09.2025 | MFGT Fly-Away 2/2025
+
+Bretagne Frankreich
 
 ### 26.09.2025 | 18:30 | Clubhöck
 
