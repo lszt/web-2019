@@ -74,7 +74,7 @@ Flugplatzbeizli
 
 Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
-### 18.–21.09.2025 | MFGT Fly-Away 2-2025
+### 25.–28.09.2025 | MFGT Fly-Away 2-2025
 
 Bretagne Frankreich
 
