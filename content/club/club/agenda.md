@@ -38,6 +38,10 @@ Flugplatzbeizli
 
 Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
+### 26.04.2025 | MFGT Fly-Away
+
+Flug ins nahe Ausland
+
 ### 02.05.2025 | Neumitglieder Event 2025
 
 Flugplatz Lommis
@@ -70,13 +74,17 @@ Flugplatzbeizli
 
 Flugplatzbeizli
 
-### 30. & 31.08.2025 | Open Day LSZT
+### 30. & 31.08.2025 | Tag der offenen Tür 2025
 
 Flugplatz Lommis
 
 ### 13.09.2025 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
 Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
+
+### 25.09.2025 | Infotag NFVR
+
+Flugplatz Lommis
 
 ### 25.–28.09.2025 | MFGT Fly-Away 2-2025
 
