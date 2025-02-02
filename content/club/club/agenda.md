@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 31.01.2025 | 18:30 | Clubhöck
-
-Flugplatzbeizli
-
 ### 08.02.2025 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
 Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
@@ -22,13 +18,13 @@ Flugplatzbeizli
 
 Biberach a.d. Riss | [Info's und Anmeldung](https://drive.google.com/file/d/15RUYtf904fi5Yo2eP-gZBmrQ2aPkd9nL/view?usp=sharing)
 
-### 28.03.2025 | GV MFGT 2025
+### 28.03.2025 | 19:00 | GV MFGT 2025
 
-MZH Lommis
+MZH Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/dPgW8ywb/vote)
 
-### 29.03.2025 | Flugplatzputzete 2025
+### 29.03.2025 | 08:30 | Flugplatzputzete 2025
 
-Flugplatz Lommis
+Flugplatz Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/dw27lzMb/vote)
 
 ### 25.04.2025 | 18:30 | Clubhöck
 
