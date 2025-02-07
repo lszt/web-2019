@@ -5,9 +5,10 @@ draft: false
 image: /img/uploads/bild_ir.jpg
 positionx: 50
 positiony: 50
-description: >-
-  Infoanlass am 15.03.2025 für alle, die sich für das Instrument Rating
-  interessieren.
+description: |-
+  **Samstag, 15. März 2025, 11:00 - 12:00 Uhr**
+
+  Infoanlass für alle, die sich für das Instrument Rating interessieren.
 buttons:
   - blank: true
     cta: true
@@ -21,4 +22,3 @@ Für alle, die sich für das Instrument Rating interessieren, zeigen euch Josef 
 Datum: 15.03.25 von 11:00-12:00
 Ort: Theorieraum MFGT
 Durchführung: Josef Kurath und HP Boller
-Anmeldung unter: https://doodle.com/meeting/participate/id/bWpA3Kvd
