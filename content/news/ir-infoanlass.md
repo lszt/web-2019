@@ -15,7 +15,7 @@ buttons:
     title: anmeldung
     url: 'https://doodle.com/meeting/participate/id/bWpA3Kvd'
   - title: Agenda
-    url: /club/agenda
+    url: /club/club/agenda
 ---
 Für alle, die sich für das Instrument Rating interessieren, zeigen euch Josef und HP bei dieser Infoveranstaltung, wie diese Ausbildung ablaufen kann, welche Möglichkeiten es gibt und worauf man achten muss.
 
