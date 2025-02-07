@@ -20,5 +20,7 @@ buttons:
 Für alle, die sich für das Instrument Rating interessieren, zeigen euch Josef und HP bei dieser Infoveranstaltung, wie diese Ausbildung ablaufen kann, welche Möglichkeiten es gibt und worauf man achten muss.
 
 Datum: 15.03.25 von 11:00-12:00
+
 Ort: Theorieraum MFGT
+
 Durchführung: Josef Kurath und HP Boller
