@@ -8,6 +8,10 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 11.02.2025 / 20 Infrastruktur / Flugplatz/ | [Notfallplan] (https://drive.google.com/file/d/1MMOnzFu0-ZYGZbXPPm_iHqQgLNyDcOFQ/view?usp=sharing) | hinzugefügt
+
+<hr>
+
 * 14.10.2024 / 40 Flugbetrieb/Flugzeuge/HB-KLA/AFM | [AFM] (https://drive.google.com/file/d/18-n2xea79NFDgB_C-QwH4hrSqsYIvQIX/view?usp=sharing) | aktualisiert
 * 14.10.2024 / 40 Flugbetrieb/Flugzeuge/HB-KLD/AFM | [AFM] (https://drive.google.com/file/d/1TBzN4dlbylEy36WglNYYBq-o77nkQM7-/view?usp=sharing) | aktualisiert
 * 14.10.2024 / 40 Flugbetrieb/Flugzeuge/HB-KLR/AFM | [AFM] (https://drive.google.com/file/d/17pabXms5wvLlbB06-_0l3WuOTQvIf-YC/view?usp=sharing) | aktualisiert
@@ -57,11 +61,6 @@ description: >-
 * 21.03.2024 | 40 Flugbetrieb/Flugzeuge/HB-SGT/Insurance | [Versicherungspolice](https://drive.google.com/file/d/1AXXYpz52XO4QTXCMSi86yHxb53CABwuC/view?usp=drive_link) | aktualisiert
 * 21.03.2024 | 40 Flugbetrieb/Flugzeuge/HB-SGW/Insurance | [Versicherungspolice](https://drive.google.com/file/d/1TV0vpPY37RflY4uywytWpCa5ZP8Djq-L/view?usp=drive_link) | aktualisiert
 * 20.03.2024 | .../.../30-40-20 Refresherflug/Refresherflug 24_25 | [Unterlagen](https://drive.google.com/drive/folders/1hlxqta_bMQX0aA1FnkVQ6fCow0aJRn6T) | hinzugefügt
-
-<hr>
-
-* 20.10.2023 | 20 Infrastruktur / Flugplatz | [VAC Chart](https://drive.google.com/file/d/1FMkoCoEdppvrK2uDdrLcs3ydPEVh97Jp/view?usp=share_link) | aktualisiert
-* 20.10.2023 | 20 Infrastruktur / Flugplatz | [AD Info](https://drive.google.com/file/d/1ejYV_Kj9czOvveOD8TozP6SmH6hZq517/view?usp=share_link) | aktualisiert
 
 <hr>
 
