@@ -26,6 +26,10 @@ MZH Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/dPgW8ywb/vot
 
 Flugplatz Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/dw27lzMb/vote)
 
+### 04.04.2025 | 15:00 | Eröffnung Flughafenbeizli
+
+Franca's Flughafenbeizli
+
 ### 25.04.2025 | 18:30 | Clubhöck
 
 Flugplatzbeizli
