@@ -30,6 +30,10 @@ Flugplatz Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/dw27lz
 
 Franca's Flughafenbeizli
 
+### 06.04.-19.04.2025 | SPHAIR Kurs 1 (Aquila)
+
+Flugplatz Lommis
+
 ### 25.04.2025 | 18:30 | Clubhöck
 
 Flugplatzbeizli
@@ -58,6 +62,10 @@ Flugplatzbeizli
 
 Nordfriesische Inseln
 
+### 15.06.-28.06.2025 | SPHAIR Kurs 2 (Aquila)
+
+Flugplatz Lommis
+
 ### 27.06.2025 | 18:30 | Clubhöck
 
 Flugplatzbeizli
@@ -69,6 +77,10 @@ Flugplatz Lommis
 ### 25.07.2025 | 18:30 | Clubhöck
 
 Flugplatzbeizli
+
+### 03.08.-16.08.2025 | SPHAIR Kurs 3 (Aquila)
+
+Flugplatz Lommis
 
 ### 29.08.2025 | 18:30 | Clubhöck
 
@@ -93,6 +105,10 @@ Bretagne Frankreich
 ### 26.09.2025 | 18:30 | Clubhöck
 
 Flugplatzbeizli
+
+### 05.10.-18.10.2025 | SPHAIR Kurs 4 (Aquila)
+
+Flugplatz Lommis
 
 ### 31.10.2025 | 18:30 | Clubhöck
 
