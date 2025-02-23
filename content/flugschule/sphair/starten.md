@@ -28,8 +28,8 @@ Nach erfolgreichem Abschluss der ersten Eignungsabklärung können Sie sich via 
 
 **Unterkunft und Verpflegung**
 
-Sie und Ihre Kolleginnen und Kollegen sind während dem Kurs bei einer Gastfamilie im Dorf untergebracht, wo Sie auch frühstücken werden. Die Kosten von CHF 30.– pro Übernachtung (Total CHF 300.– bei normalem Kursverlauf) gehen zu Ihren Lasten. Mittag- und Nachtessen nehmen sie gemeinsam mit ihren Kolleginnen und Kollegen im Restaurant auf dem Flugplatz Lommis ein. Die Kosten werden von uns übernommen.
+Sie und Ihre Kolleginnen und Kollegen sind während dem Kurs bei einer Gastfamilie im Dorf untergebracht, wo Sie auch frühstücken werden. Die Kosten von CHF 40.– pro Übernachtung (Total CHF 400.– bei normalem Kursverlauf) gehen zu Ihren Lasten. Mittag- und Nachtessen nehmen sie gemeinsam mit ihren Kolleginnen und Kollegen im Restaurant auf dem Flugplatz Lommis ein. Die Kosten werden von uns übernommen.
 
 **Theorie- und praktischer Unterricht**
 
-Jeweils zwei sehr erfahrene Fluglehrer unterrichten Sie während den zwei Wochen in Theorie und Praxis. Es steht ein geräumiger und gut ausgerüsteter Theoriesaal mit freiem WLan zu Ihrer alleinigen Verfügung. Die Flüge werden in unseren Aquila oder Robin durchgeführt.
+Jeweils zwei sehr erfahrene Fluglehrer unterrichten Sie während den zwei Wochen in Theorie und Praxis. Es steht ein geräumiger und gut ausgerüsteter Theoriesaal mit freiem WLan zu Ihrer Verfügung. Die Flüge werden in unseren Aquila durchgeführt.
