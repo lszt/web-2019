@@ -1,7 +1,7 @@
 ---
 title: Bildergalerie zum 1st Lommis Fly-In
 date: '2024-09-13T12:37:56+02:00'
-draft: false
+draft: true
 image: /img/uploads/1st_flyin.jpg
 positionx: 50
 positiony: 50
