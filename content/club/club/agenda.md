@@ -6,25 +6,21 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 28.02.2025 | 18:30 | Clubhöck
-
-Flugplatzbeizli
-
 ### 01.-07.03-2025 | PPL-Intensivwoche 2025
 
 Biberach a.d. Riss | [Info's und Anmeldung](https://drive.google.com/file/d/15RUYtf904fi5Yo2eP-gZBmrQ2aPkd9nL/view?usp=sharing)
 
 ### 15.03.2025 | 11:00-12:00 | IR Infoanlass
 
-Theorieraum MFGT | [Anmeldung] (https://doodle.com/meeting/participate/id/bWpA3Kvd/vote)
+Theorieraum MFGT | [Anmeldung](https://doodle.com/meeting/participate/id/bWpA3Kvd/vote)
 
 ### 28.03.2025 | 19:00 | GV MFGT 2025
 
-MZH Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/dPgW8ywb/vote)
+MZH Lommis | [Anmeldung](https://doodle.com/meeting/participate/id/dPgW8ywb/vote)
 
 ### 29.03.2025 | 08:30 | Flugplatzputzete 2025
 
-Flugplatz Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/dw27lzMb/vote)
+Flugplatz Lommis | [Anmeldung](https://doodle.com/meeting/participate/id/dw27lzMb/vote)
 
 ### 04.04.2025 | 15:00 | Eröffnung Flughafenbeizli
 
