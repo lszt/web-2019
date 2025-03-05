@@ -21,6 +21,6 @@ Für alle, die sich für das Instrument Rating interessieren, zeigen euch Josef 
 
 Datum: 15.03.25 von 11:00-12:00
 
-Ort: Theorieraum MFGT
+Ort: Bude Beizli Lommis
 
 Durchführung: Josef Kurath und HP Boller
