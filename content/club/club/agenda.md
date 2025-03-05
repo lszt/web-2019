@@ -12,7 +12,7 @@ Biberach a.d. Riss | [Info's und Anmeldung](https://drive.google.com/file/d/15RU
 
 ### 15.03.2025 | 11:00-12:00 | IR Infoanlass
 
-Theorieraum MFGT | [Anmeldung](https://doodle.com/meeting/participate/id/bWpA3Kvd/vote)
+Bude Beizli Lommis | [Anmeldung](https://doodle.com/meeting/participate/id/bWpA3Kvd/vote)
 
 ### 28.03.2025 | 19:00 | GV MFGT 2025
 
