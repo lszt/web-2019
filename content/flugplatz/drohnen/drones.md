@@ -21,7 +21,7 @@ Die Motorfluggruppe Thurgau ist zuständig für die Erteilung von **Drohnenflugb
 
 Weitere Informationen zum Thema Drohnen finden Sie auf der [offiziellen Seite des Bundes](https://www.bazl.admin.ch/bazl/de/home/drohnen.html).
 
-Ab 250g benötigen Sie zwingend ein Zertifikat, **jedoch empfehlen wir Ihnen stark, auch unter 250g  zumindest die Schulung A1/A3 zu absolvieren.** [Zertifikate des Bundes] (https://www.bazl.admin.ch/bazl/de/home/drohnen/anfaenger2/uasgate/certificates.html)
+Ab 250g benötigen Sie zwingend ein [Zertifikat] (https://www.bazl.admin.ch/bazl/de/home/drohnen/anfaenger2/uasgate/certificates.html), **jedoch empfehlen wir Ihnen stark, auch unter 250g  zumindest die Schulung A1/A3 zu absolvieren.** 
 
 Bitte beachten Sie, dass auch **Drohnen unter 250g registriert werden müssen, sofern sie mit einer Kamera ausgestattet sind.** Weitere Infos zur [Kategorie A1 - Drohnen unter 250g] (https://www.bazl.admin.ch/bazl/de/home/drohnen/open1/bis_250.html).
 
