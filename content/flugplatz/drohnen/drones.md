@@ -6,8 +6,8 @@ weight: '1'
 image: /img/uploads/drone.jpeg
 description: >-
   Die Motorfluggruppe Thurgau ist zuständig für die Erteilung von
-  Drohnenflugbewilligungen im 5-km-Radius um den Flugplatz Lommis (LSZT). Ob Sie
-  sich innerhalb dieses Bereichs befinden, können Sie der [interaktiven
+  **Drohnenflugbewilligungen im 5-km-Radius um den Flugplatz Lommis (LSZT).** Ob
+  Sie sich innerhalb dieses Bereichs befinden, können Sie der [interaktiven
   Drohnenkarte]
   (https://map.geo.admin.ch/#/map?lang=de&center=2660000,1190000&z=1&topic=ech&layers=ch.bazl.einschraenkungen-drohnen&bgLayer=ch.swisstopo.pixelkarte-farbe)
   des Bundes entnehmen.
