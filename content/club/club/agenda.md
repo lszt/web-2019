@@ -10,6 +10,10 @@ buttons: []
 
 Biberach a.d. Riss | [Info's und Anmeldung](https://drive.google.com/file/d/15RUYtf904fi5Yo2eP-gZBmrQ2aPkd9nL/view?usp=sharing)
 
+### 15.03.2025 | 08:30 | BR23 Weiterbildung
+
+Bude Beizli Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/dBOk9VQe)
+
 ### 15.03.2025 | 11:00-12:00 | IR Infoanlass
 
 Bude Beizli Lommis | [Anmeldung](https://doodle.com/meeting/participate/id/bWpA3Kvd/vote)
