@@ -8,13 +8,14 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
-* 11.02.2025 / 20 Infrastruktur / Flugplatz/ | [Notfallplan] (https://drive.google.com/file/d/1MMOnzFu0-ZYGZbXPPm_iHqQgLNyDcOFQ/view?usp=sharing) | hinzugefügt
+* 12.03.2025 | 10 Allgemein/GV2025 | [Unterlagen GV] (https://drive.google.com/drive/folders/19V1Dxr2n6WaH149xuR1CpEd1EKHR5xeP) | hinzugefügt
+* 11.02.2025 | 20 Infrastruktur/Flugplatz/ | [Notfallplan] (https://drive.google.com/file/d/1MMOnzFu0-ZYGZbXPPm_iHqQgLNyDcOFQ/view?usp=sharing) | hinzugefügt
 
 <hr>
 
-* 14.10.2024 / 40 Flugbetrieb/Flugzeuge/HB-KLA/AFM | [AFM] (https://drive.google.com/file/d/18-n2xea79NFDgB_C-QwH4hrSqsYIvQIX/view?usp=sharing) | aktualisiert
-* 14.10.2024 / 40 Flugbetrieb/Flugzeuge/HB-KLD/AFM | [AFM] (https://drive.google.com/file/d/1TBzN4dlbylEy36WglNYYBq-o77nkQM7-/view?usp=sharing) | aktualisiert
-* 14.10.2024 / 40 Flugbetrieb/Flugzeuge/HB-KLR/AFM | [AFM] (https://drive.google.com/file/d/17pabXms5wvLlbB06-_0l3WuOTQvIf-YC/view?usp=sharing) | aktualisiert
+* 14.10.2024 | 40 Flugbetrieb/Flugzeuge/HB-KLA/AFM | [AFM] (https://drive.google.com/file/d/18-n2xea79NFDgB_C-QwH4hrSqsYIvQIX/view?usp=sharing) | aktualisiert
+* 14.10.2024 | 40 Flugbetrieb/Flugzeuge/HB-KLD/AFM | [AFM] (https://drive.google.com/file/d/1TBzN4dlbylEy36WglNYYBq-o77nkQM7-/view?usp=sharing) | aktualisiert
+* 14.10.2024 | 40 Flugbetrieb/Flugzeuge/HB-KLR/AFM | [AFM] (https://drive.google.com/file/d/17pabXms5wvLlbB06-_0l3WuOTQvIf-YC/view?usp=sharing) | aktualisiert
 * 02.10.2024 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG | [Familiarisation & Difference Training] (https://drive.google.com/file/d/1jPRwmhdr6azsZYlKsCCtLMt3C6dEOc9g/view?usp=sharing) | aktualisiert
 * 28.09.2024 | 40 Flugbetrieb/Charter | [Weisung Reservationsregeln] (https://drive.google.com/file/d/1mps33NFewmhXo_Q8aVKUGy1igcbI6BmO/view?usp=sharing) | aktualisiert
 * 18.09.2024 | 40 Flugbetrieb/Charter | [Versicherungsbestimmungen und Deckungslimiten] (https://drive.google.com/file/d/1imuiPhIJ6-opeBsHMu2-sIIC_KBXQtiH/view?usp=sharing) | aktualisiert
