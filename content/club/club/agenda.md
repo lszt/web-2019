@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 01.-07.03-2025 | PPL-Intensivwoche 2025
-
-Biberach a.d. Riss | [Info's und Anmeldung](https://drive.google.com/file/d/15RUYtf904fi5Yo2eP-gZBmrQ2aPkd9nL/view?usp=sharing)
-
 ### 15.03.2025 | 08:30 | BR23 Weiterbildung
 
 Bude Beizli Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/dBOk9VQe)
