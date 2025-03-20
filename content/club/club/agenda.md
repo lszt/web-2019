@@ -6,18 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 15.03.2025 | 08:30 | BR23 Weiterbildung
-
-Bude Beizli Lommis | [Anmeldung] (https://doodle.com/meeting/participate/id/dBOk9VQe)
-
-### 15.03.2025 | 11:00-12:00 | IR Infoanlass
-
-Bude Beizli Lommis | [Anmeldung](https://doodle.com/meeting/participate/id/bWpA3Kvd/vote)
-
-### 17.03.2025 | 20:00-22:00 | AeCS Luftraum Seminar 2025
-
-[Online-Seminar](https://events.teams.microsoft.com/event/16fe9b91-f021-41f0-a130-567f51bd17c8@31103e7a-6b8f-4fdf-a13c-c948638c8407)
-
 ### 28.03.2025 | 19:00 | GV MFGT 2025
 
 MZH Lommis | [Anmeldung](https://doodle.com/meeting/participate/id/dPgW8ywb/vote)
