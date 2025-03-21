@@ -48,7 +48,7 @@ Flugplatzbeizli
 
 ### 13. – 15.06.2025 | MFGT Fly-Away 1-2025
 
-Nordfriesische Inseln
+Nordfriesische Inseln | [Anmeldung] (https://xoyondo.com/dp/1emH6HZap2aV3Lg)
 
 ### 15.06.-28.06.2025 | SPHAIR Kurs 2 (Aquila)
 
