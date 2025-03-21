@@ -1,7 +1,7 @@
 ---
 title: IR Infoanlass
 date: '2025-02-07T08:31:49+01:00'
-draft: false
+draft: true
 image: /img/uploads/bild_ir.jpg
 positionx: 50
 positiony: 50
