@@ -18,7 +18,7 @@ description: >-
 
 * 26.03.2025 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist HB-ETG](https://drive.google.com/file/d/1ddjoh2Uu2Mk7_mvZXrxGoYRloXdFWIXI/view?usp=sharing) | aktualisiert
 
-
+* 26.03.2025 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist DR401](https://drive.google.com/file/d/1fVhY_W6XEyjXmbAv7IBCcyczYXoA6D9J/view?usp=sharing) | aktualisiert
 
 
 
@@ -56,7 +56,6 @@ description: >-
 * 02.05.2024 | 40 Flugbetrieb/Charter | [Treibstoffzuschlag](https://drive.google.com/file/d/1XqqZhTTAbKbHtx-3WC4zTY0iTgtfOCVY/view?usp=drive_link) | aktualisiert
 * 25.04.2024 | 40 Flugbetrieb/Charter | [Charterpreise 2024](https://drive.google.com/file/d/1hHf7p8hSex2ewwUmTfjG7_UV06tMBCd_/view?usp=drive_link) | aktualisiert 
 * 31.03.2024 | .../.../30-10-20 Flight OPS/Procedures | [Procedures DR401] (https://drive.google.com/file/d/19QEBQP9cizPM6OTvRoVD2xCcVs09Faes/view?usp=sharing) | aktualisiert
-* 27.03.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist DR401](https://drive.google.com/file/d/1dwzkhrBj2n9lhG8tZ3oJ4vwEBeFudLQv/view?usp=sharing) | aktualisiert
 * 26.03.2024 | .../.../30-10-10 Pre-Flight/Hilfsmittel |[NAV-Flightplan] (https://drive.google.com/file/d/1QUudSbNXm8rS9ojCTnkRtOkjNuTg5TSY/view?usp=sharing) | aktualisiert
 * 21.03.2024 | .../.../30-10-20 Flight OPS/Procedures | [Procedures DR40] (https://drive.google.com/file/d/1C3VbJWM2jfW8U1sPuEBBznRh_Rv4DsnT/view?usp=drive_link) | aktualisiert
 * 21.03.2024 | .../.../30-10-20 Flight OPS/Procedures | [Procedures Aquila] (https://drive.google.com/file/d/1hYXfKVRG3ngAZ3QYd0W0q8BLXRzDvNYK/view?usp=drive_link) | aktualisiert
