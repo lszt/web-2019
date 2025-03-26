@@ -8,6 +8,8 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 26.03.2025 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Expanded Checklist | [Expanded Checklist BR23] (https://drive.google.com/file/d/1sgvdxTweMIFHRVbgc4nudCD_VmL6erMF/view?usp=sharing) | aktualisiert
+
 * 12.03.2025 | 10 Allgemein/GV2025 | [Unterlagen GV] (https://drive.google.com/drive/folders/19V1Dxr2n6WaH149xuR1CpEd1EKHR5xeP) | hinzugefügt
 * 11.02.2025 | 20 Infrastruktur/Flugplatz/ | [Notfallplan] (https://drive.google.com/file/d/1MMOnzFu0-ZYGZbXPPm_iHqQgLNyDcOFQ/view?usp=sharing) | hinzugefügt
 
@@ -22,7 +24,6 @@ description: >-
 * 18.09.2024 | 10 Allgemein / Versicherungen / Versicherungs-&Haftungsevent | [Unterlagen Event](https://drive.google.com/drive/folders/1e8CUxw9cf2UX_oceQKVI76IxdU1C36Xa) | aktualisiert
 * 26.08.2024 | 10 Allgemein/Safety | [Safety & OPS Bulletin 02] (https://drive.google.com/file/d/1Wso1SB2AgLfvryTITzGwdW8V2_7hSxIW/view?usp=drive_link) | hinzugefügt
 * 24.07.2024 | .../.../30-10-20 Flight OPS/Procedures | [Procedures BR23 PPL] (https://drive.google.com/file/d/15l8In4P6HFb04_bbZdv67NMuIBm_VfNR/view?usp=sharing) | aktualisiert
-* 24.07.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Expanded Checklist | [Expanded Checklist BR23](https://drive.google.com/file/d/1zXTFB4ikorYxxNKkqwTqVRQa-1JxAqCB/view?usp=sharing) | hinzugefügt
 * 24.07.2024 | 40 Flugbetrieb/Charter | [Daten Flugzeuge MFGT](https://drive.google.com/file/d/1reRcZV7iVZWYXZgqh8VOOoCsSYEylxVh/view?usp=sharing) | aktualisiert
 * 12.06.2024 | 10 Allgemein/Safety | [Safety & OPS Bulletin 01/2024] (https://drive.google.com/file/d/1DXKMMSnKkTG6K7ZWTUpj6TzyIJxNn5Wu/view?usp=sharing) | hinzugefügt
 * 12.06.2024 | 10 Allgemein/Club | [Statuten MFGT] (https://drive.google.com/file/d/1ne7b0jaJgiwDarOysqerpWhum_j-CB8X/view?usp=drive_link) | aktualisiert
