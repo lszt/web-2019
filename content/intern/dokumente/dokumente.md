@@ -16,7 +16,7 @@ description: >-
 
 * 26.03.2025 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Working Checklist | [Working Checklist DR401] (https://drive.google.com/file/d/1WCrCl2FH1oed6G_-J407xZs37YBZID3p/view?usp=sharing) | aktualisiert
 
-* 26.03.2025 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist HB-ETG](https://drive.google.com/file/d/1ddjoh2Uu2Mk7_mvZXrxGoYRloXdFWIXI/view?usp=sharing) | aktualisiert
+* 26.03.2025 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist BR23](https://drive.google.com/file/d/1ddjoh2Uu2Mk7_mvZXrxGoYRloXdFWIXI/view?usp=sharing) | aktualisiert
 
 * 26.03.2025 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist DR401](https://drive.google.com/file/d/1fVhY_W6XEyjXmbAv7IBCcyczYXoA6D9J/view?usp=sharing) | aktualisiert
 
