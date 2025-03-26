@@ -16,6 +16,12 @@ description: >-
 
 * 26.03.2025 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Working Checklist | [Working Checklist DR401] (https://drive.google.com/file/d/1WCrCl2FH1oed6G_-J407xZs37YBZID3p/view?usp=sharing) | aktualisiert
 
+* 26.03.2025 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist HB-ETG](https://drive.google.com/file/d/1ddjoh2Uu2Mk7_mvZXrxGoYRloXdFWIXI/view?usp=sharing) | aktualisiert
+
+
+
+
+
 
 
 
@@ -39,7 +45,6 @@ description: >-
 * 12.06.2024 | 40 Flugbetrieb/Charter | [Betriebs- und Haftungsreglement] (https://drive.google.com/file/d/1dGuQyM-VP_kZcQMVAVyT1mwXS7MPKPgG/view?usp=drive_link) | aktualisiert
 * 08.05.2024 | .../.../30-10-10 Pre-Flight/Forms & Records | [Ausbildungsunterlagen] (https://drive.google.com/drive/folders/1x_heHLTYiy0CU9vp3_TE0z6ncYUYENDp) | aktualisiert
 * 08.05.2024 | .../.../30-10-20 Flight OPS/Procedures | [Procedures BR23] (https://drive.google.com/file/d/1Wdt3fooosbbnqH805gQ3he7h3MMnlFyp/view?usp=drive_link) | hinzugefügt
-* 08.05.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist HB-ETG](https://drive.google.com/file/d/1puoISnHL1JjLLXVhdHKib8FE0jEsoKT5/view?usp=drive_link) | hinzugefügt
 * 08.05.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Expanded Checklist | [Expanded Checklist A211](https://drive.google.com/file/d/1ezMwIFtp96WcuAICQN7o5PTtETEUpu5s/view?usp=sharing) | aktualisiert
 * 08.05.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Working Checklist | [Working Checklist A211](https://drive.google.com/file/d/1amdiieXCSXd5bPv4NsKe1qYTRO0et4ch/view?usp=sharing) | aktualisiert
 * 08.05.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist HB-SGT](https://drive.google.com/file/d/1kTDaRrKd9RrzuZPeKVlr2U89rMcgD1MV/view?usp=drive_link) | aktualisiert
