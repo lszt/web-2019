@@ -12,7 +12,7 @@ description: >-
 
 * 26.03.2025 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Expanded Checklist | [Expanded Checklist DR401](https://drive.google.com/file/d/1JgB2v_EGBebvbbY1LA4jaN7nZFHHotw5/view?usp=sharing) | aktualisiert
 
-
+* 26.03.2025 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Working Checklist | [Working Checklist BR23](https://drive.google.com/file/d/1FEfhb0SA_Ylp4O66OWz7I-S2cS94p0Bn/view?usp=sharing) | aktualisiert
 
 
 
@@ -37,7 +37,6 @@ description: >-
 * 12.06.2024 | 10 Allgemein/Club | [Statuten MFGT] (https://drive.google.com/file/d/1ne7b0jaJgiwDarOysqerpWhum_j-CB8X/view?usp=drive_link) | aktualisiert
 * 12.06.2024 | 40 Flugbetrieb/Charter | [Betriebs- und Haftungsreglement] (https://drive.google.com/file/d/1dGuQyM-VP_kZcQMVAVyT1mwXS7MPKPgG/view?usp=drive_link) | aktualisiert
 * 08.05.2024 | .../.../30-10-10 Pre-Flight/Forms & Records | [Ausbildungsunterlagen] (https://drive.google.com/drive/folders/1x_heHLTYiy0CU9vp3_TE0z6ncYUYENDp) | aktualisiert
-* 08.05.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Working Checklist | [Working Checklist BR23](https://drive.google.com/file/d/1T1DhXe2RG-y8KP7aegJ1m20a1i1WF5U1/view?usp=sharing) | aktualisiert
 * 08.05.2024 | .../.../30-10-20 Flight OPS/Procedures | [Procedures BR23] (https://drive.google.com/file/d/1Wdt3fooosbbnqH805gQ3he7h3MMnlFyp/view?usp=drive_link) | hinzugefügt
 * 08.05.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist HB-ETG](https://drive.google.com/file/d/1puoISnHL1JjLLXVhdHKib8FE0jEsoKT5/view?usp=drive_link) | hinzugefügt
 * 08.05.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Expanded Checklist | [Expanded Checklist A211](https://drive.google.com/file/d/1ezMwIFtp96WcuAICQN7o5PTtETEUpu5s/view?usp=sharing) | aktualisiert
