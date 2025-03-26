@@ -88,7 +88,7 @@ Flugplatz Lommis
 
 ### 25.–28.09.2025 | MFGT Fly-Away 2-2025
 
-Bretagne Frankreich
+Bretagne Frankreich | [Anmeldung] (https://xoyondo.com/dp/x61gu4jysepejtp)
 
 ### 26.09.2025 | 18:30 | Clubhöck
 
