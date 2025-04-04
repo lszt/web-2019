@@ -1,6 +1,6 @@
 ---
 title: Neueröffnung Franca's Flughafenbeizli
-date: '2025-02-19T16:53:41+01:00'
+date: '2025-04-04T16:58:41+02:00'
 draft: false
 image: /img/uploads/francas.jpg
 positionx: 50
