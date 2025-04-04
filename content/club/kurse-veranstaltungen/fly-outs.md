@@ -14,44 +14,6 @@ buttons:
     title: anmelden
     url: 'https://xoyondo.com/dp/1emH6HZap2aV3Lg'
 ---
-### Fly-Away vom 14. - 16. Juni 2024
-
-Das erste Fly Away der Flugschule der MFGT bringt uns nach Brügge in Belgien - Landeplatz Ostende-Brügge (EBOS). Die Route führt uns auf dem Hin- und Rückweg über Antwerpen (EBAW) oder auch nach Brüssel (Vorschlag: EBTN): Selbstverständlich ist es den einzelnen Crews überlassen, welche Route sie fliegen oder ob sie die Gelegenheit für ein Flugplatz-Hopping nutzen. Am Briefing wird dann gemeinsam die Route und die Zwischenlandungen festgelegt.
-Das Fly Away wird von 1-2 Fluglehrern begleitet und ist somit für alle Piloten geeignet, die den Auslandflug mit all seinen Facetten erlernen oder auffrischen möchten. Oder aber einfach für all jene, die gerne wieder mal eine neue Destination kennenlernen und/oder mit Pilotenkollegen drei gemütliche Tage verbringen möchten.
-
-**Folgende Aspekte werden durch die Fluglehrer im Speziellen betreut:**
-
-
-* Flugvorbereitung, Routenplanung, Alternates, Fuel Planning
-  Flugpläne
-
-* Zollformalitäten und Airports of Entry
-
-* Anfliegen kontrollierter Flugplätze
-
-* Sprechfunk (ATC, FIS)
-
-
-Brügge ist ein städtisches Juwel und bis über die Landesgrenzen hinaus für seine Kanäle, kopfsteingepflasterten Strassen und mittelalterlichen Gebäude bekannt. Viele bedeutende Bauten reihen sich um die beiden zentralen Plätze. Ganz in der Nähe ist Bredene mit seinem wunderschönen Nordseestrand.
-
-
-Antwerpen zählt zu den mittelalterlich geprägten Städten Belgiens. Von dem damaligen Reichtum und Einfluss zeugen noch heute imposante Gebäude, wie die Liebfrauenkirche, die Burg Het Steen und die Häuser rund um den Grote Markt.
-
-
-Es sind Robins und Aquilas reserviert. Selbstverständlich können auch Piloten mit eigenen Flugzeugen teilnehmen. Ebenfalls ist es Flugschülern möglich, mitzufliegen. Kontaktiere hierzu deinen Fluglehrer.
-
-
-Am Mittwoch, 12. Juni findet im Theoriesaal in Lommis um 19 Uhr das Briefing statt. Dieses ist für alle Teilenehmer obligatorisch und dauert erfahrungsgemäss ca. zwei Stunden. Bitte bereitet euch entsprechend vor. Für alle Fragen stehen die Fluglehrer vor Ort zur Verfügung.
-
-**Ansprechpartner**
-André Heinzelmann, <mailto:andre.heinzelmann@mfgt.ch>
-
-**Anmeldung**\
-[Bis 30. April] (https://xoyondo.com/dp/1emH6HZap2aV3Lg)
-
-Wir freuen uns auf eine rege Teilnahme!
-
-
 ### Fly-Away vom 13. - 15. Juni 2025
 
 
@@ -66,12 +28,49 @@ Und wer es wissen will und die entsprechenden 100h PIC hat, darf es auch mal auf
 
 Die Inseln liegen nur wenige Flugminuten auseinander und bieten sich geradezu für ein «Flugplatz-Hopping» an. Es sind 2 Robins, die Bristell und 1 Aquila reserviert. Selbstverständlich können auch Piloten mit eigenen Flugzeugen teilnehmen. 
 
-Am **Mittwoch, 11. Juni** findet im Theoriesaal in Lommis um 19 Uhr das Briefing statt. Dieses ist für alle Teilnehmer obligatorisch. Bitte bereitet euch entsprechend vor. Für alle Fragen steht der Fluglehrer vor Ort zur Verfügung.
+Am **Mittwoch, 11. Juni findet im Theoriesaal in Lommis um 19 Uhr** das Briefing statt. Dieses ist für alle Teilnehmer obligatorisch. Bitte bereitet euch entsprechend vor. Für alle Fragen steht der Fluglehrer vor Ort zur Verfügung.
 
-**Datum:**	Freitag – Sonntag, 13. – 15. Juni 2025\
+**Datum:**	Freitag – Sonntag, 13. – 15. Juni 2025
  
-**Briefing:**	Mittwoch, 11. Juni 2025, 19.00 Uhr\
+**Briefing:**	Mittwoch, 11. Juni 2025, 19.00 Uhr
 
 
 **Anmeldung:**	https://xoyondo.com/dp/1emH6HZap2aV3Lg
+ 
+
+### Fly-Away vom 25. - 28. September 2025
+
+**Destination:** Frankreich
+
+
+
+Unser zweites Fly-Away in diesem Jahr führt uns von 25. bis 28. September nach Frankreich, genau gesagt in die Region Gascogne.
+Unsere Fluglehrerein Dagmar kennt da jemanden, der eine hübsche Pension unterhält:
+https://www.chateaudelahitte.fr/de/startseite/
+
+
+
+Die Idee wäre, dass wir hier übernachten. Die Besitzerin der Pension hat bestimmt viele gute Ideen für Ausflüge in die nahe Region.
+ 
+
+Landen werden wir hierfür voraussichtlich auf dem Flugplatz ‘Aire sur L’adour’ LFDA. Danach erkunden wir die weitere Umgebung der Küste entlang bis zur Bretagne.
+Das Detailprogramm bestimmen wir am Briefingabend, am **Donnerstag, 18. September, ab 19.00 Uhr**.
+
+
+
+Ziel dieses Fly-away ist es, aufzuzeigen, dass Fliegen in Frankreich trotz der vielen Restricted Areas ein unvergessliches Erlebnis sein kann. Am Briefingabend werden wir auf diese Thematik besonderen Wert legen.
+
+
+**Datum:** 25. - 28. September 2025
+
+**Briefing:** Donnerstag, 18. September 2025, 19:00 Uhr
+
+**Anmeldung:** Bitte meldet euch baldmöglichst an, damit wir die Zimmer in der Pension reservieren können:
+https://xoyondo.com/dp/x61gu4jysepejtp
+
+
+
+
+Wir freuen uns auf eine rege Teilnahme!
+
 
