@@ -17,7 +17,7 @@ buttons:
 
 ![baltrum](/img/uploads/ostfrisische_inseln.jpg)
 
-Das erste Fly Away der Flugschule der MFGT bringt uns zu den nordfriesischen Inseln – also Borkum EDWR, Norderney EDWY, Baltrum EDWZ, Langeoog EDWL, Juist EDWJ und Wangerooge EDWG, aber auch Sylt EDXW und Föhr EDXY. Diese Inseln haben alle etwas gemeinsam: viel Wind und vor allem von der Seite. Hier kann man also wieder mal seine Crosswind-Skills auffrischen.
+Das erste Fly-Away der Flugschule der MFGT bringt uns zu den nordfriesischen Inseln – also Borkum EDWR, Norderney EDWY, Baltrum EDWZ, Langeoog EDWL, Juist EDWJ und Wangerooge EDWG, aber auch Sylt EDXW und Föhr EDXY. Diese Inseln haben alle etwas gemeinsam: viel Wind und vor allem von der Seite. Hier kann man also wieder mal seine Crosswind-Skills auffrischen.
 
 Und wer es wissen will und die entsprechenden 100h PIC hat, darf es auch mal auf dem deutschen Flugzeugträger «Helgoland EDHX» versuchen. Die Route führt uns auf dem Hin- oder Rückweg über einen deutschen Zwischenlandeplatz, wo das Mittagessen und ein Crew-Change stattfinden. Selbstverständlich ist es den einzelnen Crews überlassen, welche Route sie fliegen oder ob sie die Gelegenheit für ein Flugplatz-Hopping nutzen. Am Briefing wird dann gemeinsam die Route und die Zwischenlandungen festgelegt.
 
@@ -50,7 +50,7 @@ Landen werden wir hierfür voraussichtlich auf dem Flugplatz ‘Aire sur L’ado
  Danach erkunden wir die weitere Umgebung der Küste entlang bis zur Bretagne.
 Das Detailprogramm bestimmen wir am Briefingabend, am **Donnerstag, 18. September, ab 19.00 Uhr**.
 
-Ziel dieses Fly-away ist es, aufzuzeigen, dass Fliegen in Frankreich trotz der vielen Restricted Areas ein unvergessliches Erlebnis sein kann. Am Briefingabend werden wir auf diese Thematik besonderen Wert legen.
+Ziel dieses Fly-Away ist es, aufzuzeigen, dass Fliegen in Frankreich trotz der vielen Restricted Areas ein unvergessliches Erlebnis sein kann. Am Briefingabend werden wir auf diese Thematik besonderen Wert legen.
 
 **Datum:** 25. - 28. September 2025
 
