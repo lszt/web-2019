@@ -10,9 +10,6 @@ description: >-
 buttons:
   - title: agenda
     url: /club/club/agenda/
-  - cta: true
-    title: anmelden
-    url: 'https://xoyondo.com/dp/1emH6HZap2aV3Lg'
 ---
 ### Fly-Away vom 13. - 15. Juni 2025
 
@@ -35,8 +32,10 @@ Am **Mittwoch, 11. Juni findet im Theoriesaal in Lommis um 19 Uhr** das Briefing
 **Briefing:**	Mittwoch, 11. Juni 2025, 19.00 Uhr
 
 
-**Anmeldung:**	https://xoyondo.com/dp/1emH6HZap2aV3Lg
- 
+**Anmeldung:**	[Anmelden](https://xoyondo.com/dp/1emH6HZap2aV3Lg)
+
+
+<hr>
 
 ### Fly-Away vom 25. - 28. September 2025
 
@@ -65,11 +64,10 @@ Ziel dieses Fly-away ist es, aufzuzeigen, dass Fliegen in Frankreich trotz der v
 
 **Briefing:** Donnerstag, 18. September 2025, 19:00 Uhr
 
-**Anmeldung:** Bitte meldet euch baldmöglichst an, damit wir die Zimmer in der Pension reservieren können:
-https://xoyondo.com/dp/x61gu4jysepejtp
+**Anmeldung:** Bitte meldet euch baldmöglichst an, damit wir die Zimmer in der Pension reservieren können.
+[Anmelden](https://xoyondo.com/dp/x61gu4jysepejtp)
 
-
-
+<hr>
 
 Wir freuen uns auf eine rege Teilnahme!
 
