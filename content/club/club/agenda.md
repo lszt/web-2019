@@ -40,7 +40,7 @@ Flugplatzbeizli
 
 ### 13. – 15.06.2025 | MFGT Fly-Away 1-2025
 
-Nordfriesische Inseln | [Anmeldung] (https://xoyondo.com/dp/1emH6HZap2aV3Lg)
+Nordfriesische Inseln | [Info's] (/club/kurse-veranstaltungen/fly-outs/) | [Anmeldung] (https://xoyondo.com/dp/1emH6HZap2aV3Lg)
 
 ### 15.06.-28.06.2025 | SPHAIR Kurs 2 (Aquila)
 
@@ -80,7 +80,7 @@ Flugplatz Lommis
 
 ### 25.–28.09.2025 | MFGT Fly-Away 2-2025
 
-Bretagne Frankreich | [Anmeldung] (https://xoyondo.com/dp/x61gu4jysepejtp)
+Bretagne Frankreich | [Info's] (/club/kurse-veranstaltungen/fly-outs/) | [Anmeldung] (https://xoyondo.com/dp/x61gu4jysepejtp)
 
 ### 26.09.2025 | 18:30 | Clubhöck
 
