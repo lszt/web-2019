@@ -4,7 +4,7 @@ date: 2017-01-04T15:04:10.000Z
 weight: '7'
 image: /img/uploads/fluglehrer_blanco.jpg
 description: |-
-  **Andy Bloch**
+  **Andi Bloch**
 
   T +41 52 366 33 33\
   <mailto:andreas.bloch@mfgt.ch>
