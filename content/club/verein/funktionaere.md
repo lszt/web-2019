@@ -22,5 +22,6 @@ description: |-
   * Verbände, Behörden
   * Personal
   * Marketing, Werbung
+  * Infrastruktur (bis auf weiteres)
 ---
 
