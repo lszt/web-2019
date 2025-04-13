@@ -2,17 +2,17 @@
 title: 'Events, Kommunikation'
 date: 2017-01-04T15:04:10.000Z
 weight: '7'
-image: /img/uploads/bolliger.jpg
+image: /img/uploads/fluglehrer_blanco.jpg
 description: |-
-  **Michael Bolliger**
+  **Andy Bloch**
 
   T +41 52 366 33 33\
-  <mailto:michael.bolliger@mfgt.ch>
+  <mailto:andreas.bloch@mfgt.ch>
 
   \
   Stellvertreter:
 
-  * Philipp Stauffer
+  * Florian Burkhardt
 
   \
   Aufgaben:
