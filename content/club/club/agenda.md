@@ -6,14 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 04.04.2025 | 15:00 | Eröffnung Flughafenbeizli
-
-Franca's Flughafenbeizli
-
-### 06.04.-19.04.2025 | SPHAIR Kurs 1 (Aquila)
-
-Flugplatz Lommis
-
 ### 25.04.2025 | 18:30 | Clubhöck
 
 Flugplatzbeizli
@@ -38,11 +30,11 @@ Flugplatz Lommis
 
 Flugplatzbeizli
 
-### 13. – 15.06.2025 | MFGT Fly-Away 1-2025
+### 13.–15.06.2025 | MFGT Fly-Away 1-2025
 
-Nordfriesische Inseln | [Info's] (/club/kurse-veranstaltungen/fly-outs/) | [Anmeldung] (https://xoyondo.com/dp/1emH6HZap2aV3Lg)
+Nordfriesische Inseln | [Info's](/club/kurse-veranstaltungen/fly-outs/) | [Anmeldung](https://xoyondo.com/dp/1emH6HZap2aV3Lg)
 
-### 15.06.-28.06.2025 | SPHAIR Kurs 2 (Aquila)
+### 15.–28.06.2025 | SPHAIR Kurs 2 (Aquila)
 
 Flugplatz Lommis
 
@@ -50,7 +42,7 @@ Flugplatz Lommis
 
 Flugplatzbeizli
 
-### 28.-29.06.2025 | YES-Tag 2025
+### 28. & 29.06.2025 | YES-Tag 2025
 
 Flugplatz Lommis
 
@@ -58,7 +50,7 @@ Flugplatz Lommis
 
 Flugplatzbeizli
 
-### 03.08.-16.08.2025 | SPHAIR Kurs 3 (Aquila)
+### 03.–16.08.2025 | SPHAIR Kurs 3 (Aquila)
 
 Flugplatz Lommis
 
@@ -80,13 +72,13 @@ Flugplatz Lommis
 
 ### 25.–28.09.2025 | MFGT Fly-Away 2-2025
 
-Bretagne Frankreich | [Info's] (/club/kurse-veranstaltungen/fly-outs/) | [Anmeldung] (https://xoyondo.com/dp/x61gu4jysepejtp)
+Gasgogne/Bretagne Frankreich | [Info's](/club/kurse-veranstaltungen/fly-outs/) | [Anmeldung](https://xoyondo.com/dp/x61gu4jysepejtp)
 
 ### 26.09.2025 | 18:30 | Clubhöck
 
 Flugplatzbeizli
 
-### 05.10.-18.10.2025 | SPHAIR Kurs 4 (Aquila)
+### 05.–18.10.2025 | SPHAIR Kurs 4 (Aquila)
 
 Flugplatz Lommis
 
@@ -94,7 +86,7 @@ Flugplatz Lommis
 
 Flugplatzbeizli
 
-### 21.11.2025 | Fondue-Abend'25
+### 21.11.2025 | Fondue-Abend '25
 
 Flugplatz Lommis
 
