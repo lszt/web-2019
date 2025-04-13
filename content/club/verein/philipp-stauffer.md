@@ -1,7 +1,7 @@
 ---
 title: Infrastruktur
 date: '2021-03-30T21:13:07+02:00'
-draft: false
+draft: true
 weight: '6'
 image: /img/uploads/stauffer.jpg
 description: |-
