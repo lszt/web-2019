@@ -5,6 +5,12 @@ draft: false
 image: /img/uploads/sphair_143_2024.jpg
 description: Hier findest Du Fotos und Berichte vergangener SPHAIR-Kurse
 ---
+### 2025
+
+KF-1-05-2025 [Bericht](https://drive.google.com/file/d/1KJwMEP4eHNX4nmhODfPk51c9vnlnUzSP/view?usp=sharing)
+
+![null](/img/uploads/sphair_kf-1-05-2025.jpg)
+
 ### 2024
 
 S-143 [Bericht](https://drive.google.com/file/d/1-NW7Z6yQWA2RbUpbsEFDnH1cXXfkUzcI/view?usp=drive_link)
