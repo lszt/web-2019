@@ -8,6 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 05.05.2025 | 10 Allgemein/Safety | [Safety & OPS Bulletin 03] (https://drive.google.com/file/d/1MI_b1cEUE9neH7M9FvhOoevXWK90cLX2/view?usp=sharing) | hinzugefügt
 * 26.03.2025 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Expanded Checklist | [Expanded Checklist BR23] (https://drive.google.com/file/d/1sgvdxTweMIFHRVbgc4nudCD_VmL6erMF/view?usp=sharing) | aktualisiert
 * 26.03.2025 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Working Checklist | [Working Checklist BR23](https://drive.google.com/file/d/1FEfhb0SA_Ylp4O66OWz7I-S2cS94p0Bn/view?usp=sharing) | aktualisiert
 * 26.03.2025 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist BR23](https://drive.google.com/file/d/1ddjoh2Uu2Mk7_mvZXrxGoYRloXdFWIXI/view?usp=sharing) | aktualisiert
