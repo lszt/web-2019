@@ -6,26 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 25.04.2025 | 18:30 | Clubhöck
-
-Flugplatzbeizli
-
-### 26.04.2025 | 09:00-12:00 | Infoanlass Flugschule MFGT
-
-Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
-
-### 26.04.2025 | MFGT Fly-Away
-
-Flug ins nahe Ausland
-
-### 02.05.2025 | Neumitglieder Event 2025
-
-Flugplatz Lommis
-
-### 03.05.2025 | Sicherheitstraining 2025
-
-Flugplatz Lommis
-
 ### 30.05.2025 | 18:30 | Clubhöck
 
 Flugplatzbeizli
