@@ -11,9 +11,6 @@ description: >-
 buttons:
   - title: agenda
     url: /club/club/agenda/
-  - cta: true
-    title: anmelden
-    url: 'mailto:mfgt-flugschule@mfgt.ch?subject=Sicherheitstraining 2024'
 ---
 **Voraussetzungen**
 
