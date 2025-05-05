@@ -39,21 +39,21 @@ Interessierte können ausserdem folgende Grundfiguren miterleben:
 * Immelmann und Retournement
 * Reinversement und Rückenflug
 
- \
+<!-- \
 **Kosten**
 
-CHF 380.– vor dem Flug per Twint oder Bar (exklusive Landetaxen)
+CHF 380.– vor dem Flug per Twint oder Bar (exklusive Landetaxen) -->
 
-\
+<!-- \
 **Kursprogramm**
 
-Diese Jahr wird das Sicherheitstraining in Zusammenarbeit mit der Pilotenschule in St. Gallen von Kunstfluglehrer Roman Ritzmann auf einer Champion Super Decathlon mit 180 PS durchgeführt.
+Diese Jahr wird das Sicherheitstraining in Zusammenarbeit mit der Pilotenschule in St. Gallen von Kunstfluglehrer Roman Ritzmann auf einer Champion Super Decathlon mit 180 PS durchgeführt. -->
 
-![FI Roman Ritzmann](/img/uploads/roman_ritzmann_fi.jpg)
+<!-- ![FI Roman Ritzmann](/img/uploads/roman_ritzmann_fi.jpg)
 
-![Champion Super Decathlon](/img/uploads/Sicherheitstraining_Decathlon.jpg)
+![Champion Super Decathlon](/img/uploads/Sicherheitstraining_Decathlon.jpg) -->
 
-[Programm](https://drive.google.com/file/d/1Da_ScTIA5gDzuOefQAZhV3eaJHARbsMw/view?usp=sharing)
+<!-- [Programm](https://drive.google.com/file/d/1Da_ScTIA5gDzuOefQAZhV3eaJHARbsMw/view?usp=sharing) -->
 
 <!--\
 **Anmeldung**
