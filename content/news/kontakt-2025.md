@@ -1,7 +1,7 @@
 ---
 title: Kontakt 2025
 date: '2025-02-26T09:19:23+01:00'
-draft: false
+draft: true
 image: /img/uploads/bild_kontakt_2025.jpg
 positionx: 50
 positiony: 50
