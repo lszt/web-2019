@@ -21,8 +21,8 @@ description: >-
 * 01.06.2025 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist HB-SGT](https://drive.google.com/file/d/1QcD6TIUB_S4It757TqBL1G-TYQczgO6k/view?usp=drive_link) | aktualisiert
 * 01.06.2025 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist HB-SGW](https://drive.google.com/file/d/1gYaTfSyC7h-CcW8P6Z51YCHJRlatNQdz/view?usp=drive_link) | aktualisiert
 * 01.06.2025 | .../.../30-10-20 Flight OPS/Procedures | [Procedures A211] (https://drive.google.com/file/d/13wRz9Lap1bBotfBsNo9lJGfv0qyuIv_0/view?usp=drive_link) | aktualisiert
-* 21.03.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Working Checklist | [Working Checklist DR40](https://drive.google.com/file/d/1K5qTsRcj8sfzxtzWCQaJGBj9Wl7CSRdS/view?usp=drive_link) | aktualisiert
-* 21.03.2024 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist DR40](https://drive.google.com/file/d/1vB8cYithG0P4hED-lX2I9RC279Yf6Mcr/view?usp=drive_link) | aktualisiert
+* 01.06.2025 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Working Checklist | [Working Checklist DR40](https://drive.google.com/file/d/1K5qTsRcj8sfzxtzWCQaJGBj9Wl7CSRdS/view?usp=drive_link) | aktualisiert
+* 01.06.2025 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist DR40](https://drive.google.com/file/d/1vB8cYithG0P4hED-lX2I9RC279Yf6Mcr/view?usp=drive_link) | aktualisiert
 * 01.06.2025 | .../.../30-10-20 Flight OPS/Procedures | [Procedures DR40] (https://drive.google.com/file/d/1_bq2-zPzPXvkF4lAMVElcEhNmIwR4W8k/view?usp=drive_link) | aktualisiert
 * 05.05.2025 | 10 Allgemein/Safety | [Safety & OPS Bulletin 03] (https://drive.google.com/file/d/1MI_b1cEUE9neH7M9FvhOoevXWK90cLX2/view?usp=sharing) | hinzugefügt
 * 12.03.2025 | 10 Allgemein/GV2025 | [Unterlagen GV] (https://drive.google.com/drive/folders/19V1Dxr2n6WaH149xuR1CpEd1EKHR5xeP) | hinzugefügt
