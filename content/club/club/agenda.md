@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 30.05.2025 | 18:30 | Clubhöck
-
-Flugplatzbeizli
-
 ### 13.–15.06.2025 | MFGT Fly-Away 1-2025
 
 Nordfriesische Inseln | [Info's](/club/kurse-veranstaltungen/fly-outs/) | [Anmeldung](https://xoyondo.com/dp/1emH6HZap2aV3Lg)
