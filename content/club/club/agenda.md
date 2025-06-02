@@ -20,7 +20,7 @@ Flugplatzbeizli
 
 ### 28. & 29.06.2025 | YES-Tag 2025
 
-Flugplatz Lommis
+Flugplatz Lommis | <font color="red">Ausgebucht!</font>
 
 ### 25.07.2025 | 18:30 | Clubhöck
 
