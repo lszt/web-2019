@@ -51,12 +51,11 @@ Dagmar Hollerer (Fluglehrerin), Florian Burkhardt (Fluglehrer), Corinna Brüllma
 \
 **Anmeldung**
 
-<!--**Anmeldeschluss ist der 02. Juni 2024 -->
+<!--\*\*Anmeldeschluss ist der 02. Juni 2024 -->
 
-via Mail an: <mailto:info@mfgt.ch> oder per Telefon an: +41 52 366 33 33
+<!--via Mail an: <mailto:info@mfgt.ch> oder per Telefon an: +41 52 366 33 33-->
 
-<!-- <font color="red">Leider bereits ausgebucht!</font> -->
-
+<font color="red">Leider bereits ausgebucht!</font>
 
 \
 [Hier Flyer downloaden](https://drive.google.com/file/d/1-qJyXPWv-tQnE_GcI-SOxN8xNxEk_pM2/view?usp=sharing)
