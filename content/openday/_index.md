@@ -27,8 +27,8 @@ Willkommen zu den Open Days auf dem Flugplatz Lommis.
 * Familienprogramm
 * Grosse Festwirtschaft
 
-**Flyer:**
-[Flyer] (https://drive.google.com/file/d/1VcNAFnJ1HEYZpzQhdQY0Z4k7DSdBWn5M/view?usp=sharing)
+**Flyer:** [Download] (https://drive.google.com/file/d/1VcNAFnJ1HEYZpzQhdQY0Z4k7DSdBWn5M/view?usp=sharing)
+
 Genügend Parkplätze sind vorhanden!
 
 Weitere Informationen folgen!
