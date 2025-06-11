@@ -5,7 +5,7 @@ draft: false
 image: /img/uploads/openday.jpg
 description: no teaser
 coverImages:
-  - image: /img/uploads/slider_luftaufnahme.jpg
+  - image: /img/uploads/openday.jpg
     positionx: 50
     positiony: 50
 ---
