@@ -2,10 +2,10 @@
 title: Open Day 2025
 date: 2019-04-14T15:03:57.000Z
 draft: false
-image: /img/uploads/openday.jpg
+image: /img/uploads/slider_openday.jpg
 description: no teaser
 coverImages:
-  - image: /img/uploads/openday.jpg
+  - image: /img/uploads/slider_openday.jpg
     positionx: 50
     positiony: 50
 ---
