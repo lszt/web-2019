@@ -6,9 +6,8 @@ image: /img/uploads/openday_2025.jpg
 positionx: 50
 positiony: 50
 description: |-
-  Open Day Flugplatz Lommis
-
-  30. & 31. August 2025
+  Die MFGT veranstaltet am Wochenende des 30. & 31. August den Open Day 2025.
+  Wir freuen uns auf zahlreiche Besucherinnen und Besucher.
 buttons:
   - blank: true
     title: mehr
