@@ -34,9 +34,9 @@ Flugplatz Lommis
 
 Flugplatzbeizli
 
-### 30. & 31.08.2025 | Tag der offenen Tür 2025
+### 30. & 31.08.2025 | Open Day 2025
 
-Flugplatz Lommis
+Flugplatz Lommis | [Info's] (https://www.mfgt.ch/openday/)
 
 ### 13.09.2025 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
