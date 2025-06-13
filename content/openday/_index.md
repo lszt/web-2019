@@ -32,3 +32,5 @@ Willkommen zu den Open Days auf dem Flugplatz Lommis.
 Genügend Parkplätze sind vorhanden!
 
 Weitere Informationen folgen!
+
+**Helferanmeldung:** [Anmelden] (https://docs.google.com/forms/d/e/1FAIpQLScmCIh3t1gTIcTi1omlevZgTGX65LALHhW9l5t1SObJ2TZd2w/viewform?pli=1)
