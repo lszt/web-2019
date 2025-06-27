@@ -12,7 +12,7 @@ description: |-
   \
   Stellvertreter:
 
-  * André Heinzelmann
+  * Florian Burkhardt
 
   \
   Aufgaben:
