@@ -9,11 +9,8 @@ description: >-
   **Jetzt anmelden!**
 
 
-  Das nächste Fly-Away 1-2025 findet vom 13. - 15. Juni 2025 zu den
-  Nordfrisischen Inseln (D) statt. 
-
-
-  Das Zweite 2-2025 dann vom 25. - 28. September 2025 nach Frankreich.
+  Das nächste Fly-Away 2-2025 findet vom 25. - 28. September 2025 nach
+  Frankreich statt.
 buttons:
   - title: Fly-Outs
     url: /club/kurse-veranstaltungen/fly-outs/
