@@ -67,4 +67,6 @@ Voraussichtlich finden die nächsten YES-Tage am 27. und 28. Juni 2026 statt.
 \
 **Bericht vom YES-Tag 2025**
 
+[Bericht] (https://drive.google.com/file/d/1CwAQYVlx3uo1Jb6vNLtSxW7ETsCRp2d9/view?usp=sharing)
+
 [Bilder](https://drive.google.com/drive/folders/1ZwDDVQp76OwdGH-rPbDzZ7GA9dqgJ2E5?usp=sharing)
