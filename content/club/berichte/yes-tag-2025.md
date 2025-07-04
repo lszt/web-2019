@@ -7,9 +7,13 @@ image: /img/uploads/yes-tag_2025.jpg
 description: |-
   YES-Tag 2025
 
-  Impressionen zum YES-Tag 2025 bei der Motorfluggruppe Thurgau
+  Bericht und Bilder zum YES-Tag 2025 bei der Motorfluggruppe Thurgau
 buttons:
   - title: Bilder
     url: 'https://drive.google.com/drive/folders/1ZwDDVQp76OwdGH-rPbDzZ7GA9dqgJ2E5'
+  - cta: false
+    title: Bericht
+    url: >-
+      https://drive.google.com/file/d/1CwAQYVlx3uo1Jb6vNLtSxW7ETsCRp2d9/view?usp=sharing
 ---
 
