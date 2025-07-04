@@ -3,7 +3,7 @@ title: YES-Tag 2026 für Jugendliche
 date: '2024-10-19T12:20:58+02:00'
 draft: false
 weight: '1'
-image: /img/uploads/yes_tag_ausgebucht.jpg
+image: /img/uploads/yes-tag_2025.jpg
 description: >-
   Aviatikluft schnuppern und das Steuer in die Hand nehmen!\
 
