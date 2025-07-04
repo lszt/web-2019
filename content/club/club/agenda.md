@@ -6,14 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 27.06.2025 | 18:30 – 23:00 | «Apéro o'Clock»
-
-MFGT Chill-Out im Flugplatzbeizli
-
-### 28. & 29.06.2025 | YES-Tag 2025
-
-Flugplatz Lommis | <font color="red">Ausgebucht!</font>
-
 ### 25.07.2025 | 18:30 – 23:00 | «Apéro o'Clock»
 
 MFGT Chill-Out im Flugplatzbeizli
@@ -57,6 +49,12 @@ Flugplatz Lommis
 ### 22.11.2025 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
 Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
+
+<hr>
+
+### 27. & 28.06.2026 | YES-Tag 2026
+
+Flugplatz Lommis
 
 <hr>
 
