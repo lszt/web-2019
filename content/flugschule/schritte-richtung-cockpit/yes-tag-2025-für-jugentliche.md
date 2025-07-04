@@ -1,5 +1,5 @@
 ---
-title: YES-Tag 2025 für Jugendliche
+title: YES-Tag 2026 für Jugendliche
 date: '2024-10-19T12:20:58+02:00'
 draft: false
 weight: '1'
@@ -51,16 +51,18 @@ Dagmar Hollerer (Fluglehrerin), Florian Burkhardt (Fluglehrer), Corinna Brüllma
 \
 **Anmeldung**
 
+Weiter Informationen folgen. Voraussichtlich finden die nächsten YES-Tage am 27. und 28. Juni 2026 statt.
+
 <!--\*\*Anmeldeschluss ist der 02. Juni 2024 -->
 
 <!--via Mail an: <mailto:info@mfgt.ch> oder per Telefon an: +41 52 366 33 33-->
 
-<font color="red">Leider bereits ausgebucht!</font>
+<!--<font color="red">Leider bereits ausgebucht!</font>-->
+
+<!--\
+[Hier Flyer downloaden](https://drive.google.com/file/d/1-qJyXPWv-tQnE_GcI-SOxN8xNxEk_pM2/view?usp=sharing)-->
 
 \
-[Hier Flyer downloaden](https://drive.google.com/file/d/1-qJyXPWv-tQnE_GcI-SOxN8xNxEk_pM2/view?usp=sharing)
+**Bericht vom YES-Tag 2025**
 
-\
-**Bericht vom YES-Tag 2023**
-
-[Bericht](https://drive.google.com/file/d/1182vX8ODOELXqh2Ap6F1Ob6qGySCB9tz/view?usp=sharing)
+[Impressionen](https://drive.google.com/drive/folders/1ZwDDVQp76OwdGH-rPbDzZ7GA9dqgJ2E5?usp=sharing)
