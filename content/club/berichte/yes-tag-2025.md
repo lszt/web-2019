@@ -9,7 +9,7 @@ description: |-
 
   Impressionen zum YES-Tag 2025 bei der Motorfluggruppe Thurgau
 buttons:
-  - title: Impressionen
+  - title: Bilder
     url: 'https://drive.google.com/drive/folders/1ZwDDVQp76OwdGH-rPbDzZ7GA9dqgJ2E5'
 ---
 
