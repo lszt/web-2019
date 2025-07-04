@@ -51,7 +51,9 @@ Dagmar Hollerer (Fluglehrerin), Florian Burkhardt (Fluglehrer), Corinna Brüllma
 \
 **Anmeldung**
 
-Weiter Informationen folgen. Voraussichtlich finden die nächsten YES-Tage am 27. und 28. Juni 2026 statt.
+Weiter Informationen folgen. 
+\
+Voraussichtlich finden die nächsten YES-Tage am 27. und 28. Juni 2026 statt.
 
 <!--\*\*Anmeldeschluss ist der 02. Juni 2024 -->
 
