@@ -56,6 +56,10 @@ Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | 
 
 <hr>
 
+### 27.03.2026 | GV MFGT
+
+MZH Lommis
+
 ### 27. & 28.06.2026 | YES-Tag 2026
 
 Flugplatz Lommis
