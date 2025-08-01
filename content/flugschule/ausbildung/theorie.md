@@ -12,7 +12,7 @@ buttons:
   - cta: false
     title: kursprogramm
     url: >-
-      https://drive.google.com/file/d/1gT8uzu76StQ78AbZwbAuZZfCQ8Cz2Kq3/view?usp=sharing
+      https://drive.google.com/file/d/1JCpBvDaADcdudKeaRZDaDRKlMvFHfNFs/view?usp=sharing
   - cta: false
     title: unterrichtsmaterial/kosten
     url: >-
@@ -56,7 +56,7 @@ TMG Piloten können die Fächer 20, 30, 60 und 70 einzeln oder als Paket absolvi
 Du kannst dir das theoretische Wissen auch online erwerben. Du wirst von Spezialisten betreut und in einem abschliessenden Präsenzkurs optimal auf die Prüfung vorbereitet. \
 [Weitere Informationen zum Distance Learning](https://www.swisspsa.ch/index.php/fernunterricht-neu/einleitung-mobile)
 
-Weitere Details sowie Kosten siehe [AGB](https://drive.google.com/file/d/1iF-XZ-CfMZVE1tXJXf4WRGbm4CRAZv92/view?usp=sharing), [Kursprogramm](https://drive.google.com/file/d/1gT8uzu76StQ78AbZwbAuZZfCQ8Cz2Kq3/view?usp=sharing) und [Unterrichtsmaterial (Kosten)](https://drive.google.com/file/d/1OF5jnmQs3QvfhtqFDJsnDaSapWGiWJ92/view?usp=sharing).
+Weitere Details sowie Kosten siehe [AGB](https://drive.google.com/file/d/1iF-XZ-CfMZVE1tXJXf4WRGbm4CRAZv92/view?usp=sharing), [Kursprogramm](https://drive.google.com/file/d/1JCpBvDaADcdudKeaRZDaDRKlMvFHfNFs/view?usp=sharing) und [Unterrichtsmaterial (Kosten)](https://drive.google.com/file/d/1OF5jnmQs3QvfhtqFDJsnDaSapWGiWJ92/view?usp=sharing).
 
 [Richtlinien des BAZL für die Theorieprüfung](https://drive.google.com/file/d/1DBXhjkG0RpJVqXFAOQV2O2dlgqf2GFPN/view?usp=share_link)
 
