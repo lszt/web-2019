@@ -41,8 +41,9 @@ Die Open Day's werden bei Schlechtwetter abgesagt. Bitte bei zweifelhaftem Wette
 
 **Informationen für anfliegende Piloten:**
 
-Bitte konsultiert vor dem Anflug unsere Homepage und beachtet allfällige NOTAM's. Es herrscht normaler Flugbetrieb, jedoch mit einer veränderten Parksituation am Boden.
+Bitte konsultiert vor dem Anflug unsere Homepage und beachtet allfällige NOTAM's. Es herrscht normaler Flugbetrieb, jedoch mit einer veränderten Parksituation am Boden.\
+Anmeldung vorab an folgende E-Mail erwünscht: <mailto:mathias.widmer@mfgt.ch>
 
-**Flyer:** [Download] (https://drive.google.com/file/d/1VcNAFnJ1HEYZpzQhdQY0Z4k7DSdBWn5M/view?usp=sharing)
+**Flyer:** [Download](https://drive.google.com/file/d/1VcNAFnJ1HEYZpzQhdQY0Z4k7DSdBWn5M/view?usp=sharing)
 
-**Helferanmeldung:** [Anmelden] (https://docs.google.com/forms/d/e/1FAIpQLScmCIh3t1gTIcTi1omlevZgTGX65LALHhW9l5t1SObJ2TZd2w/viewform?pli=1)
+**Helferanmeldung:** [Anmelden](https://docs.google.com/forms/d/e/1FAIpQLScmCIh3t1gTIcTi1omlevZgTGX65LALHhW9l5t1SObJ2TZd2w/viewform?pli=1)
