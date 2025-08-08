@@ -32,9 +32,4 @@ Ziel dieses Fly-Away ist es, aufzuzeigen, dass Fliegen in Frankreich trotz der v
 
 **Briefing:** Donnerstag, 18. September 2025, 19:00 Uhr
 
-**Anmeldung:** Bitte meldet euch baldmöglichst an, damit wir die Zimmer in der Pension reservieren können.
-[Anmelden](https://xoyondo.com/dp/x61gu4jysepejtp)
-
-<hr>
-
-Wir freuen uns auf eine rege Teilnahme!
+**Anmeldung:** Die maximale Anzahl Teilnehmer ist erreicht und es ist keine Anmeldung mehr möglich.
