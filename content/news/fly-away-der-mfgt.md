@@ -6,9 +6,6 @@ image: /img/uploads/club_flyaway.jpg
 positionx: 50
 positiony: 50
 description: >-
-  **Jetzt anmelden!**
-
-
   Das nächste Fly-Away 2-2025 findet vom 25. - 28. September 2025 nach
   Frankreich statt.
 buttons:
