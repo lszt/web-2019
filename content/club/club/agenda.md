@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 25.07.2025 | 18:30 – 23:00 | «Apéro o'Clock»
-
-MFGT Chill-Out im Flugplatzbeizli
-
 ### 03.–16.08.2025 | SPHAIR Kurs 3 (Aquila)
 
 Flugplatz Lommis
