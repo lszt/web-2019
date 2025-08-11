@@ -3,7 +3,7 @@ title: Theorie für PPL
 date: 2019-04-14T10:51:24.000Z
 draft: false
 weight: '2'
-image: /img/uploads/ausbildung_theorie_remark.jpg
+image: /img/uploads/ausbildung_theorie.jpg
 description: >-
   Der Theorie Kurs PP der Flugschule der MFGT wird übers ganze Jahr als
   rollender Kurs angeboten. Der Einstieg ist jederzeit zu Beginn eines Faches
