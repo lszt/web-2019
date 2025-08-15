@@ -29,6 +29,22 @@ Willkommen zu den Open Days auf dem Flugplatz Lommis.
 * Grosse Festwirtschaft mit über 300 Sitzplätzen im Hangar und unserem Beizli
 * Fürs leibliche Wohl sorgen Franca's Flughafenbeizli mit allerlei Köstlichkeiten, bkfood mit ihren feinen Burgern aus dem Foodtruck und die Gelateria Case Segreto aus Aadorf
 
+**Flugplatzführungen:**
+
+An unserer Flugplatzführung lernen Sie vieles über den Flugplatz und die Verfahren rund herum. Die Führung dauert ca. 60 Minuten und ist aufgrund der beschränkten maximalen Teilnehmenden nur per Voranmeldung möglich. Es ist wichtig, dass jede Person separat angemeldet wird, die an der Führung teilnehmen möchte.\
+[\> Anmeldung Flugplatzführung](https://doodle.com/sign-up-sheet/participate/d616e7a1-728a-4daa-878b-a7f625b9420e/select)
+
+Was kann erwartet werden? 
+
+* Was ist ein Sichtflug? 
+* Faktoren für sicheres Fliegen 
+* Allgemeine Informationen zum Flugbetrieb 
+* Informationen zu Bewilligungen und Unterhalt eines Flugplatzes 
+* Einblick in den Unterhaltsbetrieb 
+* Besichtigung Hangar 
+* Angebote der Motorfluggruppe Thurgau 
+* Informationen über den Verein
+
 **Parkplätze:**
 
 Die Zufahrt zu den Parkplätzen ist vor Ort ausgeschildert.
