@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 03.–16.08.2025 | SPHAIR Kurs 3 (Aquila)
-
-Flugplatz Lommis
-
 ### 30. & 31.08.2025 | Open Day 2025
 
 Flugplatz Lommis | [Info's](https://www.mfgt.ch/openday/) | [Helferanmeldung](https://docs.google.com/forms/d/e/1FAIpQLScmCIh3t1gTIcTi1omlevZgTGX65LALHhW9l5t1SObJ2TZd2w/viewform?pli=1)
