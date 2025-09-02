@@ -1,7 +1,7 @@
 ---
 title: HB-xxx
 date: '2024-05-08T20:43:45+02:00'
-draft: false
+draft: true
 weight: '4'
 image: /img/uploads/flotte_dummy.jpg
 description: '**Bristell B23-915**'
