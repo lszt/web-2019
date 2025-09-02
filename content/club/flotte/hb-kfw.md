@@ -1,6 +1,7 @@
 ---
 title: HB-KFW
 date: 2017-01-04T15:04:10.000Z
+draft: true
 weight: '3'
 image: /img/uploads/flotte_kfw.jpg
 description: '**Robin DR400 – 140B**'
