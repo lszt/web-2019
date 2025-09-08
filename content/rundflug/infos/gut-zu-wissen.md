@@ -10,7 +10,7 @@ description: |-
   **Sonntag:**\
   **11.00 bis 12.00 Uhr und 13.30 bis 19.00 Uhr**
 
-  An allen übrigen Tagen sind Rundflüge auf Voranmeldung möglich.
+  Rundflüge an anderen Wochentagen auf Anfrage.
 buttons:
   - blank: true
     cta: true
@@ -20,6 +20,9 @@ buttons:
 ---
 **Ein Rundflug ist ab einer Buchung für 2 Passagiere möglich.**\
 Jeder Passagier erhält für diesen gemeinsamen Flug einen separaten Gutschein.
+
+**Gewicht:**\
+Bei der Reservation muss das genaue Körpergewicht pro Person angegeben werde (wird für die Schwerpunktberechnung des Flugzeugs benötigt). Das maximale Körpergewicht beträgt 110kg pro Person.
 
 **Wichtig:**\
 Rufen Sie uns bitte in jedem Fall kurz vor Ihrem Flug nochmals an. So können wir Ihren Flug optimal terminieren. Für weitere Auskünfte und Informationen über die Durchführung der Flüge steht Ihnen das Sekretariat gerne zur Verfügung:
