@@ -27,7 +27,7 @@ Bei mehr als 5 Teilnehmern finden die Praxisblöcke jeweils in zwei Gruppen am g
 
 **Kursleiterin**
 
-Dagmar Hollerer, Fluglehrerin, +41 71 366 33 33, <mailto:info@mfgt.ch>
+Dagmar Hollerer, Fluglehrerin, +41 52 366 33 33, <mailto:info@mfgt.ch>
 
 **Ort**
 
