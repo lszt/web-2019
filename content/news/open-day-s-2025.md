@@ -1,7 +1,7 @@
 ---
 title: Open Day 2025
 date: '2025-08-07T14:42:19+02:00'
-draft: false
+draft: true
 image: /img/uploads/openday_2025.jpg
 positionx: 50
 positiony: 50
