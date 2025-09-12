@@ -44,6 +44,10 @@ Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | 
 
 <hr>
 
+### 28.02.-06.03.2026 | Intensivlager Biberach
+
+Biberach an der Riss | [Info's] (https://drive.google.com/file/d/13xDZp-xG2r0RhXgHd8zkoM3N-6_78Nsi/view?usp=sharing)
+
 ### 27.03.2026 | GV MFGT
 
 MZH Lommis
