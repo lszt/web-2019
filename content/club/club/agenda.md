@@ -10,7 +10,7 @@ buttons: []
 
 Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
-### 18.09.2025 | Infotag NFVR
+### 25.09.2025 | Infotag NFVR
 
 Flugplatz Lommis
 
