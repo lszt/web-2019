@@ -9,7 +9,7 @@ description: Die Thurgauer Zeitung hat einen Artikel zum Open Day der MFGT publi
 buttons:
   - blank: false
     cta: false
-    title: artikel
+    title: mehr
     url: /club/berichte/open-day-2025/
 ---
 
