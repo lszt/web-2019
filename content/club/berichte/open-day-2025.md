@@ -2,6 +2,7 @@
 title: Open Day 2025
 date: '2025-09-16T14:52:44+02:00'
 draft: false
+weight: '1'
 image: /img/uploads/newsartikel_openday.jpg
 description: Die Thurgauer Zeitung hat einen Bericht zum Open Day 2025 publiziert.
 buttons:
