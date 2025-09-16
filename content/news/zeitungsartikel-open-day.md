@@ -7,9 +7,9 @@ positionx: 50
 positiony: 50
 description: Die Thurgauer Zeitung hat einen Artikel zum Open Day der MFGT publiziert.
 buttons:
-  - blank: false
+  - blank: true
     cta: false
-    title: mehr
-    url: /club/berichte/open-day-2025/
+    title: bericht
+    url: 'https://drive.google.com/file/d/1j_5EDhPgVi70s5LbKBj0uwMoxgak_jdI/view'
 ---
 
