@@ -40,7 +40,7 @@ Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | 
 
 <hr>
 
-### 21.02.2025 | Refresher MFGT
+### 21.02.2026 | Refresher MFGT
 
 MZH Lommis
 
@@ -52,7 +52,7 @@ Biberach an der Riss | [Info's] (https://drive.google.com/file/d/13xDZp-xG2r0RhX
 
 MZH Lommis
 
-### 20.06.-28.06.2025 | Fly-Away: Expedition Nordkap
+### 20.06.-28.06.2026 | Fly-Away: Expedition Nordkap
 
 Lommis - Nordkap
 
@@ -60,11 +60,11 @@ Lommis - Nordkap
 
 Flugplatz Lommis
 
-### 18.07.-31.07.2025 | Intensivwochen Lommis
+### 18.07.-31.07.2026 | Intensivwochen Lommis
 
 Flugplatz Lommis
 
-### 15.08.-16.08.2025 | Open Days 2026
+### 15.08.-16.08.2026 | Open Days 2026
 
 Flugplatz Lommis | [Info's] (/openday)
 
