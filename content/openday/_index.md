@@ -1,5 +1,5 @@
 ---
-title: Open Day 2025
+title: Open Day 2026
 date: 2019-04-14T15:03:57.000Z
 draft: false
 image: /img/uploads/slider_openday.jpg
