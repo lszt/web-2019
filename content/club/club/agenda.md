@@ -66,7 +66,7 @@ Flugplatz Lommis
 
 ### 15.08.-16.08.2025 | Open Days 2026
 
-Flugplatz Lommis
+Flugplatz Lommis | [Info's] (/openday)
 
 <hr>
 
