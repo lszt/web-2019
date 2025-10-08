@@ -6,18 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 25.09.2025 | 18:30 | Infotag NFVR
-
-Theorieraum MFGT
-
-### 25.–28.09.2025 | MFGT Fly-Away 2-2025
-
-Gasgogne/Bretagne Frankreich | [Info's](/club/kurse-veranstaltungen/fly-outs/) | [Anmeldung](https://xoyondo.com/dp/x61gu4jysepejtp)
-
-### 26.09.2025 | 18:30 – 23:00 | «Apéro o'Clock»
-
-MFGT Chill-Out im Flugplatzbeizli
-
 ### 05.–18.10.2025 | SPHAIR Kurs 4 (Aquila)
 
 Flugplatz Lommis
@@ -32,7 +20,7 @@ MFGT Chill-Out im Flugplatzbeizli
 
 ### 21.11.2025 | Fondue-Abend '25
 
-Flugplatz Lommis
+Flugplatz Lommis [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSefgUb6Qa43bPJdMS95eNgxxWOkXYl37bcB6qNoQ7NLlES5Qw/viewform)
 
 ### 22.11.2025 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
