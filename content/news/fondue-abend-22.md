@@ -15,7 +15,7 @@ description: >-
   <!--Der alljährliche Fondue-Plausch findet diese Jahr am 17. November
   statt.-->
 ---
-Dieses Jahr war wieder einiges los auf unserem Flugplatz Lommis und langsam nähert sich der Herbst und eine ruhigere Phase beginnt. Als Einstimmung auf diese Phase würden wir uns freuen, möglichst viele Mitglieder zu unserem alljährlichen Fondue-Abend in Lommis begrüssen zu dürfen. Die MFGT übernimmt auch dieses Jahr wieder für alle Mitglieder den Apéro vor dem Fondue und als Dankeschön für die Hilfe an den Open Days offerieren wir zusätzlich das Essen an diesem Fondue-Abend allen Helferinnen und Helfern die während des Events tatkräftig mit angepackt haben.
+Dieses Jahr war wieder einiges los auf unserem Flugplatz Lommis und langsam nähert sich der Herbst und eine ruhigere Phase beginnt. Als Einstimmung auf diese Phase würden wir uns freuen, möglichst viele Mitglieder zu unserem alljährlichen Fondue-Abend in Lommis begrüssen zu dürfen. Die MFGT übernimmt auch dieses Jahr wieder für alle Mitglieder den Apéro vor dem Fondue und als Dankeschön für die Hilfe an den Open Days offerieren wir zusätzlich das Essen an diesem Fondue-Abend allen Helferinnen und Helfern, die während des Events tatkräftig mit angepackt haben.
 
 Der diesjährige Fondue-Abend wird von Franca und ihrem Team durchgeführt. Wir dürfen uns also auf ein kulinarisches Verwöhnprogramm freuen.
 
