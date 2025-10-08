@@ -33,7 +33,7 @@ Kosten:
 
 Bezahlt werden kann vor Ort Bar, mit Twint oder Karte.
 
-Anmeldung: Bis zum 11.11.2024 via [Link](https://docs.google.com/forms/d/e/1FAIpQLSefgUb6Qa43bPJdMS95eNgxxWOkXYl37bcB6qNoQ7NLlES5Qw/viewform) oder direkt bei <mailto:andreas.bloch@mfgt.ch>
+Anmeldung: Bis zum 11.11.2025 via [Link](https://docs.google.com/forms/d/e/1FAIpQLSefgUb6Qa43bPJdMS95eNgxxWOkXYl37bcB6qNoQ7NLlES5Qw/viewform) oder direkt bei <mailto:andreas.bloch@mfgt.ch>
 
 Bitte meldet euch innerhalb der Frist an, da sonst die korrekte Organisation von Essen und Getränken für Franca schwierig wird.
 
