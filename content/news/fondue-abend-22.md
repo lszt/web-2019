@@ -28,7 +28,7 @@ Start: 18:30 Uhr mit Apéro
 Kosten:
 
 * Vorspeisensalat: 5.- CHF
-* Fondue inkl. Beilagen (Brot, kl. Kartoffeln, saure Gurken, silberzwiebeln usw.): 33.- CHF
+* Fondue inkl. Beilagen (Brot, kl. Kartoffeln, saure Gurken, Silberzwiebeln usw.): 33.- CHF
 * Zwetschgen oder Zitronen Sorbet: 5.- CHF
 
 Bezahlt werden kann vor Ort Bar, mit Twint oder Karte.
