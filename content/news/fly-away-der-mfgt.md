@@ -1,7 +1,7 @@
 ---
 title: Fly-Away der MFGT
 date: '2025-04-04T16:49:20+02:00'
-draft: false
+draft: true
 image: /img/uploads/club_flyaway.jpg
 positionx: 50
 positiony: 50
