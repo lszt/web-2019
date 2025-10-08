@@ -20,7 +20,7 @@ MFGT Chill-Out im Flugplatzbeizli
 
 ### 21.11.2025 | Fondue-Abend '25
 
-Flugplatz Lommis | [Info's] (/index-news/fondue-abend-22) | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSefgUb6Qa43bPJdMS95eNgxxWOkXYl37bcB6qNoQ7NLlES5Qw/viewform)
+Flugplatz Lommis | [Info's] (/news/fondue-abend-22/) | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSefgUb6Qa43bPJdMS95eNgxxWOkXYl37bcB6qNoQ7NLlES5Qw/viewform)
 
 ### 22.11.2025 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
