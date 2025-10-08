@@ -1,7 +1,7 @@
 ---
-title: Fondue-Abend '24
-date: '2024-09-25T08:23:33+02:00'
-draft: true
+title: Fondue-Abend '25
+date: '2025-10-08T08:23:33+02:00'
+draft: false
 image: /img/uploads/fondue.jpg
 positionx: 50
 positiony: 50
@@ -15,43 +15,26 @@ description: >-
   <!--Der alljährliche Fondue-Plausch findet diese Jahr am 17. November
   statt.-->
 ---
-Dieses Jahr war einiges los auf unserem Flugplatz Lommis und langsam nähert sich der Herbst und eine ruhigere Phase beginnt. Da ein Verein aus einer Gemeinschaft besteht und wir ohne Helfer all diese Ereignisse nicht hätten stemmen können, möchten wir den diesjährigen Fondue-Abend als Dankeschön für alle Mitglieder und Fly-In-Helfer nutzen. 
+Dieses Jahr war wieder einiges los auf unserem Flugplatz Lommis und langsam nähert sich der Herbst und eine ruhigere Phase beginnt. Als Einstimmung auf diese Phase würden wir uns freuen, möglichst viele Mitglieder zu unserem alljährlichen Fondue-Abend in Lommis begrüssen zu dürfen. Die MFGT übernimmt auch dieses Jahr wieder für alle Mitglieder den Apéro vor dem Fondue und als Dankeschön für die Hilfe an den Open Days offerieren wir zusätzlich das Essen an diesem Fondue-Abend allen Helferinnen und Helfern die während des Events tatkräftig mit angepackt haben.
 
-Deshalb wird dieses Jahr der Apero, Fondue, Dessert & Kaffee komplett von der MFGT übernommen. 
+Der diesjährige Fondue-Abend wird von Franca und ihrem Team durchgeführt. Wir dürfen uns also auf ein kulinarisches Verwöhnprogramm freuen.
 
-Zusätzlich laden wir auch die externen Helfer ein, an diesem gemütlichen Abend dabei zu sein.
+**_Folgend die Details:_**
 
-
-_**Folgend die Details:**_
-
-Datum: Freitag, 15. November 2024
+Datum: Freitag, 21. November 2025
 
 Start: 18:30 Uhr mit Apéro
 
-Ort: Maintenance Hangar
+Kosten:
 
-Kosten: CHF 0.00 - beinhaltet Apero, Fondue, Dessert & Kaffee. Die restlichen Getränke (inkl. Alkohol) werden wie immer an der Bar bezogen resp. individuell bezahlt.
+* Vorspeisensalat: 5.- CHF
+* Fondue inkl. Beilagen (Brot, kl. Kartoffeln, saure Gurken, silberzwiebeln usw.): 33.- CHF
+* Zwetschgen oder Zitronen Sorbet: 5.- CHF
 
-Anmeldung: Bis zum 04.11.2024 via [Doodlelink] (https://doodle.com/meeting/participate/id/elD0Z07e) oder direkt bei <mailto:michael.bolliger@mfgt.ch>
+Bezahlt werden kann vor Ort Bar, mit Twint oder Karte.
 
--> Bitte meldet euch innerhalb der Frist an oder ab, da sonst die korrekte Organisation von Essen und Getränken schwierig wird.
+Anmeldung: Bis zum 11.11.2024 via [Link](https://docs.google.com/forms/d/e/1FAIpQLSefgUb6Qa43bPJdMS95eNgxxWOkXYl37bcB6qNoQ7NLlES5Qw/viewform) oder direkt bei <mailto:andreas.bloch@mfgt.ch>
 
+Bitte meldet euch innerhalb der Frist an, da sonst die korrekte Organisation von Essen und Getränken für Franca schwierig wird.
 
 Wir freuen uns auf euch!
-
-
-
-<!--Um eine schöne Tradition fortzusetzen, laden wir euch auch dieses Jahr herzlich zum Fondue-Abend in unserem Maintenance Hangar ein.
-
-Ein schöner geselliger Anlass, bei dem man sich wieder bei einem guten Glas Wein über die neuesten Abenteuer austauschen kann.
-
-_**Folgend die Details:**_
-
-Datum: Freitag, 17. November 2023
-
-Start: 18:30 Uhr mit Apéro - gesponsert durch MFGT
-
-Kosten: CHF 25.00, beinhaltet Fondue und Dessert. Die restlichen Getränke werden wie immer an der Bar bezogen.
-
-Anmeldung: Bis zum 09.11.2023 via [Doodlelink](https://doodle.com/meeting/participate/id/ep2p9Lyb)-->
-
