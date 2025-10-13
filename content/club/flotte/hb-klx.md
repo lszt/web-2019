@@ -20,3 +20,4 @@ Reiseflugzeug
 
 
 Eine weitere DR401 wird auf Ende dieser Saison zu unserer Flotte stossen.
+![null](/img/uploads/flotte_cockpit_KLR_KLD.jpg)
