@@ -30,3 +30,5 @@ Reiseflugzeug
 * Endurance: 6 h
 * Reisegeschwindigkeit: 125 KTS
 * MTOW: 1100 kg
+
+![null](/img/uploads/flotte_cockpit_KLR_KLD.jpg)
