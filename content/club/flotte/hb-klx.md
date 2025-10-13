@@ -17,7 +17,17 @@ buttons:
 Reiseflugzeug
 
 * 4 Sitzplätze
+* Engine: Thielert Centurion 2.0S – TAE125-02-114
+* Leistung: 155 PS
+* Zulassung: IFR
+* 2-Achsen-Autopilot
+* Garmin G500 TXi
+* Garmin GTN 650Xi
+* PowerFLARM
+* Haupttank: 110 Liter Jet A1
+* Zusatztank: 50 Liter Jet A1
+* Endurance: 6 h
+* Reisegeschwindigkeit: 125 KTS
+* MTOW: 1100 kg
 
-
-Eine weitere DR401 wird auf Ende dieser Saison zu unserer Flotte stossen.
 ![null](/img/uploads/flotte_cockpit_KLR_KLD.jpg)
