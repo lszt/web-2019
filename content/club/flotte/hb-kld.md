@@ -31,4 +31,4 @@ Reiseflugzeug
 * Reisegeschwindigkeit: 125 KTS
 * MTOW: 1100 kg
 
-![null](/img/uploads/flotte_cockpit_KLR_KLD.jpg)
+![null](/img/uploads/flotte_cockpit_klr_kld.jpg)
