@@ -6,14 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 05.–18.10.2025 | SPHAIR Kurs 4 (Aquila)
-
-Flugplatz Lommis
-
-### 14.10.2025 | 17:30 | MFGT Event: Fliegen mal anders.
-
-Windwerk Winterthur | [Info's und Anmeldung](https://drive.google.com/file/d/1OOZEM9j9fvpXqWL1a-jC3Ch23HL7L8h5/view?usp=sharing)
-
 ### 31.10.2025 | 18:30 – 23:00 | «Apéro o'Clock»
 
 MFGT Chill-Out im Flugplatzbeizli
