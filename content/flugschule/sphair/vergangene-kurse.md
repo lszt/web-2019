@@ -7,7 +7,7 @@ description: Hier findest Du Fotos und Berichte vergangener SPHAIR-Kurse
 ---
 ### 2025
 
-KF 1-42-2025 [Bericht](https://drive.google.com/file/d/14-iZyXtEuMnGtEn7pV41CJg6tI-7Q5Oe/view?usp=sharing) | [Video](https://drive.google.com/file/d/14lnH73YufXTW_bFmNmSO472wWKInDfWY/view?usp=sharing) | [Video intern] (https://drive.google.com/file/d/1Q4UaMnYI2y9rz6oHrb7UkVQBuOTocL6j/view?usp=sharing)
+KF 1-42-2025 [Bericht](https://drive.google.com/file/d/14-iZyXtEuMnGtEn7pV41CJg6tI-7Q5Oe/view?usp=sharing) | [Video] (https://drive.google.com/file/d/1Q4UaMnYI2y9rz6oHrb7UkVQBuOTocL6j/view?usp=sharing)
 
 ![null](/img/uploads/sphair_kf-1-42-2025.jpg)
 
