@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 31.10.2025 | 18:30 – 23:00 | «Apéro o'Clock»
-
-MFGT Chill-Out im Flugplatzbeizli
-
 ### 21.11.2025 | Fondue-Abend '25
 
 Flugplatz Lommis | [Info's] (/news/fondue-abend-22/) | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSefgUb6Qa43bPJdMS95eNgxxWOkXYl37bcB6qNoQ7NLlES5Qw/viewform)
@@ -55,3 +51,7 @@ Fehlen Anlässe oder sind Termine falsch?
 Wir sind dankbar für deine Rückmeldung an <mailto:webmaster@mfgt.ch>
 
 <!-- <font color="red">Ausgebucht!</font> -->
+
+<!-- ### 31.10.2025 | 18:30 – 23:00 | «Apéro o'Clock»
+
+MFGT Chill-Out im Flugplatzbeizli -->
