@@ -31,7 +31,9 @@ buttons:
 \
 **Kosten**
 
-Die MFGT (Motorfluggruppe Thurgau) und der AeCS (Aeroclub der Schweiz) übernehmen Flugkosten und Landetaxen. Es entstehen an diesem Tag keine Kosten ausser den Getränken.
+Kurskosten: CHF 25.00, zahlbar nach Erhalt der Rechnung.
+
+Die MFGT (Motorfluggruppe Thurgau) und der AeCS (Aeroclub der Schweiz) übernehmen die Flugkosten und Landetaxen. Es entstehen an diesem Tag keine weiteren Kosten ausser den Getränken.
 
 \
 **Verpflegung**
@@ -53,20 +55,20 @@ Dagmar Hollerer (Fluglehrerin), Florian Burkhardt (Fluglehrer), Corinna Brüllma
 
 Weiter Informationen folgen. 
 \
-Voraussichtlich finden die nächsten YES-Tage am 27. und 28. Juni 2026 statt.
+Die nächsten YES-Tage finden am 27. und 28. Juni 2026 statt.
 
-<!--\*\*Anmeldeschluss ist der 02. Juni 2024 -->
+<!--\\*\\*Anmeldeschluss ist der 02. Juni 2024 -->
 
 <!--via Mail an: <mailto:info@mfgt.ch> oder per Telefon an: +41 52 366 33 33-->
 
 <!--<font color="red">Leider bereits ausgebucht!</font>-->
 
 <!--\
-[Hier Flyer downloaden](https://drive.google.com/file/d/1-qJyXPWv-tQnE_GcI-SOxN8xNxEk_pM2/view?usp=sharing)-->
+\[Hier Flyer downloaden](https://drive.google.com/file/d/1-qJyXPWv-tQnE_GcI-SOxN8xNxEk_pM2/view?usp=sharing)-->
 
 \
 **Bericht vom YES-Tag 2025**
 
-[Bericht] (https://drive.google.com/file/d/1CwAQYVlx3uo1Jb6vNLtSxW7ETsCRp2d9/view?usp=sharing)
+[Bericht](https://drive.google.com/file/d/1CwAQYVlx3uo1Jb6vNLtSxW7ETsCRp2d9/view?usp=sharing)
 
 [Bilder](https://drive.google.com/drive/folders/1ZwDDVQp76OwdGH-rPbDzZ7GA9dqgJ2E5?usp=sharing)
