@@ -15,9 +15,9 @@ buttons:
 ---
 Personenabfertigungen für Direktflüge ins Ausland (Ausflug-Zoll in den Schengen-Raum) bzw. für Direkteinflüge aus dem Ausland (Einflug-Zoll aus dem Schengen-Raum).
 
-Verfahrensanweisung:
+**Verfahrensanweisung:**
 
-* Frühestens 24 Std., jedoch spätestens 2 Std. vor dem geplanten Start bzw. der geplanten Landung in Lommis muss der verantwortliche Pilot die [Zollanmeldung] (https://customs.lszt.ch/?ad=lszt) komplett ausfüllen und per Internet/Mail an den Flugplatz abschicken.
+* Frühestens 24 Std., jedoch spätestens 2 Std. vor dem geplanten Start bzw. der geplanten Landung in Lommis muss der verantwortliche Pilot die [Zollanmeldung](https://customs.lszt.ch/?ad=lszt) komplett ausfüllen und per Internet/Mail an den Flugplatz abschicken.
 * In jedem Fall ruft der Pilot direkt anschliessend persönlich unter Telefon +41 52 366 33 33 den Betriebsleiter/FDL auf dem Flugplatz an. Er erkundigt sich über die Verhältnisse auf dem Platz und weist auf das Vorliegen seiner Zollanmeldung hin.
 * Der Betriebsleiter/FDL überprüft das Eintreffen der Zollanmeldung, verifiziert diese und leitet sie umgehend an die Zoll- und Polizeiorgane weiter. Erst mit dem OK des Betriebsleiters/FDLs und seiner Weiterleitung an die Zoll- und Polizeiorgane wird die Zollanmeldung aktiviert.
 * Der verantwortliche Pilot verpflichtet sich, die auf der Anmeldung ersichtlichen Zoll- und Polizeivorschriften strikte einzuhalten sowie Crew und Passagiere über diese in Kenntnis zu setzen. Den Anordnungen der Flugplatz-, Zoll- und Polizeiorgane ist in jedem Fall Folge zu leisten.
@@ -25,3 +25,5 @@ Verfahrensanweisung:
 * Nach der Landung in Lommis lassen Pilot und Passagiere ihr Gepäck vorerst im Flugzeug und begeben sich auf direktem Weg zum C-Büro. Sie halten sich dort für die Weiterbehandlung durch Flugplatz-, Zoll- oder Polizeiorgane zur Verfügung.
 
 Für die Zollabfertigung wird keine Gebühr erhoben.
+
+Jeweils **ca. ab Mitte November bis Ende März** ist unser Flugplatz an den Wochenenden unbesetzt. Flüge ins und aus dem Ausland (Zoll) müssen **bis Freitag um 17:00 Uhr** angemeldet werden.
