@@ -22,10 +22,18 @@ Wir zeigen dir, wie die Ausbildung aufgebaut ist, welche Voraussetzungen du mitb
 
 **Samstag, 22.11.2025, 09:00 - 12:00 Uhr**
 
+**Samstag, 07.02.2026, 09:00 - 12:00 Uhr**
+
+**Samstag, 25.04.2026, 09:00 - 12:00 Uhr**
+
+**Samstag, 12.09.2026, 09:00 - 12:00 Uhr**
+
+**Samstag, 21.11.2026, 09:00 - 12:00 Uhr**
+
 Treffpunkt: Vor dem Clubhaus, Flugplatz Lommis
 
 Für weitere Informationen wende dich bitte an <mailto:andre.heinzelmann@mfgt.ch>
 
-\> [Download Infoflyer](https://drive.google.com/file/d/1CUWxwFi0aYr34fw4Wq_9qNh4x3bUTP3Z/view?usp=sharing)
+\> [Download Infoflyer 2025](https://drive.google.com/file/d/1CUWxwFi0aYr34fw4Wq_9qNh4x3bUTP3Z/view?usp=sharing) / [Download Infoflyer 2026] (https://drive.google.com/file/d/1_Mgaw6FVtwUdyQkgZXhNZSgR__bb3Bvr/view?usp=sharing)
 
 \> [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
