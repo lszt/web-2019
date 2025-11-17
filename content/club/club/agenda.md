@@ -16,6 +16,10 @@ Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | 
 
 <hr>
 
+### 07.02.2026 | 09:00-12:00 | Infoanlass Flugschule MFGT
+
+Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
+
 ### 21.02.2026 | Refresher MFGT
 
 MZH Lommis
@@ -27,6 +31,10 @@ Biberach an der Riss | [Info's] (https://drive.google.com/file/d/13xDZp-xG2r0RhX
 ### 27.03.2026 | GV MFGT
 
 MZH Lommis
+
+### 25.04.2026 | 09:00-12:00 | Infoanlass Flugschule MFGT
+
+Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
 ### 20.06.-28.06.2026 | Fly-Away: Expedition Nordkap
 
@@ -43,6 +51,14 @@ Flugplatz Lommis
 ### 15.08.-16.08.2026 | Open Days 2026
 
 Flugplatz Lommis | [Info's] (/openday)
+
+### 12.09.2026 | 09:00-12:00 | Infoanlass Flugschule MFGT
+
+Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
+
+### 21.11.2026 | 09:00-12:00 | Infoanlass Flugschule MFGT
+
+Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
 <hr>
 
