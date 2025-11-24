@@ -20,8 +20,6 @@ Wir zeigen dir, wie die Ausbildung aufgebaut ist, welche Voraussetzungen du mitb
 
 **Die nächsten Anlässe finden statt am:**
 
-**Samstag, 22.11.2025, 09:00 - 12:00 Uhr**
-
 **Samstag, 07.02.2026, 09:00 - 12:00 Uhr**
 
 **Samstag, 25.04.2026, 09:00 - 12:00 Uhr**
