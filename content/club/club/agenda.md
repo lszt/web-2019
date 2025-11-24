@@ -6,16 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 21.11.2025 | Fondue-Abend '25
-
-Flugplatz Lommis | [Info's] (/news/fondue-abend-22/) | [Anmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSefgUb6Qa43bPJdMS95eNgxxWOkXYl37bcB6qNoQ7NLlES5Qw/viewform)
-
-### 22.11.2025 | 09:00-12:00 | Infoanlass Flugschule MFGT
-
-Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
-
-<hr>
-
 ### 07.02.2026 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
 Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
@@ -35,6 +25,10 @@ MZH Lommis
 ### 25.04.2026 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
 Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
+
+### 08.05.2026 | Neumitglieder-Apéro
+
+Flugplatz Lommis 
 
 ### 20.06.-28.06.2026 | Fly-Away: Expedition Nordkap
 
