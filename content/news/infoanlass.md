@@ -1,12 +1,12 @@
 ---
 title: Infoanlass Flugschule
-date: '2025-10-13T08:40:00+02:00'
+date: '2026-01-07T08:40:00+01:00'
 draft: false
 image: /img/uploads/aquila_sunrise.jpeg
 positionx: 50
 positiony: 50
 description: >-
-  **Samstag, 22. November 2025, 09:00 - 12:00 Uhr**
+  **Samstag, 07. Februar 2026, 09:00 - 12:00 Uhr**
 
 
   Interessierst Du Dich für eine Ausbildung zum Privatpiloten und für eine
