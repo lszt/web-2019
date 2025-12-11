@@ -6,8 +6,8 @@ image: /img/uploads/club_refresher.jpg
 positionx: 50
 positiony: 50
 description: >-
-  Ab diesem Frühjahr startet das neue Refresher Training für 2026 und 2027.
-  Dieses besteht aus einem Refresher Tag und einem Refresher Flug (vormals
+  Ab diesem Frühjahr startet das neue Refresher Training für 2026 / 2027. Dieses
+  besteht aus einem Refresher Tag und einem Refresher Flug (vormals
   Kontrollflug). Beide Veranstaltungen sind für alle fliegenden Mitglieder
   verpflichtend.
 buttons:
@@ -19,13 +19,13 @@ buttons:
 ---
 Liebe Mitglieder
 
-Ab diesem Frühjahr startet das neue Refresher Training für 2026 und 2027. Das Training im Zweijahreszyklus ist für alle Pilotinnen und Piloten der MFGT obligatorisch. Als Alternative zur physischen Teilnahme kann auch ein Web Based Training absolviert werden.
+Ab diesem Frühjahr startet das neue Refresher Training für 2026 / 2027. Das Training im Zweijahreszyklus ist für alle Pilotinnen und Piloten der MFGT obligatorisch. Als Alternative zur physischen Teilnahme kann auch ein Web Based Training absolviert werden.
 
 **Ground Refresher 2026 / 2027:**
 
 **Datum:** Samstag, 21.02.2026 \
 **Ort:** Mehrzweckhalle, Matzingerstrasse 23, Lommis \
-**Zeit:** 0900 – 1230 Uhr \
+**Zeit:** 09:00 – 12:30 Uhr \
 **Anmeldung:**  bis 31.01.2026
 
 **Themen:**
