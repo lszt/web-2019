@@ -12,7 +12,7 @@ Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | 
 
 ### 21.02.2026 | 09:00-12:30 | Refresher MFGT
 
-MZH Lommis | [Anmeldung] (https://doodle.com/sign-up-sheet/participate/f1935840-90f5-45d9-8799-aac5586af9ca/select)
+MZH Lommis | [Info's] (https://drive.google.com/drive/folders/1El0HrLJ8pVFVLtQKhWFfoZesycumliq2) | [Anmeldung] (https://doodle.com/sign-up-sheet/participate/f1935840-90f5-45d9-8799-aac5586af9ca/select)
 
 ### 28.02.-06.03.2026 | Intensivlager Biberach
 
