@@ -14,7 +14,8 @@ buttons:
   - blank: true
     cta: true
     title: anmeldung
-    url: 'https://doodle.com/meeting/participate/id/ejAAn7Pd'
+    url: >-
+      https://doodle.com/sign-up-sheet/participate/f1935840-90f5-45d9-8799-aac5586af9ca/select
 ---
 Liebe Mitglieder
 
@@ -25,7 +26,7 @@ Ab diesem Frühjahr startet das neue Refresher Training für 2026 und 2027. Das 
 **Datum:** Samstag, 21.02.2026 \
 **Ort:** Mehrzweckhalle, Matzingerstrasse 23, Lommis \
 **Zeit:** 0900 – 1230 Uhr \
-**Anmeldung:**  bis 31.01.2026 [hier] (https://doodle.com/sign-up-sheet/participate/f1935840-90f5-45d9-8799-aac5586af9ca/select)
+**Anmeldung:**  bis 31.01.2026
 
 **Themen:**
 
