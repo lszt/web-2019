@@ -1,7 +1,7 @@
 ---
 title: Zeitungsartikel Open Day
 date: '2025-09-16T14:42:06+02:00'
-draft: false
+draft: true
 image: /img/uploads/newsartikel_openday.jpg
 positionx: 50
 positiony: 50
