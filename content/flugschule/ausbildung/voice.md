@@ -19,9 +19,9 @@ buttons:
 ---
 Der Radiotelefonie-Kurs (auch als Funkkurs, Voice Kurs oder RTF Kurs bezeichnet) wird von professionellen Voice-Instruktorinnen und Instruktoren durchgeführt und mit der Prüfung durch das BAZL abgeschlossen. 
 
-Der Besuch der ersten beiden Kursdaten ist oligatorisch (im Kursprogamm lila dargestellt). Selbstverständlich kann bei Bedarf eine verpasste Lektion auf privater Basis nachgeholt werden.
+Der Besuch der ersten beiden Kursdaten ist obligatorisch (im Kursprogramm lila dargestellt). Selbstverständlich kann bei Bedarf eine verpasste Lektion auf privater Basis nachgeholt werden.
 
-Bei mehr als 5 Teilnehmern finden die Praxisblöcke jeweils in zwei Gruppen am gleichen Tag zu unterschiedlichen Zeiten statt (im Kursprogamm rot und rosa dargetellt). Die Gruppeneinteilung wird am ersten Kurstag festgelegt.
+Bei mehr als 5 Teilnehmern finden die Praxisblöcke jeweils in zwei Gruppen am gleichen Tag zu unterschiedlichen Zeiten statt (im Kursprogramm rot und rosa dargestellt). Die Gruppeneinteilung wird am ersten Kurstag festgelegt.
 
 [Kursprogramm] (https://drive.google.com/file/d/1SJ4whlMiod6a2NjY8dkaT3JBKYDAVtho/view?usp=sharing)
 
