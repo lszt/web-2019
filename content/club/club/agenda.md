@@ -22,6 +22,10 @@ Biberach an der Riss | [Info's] (https://drive.google.com/file/d/13xDZp-xG2r0RhX
 
 MZH Lommis
 
+### 28.03.2026 | Flugplatzputzete
+
+Flugplatz Lommis
+
 ### 25.04.2026 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
 Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
