@@ -8,6 +8,10 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 19.01.2026 | 40 Flugbetrieb/Flugzeuge/HB-ETG | [Borddokumente] (https://drive.google.com/drive/folders/1eL23qJVGEQOXClo27Ydcbj4fKBuSro1I) | hinzugefügt
+
+<hr>
+
 * 11.12.2025 | .../.../30-40-20 Refresherflug | [Refresherflug 26_27] (https://drive.google.com/drive/folders/1El0HrLJ8pVFVLtQKhWFfoZesycumliq2) | hinzugefügt
 * 28.10.2025 | 40 Flugbetrieb/Flugzeuge/HB-ETG/AFM | [AFM](https://drive.google.com/file/d/1r5bKFTsp4f1TlJpcEBVPsYxQBhgHdRV7/view?usp=sharing) | aktualisiert
 * 28.08.2025 | 10 Allgemein/Safety | [Safety & OPS Bulletin 04](https://drive.google.com/file/d/17GEM11RmZy5QNGDJ3SPip_E1NCgdbEtJ/view?usp=sharing) | hinzugefügt
