@@ -18,13 +18,13 @@ MZH Lommis | [Info's] (https://drive.google.com/drive/folders/1El0HrLJ8pVFVLtQKh
 
 Biberach an der Riss | [Info's] (https://drive.google.com/file/d/13xDZp-xG2r0RhXgHd8zkoM3N-6_78Nsi/view?usp=sharing)
 
-### 27.03.2026 | GV MFGT
+### 27.03.2026 | 19:00 | GV MFGT
 
-MZH Lommis
+MZH Lommis | [Anmeldung] (https://doodle.com/sign-up-sheet/participate/cf69fac1-dbb6-4ed9-ab15-f1b47223cd19/select)
 
-### 28.03.2026 | Flugplatzputzete
+### 28.03.2026 | 08:00 | Flugplatzputzete
 
-Flugplatz Lommis
+Flugplatz Lommis | [Anmeldung] (https://doodle.com/sign-up-sheet/participate/4a7e32db-1486-45bc-bfe7-ff2aa4abb8e1/select)
 
 ### 25.04.2026 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
