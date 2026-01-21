@@ -20,7 +20,7 @@ Biberach an der Riss | [Info's] (https://drive.google.com/file/d/13xDZp-xG2r0RhX
 
 ### 27.03.2026 | 19:00 | GV MFGT
 
-MZH Lommis | [Anmeldung] (https://doodle.com/sign-up-sheet/participate/cf69fac1-dbb6-4ed9-ab15-f1b47223cd19/select)
+MZH Lommis | [Anmeldung] (https://doodle.com/sign-up-sheet/participate/cf69fac1-dbb6-4ed9-ab15-f1b47223cd19/select) | [Unterlagen] (https://drive.google.com/drive/folders/19V1Dxr2n6WaH149xuR1CpEd1EKHR5xeP)
 
 ### 28.03.2026 | 08:00 | Flugplatzputzete
 
