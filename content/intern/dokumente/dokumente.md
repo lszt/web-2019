@@ -8,6 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 23.01.2026 | 40 Flugbetrieb/Charter | [Daten Flugzeuge MFGT](https://drive.google.com/file/d/1pVXzhQZ-t6iJq46Jx576nK0oyn-Fy0BG/view?usp=sharing) | aktualisiert
 * 19.01.2026 | 40 Flugbetrieb/Flugzeuge/HB-ETG | [Borddokumente] (https://drive.google.com/drive/folders/1eL23qJVGEQOXClo27Ydcbj4fKBuSro1I) | hinzugefügt
 
 <hr>
@@ -43,7 +44,6 @@ description: >-
 * 18.09.2024 | 10 Allgemein / Versicherungen / Versicherungs-&Haftungsevent | [Unterlagen Event](https://drive.google.com/drive/folders/1e8CUxw9cf2UX_oceQKVI76IxdU1C36Xa) | aktualisiert
 * 26.08.2024 | 10 Allgemein/Safety | [Safety & OPS Bulletin 02](https://drive.google.com/file/d/1Wso1SB2AgLfvryTITzGwdW8V2_7hSxIW/view?usp=drive_link) | hinzugefügt
 * 24.07.2024 | .../.../30-10-20 Flight OPS/Procedures | [Procedures BR23 PPL](https://drive.google.com/file/d/15l8In4P6HFb04_bbZdv67NMuIBm_VfNR/view?usp=sharing) | aktualisiert
-* 24.07.2024 | 40 Flugbetrieb/Charter | [Daten Flugzeuge MFGT](https://drive.google.com/file/d/1reRcZV7iVZWYXZgqh8VOOoCsSYEylxVh/view?usp=sharing) | aktualisiert
 * 12.06.2024 | 10 Allgemein/Safety | [Safety & OPS Bulletin 01/2024](https://drive.google.com/file/d/1DXKMMSnKkTG6K7ZWTUpj6TzyIJxNn5Wu/view?usp=sharing) | hinzugefügt
 * 12.06.2024 | 10 Allgemein/Club | [Statuten MFGT](https://drive.google.com/file/d/1ne7b0jaJgiwDarOysqerpWhum_j-CB8X/view?usp=drive_link) | aktualisiert
 * 12.06.2024 | 40 Flugbetrieb/Charter | [Betriebs- und Haftungsreglement](https://drive.google.com/file/d/1dGuQyM-VP_kZcQMVAVyT1mwXS7MPKPgG/view?usp=drive_link) | aktualisiert
