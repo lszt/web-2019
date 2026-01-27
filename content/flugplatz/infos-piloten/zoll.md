@@ -11,7 +11,7 @@ description: >-
 buttons:
   - cta: true
     title: Zoll-Formular
-    url: 'https://customs.lszt.ch/?ad=lszt'
+    url: 'https://customs.opendigital.ch/?ad=lszt'
 ---
 Personenabfertigungen für Direktflüge ins Ausland (Ausflug-Zoll in den Schengen-Raum) bzw. für Direkteinflüge aus dem Ausland (Einflug-Zoll aus dem Schengen-Raum).
 
