@@ -53,18 +53,20 @@ Dagmar Hollerer (Fluglehrerin), Florian Burkhardt (Fluglehrer), Corinna Brüllma
 \
 **Anmeldung**
 
-Die nächsten YES-Tage finden am 27. und 28. Juni 2026 statt.
+<!--Die nächsten YES-Tage finden am 27. und 28. Juni 2026 statt.
 
-Weiter Informationen folgen. 
+Weiter Informationen folgen.--> 
 
-<!--\\*\\*Anmeldeschluss ist der 02. Juni 2024 -->
+Anmeldeschluss ist der 24. Mai 2026
 
-<!--via Mail an: <mailto:info@mfgt.ch> oder per Telefon an: +41 52 366 33 33-->
+[www.mfgt.ch](www.mfgt.ch) \
+via Mail an: <mailto:info@mfgt.ch> \
+oder per Telefon an: +41 52 366 33 33
 
 <!--<font color="red">Leider bereits ausgebucht!</font>-->
 
-<!--\
-\[Hier Flyer downloaden](https://drive.google.com/file/d/1-qJyXPWv-tQnE_GcI-SOxN8xNxEk_pM2/view?usp=sharing)-->
+\
+[Hier Flyer downloaden](https://drive.google.com/file/d/18I8WJyTEtRCbv1vLFHdCozbkwHeabLhJ/view?usp=sharingg)
 
 \
 **Bericht vom YES-Tag 2025**
