@@ -59,7 +59,7 @@ Weiter Informationen folgen.-->
 
 Anmeldeschluss ist der 24. Mai 2026
 
-[www.mfgt.ch]https://www.mfgt.ch/) \
+[www.mfgt.ch] (https://www.mfgt.ch/) \
 via Mail an: <mailto:info@mfgt.ch> \
 oder per Telefon an: +41 52 366 33 33
 
