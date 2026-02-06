@@ -9,7 +9,7 @@ description: "**Samstag, 27. Juni 2026 oder Sonntag, 28. Juni 2026**\n\nAviatikl
 buttons:
   - title: mehr
     url: >-
-      https://www.mfgt.ch/flugschule-schritte-richtung-cockpit/entries/yes-tag-2025-für-jugentliche
+      https://www.mfgt.ch/flugschule-schritte-richtung-cockpit/yes-tag-2025-für-jugentliche
   - blank: true
     cta: true
     title: flyer
