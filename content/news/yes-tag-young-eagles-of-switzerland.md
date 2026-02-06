@@ -8,7 +8,8 @@ positiony: 50
 description: "**Samstag, 27. Juni 2026 oder Sonntag, 28. Juni 2026**\n\nAviatikluft schnuppern und das Steuer in die Hand nehmen! Die Motorfluggruppe Thurgau MFGT und der Aeroclub der Schweiz AeCS ermöglichen dir einen packenden Einstieg in den Motorflug.\r"
 buttons:
   - title: mehr
-    url: 'https://www.mfgt.ch/flugschule/Schritte-richtung-cockpit/yes-tag-2025'
+    url: >-
+      https://www.mfgt.ch/flugschule-schritte-richtung-cockpit/entries/yes-tag-2025-für-jugentliche
   - blank: true
     cta: true
     title: flyer
