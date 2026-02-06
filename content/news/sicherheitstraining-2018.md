@@ -17,6 +17,6 @@ buttons:
     url: 'https://drive.google.com/file/d/1XA_qUf3iGXVL67c2lBRmOYBOCNMgeiy_/view'
   - cta: true
     title: anmelden
-    url: 'mailto:mfgt-flugschule@mfgt.ch?subject=Sicherheitstraining 2024'
+    url: 'mailto:mfgt-flugschule@mfgt.ch?subject=Sicherheitstraining 2026'
 ---
 
