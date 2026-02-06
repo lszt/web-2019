@@ -30,6 +30,14 @@ Flugplatz Lommis | [Anmeldung] (https://doodle.com/sign-up-sheet/participate/4a7
 
 Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
+### 01.05.2026 | 19:00-21:30 | Theorie Sicherheitstraining
+
+Theorielokal Flugplatz Lommis
+
+### 02.05.2026 | 08:30 | Praxis Sicherheitstraining
+
+Flugplatz Lommis | [Anmeldung] (mailto:mfgt-flugschule@mfgt.ch>)
+
 ### 08.05.2026 | Neumitglieder-Apéro
 
 Flugplatz Lommis 
