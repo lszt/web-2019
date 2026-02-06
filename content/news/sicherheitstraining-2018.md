@@ -1,7 +1,7 @@
 ---
-title: Sicherheitstraining 2024
+title: Sicherheitstraining 2026
 date: '2023-08-09T16:04:10+02:00'
-draft: true
+draft: false
 image: /img/uploads/sicherheitstraining_decathlon.jpg
 positionx: 50
 positiony: 50
@@ -14,8 +14,7 @@ buttons:
   - blank: true
     cta: true
     title: Flyer
-    url: >-
-      https://drive.google.com/file/d/1Da_ScTIA5gDzuOefQAZhV3eaJHARbsMw/view?usp=sharing
+    url: 'https://drive.google.com/file/d/1XA_qUf3iGXVL67c2lBRmOYBOCNMgeiy_/view'
   - cta: true
     title: anmelden
     url: 'mailto:mfgt-flugschule@mfgt.ch?subject=Sicherheitstraining 2024'
