@@ -6,14 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 07.02.2026 | 09:00-12:00 | Infoanlass Flugschule MFGT
-
-Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
-
-### 21.02.2026 | 09:00-12:30 | Refresher MFGT
-
-MZH Lommis | [Info's] (https://drive.google.com/drive/folders/1El0HrLJ8pVFVLtQKhWFfoZesycumliq2) | [Anmeldung] (https://doodle.com/sign-up-sheet/participate/f1935840-90f5-45d9-8799-aac5586af9ca/select)
-
 ### 28.02.-06.03.2026 | Intensivlager Biberach
 
 Biberach an der Riss | [Info's] (https://drive.google.com/file/d/13xDZp-xG2r0RhXgHd8zkoM3N-6_78Nsi/view?usp=sharing)
