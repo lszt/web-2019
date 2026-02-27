@@ -8,13 +8,13 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 27.02.2026 | .../.../30-40-20 Refresherflug | [Refresherflug 26_27] (https://drive.google.com/drive/folders/1El0HrLJ8pVFVLtQKhWFfoZesycumliq2) | hinzugefügt
 * 06.02.2026 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG | [Familiarisation & Difference Training](https://drive.google.com/file/d/13ntWMeR84q03WWJhEXr_8rBqmrqXBGry/view?usp=sharing) | aktualisiert
 * 23.01.2026 | 40 Flugbetrieb/Charter | [Daten Flugzeuge MFGT](https://drive.google.com/file/d/1pVXzhQZ-t6iJq46Jx576nK0oyn-Fy0BG/view?usp=sharing) | aktualisiert
 * 19.01.2026 | 40 Flugbetrieb/Flugzeuge/HB-ETG | [Borddokumente] (https://drive.google.com/drive/folders/1eL23qJVGEQOXClo27Ydcbj4fKBuSro1I) | hinzugefügt
 
 <hr>
 
-* 11.12.2025 | .../.../30-40-20 Refresherflug | [Refresherflug 26_27] (https://drive.google.com/drive/folders/1El0HrLJ8pVFVLtQKhWFfoZesycumliq2) | hinzugefügt
 * 28.10.2025 | 40 Flugbetrieb/Flugzeuge/HB-ETG/AFM | [AFM](https://drive.google.com/file/d/1r5bKFTsp4f1TlJpcEBVPsYxQBhgHdRV7/view?usp=sharing) | aktualisiert
 * 28.08.2025 | 10 Allgemein/Safety | [Safety & OPS Bulletin 04](https://drive.google.com/file/d/17GEM11RmZy5QNGDJ3SPip_E1NCgdbEtJ/view?usp=sharing) | hinzugefügt
 * 01.06.2025 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Expanded Checklist | [Expanded Checklist BR23](https://drive.google.com/file/d/1fH8tLEAd7e8c9O6Hr4BvGOLGly5z9TOd/view?usp=drive_link) | aktualisiert
