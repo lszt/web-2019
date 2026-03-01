@@ -8,6 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 01.03.2026 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Working Checklist | [Working Checklist A211](https://drive.google.com/file/d/1ggnl7vSvzO5eUxuaNTNJHj32kULNPhFf/view?usp=sharing) | aktualisiert
 * 27.02.2026 | .../.../30-40-20 Refresherflug | [Refresherflug 26_27] (https://drive.google.com/drive/folders/1El0HrLJ8pVFVLtQKhWFfoZesycumliq2) | hinzugefügt
 * 06.02.2026 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG | [Familiarisation & Difference Training](https://drive.google.com/file/d/13ntWMeR84q03WWJhEXr_8rBqmrqXBGry/view?usp=sharing) | aktualisiert
 * 23.01.2026 | 40 Flugbetrieb/Charter | [Daten Flugzeuge MFGT](https://drive.google.com/file/d/1pVXzhQZ-t6iJq46Jx576nK0oyn-Fy0BG/view?usp=sharing) | aktualisiert
@@ -26,7 +27,6 @@ description: >-
 * 01.06.2025 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist DR401](https://drive.google.com/file/d/1gjIT0Tkjb1-7waYodPM80ErWrlDnOU3H/view?usp=drive_link) | aktualisiert
 * 01.06.2025 | .../.../30-10-20 Flight OPS/Procedures | [Procedures DR401](https://drive.google.com/file/d/1wjlHz2C110EUsJJ7pe0sCVyQmx3g_1_V/view?usp=drive_link) | aktualisiert
 * 01.06.2025 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Expanded Checklist | [Expanded Checklist A211](https://drive.google.com/file/d/1iL0oDam1KT9_LaSNAUooLxFnDZ-dLlg0/view?usp=drive_link) | aktualisiert
-* 01.06.2025 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Working Checklist | [Working Checklist A211](https://drive.google.com/file/d/1fbLYM4heVB_u3iQSF0e5g52wWBnnji8Y/view?usp=drive_link) | aktualisiert
 * 01.06.2025 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist HB-SGT](https://drive.google.com/file/d/1QcD6TIUB_S4It757TqBL1G-TYQczgO6k/view?usp=drive_link) | aktualisiert
 * 01.06.2025 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist HB-SGW](https://drive.google.com/file/d/1gYaTfSyC7h-CcW8P6Z51YCHJRlatNQdz/view?usp=drive_link) | aktualisiert
 * 01.06.2025 | .../.../30-10-20 Flight OPS/Procedures | [Procedures A211](https://drive.google.com/file/d/13wRz9Lap1bBotfBsNo9lJGfv0qyuIv_0/view?usp=drive_link) | aktualisiert
