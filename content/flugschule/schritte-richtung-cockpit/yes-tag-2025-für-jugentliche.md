@@ -3,7 +3,7 @@ title: YES-Tag 2026 für Jugendliche
 date: '2024-10-19T12:20:58+02:00'
 draft: false
 weight: '1'
-image: /img/uploads/yes-tag_2025.jpg
+image: /img/uploads/yes_tag_ausgebucht.jpg
 description: >-
   Aviatikluft schnuppern und das Steuer in die Hand nehmen!\
 
@@ -57,13 +57,13 @@ Dagmar Hollerer (Fluglehrerin), Florian Burkhardt (Fluglehrer), Corinna Brüllma
 
 Weiter Informationen folgen.--> 
 
-Anmeldeschluss ist der 24. Mai 2026
+<!-- Anmeldeschluss ist der 24. Mai 2026
 
 [www.mfgt.ch] (https://www.mfgt.ch/) \
 via Mail an: <mailto:info@mfgt.ch> \
-oder per Telefon an: +41 52 366 33 33
+oder per Telefon an: +41 52 366 33 33-->
 
-<!--<font color="red">Leider bereits ausgebucht!</font>-->
+<font color="red">Leider bereits ausgebucht!</font>
 
 \
 [Hier Flyer downloaden](https://drive.google.com/file/d/18I8WJyTEtRCbv1vLFHdCozbkwHeabLhJ/view?usp=sharingg)
