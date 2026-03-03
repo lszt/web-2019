@@ -25,6 +25,6 @@ und
 
 [Anmeldung Flugplatzputzete](https://doodle.com/sign-up-sheet/participate/4a7e32db-1486-45bc-bfe7-ff2aa4abb8e1/select)
 
-Die Dokumente zur GV findet ihr [hier](https://drive.google.com/drive/folders/19V1Dxr2n6WaH149xuR1CpEd1EKHR5xeP)
+Die Dokumente zur GV findet ihr [hier](https://drive.google.com/drive/folders/144w58zC1zoEzSvZ_ox9BniSDY2Bf_Ktc)
 
 Bitte meldet euch für beide Anlässe bis zum 17.03.2026 an, damit wir die Kapazitäten planen können.
