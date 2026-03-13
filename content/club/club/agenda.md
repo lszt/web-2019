@@ -32,7 +32,7 @@ Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | 
 
 ### 25.04.2026 | Einführung Auslandflug
 
-Süddeutschland | [Info's] (/flugschule/weiter/einf%C3%BChrung-auslandflug)
+Süddeutschland | [Info's] (https://drive.google.com/file/d/1NLOGxVMmxwWKUxZXWkPpq387c2kAeZPd/view?usp=sharing)
 
 ### 01.05.2026 | 19:00 | Theorie Sicherheitstraining
 
