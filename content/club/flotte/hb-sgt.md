@@ -10,7 +10,7 @@ buttons:
     cta: false
     title: Preise
     url: >-
-      https://drive.google.com/file/d/1hHf7p8hSex2ewwUmTfjG7_UV06tMBCd_/view?usp=drive_link
+      https://drive.google.com/file/d/1smBVPOXxm0AsU-Tyvkoi1PC6z0LLBa9R/view?usp=sharing
   - cta: true
     title: Reservation
     url: 'https://www.flightnet.aero/default.aspx?company=mfgt'
