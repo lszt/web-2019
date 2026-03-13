@@ -118,7 +118,7 @@ Flugplatz Lommis
 
 Flugplatzbeizli
 
-### 21.11.2026 | 09:00-12:00 | Infoanlass Flugschule MFGT
+### 21.11.2026 | 09:00 | Infoanlass Flugschule MFGT
 
 Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
