@@ -62,9 +62,9 @@ Theorieraum MFGT
 
 Flugplatz Lommis
 
-### 19.-28.06.2026 | Fly-Away 1-2026: Expedition Nordkap
+### 19.-28.06.2026 | MFGT Fly-Away 1-2026 "Expedition Nordkap"
 
-Lommis - Nordkap
+Nordkap
 
 ### 26.06.2026 | Sunrise, Sunset
 
