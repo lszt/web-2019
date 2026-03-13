@@ -74,7 +74,7 @@ Flugplatzbeizli
 
 Flugplatz Lommis
 
-### 18.07.-31.07.2026 | Intensivwochen Flugschule MFGT
+### 18.-31.07.2026 | Intensivwochen Flugschule MFGT
 
 Flugplatz Lommis
 
