@@ -9,7 +9,7 @@ buttons:
   - blank: true
     title: preise
     url: >-
-      https://drive.google.com/file/d/1hHf7p8hSex2ewwUmTfjG7_UV06tMBCd_/view?usp=drive_link
+      https://drive.google.com/file/d/1smBVPOXxm0AsU-Tyvkoi1PC6z0LLBa9R/view?usp=sharing
   - blank: false
     cta: true
     title: reservation
