@@ -10,9 +10,9 @@ description: |-
 buttons:
   - blank: true
     cta: true
-    title: Kontakt 2025
+    title: Kontakt 2026
     url: >-
-      https://drive.google.com/file/d/1dU_lT54t88xNL2gX4DhCjc0OUufUp-8W/view?usp=sharing
+      https://drive.google.com/file/d/1QyEg6v8aY0SvgbJNEE0N5HVzrLlZdu_C/view?usp=sharing
 ---
 **KONTAKT 178 – 2025**
 
