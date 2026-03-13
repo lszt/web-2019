@@ -17,7 +17,7 @@ buttons:
 **KONTAKT 178 – 2025**
 
 ![](/img/uploads/bild_kontakt_2026.png)
-[Download 179 – 2026](https://drive.google.com/file/d/1dU_lT54t88xNL2gX4DhCjc0OUufUp-8W/view?usp=sharing)
+[Download 179 – 2026](https://drive.google.com/file/d/1QyEg6v8aY0SvgbJNEE0N5HVzrLlZdu_C/view?usp=sharing)
 
 **KONTAKT 178 – 2025**
 
