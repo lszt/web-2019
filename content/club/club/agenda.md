@@ -34,7 +34,7 @@ Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | 
 
 Süddeutschland | [Info's] (/flugschule/weiter/einf%C3%BChrung-auslandflug)
 
-### 01.05.2026 | 19:00-21:30 | Theorie Sicherheitstraining
+### 01.05.2026 | 19:00 | Theorie Sicherheitstraining
 
 Theorieraum MFGT
 
