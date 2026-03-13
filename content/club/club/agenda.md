@@ -18,41 +18,105 @@ MZH Lommis | [Anmeldung] (https://doodle.com/sign-up-sheet/participate/cf69fac1-
 
 Flugplatz Lommis | [Anmeldung] (https://doodle.com/sign-up-sheet/participate/4a7e32db-1486-45bc-bfe7-ff2aa4abb8e1/select)
 
+### 06.-17.04.2026 | SPHAIR Kurs 1 (Aquila)
+
+Flugplatz Lommis
+
+### 24.04.2026 | "Sunrise, Sunset"
+
+Flugplatzbeizli
+
 ### 25.04.2026 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
 Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
+### 25.04.2026 | Einführung Auslandflug
+
+Süddeutschland
+
 ### 01.05.2026 | 19:00-21:30 | Theorie Sicherheitstraining
 
-Theorielokal Flugplatz Lommis
+Theorieraum MFGT
 
 ### 02.05.2026 | 08:30 | Praxis Sicherheitstraining
 
 Flugplatz Lommis | [Anmeldung] (mailto:mfgt-flugschule@mfgt.ch>)
 
-### 08.05.2026 | Neumitglieder-Apéro
+### 06.05.2026 | 19:00 | 1. Briefing Fly-Away 1-2026
 
-Flugplatz Lommis 
+Theorieraum MFGT
 
-### 20.06.-28.06.2026 | Fly-Away: Expedition Nordkap
+### 08.05.2026 | 18:30 | Neumitglieder-Apéro
+
+Flugplatzbeizli
+
+### 29.05.2026 | "Sunrise, Sunset"
+
+Flugplatzbeizli
+
+### 10.06.2026 | 19:00 | 2. Briefing Fly-Away 1-2026
+
+Theorieraum MFGT 
+
+### 15.-26.06.2026 | SPHAIR Kurs 2 (Aquila)
+
+Flugplatz Lommis
+
+### 19.-28.06.2026 | Fly-Away 1-2026: Expedition Nordkap
 
 Lommis - Nordkap
 
-### 27. & 28.06.2026 | YES-Tag 2026
+### 26.06.2026 | Sunrise, Sunset
+
+Flugplatzbeizli
+
+### 27.-28.06.2026 | YES-Tage 2026
 
 Flugplatz Lommis
 
-### 18.07.-31.07.2026 | Intensivwochen Lommis
+### 18.07.-31.07.2026 | Intensivwochen Flugschule MFGT
 
 Flugplatz Lommis
 
-### 15.08.-16.08.2026 | Open Days 2026
+### 31.07.2026 | "Sunrise, Sunset"
+
+Flugplatzbeizli
+
+### 10.-21.08.2026 | SPHAIR Kurs 3 (Aquila)
+
+Flugplatz Lommis
+
+### 15.-16.08.2026 | OPEN DAYS 2026
 
 Flugplatz Lommis | [Info's] (/openday)
+
+### 28.08.2026 | "Sunrise, Sunset"
+
+Flugplatzbeizli
 
 ### 12.09.2026 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
 Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
+
+### 15.09.2026 | 19:00 | Briefing Fly-Away 2-2026
+
+Theorieraum MFGT
+
+### 24.-27.09.2026 | MFGT Fly-Away 2-2026
+
+Kroatien
+
+### 25.09.2026 | "Sunrise, Sunset"
+
+Flugplatzbeizli
+
+### 05.-16.10.2026 | SPHAIR Kurs 3 (Aquila)
+
+Flugplatz Lommis
+
+### 30.10.2026 | "Sunrise, Sunset"
+
+Flugplatzbeizli
 
 ### 21.11.2026 | 09:00-12:00 | Infoanlass Flugschule MFGT
 
