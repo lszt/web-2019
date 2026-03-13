@@ -38,7 +38,7 @@ Süddeutschland | [Info's] (/flugschule/weiter/einf%C3%BChrung-auslandflug)
 
 Theorieraum MFGT
 
-### 02.05.2026 | 08:30 | Praxis Sicherheitstraining
+### 02.05.2026 | 08:30 | Sicherheitstraining
 
 Flugplatz Lommis | [Anmeldung] (mailto:mfgt-flugschule@mfgt.ch>)
 
