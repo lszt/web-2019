@@ -12,7 +12,7 @@ buttons:
   - blank: true
     title: Preisliste
     url: >-
-      https://drive.google.com/file/d/1wW83YTuYMekE5_0Zy4ZPymRLpeg5CvIr/view?usp=sharing
+      https://drive.google.com/file/d/1tjKgBAnTU-ZUs5CwpOngY4CkywcLpyL6/view?usp=sharing
   - blank: true
     cta: false
     title: AGB
@@ -24,3 +24,7 @@ buttons:
     url: 'mailto:maintenance@mfgt.ch'
 ---
 
+
+
+
+https://drive.google.com/file/d/1wW83YTuYMekE5_0Zy4ZPymRLpeg5CvIr/view?usp=sharing
