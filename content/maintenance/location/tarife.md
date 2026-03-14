@@ -24,7 +24,3 @@ buttons:
     url: 'mailto:maintenance@mfgt.ch'
 ---
 
-
-
-
-https://drive.google.com/file/d/1wW83YTuYMekE5_0Zy4ZPymRLpeg5CvIr/view?usp=sharing
