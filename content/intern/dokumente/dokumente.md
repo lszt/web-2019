@@ -8,6 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 13.03.2026 | 40 Flugbetrieb/Charter | [Preisliste MFGT] (https://drive.google.com/file/d/1tjKgBAnTU-ZUs5CwpOngY4CkywcLpyL6/view?usp=sharing) | hinzugefügt
 * 13.03.2026 | 40 Flugbetrieb/Charter | [Treibstoffzuschlag] (https://drive.google.com/file/d/15iaeityrKwtVwYJUMiHtN5ino7FdK9ZQ/view?usp=sharing) | aktualisiert
 * 13.03.2026 | 40 Flugbetrieb/Charter | [Charterpreise] (https://drive.google.com/file/d/1smBVPOXxm0AsU-Tyvkoi1PC6z0LLBa9R/view?usp=sharing) | aktualisiert
 * 10.03.2026 | 10 Allgemein/GV 2026 | [Unterlagen GV](https://drive.google.com/drive/folders/144w58zC1zoEzSvZ_ox9BniSDY2Bf_Ktc) | aktualisiert
