@@ -22,22 +22,22 @@ buttons:
 **KONTAKT 178 – 2025**
 
 ![](/img/uploads/bild_kontakt_2025.jpg)
-[Download 178 – 2025](https://drive.google.com/file/d/1dU_lT54t88xNL2gX4DhCjc0OUufUp-8W/view?usp=sharing)
+[Download 178 – 2025](https://drive.google.com/file/d/1nhBw2POIyhm3DlkdzuY8yhJgKPQasrjM/view?usp=sharing)
 
 **KONTAKT 177 – 2024**
 
 ![](/img/uploads/bild_kontakt_2024.jpg)
-[Download 177 – 2024](https://drive.google.com/file/d/17xTeDBDtNbmtrI0vTp2O7ZgLQzEGY11p/view?usp=sharing)
+[Download 177 – 2024](https://drive.google.com/file/d/1Yeb3Ed1c5YfPmtHe6t2DIFnWPklBpCO0/view?usp=sharing)
 
 **KONTAKT 176 – 2023**
 
 ![](/img/uploads/bild_kontakt_2023.jpg)
-[Download 176 – 2023](https://drive.google.com/file/d/1OCxuLNlVZUE8FSTWJeebC9PKn3dWSzY_/view?usp=sharing)
+[Download 176 – 2023](https://drive.google.com/file/d/14C-F7IScZGspMy7pmYbISSFdq4XTpLpw/view?usp=sharing)
 
 **KONTAKT 175 – 2022**
 
 ![](/img/uploads/bild_kontakt_2022.jpg)
-[Download 175 – 2022](https://drive.google.com/file/d/1qGFv7WJHdteE21Eccr5GLjeapEhvY49f/view?usp=sharing)
+[Download 175 – 2022](https://drive.google.com/file/d/1YxTHQlcHCpulk1_jUHqlZmVGgJrZSazj/view?usp=sharing)
 
 **KONTAKT 174 – 2021**
 
