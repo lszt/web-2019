@@ -12,7 +12,7 @@ buttons:
     cta: true
     title: Kontakt 2026
     url: >-
-      https://drive.google.com/file/d/1QyEg6v8aY0SvgbJNEE0N5HVzrLlZdu_C/view?usp=sharing
+      https://drive.google.com/file/d/1wlmvm3daQ3zaxr4IYX-S_7y42mD1j4NK/view?usp=sharing
 ---
 **KONTAKT 179 – 2026**
 
