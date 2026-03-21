@@ -8,6 +8,8 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 21.03.2026 | 40 Flugbetrieb/Flugzeuge/HB-KLD/AFM | [Weight & Balance Record] (https://drive.google.com/file/d/1q3vStqBaFJBktqVsTVwOoJbIje2OK4YR/view?usp=sharing) | hinzugefügt
+* 21.03.2026 | 40 Flugbetrieb/Charter | [Daten Flugzeuge MFGT](https://drive.google.com/file/d/1pVXzhQZ-t6iJq46Jx576nK0oyn-Fy0BG/view?usp=sharing) | aktualisiert
 * 17.03.2026 | 10 Allgemein/Kontakt | [Kontakt 179 2026] (https://drive.google.com/file/d/1wlmvm3daQ3zaxr4IYX-S_7y42mD1j4NK/view?usp=sharing) | hinzugefügt
 * 13.03.2026 | 40 Flugbetrieb/Charter | [Preisliste MFGT] (https://drive.google.com/file/d/1tjKgBAnTU-ZUs5CwpOngY4CkywcLpyL6/view?usp=sharing) | hinzugefügt
 * 13.03.2026 | 40 Flugbetrieb/Charter | [Treibstoffzuschlag] (https://drive.google.com/file/d/15iaeityrKwtVwYJUMiHtN5ino7FdK9ZQ/view?usp=sharing) | aktualisiert
@@ -26,7 +28,6 @@ description: >-
 * 01.03.2026 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Working Checklist | [Working Checklist A211](https://drive.google.com/file/d/1ggnl7vSvzO5eUxuaNTNJHj32kULNPhFf/view?usp=sharing) | aktualisiert
 * 27.02.2026 | .../.../30-40-20 Refresherflug | [Refresherflug 26_27] (https://drive.google.com/drive/folders/1El0HrLJ8pVFVLtQKhWFfoZesycumliq2) | hinzugefügt
 * 06.02.2026 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG | [Familiarisation & Difference Training](https://drive.google.com/file/d/13ntWMeR84q03WWJhEXr_8rBqmrqXBGry/view?usp=sharing) | aktualisiert
-* 23.01.2026 | 40 Flugbetrieb/Charter | [Daten Flugzeuge MFGT](https://drive.google.com/file/d/1pVXzhQZ-t6iJq46Jx576nK0oyn-Fy0BG/view?usp=sharing) | aktualisiert
 * 19.01.2026 | 40 Flugbetrieb/Flugzeuge/HB-ETG | [Borddokumente] (https://drive.google.com/drive/folders/1eL23qJVGEQOXClo27Ydcbj4fKBuSro1I) | hinzugefügt
 
 <hr>
