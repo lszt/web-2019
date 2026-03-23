@@ -16,7 +16,7 @@ buttons:
   - cta: false
     title: unterrichtsmaterial/kosten
     url: >-
-      https://drive.google.com/file/d/1OF5jnmQs3QvfhtqFDJsnDaSapWGiWJ92/view?usp=sharing
+      https://drive.google.com/file/d/1C4CwHOsDMwz8x7EwVhps9fiJlVAh9A6D/view?usp=sharing
   - cta: true
     title: anmelden
     url: >-
