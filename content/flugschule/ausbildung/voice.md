@@ -25,9 +25,9 @@ Bei mehr als 5 Teilnehmern finden die Praxisblöcke jeweils in zwei Gruppen am g
 
 [Kursprogramm] (https://drive.google.com/file/d/1SJ4whlMiod6a2NjY8dkaT3JBKYDAVtho/view?usp=sharing)
 
-**Kursleiterin**
+**Informationen**
 
-Dagmar Hollerer, Fluglehrerin, +41 52 366 33 33, <mailto:info@mfgt.ch>
+Motorfluggruppe Thurgau MFGT, +41 52 366 33 33, <mailto:info@mfgt.ch>
 
 **Ort**
 
@@ -35,8 +35,7 @@ Flugplatz Lommis, Theoriesaal
 
 **Theoriematerial**
 
-* eVFR Manual
-* Ordner «RTF Theorie» und «VFR RTF Training» (je CHF 98.–) 
+Auf Anfrage bei Sekretariat Motorfluggruppe Thurgau MFGT, +41 52 366 33 33, <mailto:info@mfgt.ch> 
 
 **Kurskosten**
 
