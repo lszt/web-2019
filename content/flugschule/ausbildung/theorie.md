@@ -62,6 +62,6 @@ Weitere Details sowie Kosten siehe [AGB](https://drive.google.com/file/d/1iF-XZ-
 
 [Richtlinien des BAZL für die Theorieprüfung](https://drive.google.com/file/d/1DBXhjkG0RpJVqXFAOQV2O2dlgqf2GFPN/view?usp=share_link)
 
-**Kursleiterin:**
+**Information:**
 
-Dagmar Hollerer, Fluglehrerin, <mailto:info@mfgt.ch>, +41 52 366 33 33
+Motorfluggruppe Thurgau MFGT, <mailto:info@mfgt.ch>, +41 52 366 33 33
