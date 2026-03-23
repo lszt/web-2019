@@ -58,7 +58,7 @@ Du kannst dir das theoretische Wissen auch online erwerben. Du wirst von Spezial
 
 Angehende Helikopter- oder Ballonpiloten wenden sich bei Interesse bitte an das Sekretariat der MFGT unter <mailto:sekretariat@mfgt.ch>.
 
-Weitere Details sowie Kosten siehe [AGB](https://drive.google.com/file/d/1iF-XZ-CfMZVE1tXJXf4WRGbm4CRAZv92/view?usp=sharing), [Kursprogramm](https://drive.google.com/file/d/1jYTqdmJKFjEv-ckcqa4mY13qfhFPGgv5/view?usp=sharing) und [Unterrichtsmaterial (Kosten)](https://drive.google.com/file/d/1OF5jnmQs3QvfhtqFDJsnDaSapWGiWJ92/view?usp=sharing).
+Weitere Details sowie Kosten siehe [AGB](https://drive.google.com/file/d/1iF-XZ-CfMZVE1tXJXf4WRGbm4CRAZv92/view?usp=sharing), [Kursprogramm](https://drive.google.com/file/d/1jYTqdmJKFjEv-ckcqa4mY13qfhFPGgv5/view?usp=sharing) und [Unterrichtsmaterial (Kosten)](https://drive.google.com/file/d/1C4CwHOsDMwz8x7EwVhps9fiJlVAh9A6D/view?usp=sharing).
 
 [Richtlinien des BAZL für die Theorieprüfung](https://drive.google.com/file/d/1DBXhjkG0RpJVqXFAOQV2O2dlgqf2GFPN/view?usp=share_link)
 
