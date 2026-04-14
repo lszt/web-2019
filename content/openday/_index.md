@@ -34,7 +34,7 @@ Willkommen zu den 2. Open Days auf dem Flugplatz Lommis.
 
 **Informationen für anfliegende Piloten:**
 
-Weiter Informationen für Piloten findet ihr unter [Open Day 2026 - Pilots Info] (https://www.mfgt.ch/admin/#/collections/openday-pilot/entries/_index)
+Weiter Informationen für Piloten findet ihr unter [Open Day 2026 - Pilots Info] (https://www.mfgt.ch/openday-pilot/)
 
 <!--
 
