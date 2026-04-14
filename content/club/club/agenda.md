@@ -6,14 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 27.03.2026 | 19:00 | GV MFGT
-
-MZH Lommis | [Anmeldung] (https://doodle.com/sign-up-sheet/participate/cf69fac1-dbb6-4ed9-ab15-f1b47223cd19/select) | [Unterlagen] (https://drive.google.com/drive/folders/19V1Dxr2n6WaH149xuR1CpEd1EKHR5xeP)
-
-### 28.03.2026 | 08:00 | Flugplatzputzete
-
-Flugplatz Lommis | [Anmeldung] (https://doodle.com/sign-up-sheet/participate/4a7e32db-1486-45bc-bfe7-ff2aa4abb8e1/select)
-
 ### 06.-17.04.2026 | SPHAIR Kurs 1 (Aquila)
 
 Flugplatz Lommis
