@@ -78,6 +78,10 @@ Flugplatz Lommis
 
 Flugplatz Lommis | [Info's] (/openday)
 
+### 25.08.2026 | Spin Training
+
+Flugplatz Amlikon | [Info's] (/club/kurse-veranstaltungen/spin-training/)
+
 ### 28.08.2026 | "Sunrise, Sunset"
 
 Flugplatzbeizli
