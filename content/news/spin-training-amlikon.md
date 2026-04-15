@@ -6,5 +6,8 @@ image: /img/uploads/spin_training.jpg
 positionx: 50
 positiony: 50
 description: Spin Training in Amlikon auf einer ASK21.
+buttons:
+  - title: mehr
+    url: /club/kurse-veranstaltungen/spin-training/
 ---
 
