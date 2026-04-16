@@ -11,16 +11,16 @@ description: |-
   [florian.burkhardt@mfgt.ch](mailto:florian.burkhardt@mfgt.ch)
 
   \
-  Stellvertreter:
+  **Stellvertreter:**
 
   * Philipp Hug
 
   \
-  Aufgaben:
+  **Aufgaben:**
 
   * Flugbetrieb/FDL
   * Flottenstrategie
   * Charter
-  * Rundflug
+  * SPHAIR
 ---
 
