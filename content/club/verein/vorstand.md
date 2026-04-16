@@ -2,24 +2,24 @@
 title: Flugschule
 date: 2017-01-04T15:04:10.000Z
 weight: '3'
-image: /img/uploads/kurath.jpg
+image: /img/uploads/boller.jpg
 description: |-
-  **Josef Kurath**
+  **Hans Peter Boller**
 
-  T +41 78 810 45 49\
-  <mailto:josef.kurath@mfgt.ch>
+  T +41 52 366 33 33\
+  <mailto:hp.boller@mfgt.ch>
 
   \
-  Stellvertreter:
+  **Stellvertreter:**
 
   * Florian Burkhardt
 
   \
-  Aufgaben:
+  **Aufgaben:**
 
-  * Strategie Flugschule
+  * dHT SwissPSA Flugschule
+  * Strategie
   * MFGT Refresher
-  * Delegierter SwissPSA
-  * SPHAIR
+  * Rundflug
 ---
 
