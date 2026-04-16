@@ -10,12 +10,12 @@ description: |-
   <mailto:andreas.bloch@mfgt.ch>
 
   \
-  Stellvertreter:
+  **Stellvertreter:**
 
   * André Heinzelmann
 
   \
-  Aufgaben:
+  **Aufgaben:**
 
   * Events, Aktivitäten 
   * Interne Kommunikation
