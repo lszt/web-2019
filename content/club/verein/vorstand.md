@@ -1,5 +1,5 @@
 ---
-title: Flugschule
+title: Flugschule/Training
 date: 2017-01-04T15:04:10.000Z
 weight: '3'
 image: /img/uploads/boller.jpg
