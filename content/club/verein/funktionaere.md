@@ -25,9 +25,10 @@ description: |-
   * Delegierter SwissPSA
 
   \
-  bis auf weiteres:
+  _bis auf weiteres_
 
   **Infrastruktur:**
+
   * Flugplatz
   * Tankstelle
   * Hangar/Solar
