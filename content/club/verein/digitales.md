@@ -1,5 +1,5 @@
 ---
-title: 'Technik, IT'
+title: 'Technik, Digitales'
 date: '2019-05-10T15:45:58+02:00'
 draft: false
 weight: '5'
@@ -11,15 +11,15 @@ description: |-
   <mailto:philipp.hug@mfgt.ch>
 
   \
-  Stellvertreter:
+  **Stellvertreter:**
 
-  * Josef Kurath
+  * Florian Burkhardt
 
   \
-  Aufgaben:
+  **Aufgaben:**
 
-  * Accountable Manager Technik
+  * AM Technik
   * Flugzeuge
-  * IT
+  * Digitales
 ---
 
