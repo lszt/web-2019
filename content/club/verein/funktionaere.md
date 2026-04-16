@@ -11,17 +11,26 @@ description: |-
   <mailto:andre.heinzelmann@mfgt.ch>
 
   \
-  Stellvertreter:
+  **Stellvertreter:**
 
   * Alois Sauter
 
   \
-  Aufgaben:
+  **Aufgaben:**
 
   * Strategie
-  * Verbände, Behörden
+  * Verbände & Behörden
   * Personal
-  * Marketing, Werbung
-  * Infrastruktur (bis auf weiteres)
+  * Marketing & Werbung
+  * Delegierter SwissPSA
+
+  \
+  bis auf weiteres:
+
+  **Infrastruktur:**
+  * Flugplatz
+  * Tankstelle
+  * Hangar/Solar
+  * Restaurant
 ---
 
