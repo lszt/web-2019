@@ -10,12 +10,12 @@ description: |-
   <mailto:alois.sauter@mfgt.ch>
 
   \
-  Stellvertreter:
+  **Stellvertreter:**
 
   * Philipp Hug
 
   \
-  Aufgaben:
+  **Aufgaben:**
 
   * FiBu
   * Statuten
