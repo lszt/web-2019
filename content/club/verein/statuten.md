@@ -1,7 +1,7 @@
 ---
 title: 'Events, Kommunikation'
 date: 2017-01-04T15:04:10.000Z
-weight: '7'
+weight: '6'
 image: /img/uploads/fluglehrer_blanco.jpg
 description: |-
   **Andi Bloch**
