@@ -1,7 +1,7 @@
 ---
 title: 'Flugzeugmechaniker/in, 60-100%'
-date: '2021-06-09T15:35:00+02:00'
-draft: true
+date: '2026-04-18T15:35:00+02:00'
+draft: false
 image: /img/uploads/maintenance_1.jpg
 positionx: 50
 positiony: 50
@@ -13,7 +13,7 @@ buttons:
     cta: true
     title: inserat
     url: >-
-      https://drive.google.com/file/d/1NelZco18smPcqt5e88GN0Zd-BqQ94Bah/view?usp=sharing
+      https://drive.google.com/file/d/1uXDXlMfjTJ2RtsuXgME6dabdNLfV7ZzA/view?usp=sharing
 ---
 Die Motorfluggruppe Thurgau betreibt in Lommis einen eigenen, sowohl nach EASA, als auch nach der Verordnung über die Lufttüchtigkeit von Luftfahrzeugen (VLL) lizenzierten Unterhaltsbetrieb. Wir sind für den Unterhalt an Flugzeugen und Motorseglern mit Kolbenmotor in Metall-, Holz-, Gemischt- und Kunststoff-Bauweise bis 5'700 kg MTOW zertifiziert. Neben dem Unterhalt der clubeigenen Flotte steht auch der Unterhalt von in Lommis stationierten oder auswärtigen Flugzeugen privater Halter auf dem Programm.
 
@@ -52,7 +52,7 @@ in der Funktion als
 * hohe Eigenverantwortung
 
 **Bewerbung** \
-Vorzugsweise in elektronischer Form bis 20. Juni 2021 an:
+Vorzugsweise in elektronischer Form an:
 
 MFGT Motorfluggruppe Thurgau, Betriebsleitung \
 Frau Corinna Brüllmann \
