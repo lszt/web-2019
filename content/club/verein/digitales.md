@@ -2,7 +2,7 @@
 title: 'Technik, Digitales'
 date: '2019-05-10T15:45:58+02:00'
 draft: false
-weight: '5'
+weight: '4'
 image: /img/uploads/hug.jpg
 description: |-
   **Philipp Hug**
