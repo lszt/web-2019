@@ -26,6 +26,6 @@ Die Themen werden an Hand von konkreten Beispielen erläutert.
 Natürlich kann auch auf aktuelle Fragen und Probleme eingegangen werden.
 
 **Anmeldung:**\
-bis spätestens 30. April 2026
+bis spätestens 30. April 2026 unter [Link] (https://doodle.com/sign-up-sheet/participate/1461fc62-d362-4591-923f-c9511d4ff31c/select)
 
 Bei Fragen zum Anlass dürft ihr euch jederzeit an die beiden Organisatoren H.P. Boller <mailto:hp.boller@mfgt.ch> und Res Müller <mailto:andres.mueller@mfgt.ch> wenden.
