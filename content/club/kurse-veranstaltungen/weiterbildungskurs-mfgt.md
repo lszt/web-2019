@@ -25,6 +25,7 @@ Der nächste Kurs findet am **Dienstag, 26. Mai 2026** statt.
 Die Themen werden an Hand von konkreten Beispielen erläutert.
 Natürlich kann auch auf aktuelle Fragen und Probleme eingegangen werden.
 
-**Anmeldung bis spätestens 30. April 2026**
+**Anmeldung:**\
+bis spätestens 30. April 2026
 
 Bei Fragen zum Anlass dürft ihr euch jederzeit an die beiden Organisatoren H.P. Boller <mailto:hp.boller@mfgt.ch> und Res Müller <mailto:andres.mueller@mfgt.ch> wenden.
