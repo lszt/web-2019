@@ -24,7 +24,7 @@ Flugplatzbeizli
 
 ### 26.05.2026 | 19:00 | Weiterbildungsanlass MFGT
 
-Raum Lommis | [Anmeldung] (https://doodle.com/sign-up-sheet/participate/1461fc62-d362-4591-923f-c9511d4ff31c/select)
+Raum Lommis | [Info's] (/club/kurse-veranstaltungen/weiterbildungskurs-mfgt/) | [Anmeldung] (https://doodle.com/sign-up-sheet/participate/1461fc62-d362-4591-923f-c9511d4ff31c/select)
 
 ### 29.05.2026 | "Sunrise, Sunset"
 
