@@ -1,7 +1,7 @@
 ---
 title: Refresher 'Voice'
 date: 2017-01-04T15:04:10.000Z
-weight: '5'
+weight: '3'
 image: /img/uploads/ausbildung_voice.jpg
 description: >-
   Fühlst Du dich unsicher am Funk oder willst Du deine Skills verbessern? Dann
