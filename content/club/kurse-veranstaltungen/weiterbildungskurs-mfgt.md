@@ -14,6 +14,7 @@ buttons:
 Der nächste Kurs findet am **Dienstag, 26. Mai 2026** statt.
 
 **Themen:**
+
 * Ein anspruchsvoller Flug...
 * Erkennen und Mitigieren von Gefahren in der Vorbereitungsphase
 * Situational Awareness / Recognition
