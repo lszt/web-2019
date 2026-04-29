@@ -22,7 +22,7 @@ Wir zeigen dir, wie die Ausbildung aufgebaut ist, welche Voraussetzungen du mitb
 
 <!--**Samstag, 07.02.2026, 09:00 - 12:00 Uhr**-->
 
-**Samstag, 25.04.2026, 09:00 - 12:00 Uhr**
+<!--**Samstag, 25.04.2026, 09:00 - 12:00 Uhr**-->
 
 **Samstag, 12.09.2026, 09:00 - 12:00 Uhr**
 
