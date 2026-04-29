@@ -2,7 +2,7 @@
 title: Spin Training
 date: '2026-04-15T09:09:22+02:00'
 draft: false
-weight: '6'
+weight: '4'
 image: /img/uploads/spin_training.jpg
 description: Der Ausbildungsschwerpunkt ist Spin und Spin Recovery.
 ---
