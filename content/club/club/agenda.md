@@ -6,22 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 06.-17.04.2026 | SPHAIR Kurs 1 (Aquila)
-
-Flugplatz Lommis
-
-### 24.04.2026 | "Sunrise, Sunset"
-
-Flugplatzbeizli
-
-### 25.04.2026 | 09:00 | Infoanlass Flugschule MFGT
-
-Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
-
-### 25.04.2026 | Einführung Auslandflug
-
-Süddeutschland | [Info's] (https://drive.google.com/file/d/1NLOGxVMmxwWKUxZXWkPpq387c2kAeZPd/view?usp=sharing)
-
 ### 01.05.2026 | 19:00 | Theorie Sicherheitstraining
 
 Theorieraum MFGT
@@ -125,3 +109,15 @@ Wir sind dankbar für deine Rückmeldung an <mailto:webmaster@mfgt.ch>
 <!-- ### 31.10.2025 | 18:30 – 23:00 | «Apéro o'Clock»
 
 MFGT Chill-Out im Flugplatzbeizli -->
+
+<!--### 06.-17.04.2026 | SPHAIR Kurs 1 (Aquila)
+
+Flugplatz Lommis-->
+
+<!--### 24.04.2026 | "Sunrise, Sunset"
+
+Flugplatzbeizli-->
+
+<!--### 25.04.2026 | 09:00 | Infoanlass Flugschule MFGT
+
+Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)-->
