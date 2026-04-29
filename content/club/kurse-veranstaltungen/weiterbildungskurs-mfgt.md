@@ -9,6 +9,7 @@ description: >-
   ihre Mitglieder an.
 buttons:
   - title: agenda
+    url: /club/club/agenda/
 ---
 Der nächste Kurs findet am **Dienstag, 26. Mai 2026** statt.
 
