@@ -1,7 +1,7 @@
 ---
 title: Sicherheitstraining 2026
 date: '2026-03-01T09:00:10+01:00'
-draft: false
+draft: true
 image: /img/uploads/sicherheitstraining_decathlon.jpg
 positionx: 50
 positiony: 50
