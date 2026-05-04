@@ -26,7 +26,7 @@ CHF 220
 10, nach Eingang der Anmeldungen
 
 **Anmeldung**\
-Bis 31.07.2026 an <mailto:mfgt-flugschule@mfgt.ch>
+Bis 31.07.2026 [Link] (https://doodle.com/sign-up-sheet/participate/7f2049c2-b751-4b21-bce2-080194e4157f/select)
 
 **Kontaktperson**\
 Jürg Hasler FI, <mailto:juerg.hasler@mfgt.ch>, +41 79 789 36 26
