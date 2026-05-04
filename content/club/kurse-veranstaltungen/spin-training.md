@@ -5,6 +5,9 @@ draft: false
 weight: '4'
 image: /img/uploads/spin_training.jpg
 description: Der Ausbildungsschwerpunkt ist Spin und Spin Recovery.
+buttons:
+  - title: agenda
+    url: /club/club/agenda/
 ---
 **Spin Training Amlikon**
 
