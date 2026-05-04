@@ -1,5 +1,5 @@
 ---
-title: Spin Training
+title: Upset Prevention and Recovery Training
 date: '2026-04-15T09:09:22+02:00'
 draft: false
 weight: '4'
