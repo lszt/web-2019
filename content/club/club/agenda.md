@@ -56,7 +56,7 @@ Flugplatz Lommis
 
 ### 15.-16.08.2026 | OPEN DAYS 2026
 
-Flugplatz Lommis | [Info's] (/openday)
+Flugplatz Lommis | [Info's] (/openday) | [Helferanmeldung] (https://docs.google.com/forms/d/e/1FAIpQLSeNzh3GNa4bSACCXn770bAtFD_694fqNBZGATf1M4Hz8bHHCg/viewform?pli=1)
 
 ### 25.08.2026 | Upset Prevention and Recovery Training
 
