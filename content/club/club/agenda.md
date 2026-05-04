@@ -6,14 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 01.05.2026 | 19:00 | Theorie Sicherheitstraining
-
-Theorieraum MFGT
-
-### 02.05.2026 | 08:30 | Sicherheitstraining
-
-Flugplatz Lommis | [Anmeldung] (mailto:mfgt-flugschule@mfgt.ch>)
-
 ### 06.05.2026 | 19:00 | 1. Briefing Fly-Away 1-2026
 
 Theorieraum MFGT
@@ -66,9 +58,9 @@ Flugplatz Lommis
 
 Flugplatz Lommis | [Info's] (/openday)
 
-### 25.08.2026 | Spin Training
+### 25.08.2026 | Upset Prevention and Recovery Training
 
-Flugplatz Amlikon | [Info's] (/club/kurse-veranstaltungen/spin-training/)
+Flugplatz Amlikon | [Info's] (/club/kurse-veranstaltungen/spin-training/) | [Anmeldung] (https://doodle.com/sign-up-sheet/participate/7f2049c2-b751-4b21-bce2-080194e4157f/select)
 
 ### 28.08.2026 | "Sunrise, Sunset"
 
