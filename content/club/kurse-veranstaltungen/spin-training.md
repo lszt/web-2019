@@ -19,6 +19,8 @@ PPL
 Der Ausbildungsschwerpunkt ist Spin und Spin Recovery. Die theoretischen Grundlagen werden in einem Longbriefing vermittelt.
 Praktisch wird im Segel-Schulflugzeug ASK21 geflogen. Die Übungen werden demonstriert und anschliessend selbst durchgeführt
 
+[Flyer] (https://drive.google.com/file/d/1d3OXbLh1PIFSw8Pq6Q7U85-v-HGzFzZD/view?usp=sharing)
+
 **Kosten**\
 CHF 220
 
