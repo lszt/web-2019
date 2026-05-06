@@ -8,8 +8,7 @@ description: >-
   Die Motorfluggruppe Thurgau ist zuständig für die Erteilung von
   **Drohnenflugbewilligungen im 5-km-Radius um den Flugplatz Lommis (LSZT).** Ob
   Sie sich innerhalb dieses Bereichs befinden, können Sie der [interaktiven
-  Drohnenkarte]
-  (https://map.geo.admin.ch/#/map?lang=de&center=2660000,1190000&z=1&topic=ech&layers=ch.bazl.einschraenkungen-drohnen&bgLayer=ch.swisstopo.pixelkarte-farbe)
+  Drohnenkarte](https://map.geo.admin.ch/#/map?lang=de¢er=2660000,1190000&z=1&topic=ech&layers=ch.bazl.einschraenkungen-drohnen&bgLayer=ch.swisstopo.pixelkarte-farbe)
   des Bundes entnehmen.
 buttons:
   - cta: true
@@ -21,9 +20,9 @@ Die Motorfluggruppe Thurgau ist zuständig für die Erteilung von **Drohnenflugb
 
 Weitere Informationen zum Thema Drohnen finden Sie auf der [offiziellen Seite des Bundes](https://www.bazl.admin.ch/bazl/de/home/drohnen.html).
 
-Ab 250g benötigen Sie zwingend ein [Zertifikat] (https://www.bazl.admin.ch/bazl/de/home/drohnen/anfaenger2/uasgate/certificates.html), **jedoch empfehlen wir Ihnen stark, auch unter 250g  zumindest die Schulung A1/A3 zu absolvieren.** 
+Ab 250g benötigen Sie zwingend ein [Zertifikat] (https://www.bazl.admin.ch/de/fernpiloten), **jedoch empfehlen wir Ihnen stark, auch unter 250g  zumindest die Schulung A1/A3 zu absolvieren.** 
 
-Bitte beachten Sie, dass auch **Drohnen unter 250g registriert werden müssen, sofern sie mit einer Kamera ausgestattet sind.** Weitere Infos zur [Kategorie A1 - Drohnen unter 250g] (https://www.bazl.admin.ch/bazl/de/home/drohnen/open1/bis_250.html).
+Bitte beachten Sie, dass auch **Drohnen unter 250g registriert werden müssen, sofern sie mit einer Kamera ausgestattet sind.** [Weitere Infos zur Registrierung](https://www.bazl.admin.ch/de/registrierung-drohnenbetreiber).
 
 Vor **jedem Flug** muss das aktuelle NOTAM überprüft werden. Weitere Informationen hier: [Flugeinschränkungen und Karten] (https://www.bazl.admin.ch/bazl/de/home/drohnen/open1/drone-maps.html). 
 
