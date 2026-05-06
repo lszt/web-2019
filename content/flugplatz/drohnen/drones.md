@@ -24,7 +24,7 @@ Ab 250g benötigen Sie zwingend ein [Zertifikat] (https://www.bazl.admin.ch/de/f
 
 Bitte beachten Sie, dass auch **Drohnen unter 250g registriert werden müssen, sofern sie mit einer Kamera ausgestattet sind.** [Weitere Infos zur Registrierung](https://www.bazl.admin.ch/de/registrierung-drohnenbetreiber).
 
-Vor **jedem Flug** muss das aktuelle NOTAM überprüft werden. Weitere Informationen hier: [Flugeinschränkungen und Karten] (https://www.bazl.admin.ch/bazl/de/home/drohnen/open1/drone-maps.html). 
+Vor **jedem Flug** muss das aktuelle NOTAM überprüft werden. Weitere Informationen hier: [Flugeinschränkungen und Karten] (https://www.bazl.admin.ch/de/geografische-flugeinschraenkungen). 
 
 Für die Beantragung einer Drohnenflugbewilligung im 5-km-Radius um den Flugplatz Lommis (LSZT) nutzen Sie bitte das folgende Formular: [Bewilligungsformular] (https://docs.google.com/forms/d/e/1FAIpQLSdZ7kTAcEbUMcPGF2ZnzKgcaxxjbfPLMyqV1kLjGL-SvqRJrw/viewform?pli=1). 
 
