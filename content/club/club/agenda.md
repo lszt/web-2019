@@ -6,14 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 06.05.2026 | 19:00 | 1. Briefing Fly-Away 1-2026
-
-Theorieraum MFGT
-
-### 08.05.2026 | 18:30 | Neumitglieder-Apéro
-
-Flugplatzbeizli
-
 ### 26.05.2026 | 19:00 | Weiterbildungsanlass MFGT
 
 Raum Lommis | [Info's] (/club/kurse-veranstaltungen/weiterbildungskurs-mfgt/) | [Anmeldung] (https://doodle.com/sign-up-sheet/participate/1461fc62-d362-4591-923f-c9511d4ff31c/select)
