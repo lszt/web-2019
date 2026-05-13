@@ -1,7 +1,7 @@
 ---
 title: Weiterbildungskurs MFGT
 date: '2026-04-29T15:10:35+02:00'
-draft: false
+draft: true
 weight: '6'
 image: /img/uploads/ausbildung_theorie.jpg
 description: >-
