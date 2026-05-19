@@ -65,16 +65,19 @@ function formatDate(date) {
 function fetchAirportStatus() {
 	// Only if airport status is embedded
 	if ($('#airport-status').length) {
+		$('#airport-status').addClass('airport-loading');
 		$.get('https://api.mfgt.ch/api/v1/aerodromestatus', function( data ) {
 			var last_update_by = new Date(data.last_update_date);
-			$('#airport-status').addClass('airport-' + data.status);
+			var labels = { open: 'Flugplatz Offen', restricted: 'Flugplatz eingeschränkt', closed: 'Flugplatz geschlossen' };
+			$('#airport-status').removeClass('airport-loading').addClass('airport-' + data.status);
+			$('#airport-status__label').html(labels[data.status] || '');
 			$('#airport-status__message').html(data.message);
 			$('#airport-status__last-update-date').html(formatDate(last_update_by));
 			$('#airport-status__last-updated-by').html(data.last_update_by);
+		}).fail(function() {
+			$('#airport-status').removeClass('airport-loading').addClass('airport-error');
+			$('#airport-status__message').html('Status konnte nicht geladen werden');
 		});
-	} else {
-		$('#airport-status').addClass('airport-error');
-		$('#airport-status__message').html('Status konnte nicht geladen werden');
 	}
 };
 

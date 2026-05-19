@@ -24,7 +24,7 @@
 	<meta name="theme-color" content="#3faeee">
 
 	<!-- CSS -->
-  {{ $style := resources.Get "scss/main.scss" | toCSS | postCSS | minify | fingerprint }}
+  {{ $style := resources.Get "scss/main.scss" | toCSS | minify | fingerprint }}
   <link rel="stylesheet" href="{{ $style.Permalink }}">
 
 	<!-- Script -->

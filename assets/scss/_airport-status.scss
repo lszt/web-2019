@@ -1,39 +1,88 @@
+.airport-webcam--slider {
+  aspect-ratio: 4/3;
+  overflow: hidden;
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+}
+
+@keyframes skeleton-shimmer {
+  0%   { background-position: -400px 0; }
+  100% { background-position: 400px 0; }
+}
+
 #airport-status {
-  position: relative;
-  font-size: 1.3em;
-  line-height: 1.8em;
+  display: flex;
+  flex-direction: column;
+  aspect-ratio: 4/3;
+  font-size: 1.1em;
+  line-height: 1.6em;
+
   &.airport-open {
     background: #c3f135;
-    .airport-status__icon {
-      background-image: url('/img/icon-check-circle.svg');
-    }
+    .airport-status__footer { background: rgba(0,0,0,0.10); }
+    .airport-status__icon { background-image: url('/img/icon-check-circle.svg'); filter: brightness(0) invert(0.2); }
   }
   &.airport-restricted {
     background: #fef9e6;
-    .airport-status__icon {
-      background-image: url('/img/icon-restricted-circle.svg');
-    }
+    .airport-status__footer { background: rgba(0,0,0,0.07); }
+    .airport-status__icon { background-image: url('/img/icon-restricted-circle.svg'); filter: brightness(0) invert(0.2); }
   }
   &.airport-closed {
     background: #ff6838;
-    .airport-status__icon {
-      background-image: url('/img/icon-closed-circle.svg');
-    }
+    color: #fff;
+    .airport-status__footer { background: rgba(0,0,0,0.15); }
+    .airport-status__icon { background-image: url('/img/icon-closed-circle.svg'); filter: brightness(0) invert(1); }
   }
   &.airport-error {
-    background: grey;
+    background: #ccc;
   }
-  .content-block__text {
-    padding: 1em 1em 0 1em;
+  &.airport-loading {
+    background: #e8e8e8;
+    background: linear-gradient(90deg, #e8e8e8 25%, #d0d0d0 50%, #e8e8e8 75%);
+    background-size: 800px 100%;
+    animation: skeleton-shimmer 1.4s infinite linear;
+    .airport-status__body, .airport-status__footer { visibility: hidden; }
   }
+
+  .airport-status__body {
+    flex: 1;
+    padding: 1em 1em 0.75em;
+  }
+
+  .airport-status__meta {
+    font-size: 0.75em;
+    opacity: 0.6;
+    margin-top: 0.5em;
+  }
+
+  .airport-status__contact {
+    font-size: 0.8em;
+    margin-top: 0.25em;
+    a { text-decoration: underline; }
+  }
+
+  .airport-status__footer {
+    display: flex;
+    align-items: center;
+    gap: 0.6em;
+    padding: 0.6em 1em;
+  }
+
+  #airport-status__label {
+    font-weight: 700;
+    font-size: 1em;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+
   .airport-status__icon {
-    display: block;
-    position: absolute;
-    bottom: 1em;
-    right: 1em;
-    height: 60px;
-    width: 60px;
-    background-size: 60px 60px;
-    filter: brightness(0) invert(1);
+    flex-shrink: 0;
+    width: 28px;
+    height: 28px;
+    background-size: 28px 28px;
   }
 }
