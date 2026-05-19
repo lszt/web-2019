@@ -3,7 +3,7 @@ locale = "de-CH"
 title = "Motorfluggruppe Thurgau MFGT"
 assetDir = "assets"
 relativeURLs = true
-googleAnalytics = "UA-25486694-1"
+googleAnalytics = "G-72V0VCVEJC"
 [taxonomies]
     category = "categories"
 
