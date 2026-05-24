@@ -66,7 +66,7 @@ function fetchAirportStatus() {
 	// Only if airport status is embedded
 	if ($('#airport-status').length) {
 		$('#airport-status').addClass('airport-loading');
-		$.get('https://api.mfgt.ch/api/v1/aerodromestatus', function( data ) {
+		$.get('https://lszt.flightbox.aero/api/aerodrome/status', function( data ) {
 			var last_update_by = new Date(data.last_update_date);
 			var labels = { open: 'Flugplatz Offen', restricted: 'Flugplatz eingeschränkt', closed: 'Flugplatz geschlossen' };
 			$('#airport-status').removeClass('airport-loading').addClass('airport-' + data.status);
