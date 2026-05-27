@@ -8,7 +8,7 @@ description: >-
   werden. Für Gäste besteht zudem die Möglichkeit auch direkt zu bezahlen.
 
 
-  Das Termina im Clubhaus bleibt aber weiterhin in Betrieb.
+  Das Terminal im Clubhaus bleibt aber weiterhin in Betrieb.
 ---
 **FAQ:**
 
