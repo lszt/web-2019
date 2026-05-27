@@ -6,7 +6,7 @@ weight: '3'
 image: /img/uploads/flightbox.jpg
 description: >-
   Starts und Landungen können mit dem eigenen Gerät (PC, Smartphone) erfasst
-  werden. Für Gäste besteht zudem die Möglichkeit auch direkt zu bezahlen.
+  werden. Für Gäste besteht zudem die Möglichkeit, auch direkt zu bezahlen.
 
 
   Das Terminal im Clubhaus bleibt aber weiterhin in Betrieb.
