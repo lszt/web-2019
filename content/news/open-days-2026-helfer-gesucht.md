@@ -16,6 +16,7 @@ buttons:
     url: >-
       https://docs.google.com/forms/d/e/1FAIpQLSeNzh3GNa4bSACCXn770bAtFD_694fqNBZGATf1M4Hz8bHHCg/viewform
   - title: agenda
+    url: /club/agenda
 ---
 Lieber Mitglieder
 
