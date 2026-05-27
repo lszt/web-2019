@@ -2,6 +2,7 @@
 title: Starts- und Landungen erfassen
 date: '2026-05-27T08:48:30+02:00'
 draft: false
+weight: '3'
 image: /img/uploads/flightbox.jpg
 description: >-
   Starts und Landungen können mit dem eigenen Gerät (PC, Smartphone) erfasst
