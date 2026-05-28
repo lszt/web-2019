@@ -9,11 +9,11 @@ description: >-
   Dokumente.
 ---
 * 28.05.2026 | 40 Flugbetrieb/Charter | [Daten Flugzeuge MFGT](https://drive.google.com/file/d/1PnU3GY3SJINumkbtCCxjL7tGUtsnq6BF/view?usp=sharing) | aktualisiert
-* 21.03.2026 | 40 Flugbetrieb/Flugzeuge/HB-KLD/AFM | [Weight & Balance Record] (https://drive.google.com/file/d/1q3vStqBaFJBktqVsTVwOoJbIje2OK4YR/view?usp=sharing) | hinzugefügt
-* 17.03.2026 | 10 Allgemein/Kontakt | [Kontakt 179 2026] (https://drive.google.com/file/d/1wlmvm3daQ3zaxr4IYX-S_7y42mD1j4NK/view?usp=sharing) | hinzugefügt
-* 13.03.2026 | 40 Flugbetrieb/Charter | [Preisliste MFGT] (https://drive.google.com/file/d/1tjKgBAnTU-ZUs5CwpOngY4CkywcLpyL6/view?usp=sharing) | hinzugefügt
-* 13.03.2026 | 40 Flugbetrieb/Charter | [Treibstoffzuschlag] (https://drive.google.com/file/d/15iaeityrKwtVwYJUMiHtN5ino7FdK9ZQ/view?usp=sharing) | aktualisiert
-* 13.03.2026 | 40 Flugbetrieb/Charter | [Charterpreise] (https://drive.google.com/file/d/1smBVPOXxm0AsU-Tyvkoi1PC6z0LLBa9R/view?usp=sharing) | aktualisiert
+* 21.03.2026 | 40 Flugbetrieb/Flugzeuge/HB-KLD/AFM | [Weight & Balance Record](https://drive.google.com/file/d/1q3vStqBaFJBktqVsTVwOoJbIje2OK4YR/view?usp=sharing) | hinzugefügt
+* 17.03.2026 | 10 Allgemein/Kontakt | [Kontakt 179 2026](https://drive.google.com/file/d/1wlmvm3daQ3zaxr4IYX-S_7y42mD1j4NK/view?usp=sharing) | hinzugefügt
+* 13.03.2026 | 40 Flugbetrieb/Charter | [Preisliste MFGT](https://drive.google.com/file/d/1tjKgBAnTU-ZUs5CwpOngY4CkywcLpyL6/view?usp=sharing) | hinzugefügt
+* 13.03.2026 | 40 Flugbetrieb/Charter | [Treibstoffzuschlag](https://drive.google.com/file/d/15iaeityrKwtVwYJUMiHtN5ino7FdK9ZQ/view?usp=sharing) | aktualisiert
+* 13.03.2026 | 40 Flugbetrieb/Charter | [Charterpreise](https://drive.google.com/file/d/1smBVPOXxm0AsU-Tyvkoi1PC6z0LLBa9R/view?usp=sharing) | aktualisiert
 * 10.03.2026 | 10 Allgemein/GV 2026 | [Unterlagen GV](https://drive.google.com/drive/folders/144w58zC1zoEzSvZ_ox9BniSDY2Bf_Ktc) | aktualisiert
 * 07.03.2026 | 10 Allgemein/Versicherungen | [Versicherungsbestimmungen MFGT] (https://drive.google.com/file/d/11FvXb849_7-DUtW-J3AuI3Pz6XqNQzhm/view?usp=sharing) | aktualisiert
 * 03.03.2026 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist BR23](https://drive.google.com/file/d/1vLH1bAOG4Kf4HeWrC6eMQXEeVOAuFkT7/view?usp=sharing) | aktualisiert
