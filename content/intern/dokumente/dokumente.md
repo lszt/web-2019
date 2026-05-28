@@ -15,18 +15,18 @@ description: >-
 * 13.03.2026 | 40 Flugbetrieb/Charter | [Treibstoffzuschlag](https://drive.google.com/file/d/15iaeityrKwtVwYJUMiHtN5ino7FdK9ZQ/view?usp=sharing) | aktualisiert
 * 13.03.2026 | 40 Flugbetrieb/Charter | [Charterpreise](https://drive.google.com/file/d/1smBVPOXxm0AsU-Tyvkoi1PC6z0LLBa9R/view?usp=sharing) | aktualisiert
 * 10.03.2026 | 10 Allgemein/GV 2026 | [Unterlagen GV](https://drive.google.com/drive/folders/144w58zC1zoEzSvZ_ox9BniSDY2Bf_Ktc) | aktualisiert
-* 07.03.2026 | 10 Allgemein/Versicherungen | [Versicherungsbestimmungen MFGT] (https://drive.google.com/file/d/11FvXb849_7-DUtW-J3AuI3Pz6XqNQzhm/view?usp=sharing) | aktualisiert
+* 07.03.2026 | 10 Allgemein/Versicherungen | [Versicherungsbestimmungen MFGT](https://drive.google.com/file/d/11FvXb849_7-DUtW-J3AuI3Pz6XqNQzhm/view?usp=sharing) | aktualisiert
 * 03.03.2026 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist BR23](https://drive.google.com/file/d/1vLH1bAOG4Kf4HeWrC6eMQXEeVOAuFkT7/view?usp=sharing) | aktualisiert
 * 03.03.2026 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist DR401](https://drive.google.com/file/d/1RTGmNEwdVUsZYJ26vOc0q1G7k9BVkKo5/view?usp=sharing) | aktualisiert
 * 03.03.2026 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist HB-SGT](https://drive.google.com/file/d/1IZvjQBZHQMjf_h1FpAxNgNi6nQdddAvV/view?usp=sharing) | aktualisiert
 * 03.03.2026 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Aircraft Checklist | [Complete Checklist HB-SGW](https://drive.google.com/file/d/1Bzm7XmO2nncVKJQmXDR_wD13N5Ful6yl/view?usp=sharing) | aktualisiert
 * 03.03.2026 | .../.../30-40-30 Refresher/Refresher_2026 | [MFGT Refresher 2026](https://drive.google.com/file/d/12I8QK-XGGQdJ0XoVJWo8f5ZGxuXcyt4Z/view?usp=sharing) | hinzugefügt
-* 02.03.2026 | 10 Allgemein/Funktionäre | [MFGT Funktionäre] (https://drive.google.com/file/d/16p4DUX9Svr0uIk5DL8Mg76SsLv0B01_z/view?usp=sharing) | hinzugefügt
+* 02.03.2026 | 10 Allgemein/Funktionäre | [MFGT Funktionäre](https://drive.google.com/file/d/16p4DUX9Svr0uIk5DL8Mg76SsLv0B01_z/view?usp=sharing) | hinzugefügt
 * 01.03.2026 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Expanded Checklist | [Expanded Checklist A211](https://drive.google.com/file/d/1AbVonJsr7p8rqyUJJasVR0j6SCtQpBns/view?usp=sharing) | aktualisiert
 * 01.03.2026 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Expanded Checklist | [Expanded Checklist BR23](https://drive.google.com/file/d/16gZKjWoMYsmXY_oIbLG56LvM84Aiij5h/view?usp=sharing) | aktualisiert
 * 01.03.2026 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Expanded Checklist | [Expanded Checklist DR401](https://drive.google.com/file/d/1W4Ncp9eGdIs1mBa9giISYxkxR3Piz1UP/view?usp=sharing) | aktualisiert
 * 01.03.2026 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Working Checklist | [Working Checklist A211](https://drive.google.com/file/d/1ggnl7vSvzO5eUxuaNTNJHj32kULNPhFf/view?usp=sharing) | aktualisiert
-* 27.02.2026 | .../.../30-40-20 Refresherflug | [Refresherflug 26_27] (https://drive.google.com/drive/folders/1El0HrLJ8pVFVLtQKhWFfoZesycumliq2) | hinzugefügt
+* 27.02.2026 | .../.../30-40-20 Refresherflug | [Refresherflug 26_27](https://drive.google.com/drive/folders/1El0HrLJ8pVFVLtQKhWFfoZesycumliq2) | hinzugefügt
 * 06.02.2026 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG | [Familiarisation & Difference Training](https://drive.google.com/file/d/13ntWMeR84q03WWJhEXr_8rBqmrqXBGry/view?usp=sharing) | aktualisiert
 * 19.01.2026 | 40 Flugbetrieb/Flugzeuge/HB-ETG | [Borddokumente] (https://drive.google.com/drive/folders/1eL23qJVGEQOXClo27Ydcbj4fKBuSro1I) | hinzugefügt
 
