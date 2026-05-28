@@ -8,8 +8,8 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 28.05.2026 | 40 Flugbetrieb/Charter | [Daten Flugzeuge MFGT](https://drive.google.com/file/d/1PnU3GY3SJINumkbtCCxjL7tGUtsnq6BF/view?usp=sharing) | aktualisiert
 * 21.03.2026 | 40 Flugbetrieb/Flugzeuge/HB-KLD/AFM | [Weight & Balance Record] (https://drive.google.com/file/d/1q3vStqBaFJBktqVsTVwOoJbIje2OK4YR/view?usp=sharing) | hinzugefügt
-* 21.03.2026 | 40 Flugbetrieb/Charter | [Daten Flugzeuge MFGT](https://drive.google.com/file/d/1pVXzhQZ-t6iJq46Jx576nK0oyn-Fy0BG/view?usp=sharing) | aktualisiert
 * 17.03.2026 | 10 Allgemein/Kontakt | [Kontakt 179 2026] (https://drive.google.com/file/d/1wlmvm3daQ3zaxr4IYX-S_7y42mD1j4NK/view?usp=sharing) | hinzugefügt
 * 13.03.2026 | 40 Flugbetrieb/Charter | [Preisliste MFGT] (https://drive.google.com/file/d/1tjKgBAnTU-ZUs5CwpOngY4CkywcLpyL6/view?usp=sharing) | hinzugefügt
 * 13.03.2026 | 40 Flugbetrieb/Charter | [Treibstoffzuschlag] (https://drive.google.com/file/d/15iaeityrKwtVwYJUMiHtN5ino7FdK9ZQ/view?usp=sharing) | aktualisiert
