@@ -28,7 +28,7 @@ description: >-
 * 01.03.2026 | .../.../30-10-20 Flight OPS/Checklisten/MFGT Working Checklist | [Working Checklist A211](https://drive.google.com/file/d/1ggnl7vSvzO5eUxuaNTNJHj32kULNPhFf/view?usp=sharing) | aktualisiert
 * 27.02.2026 | .../.../30-40-20 Refresherflug | [Refresherflug 26_27](https://drive.google.com/drive/folders/1El0HrLJ8pVFVLtQKhWFfoZesycumliq2) | hinzugefügt
 * 06.02.2026 | .../.../30-10-10 Pre-Flight/Familiarisation & Difference TRNG | [Familiarisation & Difference Training](https://drive.google.com/file/d/13ntWMeR84q03WWJhEXr_8rBqmrqXBGry/view?usp=sharing) | aktualisiert
-* 19.01.2026 | 40 Flugbetrieb/Flugzeuge/HB-ETG | [Borddokumente] (https://drive.google.com/drive/folders/1eL23qJVGEQOXClo27Ydcbj4fKBuSro1I) | hinzugefügt
+* 19.01.2026 | 40 Flugbetrieb/Flugzeuge/HB-ETG | [Borddokumente](https://drive.google.com/drive/folders/1eL23qJVGEQOXClo27Ydcbj4fKBuSro1I) | hinzugefügt
 
 <hr>
 
