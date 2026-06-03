@@ -34,7 +34,7 @@ Willkommen zu den 2. Open Days auf dem Flugplatz Lommis.
 * An- und Abflüge sind während den regulären Betriebszeiten des Flugplatzes möglich. Keine Starts / Landungen zwischen 12:00 und 13:30 Uhr.
 * Der Flugplatz Lommis ist PPR. Eine Anmeldung ist zwingend erforderlich.
 * Aus dem Ausland kommend seid ihr ebenfalls herzlich willkommen. Unsere Zollmeldungen sind für euch kostenfrei. Das genaue Verfahren ist hier beschrieben: [Zoll](https://www.mfgt.ch/flugplatz/infos-piloten/zoll/)
-* Übernachtungsmöglichkeit im eigenen Zelt sind beim Flugzeug möglich -> es gibt jedoch kein abendliches Rahmenprogramm. Meldet euch mit diesem Wunsch bitte vorab bei [Andreas Bloch](andreas.bloch@mfgt.ch)
+* Übernachtungsmöglichkeit im eigenen Zelt sind beim Flugzeug möglich -> es gibt jedoch kein abendliches Rahmenprogramm. Meldet euch mit diesem Wunsch bitte vorab bei [Andreas Bloch](<mailto:andreas.bloch@mfgt.ch>)
 * Toilettenanlagen können nachts benützt werden
 * Folgende Treibstoffe sind erhältlich: AVGAS, MOGAS 98, JET-A1
 * Um die Parksituation vorgängig planen zu können, bitten wir um eine Anmeldung per: [Anmeldung Open Days 2026](https://docs.google.com/forms/d/e/1FAIpQLScsSqk_JdQIUCDCakIe2k31gPwjxuJNu1mdC_6A8vvdbTqIHQ/viewform?pli=1)
