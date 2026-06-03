@@ -9,8 +9,6 @@ coverImages:
     positionx: 50
     positiony: 50
 ---
-**Open Days 2026 - Pilots Info**
-
 Willkommen zu den 2. Open Days auf dem Flugplatz Lommis.
 
 **Wann:**
