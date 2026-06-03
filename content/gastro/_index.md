@@ -3,12 +3,6 @@ title: Essen und Trinken auf dem Flugplatz
 date: 2019-04-14T15:03:48.000Z
 draft: false
 coverImages:
-  - image: /img/uploads/bild_flugplatzbeizli.jpg
-    positionx: 50
-    positiony: 50
-  - image: /img/uploads/bild_flugplatzbeizli_2.jpg
-    positionx: 50
-    positiony: 50
   - image: /img/uploads/slider_gastro_1.jpg
     positionx: 50
     positiony: 50
