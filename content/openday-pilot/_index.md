@@ -9,22 +9,42 @@ coverImages:
     positionx: 50
     positiony: 50
 ---
+**Open Days 2026 - Pilots Info**
+
 Willkommen zu den 2. Open Days auf dem Flugplatz Lommis.
 
 **Wann:**
 
-* Samstag, 15. August 2026
-* Sonntag, 16. August 2026
+* Samstag, 15. August 2026, 10:00 - 19:00 Uhr
+* Sonntag, 16. August 2026, 11:00 - 18:00 Uhr
 
 **Wo:**
 
 * Flugplatz Lommis TG, 9506 Lommis
 
+**Programm:**
+
+* Austausch mit weiteren Aviatik faszinierten Personen
+* Flugplatzführungen mit vielen spannenden Informationen
+* Familienprogramm für Gross und Klein
+* Grosse Festwirtschaft mit über 300 Sitzplätzen im Hangar und unserem Beizli
+* Fürs leibliche Wohl sorgen unser Flughafenbeizli mit allerlei Köstlichkeiten und verschiedene Foodtrucks
+ 
+
+
 **Informationen für anfliegende Piloten:**
 
-Bitte konsultiert vor dem Anflug unsere Homepage und beachtet allfällige NOTAM's. Es herrscht normaler Flugbetrieb, jedoch mit einer veränderten Parksituation am Boden.
+* Der [Pilot Guide ist hier](https://drive.google.com/file/d/10sbj1jNYiVgACgiJ99B1b-0KGMT-akdj/view?usp=sharing) ersichtlich
+* An- und Abflüge sind während den regulären Betriebszeiten des Flugplatzes möglich. Keine Starts / Landungen zwischen 12:00 und 13:30 Uhr.
+* Der Flugplatz Lommis ist PPR. Eine Anmeldung ist zwingend erforderlich.
+* Aus dem Ausland kommend seid ihr ebenfalls herzlich willkommen. Unsere Zollmeldungen sind für euch kostenfrei. Das genaue Verfahren ist hier beschrieben: [Zoll](https://www.mfgt.ch/flugplatz/infos-piloten/zoll/)
+* Übernachtungsmöglichkeit im eigenen Zelt sind beim Flugzeug möglich -> es gibt jedoch kein abendliches Rahmenprogramm. Meldet euch mit diesem Wunsch bitte vorab bei <mailto:andreas.bloch@mfgt.ch>
+* Toilettenanlagen können nachts benützt werden
+* Folgende Treibstoffe sind erhältlich: AVGAS, MOGAS 98, JET-A1
+* Um die Parksituation vorgängig planen zu können, bitten wir um eine Anmeldung per: [Anmeldung Open Days 2026](https://docs.google.com/forms/d/e/1FAIpQLScsSqk_JdQIUCDCakIe2k31gPwjxuJNu1mdC_6A8vvdbTqIHQ/viewform?pli=1)
 
-
+Bitte konsultiert vor dem Anflug unsere Homepage und beachtet allfällige NOTAM's. 
+Es herrscht normaler Flugbetrieb, jedoch mit einer veränderten Parksituation am Boden.
 
 **Informationen zum Anlass werden laufend aktualisiert.**
 
