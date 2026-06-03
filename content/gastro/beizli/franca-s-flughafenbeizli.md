@@ -3,7 +3,7 @@ title: Franca's Flughafenbeizli
 date: '2025-02-19T16:51:13+01:00'
 draft: false
 weight: '0'
-image: /img/uploads/bild_flugplatzbeizli_2.jpg
+image: /img/uploads/francas_flughafenbeizli_1.jpg
 description: "Für Speis und Trank im Flughafenbeizli sorgen Franziska und Edi Winner.\r\n\nWeiter Informationen sowie die Öffnungszeiten finden sie direkt auf der Homepage."
 buttons:
   - blank: true
