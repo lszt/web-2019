@@ -6,9 +6,6 @@ coverImages:
   - image: /img/uploads/slider_gastro_1.jpg
     positionx: 50
     positiony: 50
-  - image: /img/uploads/slider_gastro_2.jpg
-    positionx: 50
-    positiony: 50
   - image: /img/uploads/slider_gastro_3.jpg
     positionx: 50
     positiony: 50
