@@ -8,6 +8,6 @@ description: |-
   **Philipp Müller**
 
   T +41 52 366 33 41\
-  <mailto:maintenance@mfgt.ch>
+  <maintenance@mfgt.ch>
 ---
 
