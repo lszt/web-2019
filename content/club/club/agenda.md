@@ -54,10 +54,6 @@ Flugplatz Amlikon | [Info's](/club/kurse-veranstaltungen/spin-training/) | [Anme
 
 Flugplatzbeizli
 
-### 12.09.2026 | 09:00 | Infoanlass Flugschule MFGT
-
-Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
-
 ### 15.09.2026 | 19:00 | Briefing Fly-Away 2-2026
 
 Theorieraum MFGT
