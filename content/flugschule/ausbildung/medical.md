@@ -11,7 +11,6 @@ description: >-
 buttons:
   - cta: false
     title: mehr
-    url: >-
-      https://www.bazl.admin.ch/bazl/de/home/personal/flugmedizinischer-dienst.html
+    url: 'https://www.bazl.admin.ch/de/ams-de'
 ---
 
