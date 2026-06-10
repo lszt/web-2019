@@ -23,11 +23,11 @@ Der Besuch der ersten beiden Kursdaten ist obligatorisch (im Kursprogramm lila d
 
 Bei mehr als 5 Teilnehmern finden die Praxisblöcke jeweils in zwei Gruppen am gleichen Tag zu unterschiedlichen Zeiten statt (im Kursprogramm rot und rosa dargestellt). Die Gruppeneinteilung wird am ersten Kurstag festgelegt.
 
-[Kursprogramm] (https://drive.google.com/file/d/1SJ4whlMiod6a2NjY8dkaT3JBKYDAVtho/view?usp=sharing)
+[Kursprogramm](https://drive.google.com/file/d/1SJ4whlMiod6a2NjY8dkaT3JBKYDAVtho/view?usp=sharing)
 
 **Informationen**
 
-Motorfluggruppe Thurgau MFGT, +41 52 366 33 33, <mailto:info@mfgt.ch>
+Motorfluggruppe Thurgau MFGT, +41 52 366 33 33, <info@mfgt.ch>
 
 **Ort**
 
@@ -35,7 +35,7 @@ Flugplatz Lommis, Theoriesaal
 
 **Theoriematerial**
 
-Auf Anfrage bei Sekretariat Motorfluggruppe Thurgau MFGT, +41 52 366 33 33, <mailto:info@mfgt.ch> 
+Auf Anfrage bei Sekretariat Motorfluggruppe Thurgau MFGT, +41 52 366 33 33, <info@mfgt.ch> 
 
 **Kurskosten**
 
