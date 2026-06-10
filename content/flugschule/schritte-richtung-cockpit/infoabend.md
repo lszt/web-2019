@@ -30,7 +30,7 @@ Wir zeigen dir, wie die Ausbildung aufgebaut ist, welche Voraussetzungen du mitb
 
 Treffpunkt: Vor dem Clubhaus, Flugplatz Lommis
 
-Für weitere Informationen wende dich bitte an <mailto:andre.heinzelmann@mfgt.ch>
+Für weitere Informationen wende dich bitte an [André Heinzelmann](<mailto:andre.heinzelmann@mfgt.ch>)
 
 [Download Infoflyer 2026](https://drive.google.com/file/d/1XcPrqHb-h9FbZJPij-YWE33UDccuIwi1/view?usp=sharing)
 
