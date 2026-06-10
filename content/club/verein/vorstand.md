@@ -7,7 +7,7 @@ description: |-
   **Hans Peter Boller**
 
   T +41 52 366 33 33\
-  <mailto:hp.boller@mfgt.ch>
+  <hp.boller@mfgt.ch>
 
   \
   **Stellvertreter:**
