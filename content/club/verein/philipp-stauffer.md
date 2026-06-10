@@ -8,7 +8,7 @@ description: |-
   **Philipp Stauffer**
 
   T +41 79 652 80 18\
-  <mailto:philipp.stauffer@mfgt.ch>
+  <philipp.stauffer@mfgt.ch>
 
   \
   Stellvertreter:
