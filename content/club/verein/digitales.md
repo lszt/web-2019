@@ -8,7 +8,7 @@ description: |-
   **Philipp Hug**
 
   T +41 76 370 22 54\
-  <mailto:philipp.hug@mfgt.ch>
+  <philipp.hug@mfgt.ch>
 
   \
   **Stellvertreter:**
