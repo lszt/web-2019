@@ -8,7 +8,7 @@ description: |-
 
   T +41 79 429 76 41
 
-  <mailto:andre.heinzelmann@mfgt.ch>
+  <andre.heinzelmann@mfgt.ch>
 
   \
   **Stellvertreter:**
