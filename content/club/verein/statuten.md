@@ -7,7 +7,7 @@ description: |-
   **Andi Bloch**
 
   T +41 52 366 33 33\
-  <mailto:andreas.bloch@mfgt.ch>
+  <andreas.bloch@mfgt.ch>
 
   \
   **Stellvertreter:**
