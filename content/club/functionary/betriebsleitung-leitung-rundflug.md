@@ -8,6 +8,6 @@ description: |-
   **Monika Hitz**
 
   T +41 52 366 33 33\
-  <mailto:monika.hitz@mfgt.ch>
+  <monika.hitz@mfgt.ch>
 ---
 
