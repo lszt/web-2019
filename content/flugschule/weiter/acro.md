@@ -55,9 +55,9 @@ Diese Jahr wird das Sicherheitstraining in Zusammenarbeit mit der Pilotenschule 
 \
 **Anmeldung**
 
-Bis 30. April 2026 an <mailto:mfgt-flugschule@mfgt.ch>
+Bis 30. April 2026 an <mfgt-flugschule@mfgt.ch>
 
 \
 **Kontaktperson**
 
-Burkhardt Florian, <mailto:florian.burkhardt@mfgt.ch>, +41 79 756 73 85
+Burkhardt Florian, <florian.burkhardt@mfgt.ch>, +41 79 756 73 85
