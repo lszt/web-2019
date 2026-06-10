@@ -45,7 +45,7 @@ Seit dem 8. April 2020 wird die mündliche Radiotelefonie-Tischprüfung nicht me
 Du kannst dir das theoretische Wissen auch online erwerben. Du wirst von Spezialisten betreut und in einem abschliessenden Präsenzkurs optimal auf die Prüfung vorbereitet. \
 [Weitere Informationen zum Distance Learning](https://www.swisspsa.ch/index.php/fernunterricht-neu/einleitung-mobile)
 
-Angehende Helikopter- oder Ballonpiloten wenden sich bei Interesse bitte an das Sekretariat der MFGT unter <mailto:sekretariat@mfgt.ch>.
+Angehende Helikopter- oder Ballonpiloten wenden sich bei Interesse bitte an das Sekretariat der MFGT unter <sekretariat@mfgt.ch>.
 
 Weitere Details sowie Kosten siehe [AGB](https://drive.google.com/file/d/1iF-XZ-CfMZVE1tXJXf4WRGbm4CRAZv92/view?usp=sharing), [Kursprogramm](https://drive.google.com/file/d/17Wr-kQAU3BP5U6n9DKwKrMBMJFLIuUNc/view?usp=sharing) und [Unterrichtsmaterial (Kosten)](https://drive.google.com/file/d/1C4CwHOsDMwz8x7EwVhps9fiJlVAh9A6D/view?usp=sharing).
 
@@ -53,4 +53,4 @@ Weitere Details sowie Kosten siehe [AGB](https://drive.google.com/file/d/1iF-XZ-
 
 **Information:**
 
-Motorfluggruppe Thurgau MFGT, <mailto:info@mfgt.ch>, +41 52 366 33 33
+Motorfluggruppe Thurgau MFGT, <info@mfgt.ch>, +41 52 366 33 33
