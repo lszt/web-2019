@@ -37,4 +37,4 @@ Nach abgeschlossener Ausbildung erfolgt nach Einreichung der Formulare der entsp
 **Kosten und weitere Informationen**
 
 Unser CFI Hans Peter Boller steht Dir für detaillierte Auskünfte zur Verfügung\
-Telefon +41 52 366 33 33 oder <mailto:hp.boller@mfgt.ch>
+Telefon +41 52 366 33 33 oder <hp.boller@mfgt.ch>
