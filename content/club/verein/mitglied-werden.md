@@ -7,7 +7,7 @@ description: |-
   **Alois Sauter**
 
   T +41 52 366 33 33\
-  <mailto:alois.sauter@mfgt.ch>
+  <alois.sauter@mfgt.ch>
 
   \
   **Stellvertreter:**
