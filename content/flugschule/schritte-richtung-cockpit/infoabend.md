@@ -32,6 +32,6 @@ Treffpunkt: Vor dem Clubhaus, Flugplatz Lommis
 
 Für weitere Informationen wende dich bitte an <mailto:andre.heinzelmann@mfgt.ch>
 
-[Download Infoflyer 2026] (https://drive.google.com/file/d/1XcPrqHb-h9FbZJPij-YWE33UDccuIwi1/view?usp=sharing)
+[Download Infoflyer 2026](https://drive.google.com/file/d/1XcPrqHb-h9FbZJPij-YWE33UDccuIwi1/view?usp=sharing)
 
 \> [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
