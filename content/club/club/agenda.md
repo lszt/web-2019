@@ -34,7 +34,7 @@ Flugplatz Lommis
 
 Flugplatz Lommis
 
-### 31.07.2026 | "Sunrise, Sunset"
+### 24.07.2026 | "Sunrise, Sunset"
 
 Flugplatzbeizli
 
