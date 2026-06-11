@@ -10,10 +10,6 @@ buttons: []
 
 Raum Lommis | [Info's] (/club/kurse-veranstaltungen/weiterbildungskurs-mfgt/) | [Anmeldung] (https://doodle.com/sign-up-sheet/participate/1461fc62-d362-4591-923f-c9511d4ff31c/select) -->
 
-### 10.06.2026 | 19:00 | 2. Briefing Fly-Away 1-2026
-
-Theorieraum MFGT 
-
 ### 15.-26.06.2026 | SPHAIR Kurs 2 (Aquila)
 
 Flugplatz Lommis
