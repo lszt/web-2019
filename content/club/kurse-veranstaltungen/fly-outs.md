@@ -11,25 +11,31 @@ buttons:
   - title: agenda
     url: /club/club/agenda/
 ---
-### Fly-Away vom 25. - 28. September 2025
+### Fly-Away vom 24. - 27. September 2026
 
-**Destination:** Frankreich
+**Destination:** Kroatien
 
-![pension gascogne](/img/uploads/pension_frankreich.jpeg)
+Das zweite Fly-Away der Flugschule der MFGT bringt uns nach Kroatien – also über Portoroz LJPZ nach Lošinj LDLO und Brač LDSB. Die Route führt uns auf dem Hinweg quer durch italienische Militär-CTRs nach Portoroz – zum Mittagessen und Crew-Change. Der Rückweg führt über die Adria und Italien zurück nach Lommis. Wo wir genau lang fliegen und wie lange wir wo bleiben, besprechen wir am Briefing. Übernachten werden wir auf den beiden Inseln. 
 
-Unser zweites Fly-Away in diesem Jahr führt uns von 25. bis 28. September nach Frankreich, genau gesagt in die Region Gascogne.
-Unsere Fluglehrerein Dagmar kennt da jemanden, der [eine hübsche Pension unterhält](https://www.chateaudelahitte.fr/de/startseite/).
+Es ist je eine Robin, Bristell und Aquila reserviert. Je nach «Ansturm» werden noch zusätzliche Flugzeuge reserviert. Das Fly Away wird von mindestens einem Fluglehrer begleitet und ist somit auch für Flugschüler geeignet. Selbstverständlich können auch Piloten mit dem eigenen Flugzeug teilnehmen.
 
-Die Idee wäre, dass wir hier übernachten. Die Besitzerin der Pension hat bestimmt viele gute Ideen für Ausflüge in die nahe Region.
+Folgende Aspekte werden im Speziellen betreut:
 
-Landen werden wir hierfür voraussichtlich auf dem Flugplatz ‘Aire sur L’adour’ LFDA.
- Danach erkunden wir die weitere Umgebung der Küste entlang bis zur Bretagne.
-Das Detailprogramm bestimmen wir am Briefingabend, am **Donnerstag, 18. September, ab 19.00 Uhr**.
+* Flugvorbereitung, Routenplanung, Alternates, Fuel Planning, Flugpläne
+* Zollformalitäten
+* Anfliegen kontrollierter Flugplätze
+* Sprechfunk (ATC, FIS)
+* Flug über die Alpen und übers offene Meer
 
-Ziel dieses Fly-Away ist es, aufzuzeigen, dass Fliegen in Frankreich trotz der vielen Restricted Areas ein unvergessliches Erlebnis sein kann. Am Briefingabend werden wir auf diese Thematik besonderen Wert legen.
 
-**Datum:** 25. - 28. September 2025
+Am Dienstag, 15. September findet im Theoriesaal in Lommis um 19 Uhr das
+obligatorische Briefing statt. Bitte bereitet euch entsprechend eurer Möglichkeiten
+vor. Für alle Fragen steht der Fluglehrer vor Ort zur Verfügung.
 
-**Briefing:** Donnerstag, 18. September 2025, 19:00 Uhr
+**Datum:** 24. - 27. September 2026
 
-**Anmeldung:** Die maximale Anzahl Teilnehmer ist erreicht und es ist keine Anmeldung mehr möglich.
+**Briefing:** Dienstag, 15. September 2026, 19:00 Uhr
+
+**Anmeldung:** [Anmeldung](https://xoyondo.com/dp/3dsmem8w4aic6xx)
+
+**Ansprechperson:** [André Heinzelmann](<andre.heinzelmann@mfgt.ch>)
