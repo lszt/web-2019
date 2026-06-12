@@ -38,4 +38,4 @@ vor. Für alle Fragen steht der Fluglehrer vor Ort zur Verfügung.
 
 **Anmeldung:** Bis 31. August über diesen [Link](https://xoyondo.com/dp/3dsmem8w4aic6xx)
 
-**Ansprechperson:** [André Heinzelmann](<mailto:andre.heinzelmann@mfgt.ch>)
+**Ansprechperson:** [André Heinzelmann](<mailto:andre.heinzelmann@mfgt.ch?subject=Fly-Away%20Kroatien>)
