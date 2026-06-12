@@ -36,6 +36,6 @@ vor. Für alle Fragen steht der Fluglehrer vor Ort zur Verfügung.
 
 **Briefing:** Dienstag, 15. September 2026, 19:00 Uhr
 
-**Anmeldung:** [Anmeldung](https://xoyondo.com/dp/3dsmem8w4aic6xx)
+**Anmeldung:** [Hier geht's zur Anmeldung](https://xoyondo.com/dp/3dsmem8w4aic6xx)
 
 **Ansprechperson:** [André Heinzelmann](<andre.heinzelmann@mfgt.ch>)
