@@ -56,7 +56,7 @@ Theorieraum MFGT
 
 ### 24.-27.09.2026 | MFGT Fly-Away 2-2026
 
-Kroatien | [Anmeldung](https://xoyondo.com/dp/3dsmem8w4aic6xx)
+Kroatien | | [Info's](/club/kurse-veranstaltungen/fly-outs/) | [Anmeldung](https://xoyondo.com/dp/3dsmem8w4aic6xx)
 
 ### 25.09.2026 | "Sunrise, Sunset"
 
