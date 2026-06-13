@@ -1,9 +1,9 @@
 ---
-title: HB-xxx
+title: HB-ETX
 date: '2024-05-08T20:43:45+02:00'
-draft: true
+draft: false
 weight: '4'
-image: /img/uploads/flotte_dummy.jpg
+image: /img/uploads/flotte_etx.jpeg
 description: '**Bristell B23-915**'
 buttons:
   - blank: true
@@ -28,4 +28,4 @@ Schul- und Reiseflugzeug
 * Reisegeschwindigkeit: 120 KTS
 * MTOW: 750 kg
 
-![null](/img/uploads/flotte_dummy.jpg)
+![null](/img/uploads/flotte_cockpit_etg.jpg)
