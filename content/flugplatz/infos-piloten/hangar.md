@@ -21,4 +21,4 @@ buttons:
 
 **Auskunft:**\
 Flugplatz Lommis\
-T +41 52 366 33 33 oder <mailto:info@mfgt.ch>
+T +41 52 366 33 33 oder <info@mfgt.ch>
