@@ -20,12 +20,12 @@ Die Motorfluggruppe Thurgau ist zuständig für die Erteilung von **Drohnenflugb
 
 Weitere Informationen zum Thema Drohnen finden Sie auf der [offiziellen Seite des Bundes](https://www.bazl.admin.ch/de/drohnen).
 
-Ab 250g benötigen Sie zwingend ein [Zertifikat] (https://www.bazl.admin.ch/de/fernpiloten), **jedoch empfehlen wir Ihnen stark, auch unter 250g  zumindest die Schulung A1/A3 zu absolvieren.** 
+Ab 250g benötigen Sie zwingend ein [Zertifikat](https://www.bazl.admin.ch/de/fernpiloten), **jedoch empfehlen wir Ihnen stark, auch unter 250g  zumindest die Schulung A1/A3 zu absolvieren.** 
 
 Bitte beachten Sie, dass auch **Drohnen unter 250g registriert werden müssen, sofern sie mit einer Kamera ausgestattet sind.** [Weitere Infos zur Registrierung](https://www.bazl.admin.ch/de/registrierung-drohnenbetreiber).
 
-Vor **jedem Flug** muss das aktuelle NOTAM überprüft werden. Weitere Informationen hier: [Flugeinschränkungen und Karten] (https://www.bazl.admin.ch/de/geografische-flugeinschraenkungen). 
+Vor **jedem Flug** muss das aktuelle NOTAM überprüft werden. Weitere Informationen hier: [Flugeinschränkungen und Karten](https://www.bazl.admin.ch/de/geografische-flugeinschraenkungen). 
 
-Für die Beantragung einer Drohnenflugbewilligung im 5-km-Radius um den Flugplatz Lommis (LSZT) nutzen Sie bitte das folgende Formular: [Bewilligungsformular] (https://docs.google.com/forms/d/e/1FAIpQLSdZ7kTAcEbUMcPGF2ZnzKgcaxxjbfPLMyqV1kLjGL-SvqRJrw/viewform?pli=1). 
+Für die Beantragung einer Drohnenflugbewilligung im 5-km-Radius um den Flugplatz Lommis (LSZT) nutzen Sie bitte das folgende Formular: [Bewilligungsformular](https://docs.google.com/forms/d/e/1FAIpQLSdZ7kTAcEbUMcPGF2ZnzKgcaxxjbfPLMyqV1kLjGL-SvqRJrw/viewform?pli=1). 
 
 **Wichtiger Hinweis:** Der Antrag muss mindestens **zwei Werktage (48 Stunden) im Voraus** gestellt werden. Während eines laufenden Wochenendes werden keine Bewilligungen erteilt. Der Flug darf erst durchgeführt werden, sobald eine Bewilligung erteilt wurde.
