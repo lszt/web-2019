@@ -10,22 +10,6 @@ buttons: []
 
 Raum Lommis | [Info's] (/club/kurse-veranstaltungen/weiterbildungskurs-mfgt/) | [Anmeldung] (https://doodle.com/sign-up-sheet/participate/1461fc62-d362-4591-923f-c9511d4ff31c/select) -->
 
-### 15.-26.06.2026 | SPHAIR Kurs 2 (Aquila)
-
-Flugplatz Lommis
-
-### 19.-28.06.2026 | MFGT Fly-Away 1-2026 "Expedition Nordkap"
-
-Nordkap
-
-### 26.06.2026 | Sunrise, Sunset
-
-Flugplatzbeizli
-
-### 27.-28.06.2026 | YES-Tage 2026
-
-Flugplatz Lommis
-
 ### 18.-31.07.2026 | Intensivwochen Flugschule MFGT
 
 Flugplatz Lommis
