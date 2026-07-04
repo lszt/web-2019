@@ -1,7 +1,7 @@
 ---
 title: Open Days 2026 Helfer gesucht
 date: '2026-05-27T08:31:25+02:00'
-draft: false
+draft: true
 image: /img/uploads/openday_helfer.jpg
 positionx: 50
 positiony: 50
