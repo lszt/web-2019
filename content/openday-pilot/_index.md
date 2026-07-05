@@ -42,7 +42,7 @@ Willkommen zu den 2. Open Days auf dem Flugplatz Lommis.
 Bitte konsultiert vor dem Anflug unsere Homepage und beachtet allfällige NOTAM's. 
 Es herrscht normaler Flugbetrieb, jedoch mit einer veränderten Parksituation am Boden.
 
-**Flyer:** [Download] (https://drive.google.com/file/d/1K5YiHdg8O2cNIk_bMa18OdKj7Vb2ZDTC/view?usp=sharing)
+**Flyer:** [Download](https://drive.google.com/file/d/1K5YiHdg8O2cNIk_bMa18OdKj7Vb2ZDTC/view?usp=sharing)
 
 **Informationen zum Anlass werden laufend aktualisiert.**
 
