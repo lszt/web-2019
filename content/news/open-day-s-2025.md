@@ -15,5 +15,10 @@ buttons:
   - blank: true
     title: Piloten
     url: /openday-pilot
+  - blank: true
+    cta: true
+    title: flyer
+    url: >-
+      https://drive.google.com/file/d/12Dcj2XeFiCAmVqrVZi8KU86UklvZQsr_/view?usp=sharing
 ---
 
