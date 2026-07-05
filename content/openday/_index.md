@@ -30,7 +30,7 @@ Willkommen zu den 2. Open Days auf dem Flugplatz Lommis.
 * Grosse Festwirtschaft mit über 300 Sitzplätzen im Hangar und unserem Beizli
 * Fürs leibliche Wohl sorgen unser Flughafenbeizli mit allerlei Köstlichkeiten und verschiedene Foodtrucks
 
-**Flyer:** [Download] (https://drive.google.com/file/d/12Dcj2XeFiCAmVqrVZi8KU86UklvZQsr_/view?usp=sharing)
+**Flyer:** [Download](https://drive.google.com/file/d/12Dcj2XeFiCAmVqrVZi8KU86UklvZQsr_/view?usp=sharing)
 
 **Informationen zum Anlass werden laufend aktualisiert.**
 
