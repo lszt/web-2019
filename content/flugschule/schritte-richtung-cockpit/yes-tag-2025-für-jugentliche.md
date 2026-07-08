@@ -67,8 +67,8 @@ oder per Telefon an: +41 52 366 33 33-->
 
 Termine 2027 in Planung
 
-\
-[Hier Flyer downloaden](https://drive.google.com/file/d/18I8WJyTEtRCbv1vLFHdCozbkwHeabLhJ/view?usp=sharingg)
+<!--\
+[Hier Flyer downloaden](https://drive.google.com/file/d/18I8WJyTEtRCbv1vLFHdCozbkwHeabLhJ/view?usp=sharingg)-->
 
 \
 **Bericht vom YES-Tag 2025**
