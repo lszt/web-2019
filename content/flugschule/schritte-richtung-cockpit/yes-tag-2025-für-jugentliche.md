@@ -63,7 +63,9 @@ Weiter Informationen folgen.-->
 via Mail an: <mailto:info@mfgt.ch> \
 oder per Telefon an: +41 52 366 33 33-->
 
-<font color="red">Leider bereits ausgebucht!</font>
+<!--<font color="red">Leider bereits ausgebucht!</font>-->
+
+Termine 2027 in Planung
 
 \
 [Hier Flyer downloaden](https://drive.google.com/file/d/18I8WJyTEtRCbv1vLFHdCozbkwHeabLhJ/view?usp=sharingg)
