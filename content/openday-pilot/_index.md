@@ -30,7 +30,7 @@ Willkommen zu den 2. Open Days auf dem Flugplatz Lommis.
 
 **Informationen für anfliegende Piloten:**
 
-* Der [Pilot Guide ist hier](https://drive.google.com/file/d/10sbj1jNYiVgACgiJ99B1b-0KGMT-akdj/view?usp=sharing) ersichtlich
+* Der [Pilot Guide ist hier](https://drive.google.com/file/d/1fBEnc5t8rE496vmoSfUtj-xZGoUbH0Cf/view?usp=sharing) ersichtlich
 * An- und Abflüge sind während den regulären Betriebszeiten des Flugplatzes möglich. Keine Starts / Landungen zwischen 12:00 und 13:30 Uhr.
 * Der Flugplatz Lommis ist PPR. Eine Anmeldung ist zwingend erforderlich.
 * Aus dem Ausland kommend seid ihr ebenfalls herzlich willkommen. Unsere Zollmeldungen sind für euch kostenfrei. Das genaue Verfahren ist hier beschrieben: [Zoll](https://www.mfgt.ch/flugplatz/infos-piloten/zoll/)
