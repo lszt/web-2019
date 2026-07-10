@@ -8,7 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
-* 10.07.2026 | .../.../30-10-10 Pre-Flight/Mass & Balance | [M&B and Performance BR23] (https://drive.google.com/file/d/1nHu3liCDNJN7mHUJ3cfOSaT96ZQ4cY3H/view?usp=sharing) | aktualisiert
+* 10.07.2026 | .../.../30-10-10 Pre-Flight/Mass & Balance | [M&B and Performance BR23](https://drive.google.com/file/d/1nHu3liCDNJN7mHUJ3cfOSaT96ZQ4cY3H/view?usp=sharing) | aktualisiert
 * 28.05.2026 | 40 Flugbetrieb/Charter | [Daten Flugzeuge MFGT](https://drive.google.com/file/d/1PnU3GY3SJINumkbtCCxjL7tGUtsnq6BF/view?usp=sharing) | aktualisiert
 * 21.03.2026 | 40 Flugbetrieb/Flugzeuge/HB-KLD/AFM | [Weight & Balance Record](https://drive.google.com/file/d/1q3vStqBaFJBktqVsTVwOoJbIje2OK4YR/view?usp=sharing) | hinzugefügt
 * 17.03.2026 | 10 Allgemein/Kontakt | [Kontakt 179 2026](https://drive.google.com/file/d/1wlmvm3daQ3zaxr4IYX-S_7y42mD1j4NK/view?usp=sharing) | hinzugefügt
