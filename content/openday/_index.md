@@ -28,6 +28,7 @@ Willkommen zu den 2. Open Days auf dem Flugplatz Lommis.
 * Flugplatzführungen mit vielen spannenden Informationen - Achtung: Plätze sind begrenzt und Führungen nur auf Voranmeldung möglich: [hier geht's zur Anmeldung](https://doodle.com/sign-up-sheet/participate/5f4b6ab3-4217-4194-adde-88f87d285368/select)
 * Informationen rund um die Flugschule und die Pilotenausbildung, sowie ein Informationsstand der AOPA
 * Familienprogramm für Gross und Klein
+* Die Welt von oben erleben und währenddessen am Boden bleiben? Auch das geht - dank der Ausstellung von Luftbild Ost
 * Grosse Festwirtschaft mit über 300 Sitzplätzen im Hangar und unserem Beizli
 * Fürs leibliche Wohl sorgen unser Flughafenbeizli , das Restaurant Krone, BBQ Leo und Soft-Ice sowie Confiserieartikel
 
