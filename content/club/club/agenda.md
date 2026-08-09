@@ -8,15 +8,7 @@ buttons: []
 ---
 <!-- ### 26.05.2026 | 19:00 | Weiterbildungsanlass MFGT
 
-Raum Lommis | [Info's] (/club/kurse-veranstaltungen/weiterbildungskurs-mfgt/) | [Anmeldung] (https://doodle.com/sign-up-sheet/participate/1461fc62-d362-4591-923f-c9511d4ff31c/select) -->
-
-### 18.-31.07.2026 | Intensivwochen Flugschule MFGT
-
-Flugplatz Lommis
-
-### 24.07.2026 | "Sunrise, Sunset"
-
-Flugplatzbeizli
+Raum Lommis | \[Info's] (/club/kurse-veranstaltungen/weiterbildungskurs-mfgt/) | \[Anmeldung] (https://doodle.com/sign-up-sheet/participate/1461fc62-d362-4591-923f-c9511d4ff31c/select) -->
 
 ### 10.-21.08.2026 | SPHAIR Kurs 3 (Aquila)
 
@@ -80,4 +72,4 @@ Flugplatzbeizli-->
 
 <!--### 25.04.2026 | 09:00 | Infoanlass Flugschule MFGT
 
-Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)-->
+Flugplatz Lommis | \[Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | \[Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)-->
