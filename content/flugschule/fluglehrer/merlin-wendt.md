@@ -1,7 +1,7 @@
 ---
 title: Merlin Wendt
 date: '2024-07-04T08:24:48+02:00'
-draft: false
+draft: true
 weight: '18'
 image: /img/uploads/fluglehrer_blanco.jpg
 description: Fluglehrer (FI)
