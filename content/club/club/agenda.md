@@ -8,15 +8,11 @@ buttons: []
 ---
 <!-- ### 26.05.2026 | 19:00 | Weiterbildungsanlass MFGT
 
-Raum Lommis | \[Info's] (/club/kurse-veranstaltungen/weiterbildungskurs-mfgt/) | \[Anmeldung] (https://doodle.com/sign-up-sheet/participate/1461fc62-d362-4591-923f-c9511d4ff31c/select) -->
+Raum Lommis | \\[Info's] (/club/kurse-veranstaltungen/weiterbildungskurs-mfgt/) | \\[Anmeldung] (https://doodle.com/sign-up-sheet/participate/1461fc62-d362-4591-923f-c9511d4ff31c/select) -->
 
 ### 10.-21.08.2026 | SPHAIR Kurs 3 (Aquila)
 
 Flugplatz Lommis
-
-### 15.-16.08.2026 | OPEN DAYS 2026
-
-Flugplatz Lommis | [Info's](/openday) | [Helferanmeldung](https://docs.google.com/forms/d/e/1FAIpQLSeNzh3GNa4bSACCXn770bAtFD_694fqNBZGATf1M4Hz8bHHCg/viewform?pli=1)
 
 ### 25.08.2026 | Upset Prevention and Recovery Training
 
@@ -50,6 +46,10 @@ Flugplatzbeizli
 
 Flugplatz Lommis | [Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)
 
+### 27.11.2026 | 18:30 | Fondueplausch MFGT
+
+Flugplatz Lommis | [Anmeldung](https://doodle.com/group-poll/participate/eZG5wy2a)
+
 <hr>
 
 Fehlen Anlässe oder sind Termine falsch?
@@ -72,4 +72,4 @@ Flugplatzbeizli-->
 
 <!--### 25.04.2026 | 09:00 | Infoanlass Flugschule MFGT
 
-Flugplatz Lommis | \[Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | \[Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)-->
+Flugplatz Lommis | \\[Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | \\[Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)-->
