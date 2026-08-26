@@ -9,13 +9,13 @@ description: Hier findest Du Fotos und Berichte vergangener SPHAIR-Kurse
 
 KF 1-32-2026 [Bericht](https://drive.google.com/file/d/1dlKo83X2HufKRU8BXEApzyc4_-X93Cfr/view?usp=sharing)
 
-![](/img/uploads/sphair_kf-1-32.jpg)
+![](/img/uploads/sphair_kf-1-32_2026.jpg)
 
 ### 2025
 
 KF 1-42-2025 [Bericht](https://drive.google.com/file/d/14-iZyXtEuMnGtEn7pV41CJg6tI-7Q5Oe/view?usp=sharing) 
 
-<!-- | \\[Video](https://drive.google.com/file/d/1x9338oPsG_pHcrIsGVSfhbC0Oe-aq-ln/view?usp=sharing)-->
+<!-- | \\\[Video](https://drive.google.com/file/d/1x9338oPsG_pHcrIsGVSfhbC0Oe-aq-ln/view?usp=sharing)-->
 
 ![null](/img/uploads/sphair_kf-1-42-2025.jpg)
 
