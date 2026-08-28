@@ -69,5 +69,3 @@ Lehrfilme:
 Volten:\
 [RWY 06](https://drive.google.com/file/d/1U5hG0qut1v5mvzEROPVTHnBAZljqBTXW/view?usp=sharing) /
 [RWY24](https://drive.google.com/file/d/1LrsFFFnhVQ_we9JDUuFIoWvQDxsNf2VM/view?usp=sharing)
-
-[Taxi Procedure LSZT](https://drive.google.com/file/d/1Pt7ygMe8LV08fdrnCMXK35IT7diBDzQH/view?usp=sharing)
