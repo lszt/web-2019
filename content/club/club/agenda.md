@@ -40,6 +40,10 @@ Flugplatz Lommis | [Anmeldung](https://doodle.com/group-poll/participate/eZG5wy2
 
 <hr>
 
+### 06.-12.03.2026 | Intensivwoche Biberach
+
+Flugplatz Biberach
+
 ### 19.03.2027 | GV MFGT 2027
 
 MZH Lommis
