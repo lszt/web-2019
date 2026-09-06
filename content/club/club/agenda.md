@@ -40,6 +40,18 @@ MZH Lommis
 
 Flugplatz Lommis
 
+### 28.05. – 06.06.2027 | Fly-Away 1/2027
+
+### Expedition Afrika – Marokko
+
+[Anmeldung](https://xoyondo.com/dp/s6t8kr3p9f5htsr)
+
+### 23.09. – 26.09.2027 | Fly-Away 2/2027
+
+### Kroatien
+
+[Anmeldung](https://xoyondo.com/dp/v5bvkywtd6vrd7o)
+
 <hr>
 
 Fehlen Anlässe oder sind Termine falsch?
