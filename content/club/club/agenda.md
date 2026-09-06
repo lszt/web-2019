@@ -52,7 +52,7 @@ Kroatien | [Anmeldung](https://xoyondo.com/dp/v5bvkywtd6vrd7o)
 
 Fehlen Anlässe oder sind Termine falsch?
 
-Wir sind dankbar für deine Rückmeldung an <mailto:webmaster@mfgt.ch>
+Wir sind dankbar für deine Rückmeldung an <webmaster@mfgt.ch>
 
 <!-- <font color="red">Ausgebucht!</font> -->
 
