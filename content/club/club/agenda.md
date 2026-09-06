@@ -10,7 +10,7 @@ buttons: []
 
 Flugplatzbeizli
 
-### 05.-16.10.2026 | SPHAIR Kurs 3 (Aquila)
+### 05. - 16.10.2026 | SPHAIR Kurs 3 (Aquila)
 
 Flugplatz Lommis
 
@@ -28,7 +28,7 @@ Flugplatz Lommis | [Anmeldung](https://doodle.com/group-poll/participate/eZG5wy2
 
 <hr>
 
-### 06.-12.03.2026 | Intensivwoche Biberach
+### 06. - 12.03.2026 | Intensivwoche Biberach
 
 Flugplatz Biberach
 
@@ -40,17 +40,13 @@ MZH Lommis
 
 Flugplatz Lommis
 
-### 28.05. – 06.06.2027 | Fly-Away 1/2027
+### 28.05. - 06.06.2027 | Fly-Away 1/2027
 
-### Expedition Afrika – Marokko
+Expedition Afrika – Marokko | [Anmeldung](https://xoyondo.com/dp/s6t8kr3p9f5htsr)
 
-[Anmeldung](https://xoyondo.com/dp/s6t8kr3p9f5htsr)
+### 23.09. - 26.09.2027 | Fly-Away 2/2027
 
-### 23.09. – 26.09.2027 | Fly-Away 2/2027
-
-### Kroatien
-
-[Anmeldung](https://xoyondo.com/dp/v5bvkywtd6vrd7o)
+Kroatien | [Anmeldung](https://xoyondo.com/dp/v5bvkywtd6vrd7o)
 
 <hr>
 
