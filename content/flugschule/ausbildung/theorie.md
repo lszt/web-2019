@@ -9,6 +9,9 @@ description: >-
   rollender Kurs angeboten. Der Einstieg ist jederzeit zu Beginn eines Faches
   möglich. Alle Fächer werden mit einer BAZL-Prüfung abgeschlossen.
 buttons:
+  - title: kursprogramm 2026
+    url: >-
+      https://drive.google.com/file/d/1xN75zFs5n-9SyiIwGrqf2XlRbH8AZR5q/view?usp=sharing
   - cta: false
     title: kursprogramm 2027
     url: >-
@@ -21,9 +24,6 @@ buttons:
     title: anmelden
     url: >-
       https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform
-  - title: kursprogramm 2026
-    url: >-
-      https://drive.google.com/file/d/1xN75zFs5n-9SyiIwGrqf2XlRbH8AZR5q/view?usp=sharing
 ---
 * Theorie für PPL / TMG
 * Funkausbildung für PPL / TMG
