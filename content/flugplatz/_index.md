@@ -3,7 +3,7 @@ title: Flugplatz
 date: 2019-04-14T15:03:39.000Z
 draft: false
 coverImages:
-  - image: /img/uploads/slider_aquila.jpg
+  - image: /img/uploads/slider_etx.jpg
     positionx: 40
     positiony: 50
   - image: /img/uploads/slider_luftaufnahme.jpg
