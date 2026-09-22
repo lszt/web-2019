@@ -3,7 +3,7 @@ title: HB-SGT
 date: '2019-05-10T16:18:32+02:00'
 draft: false
 weight: '1'
-image: /img/uploads/flotte_sgt.jpg
+image: /img/uploads/bild_flotte_sgt.jpg
 description: '**Aquila A211 GX**'
 buttons:
   - blank: true
@@ -29,4 +29,4 @@ Schul- und Reiseflugzeug
 * Reisegeschwindigkeit: 120 KTS
 * MTOW: 750 kg
 
-![null](/img/uploads/flotte_cockpit_sgt-sgu.jpg)
+![null](/img/uploads/bild_cockpit_sgt.jpg)
