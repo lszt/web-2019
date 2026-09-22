@@ -3,7 +3,7 @@ title: HB-KLD
 date: '2022-10-04T17:54:56+02:00'
 draft: false
 weight: '6'
-image: /img/uploads/img_0386.jpg
+image: /img/uploads/bild_flotte_kld.jpg
 description: '> **Robin DR401 – 155CDI**'
 buttons:
   - blank: true
@@ -31,4 +31,4 @@ Reiseflugzeug
 * Reisegeschwindigkeit: 125 KTS
 * MTOW: 1100 kg
 
-![null](/img/uploads/flotte_cockpit_kld_klr.jpg)
+![null](/img/uploads/bild_cockpit_kld.jpg)
