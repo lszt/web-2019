@@ -2,7 +2,7 @@
 title: HB-KLA
 date: 2017-01-04T15:04:10.000Z
 weight: '5'
-image: /img/uploads/flotte_kla.jpg
+image: /img/uploads/bild_flotte_kla.jpg
 description: '**Robin DR401 – 155CDI**'
 buttons:
   - blank: true
@@ -29,4 +29,4 @@ Reiseflugzeug
 * Reisegeschwindigkeit: 125 KTS
 * MTOW: 1100 kg
 
-![null](/img/uploads/flotte_cockpit_kla.jpg)
+![null](/img/uploads/bild_cockpit_kla.jpg)
