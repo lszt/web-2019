@@ -3,7 +3,7 @@ title: HB-SGW
 date: '2023-08-09T13:32:15+02:00'
 draft: false
 weight: '2'
-image: /img/uploads/flotte_sgw.jpg
+image: /img/uploads/bild_flotte_sgw.jpg
 description: '**Aquila A211 GX**'
 buttons:
   - blank: true
@@ -28,4 +28,4 @@ Schul- und Reiseflugzeug
 * Reisegeschwindigkeit: 120 KTS
 * MTOW: 750 kg
 
-![null](/img/uploads/flotte_cockpit_sgt-sgu.jpg)
+![null](/img/uploads/bild_cockpit_sgw.jpg)
