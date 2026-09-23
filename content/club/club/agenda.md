@@ -28,7 +28,7 @@ Flugplatz Lommis | [Anmeldung](https://doodle.com/group-poll/participate/eZG5wy2
 
 <hr>
 
-### 06. - 12.03.2026 | Intensivwoche Biberach
+### 06. - 12.03.2027 | Intensivwoche Biberach
 
 Flugplatz Biberach
 
@@ -52,7 +52,7 @@ Kroatien | [Anmeldung](https://xoyondo.com/dp/v5bvkywtd6vrd7o)
 
 Fehlen Anlässe oder sind Termine falsch?
 
-Wir sind dankbar für deine Rückmeldung an <webmaster@mfgt.ch>
+Wir sind dankbar für deine Rückmeldung an <mailto:webmaster@mfgt.ch>
 
 <!-- <font color="red">Ausgebucht!</font> -->
 
@@ -70,8 +70,8 @@ Flugplatzbeizli-->
 
 <!--### 25.04.2026 | 09:00 | Infoanlass Flugschule MFGT
 
-Flugplatz Lommis | \\\[Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | \\\[Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)-->
+Flugplatz Lommis | \\\\[Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | \\\\[Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)-->
 
 <!-- ### 26.05.2026 | 19:00 | Weiterbildungsanlass MFGT
 
-Raum Lommis | \\\[Info's] (/club/kurse-veranstaltungen/weiterbildungskurs-mfgt/) | \\\[Anmeldung] (https://doodle.com/sign-up-sheet/participate/1461fc62-d362-4591-923f-c9511d4ff31c/select) -->
+Raum Lommis | \\\\[Info's] (/club/kurse-veranstaltungen/weiterbildungskurs-mfgt/) | \\\\[Anmeldung] (https://doodle.com/sign-up-sheet/participate/1461fc62-d362-4591-923f-c9511d4ff31c/select) -->
