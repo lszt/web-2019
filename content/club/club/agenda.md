@@ -6,10 +6,6 @@ image: /img/uploads/ausbildung_luftaufnahme.jpg
 description: Alle Daten für unsere Kurse und Veranstaltungen findest Du in unserer Agenda.
 buttons: []
 ---
-### 25.09.2026 | "Sunrise, Sunset"
-
-Flugplatzbeizli
-
 ### 05. - 16.10.2026 | SPHAIR Kurs 3 (Aquila)
 
 Flugplatz Lommis
@@ -70,8 +66,8 @@ Flugplatzbeizli-->
 
 <!--### 25.04.2026 | 09:00 | Infoanlass Flugschule MFGT
 
-Flugplatz Lommis | \\\\[Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | \\\\[Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)-->
+Flugplatz Lommis | \\\\\[Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | \\\\\[Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)-->
 
 <!-- ### 26.05.2026 | 19:00 | Weiterbildungsanlass MFGT
 
-Raum Lommis | \\\\[Info's] (/club/kurse-veranstaltungen/weiterbildungskurs-mfgt/) | \\\\[Anmeldung] (https://doodle.com/sign-up-sheet/participate/1461fc62-d362-4591-923f-c9511d4ff31c/select) -->
+Raum Lommis | \\\\\[Info's] (/club/kurse-veranstaltungen/weiterbildungskurs-mfgt/) | \\\\\[Anmeldung] (https://doodle.com/sign-up-sheet/participate/1461fc62-d362-4591-923f-c9511d4ff31c/select) -->
