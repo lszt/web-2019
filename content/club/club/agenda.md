@@ -24,9 +24,9 @@ Flugplatz Lommis | [Anmeldung](https://doodle.com/group-poll/participate/eZG5wy2
 
 <hr>
 
-### 06. - 12.03.2027 | Intensivwoche Biberach
+### 06. - 12.03.2027 | Schulungslager Biberach
 
-Flugplatz Biberach
+Flugplatz Biberach | [Info's](https://drive.google.com/file/d/1kqqfjItJ3j4bGleuN8giUi6oJV1SNfoB/view?usp=sharing)
 
 ### 19.03.2027 | GV MFGT 2027
 
