@@ -18,6 +18,8 @@ buttons:
 * Du bist zwischen 14 und 18 Jahre alt.
 * Du hast Interesse an der Aviatik.
 
+_Der YES-Tag richtet sich an Jugendliche, die noch nie in einem Kleinflugzeug geflogen sind._
+
 \
 **Programm**
 
@@ -57,7 +59,7 @@ Die nächsten YES-Tage finden am 26. und 27. Juni 2027 statt.
 
 Anmeldeschluss ist der 24. Mai 2027
 
-via Mail an: <info@mfgt.ch> \
+via Mail an: <mailto:info@mfgt.ch> \
 oder per Telefon an: +41 52 366 33 33
 
 Damit möglichst viele Jugendliche die Chance erhalten, am Flugtag mitzufliegen, ist die Anmeldung
