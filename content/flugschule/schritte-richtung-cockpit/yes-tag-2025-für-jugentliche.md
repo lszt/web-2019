@@ -1,9 +1,9 @@
 ---
-title: YES-Tag 2026 für Jugendliche
+title: YES-Tag 2027 für Jugendliche
 date: '2024-10-19T12:20:58+02:00'
 draft: false
 weight: '1'
-image: /img/uploads/yes-tag_2025_planung.jpg
+image: /img/uploads/yes-tag_2025.jpg
 description: >-
   Aviatikluft schnuppern und das Steuer in die Hand nehmen!\
 
@@ -15,7 +15,7 @@ buttons:
 ---
 **Voraussetzung**
 
-* Du bist zwischen 12 und 18 Jahre alt.
+* Du bist zwischen 14 und 18 Jahre alt.
 * Du hast Interesse an der Aviatik.
 
 \
@@ -53,22 +53,18 @@ Dagmar Hollerer (Fluglehrerin), Florian Burkhardt (Fluglehrer), Corinna Brüllma
 \
 **Anmeldung**
 
-<!--Die nächsten YES-Tage finden am 27. und 28. Juni 2026 statt.
+Die nächsten YES-Tage finden am 26. und 27. Juni 2027 statt.
 
-Weiter Informationen folgen.--> 
+Anmeldeschluss ist der 24. Mai 2027
 
-<!-- Anmeldeschluss ist der 24. Mai 2026
-
-[www.mfgt.ch] (https://www.mfgt.ch/) \
 via Mail an: <mailto:info@mfgt.ch> \
-oder per Telefon an: +41 52 366 33 33-->
+oder per Telefon an: +41 52 366 33 33
 
 <!--<font color="red">Leider bereits ausgebucht!</font>-->
 
-Termine 2027 in Planung
+<!-- Termine 2027 in Planung -->
 
-<!--\
-[Hier Flyer downloaden](https://drive.google.com/file/d/18I8WJyTEtRCbv1vLFHdCozbkwHeabLhJ/view?usp=sharingg)-->
+[Hier Flyer downloaden](https://drive.google.com/file/d/1ZAZSq9NEegtRcDHZZFocvhT_qhmWXALq/view?usp=sharing)
 
 \
 **Bericht vom YES-Tag 2025**
