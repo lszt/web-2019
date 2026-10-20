@@ -57,8 +57,13 @@ Die nächsten YES-Tage finden am 26. und 27. Juni 2027 statt.
 
 Anmeldeschluss ist der 24. Mai 2027
 
-via Mail an: <mailto:info@mfgt.ch> \
+via Mail an: <info@mfgt.ch> \
 oder per Telefon an: +41 52 366 33 33
+
+Damit möglichst viele Jugendliche die Chance erhalten, am Flugtag mitzufliegen, ist die Anmeldung
+verbindlich. Bei Verhinderung bitten wir um eine Abmeldung spätestens 24 Stunden im Voraus. Bei
+unentschuldigtem Nichterscheinen behalten wir uns vor, einen Unkostenbeitrag von CHF 100.– zu
+verrechnen.
 
 <!--<font color="red">Leider bereits ausgebucht!</font>-->
 
