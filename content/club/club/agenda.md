@@ -40,6 +40,14 @@ Flugplatz Lommis
 
 Expedition Afrika – Marokko | [Anmeldung](https://xoyondo.com/dp/s6t8kr3p9f5htsr)
 
+### 26.06.2027 | Yes-Tag 2027
+
+Flugplatz Lommis | [Info's](https://drive.google.com/file/d/1ZAZSq9NEegtRcDHZZFocvhT_qhmWXALq/view?usp=sharing)
+
+### 27.06.2027 | Yes-Tag 2027
+
+Flugplatz Lommis | [Info's](https://drive.google.com/file/d/1ZAZSq9NEegtRcDHZZFocvhT_qhmWXALq/view?usp=sharing)
+
 ### 23.09. - 26.09.2027 | Fly-Away 2/2027
 
 Kroatien | [Anmeldung](https://xoyondo.com/dp/v5bvkywtd6vrd7o)
