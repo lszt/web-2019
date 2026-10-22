@@ -8,6 +8,7 @@ description: >-
   Hier findest du eine Übersicht über kürzlich geänderte und hinzugefügte
   Dokumente.
 ---
+* 22.10.2026 | .../.../30-10-10 Pre-Flight/Hilfsmittel | [Aircraft Equipment Assessment Guide](https://drive.google.com/file/d/1ak8RQs5Bht7Dul3rXElyROK8ayqZre4E/view?usp=sharing) | hinzugefügt
 * 10.07.2026 | 40 Flugbetrieb/Flugzeuge | [HB-ETX](https://drive.google.com/drive/folders/1TBd9LH7wNgC6k0lRz3ligM1gumAeo63J) | hinzugefügt
 * 10.07.2026 | .../.../30-10-10 Pre-Flight/Mass & Balance | [M&B and Performance BR23](https://drive.google.com/file/d/1nHu3liCDNJN7mHUJ3cfOSaT96ZQ4cY3H/view?usp=sharing) | aktualisiert
 * 28.05.2026 | 40 Flugbetrieb/Charter | [Daten Flugzeuge MFGT](https://drive.google.com/file/d/1PnU3GY3SJINumkbtCCxjL7tGUtsnq6BF/view?usp=sharing) | aktualisiert
