@@ -28,7 +28,7 @@ Flugplatz Biberach | [Info's](https://drive.google.com/file/d/1kqqfjItJ3j4bGleuN
 
 MZH Lommis
 
-### 20.03.2026 | Flugplatzputzete
+### 20.03.2027 | Flugplatzputzete
 
 Flugplatz Lommis
 
@@ -66,8 +66,8 @@ Flugplatzbeizli-->
 
 <!--### 25.04.2026 | 09:00 | Infoanlass Flugschule MFGT
 
-Flugplatz Lommis | \\\\\[Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | \\\\\[Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)-->
+Flugplatz Lommis | \\\\\\[Info's](/flugschule/schritte-richtung-cockpit/infoabend/) | \\\\\\[Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSd3JpxXrOxj7fl_Zm0az8h-jQsAsB1TOEE2-HsOPYoi29qRUw/viewform)-->
 
 <!-- ### 26.05.2026 | 19:00 | Weiterbildungsanlass MFGT
 
-Raum Lommis | \\\\\[Info's] (/club/kurse-veranstaltungen/weiterbildungskurs-mfgt/) | \\\\\[Anmeldung] (https://doodle.com/sign-up-sheet/participate/1461fc62-d362-4591-923f-c9511d4ff31c/select) -->
+Raum Lommis | \\\\\\[Info's] (/club/kurse-veranstaltungen/weiterbildungskurs-mfgt/) | \\\\\\[Anmeldung] (https://doodle.com/sign-up-sheet/participate/1461fc62-d362-4591-923f-c9511d4ff31c/select) -->
