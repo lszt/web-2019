@@ -74,8 +74,10 @@ verrechnen.
 [Hier Flyer downloaden](https://drive.google.com/file/d/1ZAZSq9NEegtRcDHZZFocvhT_qhmWXALq/view?usp=sharing)
 
 \
-**Bericht vom YES-Tag 2025**
+**Berichte und Bilder vergangener YES-Tage**
 
-[Bericht](https://drive.google.com/file/d/1CwAQYVlx3uo1Jb6vNLtSxW7ETsCRp2d9/view?usp=sharing)
+[Bericht 2026](https://drive.google.com/file/d/1WLBIODRK2gy3xpk2aGKERRFovirj71eR/view?usp=sharing)
 
-[Bilder](https://drive.google.com/drive/folders/1ZwDDVQp76OwdGH-rPbDzZ7GA9dqgJ2E5?usp=sharing)
+[Bericht 2025](https://drive.google.com/file/d/1CwAQYVlx3uo1Jb6vNLtSxW7ETsCRp2d9/view?usp=sharing)
+
+[Bilder 2025](https://drive.google.com/drive/folders/1ZwDDVQp76OwdGH-rPbDzZ7GA9dqgJ2E5?usp=sharing)
