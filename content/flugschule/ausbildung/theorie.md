@@ -15,7 +15,7 @@ buttons:
   - cta: false
     title: kursprogramm 2027
     url: >-
-      https://drive.google.com/file/d/1wvko4UAXoYRcc5fzrc6iQK8_R2gjGiRd/view?usp=sharing
+      https://drive.google.com/file/d/18bpBqpO9rr2bOYwxEKgCVlAT7DxhT9Fm/view?usp=sharing
   - cta: false
     title: unterrichtsmaterial/kosten
     url: >-
@@ -50,7 +50,7 @@ Du kannst dir das theoretische Wissen auch online erwerben. Du wirst von Spezial
 
 Angehende Helikopter- oder Ballonpiloten wenden sich bei Interesse bitte an das Sekretariat der MFGT unter <sekretariat@mfgt.ch>.
 
-Weitere Details sowie Kosten siehe [AGB](https://drive.google.com/file/d/1iF-XZ-CfMZVE1tXJXf4WRGbm4CRAZv92/view?usp=sharing), [Kursprogramm 2026](https://drive.google.com/file/d/1xN75zFs5n-9SyiIwGrqf2XlRbH8AZR5q/view?usp=sharing), [Kursprogramm 2027](https://drive.google.com/file/d/1wvko4UAXoYRcc5fzrc6iQK8_R2gjGiRd/view?usp=sharing) und [Unterrichtsmaterial (Kosten)](https://drive.google.com/file/d/1C4CwHOsDMwz8x7EwVhps9fiJlVAh9A6D/view?usp=sharing).
+Weitere Details sowie Kosten siehe [AGB](https://drive.google.com/file/d/1iF-XZ-CfMZVE1tXJXf4WRGbm4CRAZv92/view?usp=sharing), [Kursprogramm 2026](https://drive.google.com/file/d/1xN75zFs5n-9SyiIwGrqf2XlRbH8AZR5q/view?usp=sharing), [Kursprogramm 2027](https://drive.google.com/file/d/18bpBqpO9rr2bOYwxEKgCVlAT7DxhT9Fm/view?usp=sharing) und [Unterrichtsmaterial (Kosten)](https://drive.google.com/file/d/1C4CwHOsDMwz8x7EwVhps9fiJlVAh9A6D/view?usp=sharing).
 
 [Richtlinien des BAZL für die Theorieprüfung](https://drive.google.com/file/d/1DBXhjkG0RpJVqXFAOQV2O2dlgqf2GFPN/view?usp=share_link)
 
