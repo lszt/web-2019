@@ -11,7 +11,7 @@ description: >-
 buttons:
   - title: kursprogramm
     url: >-
-      https://drive.google.com/file/d/1SJ4whlMiod6a2NjY8dkaT3JBKYDAVtho/view?usp=sharing
+      https://drive.google.com/file/d/1XjFhQD4b2DuPmTKhykS61tcTIo0EhbZY/view?usp=sharing
   - cta: true
     title: anmelden
     url: >-
@@ -23,7 +23,7 @@ Der Besuch der ersten beiden Kursdaten ist obligatorisch (im Kursprogramm lila d
 
 Bei mehr als 5 Teilnehmern finden die Praxisblöcke jeweils in zwei Gruppen am gleichen Tag zu unterschiedlichen Zeiten statt (im Kursprogramm rot und rosa dargestellt). Die Gruppeneinteilung wird am ersten Kurstag festgelegt.
 
-[Kursprogramm](https://drive.google.com/file/d/1SJ4whlMiod6a2NjY8dkaT3JBKYDAVtho/view?usp=sharing)
+[Kursprogramm](https://drive.google.com/file/d/1XjFhQD4b2DuPmTKhykS61tcTIo0EhbZY/view?usp=sharing)
 
 **Informationen**
 
